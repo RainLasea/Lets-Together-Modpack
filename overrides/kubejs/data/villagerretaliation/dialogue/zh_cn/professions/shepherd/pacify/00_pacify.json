@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "tags": [
+      "content.dialogue",
+      "dialogue.ambient",
+      "scope.profession.shepherd",
+      "section.pacify"
+    ],
+    "topic": "professions.shepherd.pacify"
+  },
+  "pacify": [
+    {
+      "id": "shepherd_pacify_success",
+      "lines": [
+        "美好的。我现在先把羊毛弄平。",
+        "美好的。我会在它变得更重之前把它放下。",
+        "美好的。我可以退一步，但不要让我后悔。",
+        "好的。我们可以在这里结束这一切。",
+        "我接受付款。保持距离一段时间。",
+        "这样就解决了你所欠的钱。它不会让我们成为朋友。",
+        "我将称此为结束并返回我的工作。",
+        "今天我们就够了。",
+        "把你的手从武器上拿开，我们就完成了。",
+        "我不想再为此争吵。",
+        "绿宝石 弥补了损失。让我们把它留在那里。",
+        "我现在可以让我的愤怒冷却下来了。",
+        "我们有一个协议。坚持下去。",
+        "只要你不再惹出麻烦，事情就解决了。",
+        "那么，继续吧。我有一群人需要平静。",
+        "我会告诉其他人你已经支付了所要求的费用。",
+        "不再有威胁。没有更多的伤害。事情就是这样。",
+        "我愿意把这件事抛在脑后。",
+        "我们可以共享同一个村庄而不需要互相测试。",
+        "我已经付款了。平静地走开。"
+      ],
+      "outcomes": [
+        "success"
+      ],
+      "weight": 26
+    },
+    {
+      "id": "shepherd_pacify_short",
+      "lines": [
+        "这并不能掩盖眼泪。带上 {emerald_cost} {emeralds}。",
+        "这还不足以完全修复。带上 {emerald_cost} {emeralds}。",
+        "不够。如果您想要和平，请带上 {emerald_cost} {emeralds} 并认真对待。",
+        "再数一下。我要的是 {emerald_cost} {emeralds}。",
+        "你还矮。金额为 {emerald_cost} {emeralds}。",
+        "我不能接受低于 {emerald_cost} {emeralds} 的。",
+        "损坏的羊毛的成本还不止于此。带上 {emerald_cost} {emeralds}。",
+        "暂时保留这些，然后带着 {emerald_cost} {emeralds} 返回。",
+        "我们同意{emerald_cost} {emeralds}，而不是你手里的任何东西。",
+        "这并不能取代失去的东西。我需要 {emerald_cost} {emeralds}。",
+        "你还没有达到这个价格。它是 {emerald_cost} {emeralds}。",
+        "我不会在这个问题上讨价还价。带上 {emerald_cost} {emeralds}。",
+        "全额付款为 {emerald_cost} {emeralds}。当你拥有它的时候就回来吧。",
+        "你们很接近，但接近并不能弥补伤害。我需要 {emerald_cost} {emeralds}。",
+        "不需要。结算需要 {emerald_cost} {emeralds}。",
+        "我仔细数了一下。您欠 {emerald_cost} {emeralds}。",
+        "将剩余金额放入 {emerald_cost} {emeralds} 中。",
+        "这堆太小了。价格保持{emerald_cost} {emeralds}。",
+        "等你带上{emerald_cost} {emeralds}我就解决了。",
+        "在完整的 {emerald_cost} {emeralds} 出现之前，一切都不会发生变化。"
+      ],
+      "outcomes": [
+        "not_enough_emeralds"
+      ],
+      "weight": 26
+    },
+    {
+      "id": "shepherd_pacify_blocked",
+      "lines": [
+        "不，当你走近时，羊群仍然会受到惊吓。",
+        "不可以。有些损坏必须冷却后才能付款。",
+        "不，保留 {payment_items}。信任还没有准备好进行交易。",
+        "我今天不会收你的钱。",
+        "把 {payment_items} 收起来。这还不能被收买。",
+        "你在这里，村子里感觉不安全。",
+        "你为绿宝石做了太多的事，无法解决这个问题。",
+        "我不相信付款背后的承诺。",
+        "现在就离开，给大家时间。",
+        "没有讨价还价。不是在发生那件事之后。",
+        "羊群认得你的脚步，纷纷靠在远处的栏杆上。",
+        "你不能付钱让我忘记我所看到的。",
+        "保留你的报价。我需要改变行为，而不是物品。",
+        "我还没准备好如此近距离地站着谈判。",
+        "其他人都叫我不要来对付你。",
+        "现在这是为了安全，而不是取代羊毛。",
+        "与村庄讲和之后再回来。",
+        "我不会为恐惧定价。",
+        "当威胁持续存在时，你的付款毫无意义。",
+        "不，今天我们之间不会达成和解。"
+      ],
+      "outcomes": [
+        "blocked_by_reputation"
+      ],
+      "weight": 26
+    }
+  ]
+}

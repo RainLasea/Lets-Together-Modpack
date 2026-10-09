@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "fountain_offering": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "fountain_offering"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

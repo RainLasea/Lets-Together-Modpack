@@ -1,0 +1,106 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.cartographers_atlas.ink_in_the_dark_roof.description": {
+      "lines": [
+        "沿着黑暗的屋顶地平线来到林地宅邸，并带着被盗的记录回来。"
+      ]
+    },
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.return.dialogue.turn_in.label": "关于黑暗屋顶路",
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.return.dialogue.turn_in.lines": [
+      "黑暗的屋顶在你身上留下了墨水。让我看看你做了什么。"
+    ],
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.return.dialogue.turn_in.response.complete.label": "交出宅邸记录",
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.return.dialogue.turn_in.response.leave.label": "还没有",
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "黑暗的屋顶道路已被绘制出来。地图集现在知道，有些房屋是假装是目的地的警告。"
+    ],
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "黑暗的屋顶页面仍然需要它的豪宅、巡逻计数和记录。"
+    ],
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "在我相信黑暗屋顶标记之前，请带上豪宅证据。"
+    ],
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "这些书需要背后有一座豪宅。"
+    ],
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "在我关闭页面之前，黑暗的屋顶道路仍然需要它的证据。"
+    ],
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.return.scene.leave.lines": [
+      "保持记录关闭，直到我们可以安全地读取它们。"
+    ],
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.return.ui.tracker_text": "带着宅邸记录返回制图师。",
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.dialogue.offer.label": "黑暗屋顶路",
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.dialogue.offer.lines": [
+      "你选择了黑色的屋顶，所以地图集正在监听老麻烦所在的木材。",
+      "一座林地宅邸正在将墨水从页面边缘拖走。绘制图表，中断巡逻，并从更好的人手中夺回他们保留的书籍。"
+    ],
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.dialogue.offer.response.accept.label": "绘制黑暗屋顶的图表",
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.dialogue.offer.response.decline.label": "另一次",
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.dialogue.reminder.label": "关于黑暗屋顶路",
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.dialogue.reminder.lines": [
+      "黑暗的屋顶道路仍然需要豪宅的轴承、灾厄证明和被盗的记录。"
+    ],
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.dialogue.reminder.response.abandon.label": "放弃任务",
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.dialogue.reminder.response.details.label": "提醒我在哪里",
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.dialogue.reminder.response.leave.label": "算了",
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.objective.bring_books.tracker.complete_text": "黑暗屋顶记录已准备就绪。",
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.objective.bring_books.tracker.text": "从宅邸书架上拿 12 本书。",
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.objective.carry_totem.tracker.complete_text": "图腾证明已经准备好了。",
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.objective.carry_totem.tracker.text": "携带 1 个不死图腾作为黑暗屋顶道路的证据。",
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.objective.defeat_illagers.tracker.complete_text": "黑暗屋顶巡逻被记录下来。",
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.objective.defeat_illagers.tracker.text": "在黑暗屋顶道路上击败 4 名宅邸灾厄村民。",
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.objective.visit_mansion.tracker.complete_text": "黑暗屋顶的道路已经绘制好了。",
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.objective.visit_mansion.tracker.text": "到达 {target_x}、{target_z} 附近的林地宅邸。",
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.scene.abandon_confirm.lines": [
+      "让暗屋顶路暂时关闭吗？"
+    ],
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.scene.abandon_confirm.response.cancel.label": "继续绘制图表",
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.scene.abandon_confirm.response.confirm.label": "放弃任务",
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "我现在将关闭黑暗的屋顶页面。"
+    ],
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.scene.abandon_quest.action.abandon.lines.abandoned_cooldown": [
+      "我将关闭黑暗的屋顶页面一天。让墨水停止注视我们。"
+    ],
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "目前没有处于活动状态的暗顶 路线。"
+    ],
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.scene.decline.lines": [
+      "合理的。有些屋顶颜色较深是有充分理由的。"
+    ],
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.scene.leave.lines": [
+      "不要相信安静的走廊。"
+    ],
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.scene.reminder_details.action.remind.lines.reminder": [
+      "林地府邸 靠近 {target_x}、{target_z}、{distance} 左右区块 {direction}。绘制图表，击败 4 个维护者或召唤者，并带来 12 本书。"
+    ],
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.scene.reminder_details.action.remind.lines.unavailable": [
+      "我现在没有为您打开黑暗屋顶页面。"
+    ],
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.scene.start_quest.action.start.lines.already_completed": [
+      "黑暗屋顶的道路已经绘制好了。"
+    ],
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.scene.start_quest.action.start.lines.locate_failed": [
+      "今日府邸隐藏得太好了。我宁愿等待，也不愿让你去追一个不好的分数。"
+    ],
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.scene.start_quest.action.start.lines.started": [
+      "豪宅标记在{target_x}、{target_z}附近，大约{distance}块{direction}。绘制图表，中断巡逻，并带上书籍。"
+    ],
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.scene.start_quest.action.start.lines.unavailable": [
+      "在这个 路线 打开之前，地图集必须选择黑暗的屋顶地平线。"
+    ],
+    "quest.cartographers_atlas.ink_in_the_dark_roof.stage.survey.ui.tracker_text": "到达 {target_x}、{target_z} 附近的林地宅邸。",
+    "quest.cartographers_atlas.ink_in_the_dark_roof.title": {
+      "lines": [
+        "暗林里的墨迹"
+      ]
+    },
+    "quest.cartographers_atlas.ink_in_the_dark_roof.tracker.title": {
+      "lines": [
+        "暗林里的墨迹"
+      ]
+    }
+  }
+}

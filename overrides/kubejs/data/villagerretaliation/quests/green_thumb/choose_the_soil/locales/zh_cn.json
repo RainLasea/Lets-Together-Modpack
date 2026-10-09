@@ -1,0 +1,137 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.green_thumb.choose_the_soil.description": "选择新田是否依赖运河或堆肥。",
+    "quest.green_thumb.choose_the_soil.stage.canal_return.dialogue.turn_in.label": "关于选择土地",
+    "quest.green_thumb.choose_the_soil.stage.canal_return.dialogue.turn_in.lines": [
+      "运河边缘保持不变。水可以到达每一行，而不需要带走路径。",
+      "第一个通道已打开。从这里开始，田野顺着水流而行。"
+    ],
+    "quest.green_thumb.choose_the_soil.stage.canal_return.dialogue.turn_in.response.complete.label": "完成这个路线。",
+    "quest.green_thumb.choose_the_soil.stage.canal_return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.green_thumb.choose_the_soil.stage.canal_return.scene.complete_route.action.turn_in.lines.completed": [
+      "第一个通道已打开。从这里开始，田野顺着水流而行。",
+      "运河边缘保持不变。水可以到达每一行，而不需要带走路径。"
+    ],
+    "quest.green_thumb.choose_the_soil.stage.canal_return.scene.complete_route.action.turn_in.lines.missing_objectives": [
+      "为运河铺设十二块石砖，然后将水桶带回田间。"
+    ],
+    "quest.green_thumb.choose_the_soil.stage.canal_return.scene.complete_route.action.turn_in.lines.missing_proof": [
+      "在我们关闭地图之前，将 路线 证据带到这里。"
+    ],
+    "quest.green_thumb.choose_the_soil.stage.canal_return.scene.complete_route.action.turn_in.lines.unavailable": [
+      "路线 现在无法关闭。"
+    ],
+    "quest.green_thumb.choose_the_soil.stage.canal_return.scene.leave.lines": [
+      "路线 保持打开状态，直到您准备好为止。"
+    ],
+    "quest.green_thumb.choose_the_soil.stage.canal_return.ui.tracker_text": "返回任务给予者。",
+    "quest.green_thumb.choose_the_soil.stage.canal_work.dialogue.reminder.label": "关于选择土地",
+    "quest.green_thumb.choose_the_soil.stage.canal_work.dialogue.reminder.lines": [
+      "为运河铺设十二块石砖，然后将水桶带回田间。",
+      "那么，运河。让水流干净的石头边缘，没有地方徘徊。"
+    ],
+    "quest.green_thumb.choose_the_soil.stage.canal_work.dialogue.reminder.response.details.label": "重复 路线。",
+    "quest.green_thumb.choose_the_soil.stage.canal_work.dialogue.reminder.response.leave.label": "我有。",
+    "quest.green_thumb.choose_the_soil.stage.canal_work.objective.carry_water.tracker.complete_text": "水桶准备好了。",
+    "quest.green_thumb.choose_the_soil.stage.canal_work.objective.carry_water.tracker.text": "携带水桶来注满运河。",
+    "quest.green_thumb.choose_the_soil.stage.canal_work.objective.lay_canal.tracker.complete_text": "运河墙已铺设。",
+    "quest.green_thumb.choose_the_soil.stage.canal_work.objective.lay_canal.tracker.text": "放置 12 块石砖作为运河墙。",
+    "quest.green_thumb.choose_the_soil.stage.canal_work.scene.leave.lines": [
+      "保留您选择的 路线。"
+    ],
+    "quest.green_thumb.choose_the_soil.stage.canal_work.scene.reminder_details.action.remind.lines.reminder": [
+      "为运河铺设十二块石砖，然后将水桶带回田间。",
+      "那么，运河。让水流干净的石头边缘，没有地方徘徊。"
+    ],
+    "quest.green_thumb.choose_the_soil.stage.canal_work.scene.reminder_details.action.remind.lines.unavailable": [
+      "路线 目前未处于活动状态。"
+    ],
+    "quest.green_thumb.choose_the_soil.stage.canal_work.ui.tracker_text": "为运河铺设十二块石砖，然后将水桶带回田间。",
+    "quest.green_thumb.choose_the_soil.stage.choose.dialogue.offer.label": "选择土地",
+    "quest.green_thumb.choose_the_soil.stage.choose.dialogue.offer.lines": [
+      "该田地可以遵循一项永久计划：运河工程返还灌溉硬件，而堆肥工程返还恢复性食物。",
+      "运河物质丰富但稳定。堆肥是可再生的，但需要更多的重复劳动。此选择结束了其他实地计划。"
+    ],
+    "quest.green_thumb.choose_the_soil.stage.choose.dialogue.offer.response.canal.action.notification.text": "您为新领域选择了运河。",
+    "quest.green_thumb.choose_the_soil.stage.choose.dialogue.offer.response.canal.label": "修建运河",
+    "quest.green_thumb.choose_the_soil.stage.choose.dialogue.offer.response.canal.text": "那么，运河。让水流干净的石头边缘，没有地方徘徊。",
+    "quest.green_thumb.choose_the_soil.stage.choose.dialogue.offer.response.compost.action.notification.text": "您为新田地选择了堆肥。",
+    "quest.green_thumb.choose_the_soil.stage.choose.dialogue.offer.response.compost.label": "给土壤喂食",
+    "quest.green_thumb.choose_the_soil.stage.choose.dialogue.offer.response.compost.text": "那么堆肥。在向它提出任何要求之前，我们先要让这个领域变得丰富。",
+    "quest.green_thumb.choose_the_soil.stage.choose.dialogue.offer.response.decline.label": "还没有。",
+    "quest.green_thumb.choose_the_soil.stage.choose.dialogue.reminder.label": "关于选择土地",
+    "quest.green_thumb.choose_the_soil.stage.choose.dialogue.reminder.lines": [
+      "该田地可以遵循一项永久计划：运河工程返还灌溉硬件，而堆肥工程返还恢复性食物。",
+      "运河物质丰富但稳定。堆肥是可再生的，但需要更多的重复劳动。此选择结束了其他实地计划。"
+    ],
+    "quest.green_thumb.choose_the_soil.stage.choose.dialogue.reminder.response.canal.action.notification.text": "您为新领域选择了运河。",
+    "quest.green_thumb.choose_the_soil.stage.choose.dialogue.reminder.response.canal.label": "修建运河",
+    "quest.green_thumb.choose_the_soil.stage.choose.dialogue.reminder.response.canal.text": "那么，运河。让水流干净的石头边缘，没有地方徘徊。",
+    "quest.green_thumb.choose_the_soil.stage.choose.dialogue.reminder.response.compost.action.notification.text": "您为新田地选择了堆肥。",
+    "quest.green_thumb.choose_the_soil.stage.choose.dialogue.reminder.response.compost.label": "给土壤喂食",
+    "quest.green_thumb.choose_the_soil.stage.choose.dialogue.reminder.response.compost.text": "那么堆肥。在向它提出任何要求之前，我们先要让这个领域变得丰富。",
+    "quest.green_thumb.choose_the_soil.stage.choose.dialogue.reminder.response.decline.label": "还没有。",
+    "quest.green_thumb.choose_the_soil.stage.choose.dialogue.reminder.response.details.label": "重复选择。",
+    "quest.green_thumb.choose_the_soil.stage.choose.objective.choose_route.tracker.complete_text": "路线 选择：{objective_choice_value}。",
+    "quest.green_thumb.choose_the_soil.stage.choose.objective.choose_route.tracker.text": "选择带有 任务 给予器的 路线。",
+    "quest.green_thumb.choose_the_soil.stage.choose.scene.decline.lines": [
+      "那么土壤就一直未定，未定的土壤上长的大多是杂草。"
+    ],
+    "quest.green_thumb.choose_the_soil.stage.choose.scene.reminder_details.action.remind.lines.reminder": [
+      "该田地可以遵循一项永久计划：运河工程返还灌溉硬件，而堆肥工程返还恢复性食物。",
+      "运河物质丰富但稳定。堆肥是可再生的，但需要更多的重复劳动。此选择结束了其他实地计划。"
+    ],
+    "quest.green_thumb.choose_the_soil.stage.choose.scene.reminder_details.action.remind.lines.unavailable": [
+      "该选择目前尚未开放。"
+    ],
+    "quest.green_thumb.choose_the_soil.stage.choose.ui.tracker_text": "选择 路线。",
+    "quest.green_thumb.choose_the_soil.stage.compost_return.dialogue.turn_in.label": "关于选择土地",
+    "quest.green_thumb.choose_the_soil.stage.compost_return.dialogue.turn_in.lines": [
+      "土壤呈深色、松散且准备就绪。闻起来很难闻，这令人鼓舞。",
+      "第一张床已喂饱。从这里开始，田地遵循堆肥。"
+    ],
+    "quest.green_thumb.choose_the_soil.stage.compost_return.dialogue.turn_in.response.complete.label": "完成这个路线。",
+    "quest.green_thumb.choose_the_soil.stage.compost_return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.green_thumb.choose_the_soil.stage.compost_return.scene.complete_route.action.turn_in.lines.completed": [
+      "第一张床已喂饱。从这里开始，田地遵循堆肥。",
+      "土壤呈深色、松散且准备就绪。闻起来很难闻，这令人鼓舞。"
+    ],
+    "quest.green_thumb.choose_the_soil.stage.compost_return.scene.complete_route.action.turn_in.lines.missing_objectives": [
+      "堆肥机工作五次，并为第一排带来十六块骨粉。"
+    ],
+    "quest.green_thumb.choose_the_soil.stage.compost_return.scene.complete_route.action.turn_in.lines.missing_proof": [
+      "在我们关闭地图之前，将 路线 证据带到这里。"
+    ],
+    "quest.green_thumb.choose_the_soil.stage.compost_return.scene.complete_route.action.turn_in.lines.unavailable": [
+      "路线 现在无法关闭。"
+    ],
+    "quest.green_thumb.choose_the_soil.stage.compost_return.scene.leave.lines": [
+      "路线 保持打开状态，直到您准备好为止。"
+    ],
+    "quest.green_thumb.choose_the_soil.stage.compost_return.ui.tracker_text": "返回任务给予者。",
+    "quest.green_thumb.choose_the_soil.stage.compost_work.dialogue.reminder.label": "关于选择土地",
+    "quest.green_thumb.choose_the_soil.stage.compost_work.dialogue.reminder.lines": [
+      "堆肥机工作五次，并为第一排带来十六块骨粉。",
+      "那么堆肥。在向它提出任何要求之前，我们先要让这个领域变得丰富。"
+    ],
+    "quest.green_thumb.choose_the_soil.stage.compost_work.dialogue.reminder.response.details.label": "重复 路线。",
+    "quest.green_thumb.choose_the_soil.stage.compost_work.dialogue.reminder.response.leave.label": "我有。",
+    "quest.green_thumb.choose_the_soil.stage.compost_work.objective.bring_bone_meal.tracker.complete_text": "骨粉就做好了。",
+    "quest.green_thumb.choose_the_soil.stage.compost_work.objective.bring_bone_meal.tracker.text": "为第一排带 16 个骨粉。",
+    "quest.green_thumb.choose_the_soil.stage.compost_work.objective.work_composter.tracker.complete_text": "堆肥已经完成。",
+    "quest.green_thumb.choose_the_soil.stage.compost_work.objective.work_composter.tracker.text": "使用堆肥机工作 5 次。",
+    "quest.green_thumb.choose_the_soil.stage.compost_work.scene.leave.lines": [
+      "保留您选择的 路线。"
+    ],
+    "quest.green_thumb.choose_the_soil.stage.compost_work.scene.reminder_details.action.remind.lines.reminder": [
+      "堆肥机工作五次，并为第一排带来十六块骨粉。",
+      "那么堆肥。在向它提出任何要求之前，我们先要让这个领域变得丰富。"
+    ],
+    "quest.green_thumb.choose_the_soil.stage.compost_work.scene.reminder_details.action.remind.lines.unavailable": [
+      "路线 目前未处于活动状态。"
+    ],
+    "quest.green_thumb.choose_the_soil.stage.compost_work.ui.tracker_text": "堆肥机工作五次，并为第一排带来十六块骨粉。",
+    "quest.green_thumb.choose_the_soil.title": "选择土地"
+  }
+}

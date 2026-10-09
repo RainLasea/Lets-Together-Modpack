@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:soul_torch"
+    },
+    "title": {
+      "translate": "advancements.letstogether.realms.lantern.title",
+      "fallback": "A Bright Little Friend"
+    },
+    "description": {
+      "translate": "advancements.letstogether.realms.lantern.description",
+      "fallback": "Gain a Lantern's trust with a soul torch."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "befriend_lantern": {
+      "trigger": "the_beyond:befriend_lantern"
+    }
+  },
+  "requirements": [
+    [
+      "befriend_lantern"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:realms/end"
+}

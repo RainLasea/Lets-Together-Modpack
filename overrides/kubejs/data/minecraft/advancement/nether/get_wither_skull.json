@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "wither_skull": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "wither_skull"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

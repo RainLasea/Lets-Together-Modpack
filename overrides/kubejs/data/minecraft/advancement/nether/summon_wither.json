@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "summoned": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "summoned"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "cooking_pot": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "cooking_pot"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

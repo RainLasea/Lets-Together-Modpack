@@ -1,0 +1,360 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.village_supply.berry_picking.description": {
+      "lines": [
+        "带上甜浆果作为快餐和旅行袋。"
+      ]
+    },
+    "quest.village_supply.berry_picking.dialogue.already_completed": {
+      "lines": [
+        "我记得你第一次回来。我们已经解决了采摘浆果的问题。",
+        "我问的你都说完了。旅行食品储藏室里有你带来的甜浆果。",
+        "你早期的作品仍然有效。我数了你的 16 个甜浆果。我们是方的。",
+        "我记得你第一次回来。收集者已经开始送货。",
+        "我记得你第一次回来。您解决了旅行袋空的问题。",
+        "没有人需要这样做两次。没有理由再收集一车甜浆果。",
+        "我记得你第一次回来。采摘浆果从甜浆果工作清单中划掉了。",
+        "这件事我们已经解决了。您帮助我们打包快餐的工作已经完成。",
+        "这件事我们已经解决了。最后一批甜浆果仍在为村庄服务。",
+        "我不会重新打开已完成的帐户。我记得谁填写了甜浆果订单，那就是你。",
+        "我问的你都说完了。当甜浆果送来时，奖励就支付了。",
+        "我问的你都说完了。第一次你就做得够多了。我将保留在采摘浆果下归档的旧条目。",
+        "保留旧的计数。因为您回答了采摘浆果，所以我们可以为旅行者提供一些易于携带的东西。",
+        "我记得你第一次回来。完整的甜浆果数量到达了旅行食品储藏室。什么都没有丢失。",
+        "事情结束得还算顺利。如果我问你两次，采集者就会反对。",
+        "事情结束得还算顺利。您的甜浆果交付已通过检验并投入使用。",
+        "所欠的已经还清了。旅行食品储藏室里的那个空位属于昨天。",
+        "没有人需要这样做两次。记录显示您收到了 16 个甜浆果。",
+        "这里没有第二次付款。你做了安静的甜浆果工作，让每个人都继续前进。",
+        "从此一无所获。第一个结局对于采摘浆果来说已经足够好了。"
+      ]
+    },
+    "quest.village_supply.berry_picking.dialogue.inactive": {
+      "lines": [
+        "我们还不需要它。目前，浆果篮尚未被清点。",
+        "还没有开始的理由。今天没有甜浆果的开放订单。",
+        "今天没有什么需要做这项工作。在我要求更多之前，旅行食品储藏室正在清点。",
+        "现在，就让这件事平息吧。收集者尚未发布新的请求。",
+        "村里可以等这一件事。别再吃甜浆果了。我们没有地方可以放置它们。",
+        "现在，就让这件事平息吧。打包快餐的需求将会再次出现，但不是今天。",
+        "今天没有什么需要做这项工作。我正在等待下一次统计，然后再打开采摘浆果。",
+        "现在，就让这件事平息吧。现在带来 16 个甜浆果会让仓储挤满人。",
+        "我们还不需要它。最后一批甜浆果还没有用完。",
+        "我们还不需要它。收集者检查剩余物品后再次询问。",
+        "还没有开始的理由。我不会发明对甜浆果的迫切需要。",
+        "现在，就让这件事平息吧。旅行食品储藏室很安静，所以这可以等一下。",
+        "现在，就让这件事平息吧。我们正在处理甜浆果的工单。",
+        "当重要的时候我会发布它。旅行食品储藏室没有任何问题。时机根本不对。",
+        "当重要的时候我会发布它。省点力气，直到我们真正需要甜浆果为止。",
+        "还没有开始的理由。除了采摘浆果之外，板上没有当前标记。",
+        "我们还不需要它。今天不是另一场甜浆果比赛的日子。",
+        "董事会可以等待。一旦空旅行袋成为问题，我将重新开放。",
+        "今天没有什么需要做这项工作。我宁愿拖延也不愿浪费好甜的浆果。",
+        "暂时先别管那项工作。等仓储换了再问我关于采摘浆果的事。"
+      ]
+    },
+    "quest.village_supply.berry_picking.dialogue.locate_failed": {
+      "lines": [
+        "我无法确认当前的浆果订单。仓库检查完毕后再询问。",
+        "仓库计数缺失，所以我不会要求你收集甜浆果。",
+        "没有人确定仓库今天需要多少甜浆果。",
+        "工作笔记不完整。让我先算算浆果数。",
+        "在村里确认订单之前，我不会给你送甜浆果。",
+        "仓库尚未公布可靠的浆果数量。",
+        "我检查了工作清单两次；浆果请求尚未准备好。",
+        "这个订单可以等到我有最新的浆果计数后。",
+        "在我把订单交给你之前，需要有人检查一下仓库。",
+        "村里尚未就浆果数量达成一致。",
+        "我有一份旧的浆果清单，没有当前的。",
+        "仓库可能需要甜浆果，但我不会把猜测变成工作。",
+        "等仓库清点完再回来。",
+        "该订单缺少详细信息。我需要确认金额和收货地点。",
+        "在工作说明完成之前，我无法将此请求提交给董事会。",
+        "请求尚未准备好。我还在等待仓库理货。",
+        "在你们开始收集之前，让我确认一下谁需要甜浆果。",
+        "还没有工作。该村尚未批准这一浆果请求。",
+        "在我提供这项工作之前，仓储需要再次清点。",
+        "当浆果订单有明确的所有者和计数时再次询问。"
+      ]
+    },
+    "quest.village_supply.berry_picking.dialogue.missing_proof": {
+      "lines": [
+        "证据仍然很重要。在我把篮子装满之前把甜浆果带来。",
+        "你回来时却没有带我要的一件东西。在我签字之前我需要这里的甜浆果。",
+        "证据仍然很重要。承诺并不能填满旅行食品储藏室。带来甜浆果送货。",
+        "带回来一些村里可以核实的东西。你可能已经收集了它们，但收集者还没有收到它们。",
+        "我相信你去了，但这还不够。把 16 个甜浆果放在这里，我就可以结束甜浆果订单了。",
+        "你回来时却没有带我要的一件东西。上交甜浆果就是这次供应工作的证明。",
+        "最后一个要求仍然缺失。当你的双手空空的时候，我无法检查在荆棘中幸存下来的成熟浆果。",
+        "你带回家的东西决定了这一点。你的报告听起来不错。我仍然需要真正的甜浆果。",
+        "我相信你去了，但这还不够。旅行食品储藏室还没有收到任何东西。",
+        "证据必须到达我的手中。在我们讨论采摘浆果奖励之前，请带上您收集的东西。",
+        "故事无法关闭账本。旅行食品储藏室需要的是可用的甜浆果，而不是关于它们的故事。",
+        "证据仍然很重要。你一把甜浆果放在这里，我就会数它们。",
+        "你回来时却没有带我要的一件东西。不要将甜浆果留在另一个箱子中。",
+        "故事无法关闭账本。采摘者正在等待甜美的浆果捆本身。",
+        "我无法在空的退货单上签字。最后一步很简单。交出甜浆果。",
+        "我无法在空的退货单上签字。我无法在空柜台的情况下打包快餐。",
+        "我无法在空的退货单上签字。带着甜浆果回来，我们就完成了。",
+        "我需要一些我能握住的东西。一旦旅行食品储藏室收到甜浆果，甜浆果的工作就很重要。",
+        "你回来时却没有带我要的一件东西。您只需一交接就能完成采摘浆果。",
+        "让我看看你带回来了什么。在我结束之前让我看看甜浆果。"
+      ]
+    },
+    "quest.village_supply.berry_picking.dialogue.missing_target": {
+      "lines": [
+        "交货时间仍然很短。带上剩下的甜浆果。",
+        "我数了两遍； 16 个甜浆果的完整订单尚未到货。",
+        "这有帮助，但仓库仍然需要剩余的甜浆果。",
+        "上交不完整。我还无法关闭工作笔记。",
+        "我们商定了 16 种甜浆果；堆还是很短。",
+        "把缺少的甜浆果带来，然后我就可以结单了。",
+        "仓库有空间等待剩余的交货。",
+        "部分交付无法满足该村的需求。",
+        "你带来了正确的货物，但不是全额。",
+        "再算一下。仓库还很短。",
+        "工作开始后我无法降低约定的数量。",
+        "继续收集，直到收集完所有 16 个甜浆果。",
+        "村子可以用这么多，但还需要剩下的。",
+        "工作即将完成；剩下的就是缺少的金额。",
+        "理货和交货尚未匹配。",
+        "带来一份完整的货物，而不是让仓库短缺。",
+        "订单将持续开放，直到所有 16 种甜浆果都到货为止。",
+        "除了金额之外，你带来的东西没有任何问题。",
+        "仓库指的是全部订单，而不是部分订单。",
+        "带着剩下的回来，我会关闭笔记。"
+      ]
+    },
+    "quest.village_supply.berry_picking.dialogue.reminder": {
+      "lines": [
+        "现在不要丢失线。仓储有十六种甜浆果。当心荆棘。他们非常投入。",
+        "你还没有完成。我还在等待旅行食品储藏室的 16 个甜浆果。",
+        "遵守我给你的指示。寻找在荆棘中幸存下来的成熟浆果。 原料不好只有移动的问题。",
+        "将回程行程保留在您的计划中。采集者需要这些甜浆果来打包快餐。",
+        "将回程行程保留在您的计划中。计数为 16 个甜浆果。回来之前检查一下。",
+        "将回程行程保留在您的计划中。这种甜浆果递送意味着我们可以为旅行者提供易于携带的东西。",
+        "使这一切得到适当的完成。如果您要在负载之间进行选择，请先带甜浆果。",
+        "继续你接受的工作。将甜浆果的订单放在一起，这样甜浆果的计数就很容易。",
+        "使这一切得到适当的完成。旅行食品储藏室有空间等待全套物品。",
+        "记住村庄在等待什么。不要让一个简单的请求变成空的旅行袋。",
+        "使这一切得到适当的完成。采摘浆果没有隐藏的部分。带上商定的甜浆果数量。",
+        "继续你接受的工作。小心处理它们。我想要在荆棘中幸存下来的成熟浆果。",
+        "现在不要丢失线。如果你能做到的话，一次性带上所有的甜浆果。",
+        "继续你接受的工作。采集者正在围绕你的回归计划他们的下一步工作。",
+        "不要让已完成的一步分散您的注意力。我在甜浆果石板上写下了 16 个甜浆果，这样我们就不用猜了。",
+        "不要让已完成的一步分散您的注意力。这些越早到达，我们就能越早打包快餐。",
+        "不要让已完成的一步分散您的注意力。甜浆果订单中不缺少任何其他东西。",
+        "现在不要丢失线。当甜浆果准备好交出时返回。",
+        "离开之前，请再听一遍。您知道旅行食品储藏室需要多少甜浆果。其余的正在聚集。",
+        "离开之前，请再听一遍。完整的甜浆果包可以让每个人节省第二次旅行。"
+      ]
+    },
+    "quest.village_supply.berry_picking.dialogue.start": {
+      "lines": [
+        "村里有工作给你。带16个甜浆果。容易瘀伤，当它们消失时更容易被错过。",
+        "这是工作。甜浆果订单需要 16 个甜浆果。你能处理吗？",
+        "我把一些重要的事情托付给你。采集者试图打包快餐，原料 很薄。",
+        "仔细听。给我带来 16 个甜浆果。我想要在荆棘中幸存下来的成熟浆果。",
+        "仔细听。我有一份平淡的工作，却有一份有用的成果。找到 16 个甜浆果。",
+        "村里有工作给你。如果您填写甜浆果订单，我们可以为旅客提供一些易于携带的物品。",
+        "我把一些重要的事情托付给你。空旅行袋只是一个小问题，直到每个人都需要同样的东西。",
+        "让我们清楚地了解这项工作。甜浆果石板上的计数为 16 个甜浆果。",
+        "我有一个困难的请求。收集甜浆果并将整个货物运送到这里。",
+        "我有一个困难的请求。为旅行食品储藏室备货并不是荣耀，但很重要。",
+        "仔细听。采集者要求我为这次跑步寻找可靠的人。",
+        "我把一些重要的事情托付给你。我需要为旅行食品储藏室提供干净的送货服务。",
+        "认真对待这件事。如果你有时间的话，16个甜浆果就可以解决甜浆果的短缺问题。",
+        "让我们清楚地了解这项工作。需求是真实的，这使得采摘浆果的说明变得简单。",
+        "村里有工作给你。当你计数完毕后，带上甜浆果。",
+        "在你同意之前，先听听所有的内容。好的甜浆果可以让我们打包快餐。",
+        "这需要小心谨慎。在我们采取行动之前，村里不应该收到空的旅行袋。",
+        "认真对待这件事。小心处理甜浆果束。我们需要在荆棘中幸存下来的成熟浆果。",
+        "仔细听。当旅行食品储藏室收到完整订单时，我将付款。",
+        "让我们清楚地了解这项工作。找到 16 个甜浆果，我们就可以暂时不再担心这个问题了。"
+      ]
+    },
+    "quest.village_supply.berry_picking.dialogue.turn_in": {
+      "lines": [
+        "你使工作得到了圆满的结束。够新鲜。孩子们会称之为甜点，我会让他们这么做。",
+        "这次回归值得等待。计数是对的。我会把这些拿到旅行食品储藏室。",
+        "现在我可以关闭账本了。采集者现在可以打包快餐了。",
+        "您准确地交付了所需的内容。这些是在荆棘中幸存下来的成熟浆果。你选得不错。",
+        "困难的部分已经过去了。这样的运送让我们避免旅行袋空空如也。",
+        "村里可以用这个。干得好。所有的甜浆果都聚集在一起。",
+        "你使工作得到了圆满的结束。我有你的甜浆果，你也获得了采浆果奖励。",
+        "你已经看透了。旅行食品储藏室看起来已经不那么空旷了。",
+        "这次回归值得等待。这将有助于我们为旅行者提供易于携带的东西。",
+        "村里可以用这个。你让采集者免于用残羹剩饭凑合。",
+        "你使工作得到了圆满的结束。甜浆果石板上的所有东西都在这里。",
+        "村里可以用这个。一项有用的甜浆果工作，毫不费力地完成。谢谢。",
+        "你使工作得到了圆满的结束。在有人借用甜浆果之前我会把它们收起来。",
+        "困难的部分已经过去了。由于您完成了采摘浆果，村庄里的库存更加丰富。",
+        "很好，你回来了。你带来的正是我想要的甜浆果。",
+        "这将会带来真正的改变。甜浆果的输送从上到下都很顺利。",
+        "这将会带来真正的改变。旅行食品储藏室少了一件令我们惊讶的短缺。",
+        "村里可以用这个。村庄可能不会为甜浆果欢呼，但会注意到它们的缺席。",
+        "村里可以用这个。接受你的付款。甜浆果的数量让我没有任何抱怨。",
+        "很好，你回来了。我可以放心地将甜浆果订单交给采摘者。"
+      ]
+    },
+    "quest.village_supply.berry_picking.dialogue.unavailable": {
+      "lines": [
+        "这需要我们更了解的人。浆果请求暂时关闭。",
+        "有些工作必须等到信任赶上来才可以。我还不能把“采摘浆果”项下提交的工作交给您。",
+        "今天这项工作不是你的。甜浆果订单是为旅行食品储藏室已经认识的人准备的。",
+        "今天这项工作不是你的。采集者需要他们可以信赖的送货服务。",
+        "不，风险太高了。在进行采摘浆果之前，向村庄展示更稳定的工作。",
+        "不，风险太高了。甜浆果太重要了，不能把赌注押在陌生人身上。",
+        "这个村庄需要更稳定的手。今天我不会向你打开甜浆果石板。",
+        "我不会把这个负担加在你身上。建立一些信任，然后再次询问采摘浆果的问题。",
+        "您还没有准备好接受此请求。我需要一个能带着全部 16 个甜浆果回来的人。",
+        "这需要我们更了解的人。采集甜浆果很简单，但可靠性却是不可忽视的。",
+        "这需要我们更了解的人。目前，甜浆果订单仍由普通人负责。",
+        "目前答案是否定的。我还不能向旅行食品储藏室保证你会送货。",
+        "我不会把这个负担加在你身上。在我们将旅行食品储藏室托付给您之前，还有其他工作要做。",
+        "您还没有准备好接受此请求。村里还没有允许你参加这个甜蜜的浆果之旅。",
+        "今天这项工作不是你的。我宁愿等待，也不愿冒险旅行袋空了。",
+        "我首先需要证明你的判断力。这不是惩罚。在我打开采摘浆果之前表现出更好的判断力。",
+        "您还没有准备好接受此请求。这次采集者要求找一位熟悉的跑步者。",
+        "赢得更多信任后再回来。当你的名字更有分量后，再来点甜浆果吧。",
+        "目前答案是否定的。我不会接受新的采摘浆果帮助。",
+        "您还没有准备好接受此请求。在这里获得一些信心，我们可以重新讨论采摘浆果。"
+      ]
+    },
+    "quest.village_supply.berry_picking.objective.bring_berries.complete_text": {
+      "lines": [
+        "浆果篮子已经满了。"
+      ]
+    },
+    "quest.village_supply.berry_picking.objective.bring_berries.text": {
+      "lines": [
+        "为村庄仓储收集 16 个甜浆果。"
+      ]
+    },
+    "quest.village_supply.berry_picking.stage.return.dialogue.turn_in.label": "关于采摘浆果",
+    "quest.village_supply.berry_picking.stage.return.dialogue.turn_in.lines": [
+      "这些将比他们采摘的时间保存得更久。下次小心荆棘。",
+      "计数是对的，没有一个会闲置太久。",
+      "在我关闭笔记之前让我看看完整的作品。"
+    ],
+    "quest.village_supply.berry_picking.stage.return.dialogue.turn_in.response.complete.label": "交出工作。",
+    "quest.village_supply.berry_picking.stage.return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.village_supply.berry_picking.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "这些将比他们采摘的时间保存得更久。下次小心荆棘。",
+      "计数是对的，没有一个会闲置太久。",
+      "这样就解决了。村里一定会好好利用这一点。"
+    ],
+    "quest.village_supply.berry_picking.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "仍然缺少一些东西。在我关闭笔记之前检查日记。",
+      "完整的工作尚未准备好进行计算。"
+    ],
+    "quest.village_supply.berry_picking.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "在我们解决这个问题之前，请带上证据。",
+      "我需要在这里提交完整的内容，而不仅仅是故事。"
+    ],
+    "quest.village_supply.berry_picking.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "原料 背后需要一个真正的目的地。",
+      "在我们称之为完成之前到达标记的地方。"
+    ],
+    "quest.village_supply.berry_picking.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "采摘浆果目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_supply.berry_picking.stage.return.scene.turn_in_wait.lines": [
+      "为村庄仓储带来 16 个甜浆果",
+      "当工作准备好时再回来。"
+    ],
+    "quest.village_supply.berry_picking.stage.return.ui.tracker_text": "返回任务给予者。",
+    "quest.village_supply.berry_picking.stage.work.dialogue.offer.label": "采摘浆果",
+    "quest.village_supply.berry_picking.stage.work.dialogue.offer.lines": [
+      "浆果罐是空的，冬天到来之前从来不会问。",
+      "为村里的仓储带来 16 个甜浆果，货架看起来就会不那么担心了。",
+      "为村里的仓储带来 16 个甜浆果。我会让回报值得付出的努力。"
+    ],
+    "quest.village_supply.berry_picking.stage.work.dialogue.offer.response.accept.label": "我能做到。",
+    "quest.village_supply.berry_picking.stage.work.dialogue.offer.response.decline.label": "现在不行。",
+    "quest.village_supply.berry_picking.stage.work.dialogue.reminder.label": "关于采摘浆果",
+    "quest.village_supply.berry_picking.stage.work.dialogue.reminder.lines": [
+      "为村庄仓储带来 16 个甜浆果",
+      "为村里的仓储带来 16 个甜浆果。",
+      "为村里的仓储带来 16 个甜浆果，货架看起来就会不那么担心了。"
+    ],
+    "quest.village_supply.berry_picking.stage.work.dialogue.reminder.response.abandon.label": "把这个放在一边。",
+    "quest.village_supply.berry_picking.stage.work.dialogue.reminder.response.details.label": "重复该工作。",
+    "quest.village_supply.berry_picking.stage.work.dialogue.reminder.response.leave.label": "我有。",
+    "quest.village_supply.berry_picking.stage.work.scene.abandon_confirm.lines": [
+      "把采摘浆果放在一边？",
+      "如果你确定的话我可以把你的名字从工作中删除。"
+    ],
+    "quest.village_supply.berry_picking.stage.work.scene.abandon_confirm.response.cancel.label": "保持打开状态。",
+    "quest.village_supply.berry_picking.stage.work.scene.abandon_confirm.response.confirm.label": "把它放在一边。",
+    "quest.village_supply.berry_picking.stage.work.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "好的。我会从工作中清除你的名字。",
+      "便条收起来了。你可以稍后再问。"
+    ],
+    "quest.village_supply.berry_picking.stage.work.scene.abandon_quest.action.abandon.lines.abandoned_cooldown": [
+      "我会把这张纸条先搁置一段时间，然后再重新发布。",
+      "在你再次提出要求之前，先让工作休息一下。"
+    ],
+    "quest.village_supply.berry_picking.stage.work.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "采摘浆果目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_supply.berry_picking.stage.work.scene.decline.lines": [
+      "好的。空架子会以自己的方式不断询问。",
+      "另一双手可能会接住它，或者您可以稍后再问。"
+    ],
+    "quest.village_supply.berry_picking.stage.work.scene.leave.lines": [
+      "为村庄仓储带来 16 个甜浆果",
+      "当工作准备好时再回来。"
+    ],
+    "quest.village_supply.berry_picking.stage.work.scene.reminder_details.action.remind.lines.reminder": [
+      "为村庄仓储带来 16 个甜浆果",
+      "为村里的仓储带来 16 个甜浆果。",
+      "为村里的仓储带来 16 个甜浆果，货架看起来就会不那么担心了。"
+    ],
+    "quest.village_supply.berry_picking.stage.work.scene.reminder_details.action.remind.lines.unavailable": [
+      "采摘浆果目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_supply.berry_picking.stage.work.scene.start_quest.action.start.lines.already_completed": [
+      "采摘浆果目前已经尘埃落定。",
+      "这项工作已经被计算在内。"
+    ],
+    "quest.village_supply.berry_picking.stage.work.scene.start_quest.action.start.lines.locate_failed": [
+      "我在这里找不到值得信赖的标记。等道路畅通后再询问。",
+      "今天地图不会确定安全目的地。"
+    ],
+    "quest.village_supply.berry_picking.stage.work.scene.start_quest.action.start.lines.started": [
+      "为村里的仓储带来 16 个甜浆果。在返回的路上将完整的计数放在一起。",
+      "为村里的仓储带来 16 个甜浆果。",
+      "好的。我会为你带回来的东西保留一个地方。"
+    ],
+    "quest.village_supply.berry_picking.stage.work.scene.start_quest.action.start.lines.unavailable": [
+      "采摘浆果目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_supply.berry_picking.stage.work.ui.tracker_text": "为村里的仓储带来 16 个甜浆果。",
+    "quest.village_supply.berry_picking.title": {
+      "lines": [
+        "采摘浆果"
+      ]
+    },
+    "quest.village_supply.berry_picking.tracker.proof.text": {
+      "lines": [
+        "为村庄仓储收集 16 个甜浆果。"
+      ]
+    },
+    "quest.village_supply.berry_picking.tracker.return.text": {
+      "lines": [
+        "带着甜浆果回到 任务 给予者那里。"
+      ]
+    },
+    "quest.village_supply.berry_picking.tracker.title": {
+      "lines": [
+        "采摘浆果"
+      ]
+    }
+  }
+}

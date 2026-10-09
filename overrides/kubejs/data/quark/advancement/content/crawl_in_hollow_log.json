@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "crawl_in_hollow_log": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "crawl_in_hollow_log"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

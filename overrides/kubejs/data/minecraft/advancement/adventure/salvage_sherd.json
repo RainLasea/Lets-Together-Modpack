@@ -1,0 +1,39 @@
+{
+  "criteria": {
+    "desert_pyramid": {
+      "trigger": "minecraft:impossible"
+    },
+    "desert_well": {
+      "trigger": "minecraft:impossible"
+    },
+    "has_sherd": {
+      "trigger": "minecraft:impossible"
+    },
+    "ocean_ruin_cold": {
+      "trigger": "minecraft:impossible"
+    },
+    "ocean_ruin_warm": {
+      "trigger": "minecraft:impossible"
+    },
+    "trail_ruins_common": {
+      "trigger": "minecraft:impossible"
+    },
+    "trail_ruins_rare": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "desert_pyramid",
+      "desert_well",
+      "ocean_ruin_cold",
+      "ocean_ruin_warm",
+      "trail_ruins_rare",
+      "trail_ruins_common"
+    ],
+    [
+      "has_sherd"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,44 @@
+{
+  "display": {
+    "icon": {
+      "id": "netherexp:chiseled_soul_slate_tiles"
+    },
+    "title": {
+      "translate": "advancements.letstogether.realms.sanctum.title",
+      "fallback": "Since We're Here"
+    },
+    "description": {
+      "translate": "advancements.letstogether.realms.sanctum.description",
+      "fallback": "Find a sanctum from Jaden's Nether Expansion."
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "structure": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "netherexp:sanctum"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "structure"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:realms/sanctum_compass"
+}

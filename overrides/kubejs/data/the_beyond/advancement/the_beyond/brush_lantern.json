@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "brush_lantern": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "brush_lantern"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

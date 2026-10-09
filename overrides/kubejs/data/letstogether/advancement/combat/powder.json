@@ -1,0 +1,38 @@
+{
+  "display": {
+    "icon": {
+      "id": "irons_artifice:blackpowder"
+    },
+    "title": {
+      "translate": "advancements.letstogether.combat.powder.title",
+      "fallback": "Mind the Sparks"
+    },
+    "description": {
+      "translate": "advancements.letstogether.combat.powder.description",
+      "fallback": "Obtain blackpowder."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "blackpowder": {
+      "conditions": {
+        "items": [
+          {
+            "items": "irons_artifice:blackpowder"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "blackpowder"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:combat/root"
+}

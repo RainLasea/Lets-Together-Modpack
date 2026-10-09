@@ -1,0 +1,89 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.cartographers_atlas.nether_meridian.description": {
+      "lines": [
+        "将地图集带到主世界之外并绘制下界要塞的方位图。"
+      ]
+    },
+    "quest.cartographers_atlas.nether_meridian.stage.return.dialogue.turn_in.label": "关于下界子午线",
+    "quest.cartographers_atlas.nether_meridian.stage.return.dialogue.turn_in.lines": [
+      "墨水扭曲了，但线条仍然存在。让我看看经络证明。"
+    ],
+    "quest.cartographers_atlas.nether_meridian.stage.return.dialogue.turn_in.response.complete.label": "交出幽冥经脉",
+    "quest.cartographers_atlas.nether_meridian.stage.return.dialogue.turn_in.response.leave.label": "还没有",
+    "quest.cartographers_atlas.nether_meridian.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "下界子午线已绘制。我们现在有一条穿越炎热的路。"
+    ],
+    "quest.cartographers_atlas.nether_meridian.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "经脉还需要要塞轴承、火焰棒、幽冥疣。"
+    ],
+    "quest.cartographers_atlas.nether_meridian.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "在我信任子午线之前，从要塞 路线 拿来火焰棒。"
+    ],
+    "quest.cartographers_atlas.nether_meridian.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "原料 背后需要有一个堡垒。"
+    ],
+    "quest.cartographers_atlas.nether_meridian.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "下界经络还需要它的证据，我才能关闭它。"
+    ],
+    "quest.cartographers_atlas.nether_meridian.stage.return.scene.leave.lines": [
+      "让热墨水远离对开页边缘。"
+    ],
+    "quest.cartographers_atlas.nether_meridian.stage.return.ui.tracker_text": "带着下界子午线返回制图师。",
+    "quest.cartographers_atlas.nether_meridian.stage.survey.dialogue.offer.label": "下界子午线",
+    "quest.cartographers_atlas.nether_meridian.stage.survey.dialogue.offer.lines": [
+      "这本地图集在主世界地平线中幸存下来。现在我们看看它的线路是否可以交火。",
+      "找到一个地狱要塞，带上火焰棒和地狱疣，不要让地图学会燃烧。"
+    ],
+    "quest.cartographers_atlas.nether_meridian.stage.survey.dialogue.offer.response.accept.label": "绘制下界子午线",
+    "quest.cartographers_atlas.nether_meridian.stage.survey.dialogue.offer.response.decline.label": "另一次",
+    "quest.cartographers_atlas.nether_meridian.stage.survey.dialogue.reminder.label": "关于下界子午线",
+    "quest.cartographers_atlas.nether_meridian.stage.survey.dialogue.reminder.lines": [
+      "下界页面仍然需要堡垒轴承、火焰棒和下界疣。"
+    ],
+    "quest.cartographers_atlas.nether_meridian.stage.survey.dialogue.reminder.response.details.label": "提醒我在哪里",
+    "quest.cartographers_atlas.nether_meridian.stage.survey.dialogue.reminder.response.leave.label": "算了",
+    "quest.cartographers_atlas.nether_meridian.stage.survey.objective.bring_blaze_rods.tracker.complete_text": "火焰棒已准备好进入子午线。",
+    "quest.cartographers_atlas.nether_meridian.stage.survey.objective.bring_blaze_rods.tracker.text": "带 3 根用于耐热轴承的火焰棒。",
+    "quest.cartographers_atlas.nether_meridian.stage.survey.objective.bring_nether_wart.tracker.complete_text": "地狱疣被密封以供研究。",
+    "quest.cartographers_atlas.nether_meridian.stage.survey.objective.bring_nether_wart.tracker.text": "从要塞 路线 带来 8 个地狱疣。",
+    "quest.cartographers_atlas.nether_meridian.stage.survey.objective.visit_fortress.tracker.complete_text": "下界要塞方位已被记录。",
+    "quest.cartographers_atlas.nether_meridian.stage.survey.objective.visit_fortress.tracker.text": "到达 {target_x}、{target_z} 附近的下界要塞。",
+    "quest.cartographers_atlas.nether_meridian.stage.survey.scene.decline.lines": [
+      "合理的。下界惩罚随意的好奇心。"
+    ],
+    "quest.cartographers_atlas.nether_meridian.stage.survey.scene.leave.lines": [
+      "使页面远离火花。"
+    ],
+    "quest.cartographers_atlas.nether_meridian.stage.survey.scene.reminder_details.action.remind.lines.reminder": [
+      "{target_x}、{target_z}附近的下界要塞，大约{distance}封锁{target_dimension}中的{direction}。带上 3 根火焰棒和 8 颗地狱疣。"
+    ],
+    "quest.cartographers_atlas.nether_meridian.stage.survey.scene.reminder_details.action.remind.lines.unavailable": [
+      "我现在没有打开你的幽冥经络。"
+    ],
+    "quest.cartographers_atlas.nether_meridian.stage.survey.scene.start_quest.action.start.lines.already_completed": [
+      "下界子午线已经画好了。"
+    ],
+    "quest.cartographers_atlas.nether_meridian.stage.survey.scene.start_quest.action.start.lines.locate_failed": [
+      "下界标记拒绝从这里定居。"
+    ],
+    "quest.cartographers_atlas.nether_meridian.stage.survey.scene.start_quest.action.start.lines.started": [
+      "要塞标记在{target_x}、{target_z}附近，大约{distance}在{target_dimension}中封锁{direction}。带上火焰棒和地狱疣。"
+    ],
+    "quest.cartographers_atlas.nether_meridian.stage.survey.scene.start_quest.action.start.lines.unavailable": [
+      "这本地图集需要一页完成的地平线页，其墨水才能在下界中保存下来。"
+    ],
+    "quest.cartographers_atlas.nether_meridian.stage.survey.ui.tracker_text": "到达{target_x}、{target_z}、{target_dimension}附近的下界要塞。",
+    "quest.cartographers_atlas.nether_meridian.title": {
+      "lines": [
+        "下界子午线"
+      ]
+    },
+    "quest.cartographers_atlas.nether_meridian.tracker.title": {
+      "lines": [
+        "下界子午线"
+      ]
+    }
+  }
+}

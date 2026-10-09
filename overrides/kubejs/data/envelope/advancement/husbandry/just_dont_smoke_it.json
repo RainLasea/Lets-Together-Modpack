@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "place_pigeonhole": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "place_pigeonhole"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

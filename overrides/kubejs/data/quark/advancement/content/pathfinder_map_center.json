@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "pathfinder_map_center": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "pathfinder_map_center"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

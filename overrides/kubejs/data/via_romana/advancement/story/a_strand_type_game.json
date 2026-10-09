@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "a_strand_type_game": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "a_strand_type_game"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

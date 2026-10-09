@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "photograph_spider_man": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "photograph_spider_man"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

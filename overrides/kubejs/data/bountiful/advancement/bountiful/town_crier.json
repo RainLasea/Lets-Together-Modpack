@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "place_decree": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "place_decree"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

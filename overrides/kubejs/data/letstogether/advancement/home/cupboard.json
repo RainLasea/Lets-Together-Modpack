@@ -1,0 +1,43 @@
+{
+  "display": {
+    "icon": {
+      "id": "handcrafted:oak_cupboard"
+    },
+    "title": {
+      "translate": "advancements.letstogether.home.cupboard.title",
+      "fallback": "Put It Away"
+    },
+    "description": {
+      "translate": "advancements.letstogether.home.cupboard.description",
+      "fallback": "Place a Handcrafted oak cupboard."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "place": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "block": {
+                "blocks": "handcrafted:oak_cupboard"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "place"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:home/table"
+}

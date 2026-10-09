@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "tags": [
+      "content.dialogue",
+      "dialogue.interaction",
+      "scope.global",
+      "section.messages",
+      "feature.study"
+    ],
+    "topic": "global.study"
+  },
+  "messages": [
+    {
+      "key": "interaction.study.busy",
+      "lines": [
+        "我现在正忙着研究{skill}。",
+        "给我一点时间。我正在研究{skill}。",
+        "我正在研究{skill}。",
+        "现在不要。我正在研究我的 {skill}。",
+        "我宁愿不失去我的位置。我正在研究{skill}。",
+        "我需要完成关于 {skill} 的这一章。",
+        "我现在专注于{skill}。",
+        "稍后再回来。我正在研究{skill}。",
+        "我有一些 {skill} 的学习要完成。",
+        "让我先研究完{skill}吧。"
+      ],
+      "weight": 10,
+      "id": "global.messages.26_study.messages.interaction.study.busy.000"
+    },
+    {
+      "key": "interaction.study.started",
+      "lines": [
+        "我将开始研究{skill}。"
+      ],
+      "weight": 1,
+      "id": "global.messages.26_study.messages.interaction.study.started.001"
+    },
+    {
+      "key": "interaction.study.cooldown",
+      "lines": [
+        "我可以在{study_cooldown}中再次学习。"
+      ],
+      "weight": 1,
+      "id": "global.messages.26_study.messages.interaction.study.cooldown.002"
+    },
+    {
+      "key": "interaction.study.maxed",
+      "lines": [
+        "我的{skill}已经处于巅峰状态了。"
+      ],
+      "weight": 1,
+      "id": "global.messages.26_study.messages.interaction.study.maxed.003"
+    },
+    {
+      "key": "interaction.study.unavailable",
+      "lines": [
+        "我现在还不能开始学习。"
+      ],
+      "weight": 1,
+      "id": "global.messages.26_study.messages.interaction.study.unavailable.004"
+    },
+    {
+      "key": "interaction.study.low_reputation",
+      "lines": [
+        "我对你不够信任，不敢接受你的学习命令。"
+      ],
+      "weight": 1,
+      "id": "global.messages.26_study.messages.interaction.study.low_reputation.005"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.cartographers_atlas.ink_and_bearings.description": {
+      "lines": [
+        "准备地图集索引并选择其第一原则是支持道路还是奇迹。"
+      ]
+    },
+    "quest.cartographers_atlas.ink_and_bearings.stage.choose_principle.dialogue.reminder.label": "关于墨水与方位",
+    "quest.cartographers_atlas.ink_and_bearings.stage.choose_principle.dialogue.reminder.lines": [
+      "索引已准备就绪。这个原则是永久的：第一次探险时道路奖励实用导航原料；奇迹奖励稀有的调查工具。"
+    ],
+    "quest.cartographers_atlas.ink_and_bearings.stage.choose_principle.dialogue.reminder.response.details.label": "重复选择",
+    "quest.cartographers_atlas.ink_and_bearings.stage.choose_principle.dialogue.reminder.response.leave.label": "我会选择",
+    "quest.cartographers_atlas.ink_and_bearings.stage.choose_principle.objective.choose_principle.tracker.complete_text": "图集原则选择：{objective_choice_value}。",
+    "quest.cartographers_atlas.ink_and_bearings.stage.choose_principle.objective.choose_principle.tracker.text": "与制图师一起选择地图集原则。",
+    "quest.cartographers_atlas.ink_and_bearings.stage.choose_principle.response.roads.action.notification.text": "该地图集将支持可靠的道路。",
+    "quest.cartographers_atlas.ink_and_bearings.stage.choose_principle.response.roads.label": "优先选择可靠的道路",
+    "quest.cartographers_atlas.ink_and_bearings.stage.choose_principle.response.roads.text": "地图册选择的原则：道路。",
+    "quest.cartographers_atlas.ink_and_bearings.stage.choose_principle.response.wonders.action.notification.text": "地图集将青睐奇异的奇迹。",
+    "quest.cartographers_atlas.ink_and_bearings.stage.choose_principle.response.wonders.label": "偏爱奇异的奇迹",
+    "quest.cartographers_atlas.ink_and_bearings.stage.choose_principle.response.wonders.text": "地图册选择的原则：奇迹。",
+    "quest.cartographers_atlas.ink_and_bearings.stage.choose_principle.scene.leave.lines": [
+      "选择您可以接受以下内容。"
+    ],
+    "quest.cartographers_atlas.ink_and_bearings.stage.choose_principle.scene.reminder_details.action.remind.lines.reminder": [
+      "选择罗盘和铁探险套件的道路，或望远镜和紫水晶套件的奇迹。原则是永久的。"
+    ],
+    "quest.cartographers_atlas.ink_and_bearings.stage.choose_principle.scene.reminder_details.action.remind.lines.unavailable": [
+      "我们现在并没有遵循地图册原则。"
+    ],
+    "quest.cartographers_atlas.ink_and_bearings.stage.choose_principle.ui.tracker_text": "从制图师的分支选项中选择地图集原则。",
+    "quest.cartographers_atlas.ink_and_bearings.stage.prepare_index.dialogue.offer.label": "墨水与方位",
+    "quest.cartographers_atlas.ink_and_bearings.stage.prepare_index.dialogue.offer.lines": [
+      "一本空白地图集可以成为一本日记、一个警告或一个奖杯架。我们应该选择比这更好的选择。",
+      "带上精美的笔和玻璃杯来记录索引。然后做出永久的地图集选择：道路准备了指南针和铁路线套件，而奇迹则为第一次探险准备了望远镜和紫水晶测量套件。"
+    ],
+    "quest.cartographers_atlas.ink_and_bearings.stage.prepare_index.dialogue.offer.response.accept.label": "准备索引",
+    "quest.cartographers_atlas.ink_and_bearings.stage.prepare_index.dialogue.offer.response.decline.label": "另一次",
+    "quest.cartographers_atlas.ink_and_bearings.stage.prepare_index.dialogue.reminder.label": "关于墨水与方位",
+    "quest.cartographers_atlas.ink_and_bearings.stage.prepare_index.dialogue.reminder.lines": [
+      "在我们选择第一个规则之前，地图集索引仍然需要精美的笔和窗格。"
+    ],
+    "quest.cartographers_atlas.ink_and_bearings.stage.prepare_index.dialogue.reminder.response.abandon.label": "放弃任务",
+    "quest.cartographers_atlas.ink_and_bearings.stage.prepare_index.dialogue.reminder.response.details.label": "重复列表",
+    "quest.cartographers_atlas.ink_and_bearings.stage.prepare_index.dialogue.reminder.response.leave.label": "算了",
+    "quest.cartographers_atlas.ink_and_bearings.stage.prepare_index.objective.bring_feathers.tracker.complete_text": "地图笔准备好了。",
+    "quest.cartographers_atlas.ink_and_bearings.stage.prepare_index.objective.bring_feathers.tracker.text": "带 2 根羽毛来制作精美地图笔。",
+    "quest.cartographers_atlas.ink_and_bearings.stage.prepare_index.objective.bring_glass.tracker.complete_text": "索引窗格已准备就绪。",
+    "quest.cartographers_atlas.ink_and_bearings.stage.prepare_index.objective.bring_glass.tracker.text": "带 6 块玻璃板来保护索引页。",
+    "quest.cartographers_atlas.ink_and_bearings.stage.prepare_index.scene.abandon_confirm.lines": [
+      "暂时搁置图集索引吗？"
+    ],
+    "quest.cartographers_atlas.ink_and_bearings.stage.prepare_index.scene.abandon_confirm.response.cancel.label": "保留索引",
+    "quest.cartographers_atlas.ink_and_bearings.stage.prepare_index.scene.abandon_confirm.response.confirm.label": "放弃任务",
+    "quest.cartographers_atlas.ink_and_bearings.stage.prepare_index.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "我会保持索引松散，直到你回来。"
+    ],
+    "quest.cartographers_atlas.ink_and_bearings.stage.prepare_index.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "目前没有打开的图集索引。"
+    ],
+    "quest.cartographers_atlas.ink_and_bearings.stage.prepare_index.scene.decline.lines": [
+      "然后地图集就可以等待，然后再开始提出意见。"
+    ],
+    "quest.cartographers_atlas.ink_and_bearings.stage.prepare_index.scene.leave.lines": [
+      "良好的举止可以经受住停顿。"
+    ],
+    "quest.cartographers_atlas.ink_and_bearings.stage.prepare_index.scene.reminder_details.action.remind.lines.reminder": [
+      "带 2 根羽毛和 6 块玻璃板。索引准备好后，选择地图集是偏向道路还是偏向奇观。"
+    ],
+    "quest.cartographers_atlas.ink_and_bearings.stage.prepare_index.scene.reminder_details.action.remind.lines.unavailable": [
+      "我现在没有打开您的图集索引。"
+    ],
+    "quest.cartographers_atlas.ink_and_bearings.stage.prepare_index.scene.start_quest.action.start.lines.already_completed": [
+      "该地图集已经有了它的首要原则。"
+    ],
+    "quest.cartographers_atlas.ink_and_bearings.stage.prepare_index.scene.start_quest.action.start.lines.started": [
+      "带 2 根羽毛和 6 块玻璃板。好的地图需要清晰的墨迹和清晰的意图。"
+    ],
+    "quest.cartographers_atlas.ink_and_bearings.stage.prepare_index.scene.start_quest.action.start.lines.unavailable": [
+      "第一个对开页必须在索引生效之前装订。"
+    ],
+    "quest.cartographers_atlas.ink_and_bearings.stage.prepare_index.ui.tracker_text": "带 2 根羽毛和 6 块玻璃板作为地图册索引。",
+    "quest.cartographers_atlas.ink_and_bearings.stage.roads_ready.dialogue.turn_in.label": "关于墨水与方位",
+    "quest.cartographers_atlas.ink_and_bearings.stage.roads_ready.dialogue.turn_in.lines": [
+      "那么，道路。地图首先应该让人们回家。"
+    ],
+    "quest.cartographers_atlas.ink_and_bearings.stage.roads_ready.dialogue.turn_in.response.complete.label": "设定道路原则",
+    "quest.cartographers_atlas.ink_and_bearings.stage.roads_ready.dialogue.turn_in.response.leave.label": "还没有",
+    "quest.cartographers_atlas.ink_and_bearings.stage.roads_ready.scene.complete_quest.action.turn_in.lines.completed": [
+      "我已将道路写入索引。地图集在寻求荣耀之前会先寻找回归之路。"
+    ],
+    "quest.cartographers_atlas.ink_and_bearings.stage.roads_ready.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "在我设置索引之前选择图集原则。"
+    ],
+    "quest.cartographers_atlas.ink_and_bearings.stage.roads_ready.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "该指数仍然需要我们商定的证据。"
+    ],
+    "quest.cartographers_atlas.ink_and_bearings.stage.roads_ready.scene.leave.lines": [
+      "一条好路的两端都在等待。"
+    ],
+    "quest.cartographers_atlas.ink_and_bearings.stage.roads_ready.ui.tracker_text": "返回给制图师设置道路原则。",
+    "quest.cartographers_atlas.ink_and_bearings.stage.wonders_ready.dialogue.turn_in.label": "关于墨水与方位",
+    "quest.cartographers_atlas.ink_and_bearings.stage.wonders_ready.dialogue.turn_in.lines": [
+      "那就奇怪了。地图应该为不可能的事情留出空间。"
+    ],
+    "quest.cartographers_atlas.ink_and_bearings.stage.wonders_ready.dialogue.turn_in.response.complete.label": "设定奇迹原则",
+    "quest.cartographers_atlas.ink_and_bearings.stage.wonders_ready.dialogue.turn_in.response.leave.label": "还没有",
+    "quest.cartographers_atlas.ink_and_bearings.stage.wonders_ready.scene.complete_quest.action.turn_in.lines.completed": [
+      "我在索引中写下了奇迹。地图集不会把一条艰难的路误认为是一条空路。"
+    ],
+    "quest.cartographers_atlas.ink_and_bearings.stage.wonders_ready.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "在我设置索引之前选择图集原则。"
+    ],
+    "quest.cartographers_atlas.ink_and_bearings.stage.wonders_ready.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "该指数仍然需要我们商定的证据。"
+    ],
+    "quest.cartographers_atlas.ink_and_bearings.stage.wonders_ready.scene.leave.lines": [
+      "奇迹只有在有人把它写下来之前才显得不可能。"
+    ],
+    "quest.cartographers_atlas.ink_and_bearings.stage.wonders_ready.ui.tracker_text": "返回制图师那里设定奇迹原理。",
+    "quest.cartographers_atlas.ink_and_bearings.title": {
+      "lines": [
+        "墨水与方位"
+      ]
+    },
+    "quest.cartographers_atlas.ink_and_bearings.tracker.title": {
+      "lines": [
+        "墨水与方位"
+      ]
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "in_better_skeleton_dungeon": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "in_better_skeleton_dungeon"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

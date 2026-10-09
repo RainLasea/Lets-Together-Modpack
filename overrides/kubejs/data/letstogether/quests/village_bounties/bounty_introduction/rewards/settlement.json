@@ -1,0 +1,46 @@
+{
+  "schema": "villagerretaliation:quest_reward/v1",
+  "id": "letstogether:quest/bounty_introduction",
+  "table": {
+    "type": "minecraft:generic",
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:emerald",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "bountiful:decree",
+            "functions": [
+              {
+                "function": "minecraft:set_components",
+                "components": {
+                  "bountiful:decree_data": {
+                    "ids": [
+                      "lt_kingdoms"
+                    ],
+                    "rank": 1
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

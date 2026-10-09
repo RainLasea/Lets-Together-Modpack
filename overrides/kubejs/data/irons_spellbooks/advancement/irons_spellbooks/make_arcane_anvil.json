@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "arcane_anvil": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "arcane_anvil"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

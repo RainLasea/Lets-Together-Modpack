@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "photograph_enderman_eyes": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "photograph_enderman_eyes"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

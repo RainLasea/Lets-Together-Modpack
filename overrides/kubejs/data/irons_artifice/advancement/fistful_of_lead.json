@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "fistful_of_lead": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "fistful_of_lead"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

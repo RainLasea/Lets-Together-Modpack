@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "make_stoneling": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "make_stoneling"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

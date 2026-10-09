@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "slept_in_bed": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "slept_in_bed"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

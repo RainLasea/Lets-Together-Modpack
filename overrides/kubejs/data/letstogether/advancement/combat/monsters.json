@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:zombie_head"
+    },
+    "title": {
+      "translate": "advancements.letstogether.combat.monsters.title",
+      "fallback": "Know What You're Fighting"
+    },
+    "description": {
+      "translate": "advancements.letstogether.combat.monsters.description",
+      "fallback": "Complete the Monsters category in your Field Guide."
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "complete": {
+      "trigger": "fieldguide:category_completed",
+      "conditions": {
+        "category": "fieldguide:monsters"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "complete"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:combat/first_kill",
+  "rewards": {
+    "experience": 50
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "id": "create:deployer"
+    },
+    "title": {
+      "translate": "advancements.letstogether.workshop.deployer.title",
+      "fallback": "Lend a Hand"
+    },
+    "description": {
+      "translate": "advancements.letstogether.workshop.deployer.description",
+      "fallback": "Use a deployer."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "0": {
+      "trigger": "create:deployer_builtin"
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:workshop/precision"
+}

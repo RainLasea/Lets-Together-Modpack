@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "has_spyglass": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "has_spyglass"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

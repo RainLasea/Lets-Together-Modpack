@@ -1,0 +1,13 @@
+{
+  "name": "origins.letstogether.class_explorer.name",
+  "description": "origins.letstogether.class_explorer.description",
+  "icon": "minecraft:compass",
+  "impact": "low",
+  "order": 5,
+  "powers": [
+    "letstogether:class_explorer_stride",
+    "letstogether:class_explorer_endurance",
+    "letstogether:class_explorer_landing"
+  ],
+  "upgrades": []
+}

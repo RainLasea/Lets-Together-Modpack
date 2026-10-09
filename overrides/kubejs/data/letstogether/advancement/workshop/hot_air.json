@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "id": "aeronautics:adjustable_burner"
+    },
+    "title": {
+      "translate": "advancements.letstogether.workshop.hot_air.title",
+      "fallback": "Full of Hot Air"
+    },
+    "description": {
+      "translate": "advancements.letstogether.workshop.hot_air.description",
+      "fallback": "Fill an airtight envelope structure with hot air."
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "0": {
+      "conditions": "aeronautics:head_in_the_clouds_builtin",
+      "trigger": "aeronautics:head_in_the_clouds_builtin"
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:workshop/goggles"
+}

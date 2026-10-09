@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "influence": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "influence"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "ham": {
+      "trigger": "minecraft:impossible"
+    },
+    "smoked_ham": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "ham",
+      "smoked_ham"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

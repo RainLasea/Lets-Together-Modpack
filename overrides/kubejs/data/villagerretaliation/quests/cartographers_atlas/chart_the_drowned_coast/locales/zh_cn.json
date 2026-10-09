@@ -1,0 +1,104 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.cartographers_atlas.chart_the_drowned_coast.description": {
+      "lines": [
+        "沿着海岸地平线前往海洋纪念碑，带回海晶证据。"
+      ]
+    },
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.return.dialogue.turn_in.label": "关于淹没海岸",
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.return.dialogue.turn_in.lines": [
+      "你闻起来像盐和顽固的石头。给我看海岸证明。"
+    ],
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.return.dialogue.turn_in.response.complete.label": "交出海晶笔记",
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.return.dialogue.turn_in.response.leave.label": "还没有",
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "淹没的海岸已绘制在地图上。地图册现在知道波浪如何隐藏道路而不抹掉它。"
+    ],
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "海岸页面仍然需要纪念碑、守护者伯爵和海晶石。"
+    ],
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "在我相信海岸标记之前，请带上海晶证据。"
+    ],
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "海晶石需要其背后的纪念碑。"
+    ],
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "在我关闭页面之前，海岸仍然需要证据。"
+    ],
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.return.scene.leave.lines": [
+      "将碎片包裹起来。湿墨诚实但凌乱。"
+    ],
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.return.ui.tracker_text": "带着海晶证据返回制图师。",
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.dialogue.offer.label": "淹没海岸",
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.dialogue.offer.lines": [
+      "你选择了海岸，所以地图集现在正在监听被淹死的石头。",
+      "一座海洋纪念碑在墨水中歌唱。绘制它的地图，在它的守护者中幸存下来，并带回海晶石。"
+    ],
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.dialogue.offer.response.accept.label": "绘制海岸图",
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.dialogue.offer.response.decline.label": "另一次",
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.dialogue.reminder.label": "关于淹没海岸",
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.dialogue.reminder.lines": [
+      "海岸 路线 仍然需要纪念碑轴承、守护者证明和海晶石碎片。"
+    ],
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.dialogue.reminder.response.abandon.label": "放弃任务",
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.dialogue.reminder.response.details.label": "提醒我在哪里",
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.dialogue.reminder.response.leave.label": "算了",
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.objective.bring_prismarine.tracker.complete_text": "海晶证据已准备就绪。",
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.objective.bring_prismarine.tracker.text": "从淹没的海岸带回 8 块海晶碎片。",
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.objective.defeat_guardians.tracker.complete_text": "记录监护人计数。",
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.objective.defeat_guardians.tracker.text": "击败淹没海岸 路线 附近的 3 名守护者。",
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.objective.visit_monument.tracker.complete_text": "淹没海岸纪念碑已绘制在地图上。",
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.objective.visit_monument.tracker.text": "到达 {target_x}、{target_z} 附近的海洋纪念碑。",
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.scene.abandon_confirm.lines": [
+      "让被淹没的海岸暂时沉入墨水之下？"
+    ],
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.scene.abandon_confirm.response.cancel.label": "继续绘制图表",
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.scene.abandon_confirm.response.confirm.label": "放弃任务",
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "我现在先把海岸页晒干。潮水稍后可能会再次上涨。"
+    ],
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.scene.abandon_quest.action.abandon.lines.abandoned_cooldown": [
+      "在我们要求再次打开海岸页面之前，我会将其干燥一天。"
+    ],
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "目前没有处于活动状态的淹没海岸 路线。"
+    ],
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.scene.decline.lines": [
+      "然后让你的靴子保持干燥一段时间。"
+    ],
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.scene.leave.lines": [
+      "注意水线。"
+    ],
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.scene.reminder_details.action.remind.lines.reminder": [
+      "{target_x}、{target_z} 附近的海洋纪念碑，大约 {distance} 区块 {direction}。绘制图表，击败 3 个守护者，并带来 8 个海晶石碎片。"
+    ],
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.scene.reminder_details.action.remind.lines.unavailable": [
+      "我现在没有为您打开淹没海岸页面。"
+    ],
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.scene.start_quest.action.start.lines.already_completed": [
+      "淹没的海岸已经绘制好了。"
+    ],
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.scene.start_quest.action.start.lines.locate_failed": [
+      "今天，海岸在整个页面上投下耀眼的光芒。我宁愿等待，也不愿给你一个虚假的碑记。"
+    ],
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.scene.start_quest.action.start.lines.started": [
+      "纪念碑标记在{target_x}、{target_z}附近，大约{distance}块{direction}。绘制图表，从守护者手中幸存下来，并带来海晶石。"
+    ],
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.scene.start_quest.action.start.lines.unavailable": [
+      "在 路线 打开之前，地图集必须选择海岸地平线。"
+    ],
+    "quest.cartographers_atlas.chart_the_drowned_coast.stage.survey.ui.tracker_text": "到达 {target_x}、{target_z} 附近的海洋纪念碑。",
+    "quest.cartographers_atlas.chart_the_drowned_coast.title": {
+      "lines": [
+        "测绘沉没海岸"
+      ]
+    },
+    "quest.cartographers_atlas.chart_the_drowned_coast.tracker.title": {
+      "lines": [
+        "测绘沉没海岸"
+      ]
+    }
+  }
+}

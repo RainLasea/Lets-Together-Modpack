@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "stabilizer_landing": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "stabilizer_landing"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

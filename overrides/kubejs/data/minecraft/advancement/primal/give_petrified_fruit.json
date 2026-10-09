@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "give_petrified_fruit": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "give_petrified_fruit"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:redstone_lamp"
+    },
+    "title": {
+      "translate": "advancements.letstogether.memories.flash.title",
+      "fallback": "Flash!"
+    },
+    "description": {
+      "translate": "advancements.letstogether.memories.flash.description",
+      "fallback": "Take a photo with flash at a light level of 3 or less."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "flash_in_darkness": {
+      "conditions": {
+        "frame": {
+          "light_level": {
+            "max": 3
+          },
+          "extra_data": "{flash:1b}"
+        }
+      },
+      "trigger": "exposure:frame_exposed"
+    }
+  },
+  "requirements": [
+    [
+      "flash_in_darkness"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:memories/photo"
+}

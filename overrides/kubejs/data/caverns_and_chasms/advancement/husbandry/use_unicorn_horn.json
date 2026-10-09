@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "unicorn_horn": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "unicorn_horn"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

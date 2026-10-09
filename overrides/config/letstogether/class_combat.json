@@ -1,0 +1,11 @@
+{
+  "layer": "neoorigins:class",
+  "abilities": {
+    "combat_roll": [
+      "letstogether:class_ranger"
+    ],
+    "combat_roll_hud": [
+      "letstogether:class_ranger"
+    ]
+  }
+}

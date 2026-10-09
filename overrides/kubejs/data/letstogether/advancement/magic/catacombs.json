@@ -1,0 +1,44 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:skeleton_skull"
+    },
+    "title": {
+      "translate": "advancements.letstogether.magic.catacombs.title",
+      "fallback": "Anyone Home Down Here?"
+    },
+    "description": {
+      "translate": "advancements.letstogether.magic.catacombs.description",
+      "fallback": "Enter a catacomb from Iron's Spells 'n Spellbooks."
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "in_catacombs": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "irons_spellbooks:catacombs"
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:location"
+    }
+  },
+  "requirements": [
+    [
+      "in_catacombs"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:magic/compass"
+}

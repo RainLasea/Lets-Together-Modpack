@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "deliver_package_full_of_blocks": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "deliver_package_full_of_blocks"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

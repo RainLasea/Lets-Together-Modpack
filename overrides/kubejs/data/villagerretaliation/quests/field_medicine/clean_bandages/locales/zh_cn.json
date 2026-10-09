@@ -1,0 +1,88 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.field_medicine.clean_bandages.description": "在下一次村庄受伤之前帮助准备简单的医疗 原料。",
+    "quest.field_medicine.clean_bandages.stage.clean_cloth.dialogue.offer.label": "绷带",
+    "quest.field_medicine.clean_bandages.stage.clean_cloth.dialogue.offer.lines": [
+      "当有人受伤时，每个人都会突然相信做好准备。",
+      "我宁愿在喊叫之前做好准备。先带干净的羊毛和绳子；粗糙的手仍可以是细心的手。"
+    ],
+    "quest.field_medicine.clean_bandages.stage.clean_cloth.dialogue.offer.response.accept.label": "我会收集布。",
+    "quest.field_medicine.clean_bandages.stage.clean_cloth.dialogue.offer.response.decline.label": "现在不要。",
+    "quest.field_medicine.clean_bandages.stage.clean_cloth.dialogue.reminder.label": "关于绷带",
+    "quest.field_medicine.clean_bandages.stage.clean_cloth.dialogue.reminder.lines": [
+      "首先清洁布。这是一项枯燥的工作，直到它成为一切为止。"
+    ],
+    "quest.field_medicine.clean_bandages.stage.clean_cloth.dialogue.reminder.response.details.label": "重复布料清单。",
+    "quest.field_medicine.clean_bandages.stage.clean_cloth.dialogue.reminder.response.leave.label": "我会带来它。",
+    "quest.field_medicine.clean_bandages.stage.clean_cloth.objective.bring_string.tracker.complete_text": "绑定字符串已准备就绪。",
+    "quest.field_medicine.clean_bandages.stage.clean_cloth.objective.bring_string.tracker.text": "带 6 根绳子来绑夹板和包裹物。",
+    "quest.field_medicine.clean_bandages.stage.clean_cloth.objective.bring_wool.tracker.complete_text": "干净的布准备好了。",
+    "quest.field_medicine.clean_bandages.stage.clean_cloth.objective.bring_wool.tracker.text": "带 8 块白色羊毛来制作干净的绷带。",
+    "quest.field_medicine.clean_bandages.stage.clean_cloth.scene.decline.lines": [
+      "然后我会继续折叠我们仅有的一点东西，并希望不再需要它。"
+    ],
+    "quest.field_medicine.clean_bandages.stage.clean_cloth.scene.leave.lines": [
+      "如果可以的话，保持干净。污垢总是不请自来。"
+    ],
+    "quest.field_medicine.clean_bandages.stage.clean_cloth.scene.reminder_details.action.remind.lines.reminder": [
+      "带上 8 根白色羊毛和 6 根细绳来制作干净的绷带。"
+    ],
+    "quest.field_medicine.clean_bandages.stage.clean_cloth.scene.reminder_details.action.remind.lines.unavailable": [
+      "绷带套件目前尚未准备好进行这项工作。"
+    ],
+    "quest.field_medicine.clean_bandages.stage.clean_cloth.scene.start_quest.action.start.lines.already_completed": [
+      "绷带套件已经准备好了。"
+    ],
+    "quest.field_medicine.clean_bandages.stage.clean_cloth.scene.start_quest.action.start.lines.started": [
+      "带8根白羊毛和6根绳子。安静的 原料 可以节省喧闹的时间。"
+    ],
+    "quest.field_medicine.clean_bandages.stage.clean_cloth.scene.start_quest.action.start.lines.unavailable": [
+      "药箱目前尚未准备好寻求帮助。"
+    ],
+    "quest.field_medicine.clean_bandages.stage.clean_cloth.ui.tracker_text": "带8根白羊毛和6根绳子。",
+    "quest.field_medicine.clean_bandages.stage.return.dialogue.turn_in.label": "关于绷带",
+    "quest.field_medicine.clean_bandages.stage.return.dialogue.turn_in.lines": [
+      "干净的布、扎好的包裹物、密封的瓶子。这是一种适合放在架子上的怜悯。"
+    ],
+    "quest.field_medicine.clean_bandages.stage.return.dialogue.turn_in.response.complete.label": "库存现场套件。",
+    "quest.field_medicine.clean_bandages.stage.return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.field_medicine.clean_bandages.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "好的。没有人会为库存充足的药箱欢呼，而这正是我所喜欢的。"
+    ],
+    "quest.field_medicine.clean_bandages.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "在我们密封之前，该套件还需要布、绳子、蜂蜜或干净的瓶子。"
+    ],
+    "quest.field_medicine.clean_bandages.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "把医用原料带到这里，这样我就可以清楚地清点它们。"
+    ],
+    "quest.field_medicine.clean_bandages.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "我现在无法关闭药箱。"
+    ],
+    "quest.field_medicine.clean_bandages.stage.return.scene.leave.lines": [
+      "半途而废的护理可能会在最糟糕的时刻引起人们的注意。"
+    ],
+    "quest.field_medicine.clean_bandages.stage.return.ui.tracker_text": "带着野战药品 原料 返回。",
+    "quest.field_medicine.clean_bandages.stage.seal_jars.dialogue.reminder.label": "关于绷带",
+    "quest.field_medicine.clean_bandages.stage.seal_jars.dialogue.reminder.lines": [
+      "包裹已经准备好了。现在我们需要密封的瓶子和蜂蜜，这是一种简单的药物，直到他们能够再次呼吸为止，没有人会称赞它。"
+    ],
+    "quest.field_medicine.clean_bandages.stage.seal_jars.dialogue.reminder.response.details.label": "重复瓶子清单。",
+    "quest.field_medicine.clean_bandages.stage.seal_jars.dialogue.reminder.response.leave.label": "我会带来它。",
+    "quest.field_medicine.clean_bandages.stage.seal_jars.objective.bring_glass_bottles.tracker.complete_text": "干净的瓶子就准备好了。",
+    "quest.field_medicine.clean_bandages.stage.seal_jars.objective.bring_glass_bottles.tracker.text": "带 4 个玻璃瓶来存放干净的混合物。",
+    "quest.field_medicine.clean_bandages.stage.seal_jars.objective.bring_honey.tracker.complete_text": "蜂蜜瓶已准备好。",
+    "quest.field_medicine.clean_bandages.stage.seal_jars.objective.bring_honey.tracker.text": "带 2 个蜂蜜瓶作为野外工具包。",
+    "quest.field_medicine.clean_bandages.stage.seal_jars.scene.leave.lines": [
+      "如果必须的话，可以凭记忆给瓶子贴上标签，但不要只相信记忆。"
+    ],
+    "quest.field_medicine.clean_bandages.stage.seal_jars.scene.reminder_details.action.remind.lines.reminder": [
+      "携带 2 个蜂蜜瓶和 4 个玻璃瓶作为野外工具包。"
+    ],
+    "quest.field_medicine.clean_bandages.stage.seal_jars.scene.reminder_details.action.remind.lines.unavailable": [
+      "罐子可以等到布料和绳子准备好。"
+    ],
+    "quest.field_medicine.clean_bandages.stage.seal_jars.ui.tracker_text": "带2个蜂蜜瓶和4个玻璃瓶。",
+    "quest.field_medicine.clean_bandages.title": "绷带"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "poison_baby": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "poison_baby"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

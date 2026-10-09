@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "id": "create:cogwheel"
+    },
+    "title": {
+      "translate": "advancements.letstogether.workshop.root.title",
+      "fallback": "Workshop"
+    },
+    "description": {
+      "translate": "advancements.letstogether.workshop.root.description",
+      "fallback": "Machines and automation."
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false,
+    "background": "minecraft:textures/block/andesite.png"
+  },
+  "criteria": {
+    "welcome": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "requirements": [
+    [
+      "welcome"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

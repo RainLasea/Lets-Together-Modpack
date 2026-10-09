@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "scan_and_kill": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "scan_and_kill"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

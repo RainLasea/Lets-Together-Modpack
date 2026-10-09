@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "tame_bear": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "tame_bear"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

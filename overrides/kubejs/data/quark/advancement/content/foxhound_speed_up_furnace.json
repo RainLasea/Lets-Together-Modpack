@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "foxhound_speed_up_furnace": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "foxhound_speed_up_furnace"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

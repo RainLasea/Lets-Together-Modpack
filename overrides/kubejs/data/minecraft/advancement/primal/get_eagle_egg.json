@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "eagle_egg": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "eagle_egg"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,40 @@
+{
+  "display": {
+    "icon": {
+      "id": "irons_spellbooks:gold_spell_book"
+    },
+    "title": {
+      "translate": "advancements.letstogether.magic.inscription_table.title",
+      "fallback": "Open Your Books"
+    },
+    "description": {
+      "translate": "advancements.letstogether.magic.inscription_table.description",
+      "fallback": "Obtain an inscription table to unlock the mana display."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "inscription_table": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "irons_spellbooks:inscription_table"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "inscription_table"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:magic/root"
+}

@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "use_tuning_fork": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "use_tuning_fork"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

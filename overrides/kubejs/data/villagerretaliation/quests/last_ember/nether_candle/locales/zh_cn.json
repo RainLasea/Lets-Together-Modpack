@@ -1,0 +1,88 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.last_ember.nether_candle.description": "将最后的余烬研究带入下界材料并了解哪些火焰值得尊重。",
+    "quest.last_ember.nether_candle.stage.bottle_heat.dialogue.reminder.label": "关于下界之烛",
+    "quest.last_ember.nether_candle.stage.bottle_heat.dialogue.reminder.lines": [
+      "棒证明了火。现在带上粉末和萤石粉，这样就可以在不烧纸的情况下上课。"
+    ],
+    "quest.last_ember.nether_candle.stage.bottle_heat.dialogue.reminder.response.details.label": "重复装瓶工作。",
+    "quest.last_ember.nether_candle.stage.bottle_heat.dialogue.reminder.response.leave.label": "我会带来它。",
+    "quest.last_ember.nether_candle.stage.bottle_heat.objective.bring_blaze_powder.tracker.complete_text": "火焰粉就准备好了。",
+    "quest.last_ember.nether_candle.stage.bottle_heat.objective.bring_blaze_powder.tracker.text": "带 4 个火焰粉来控制火焰。",
+    "quest.last_ember.nether_candle.stage.bottle_heat.objective.bring_glowstone.tracker.complete_text": "萤石粉准备好了。",
+    "quest.last_ember.nether_candle.stage.bottle_heat.objective.bring_glowstone.tracker.text": "带上 8 个萤石粉，让课程保持明亮。",
+    "quest.last_ember.nether_candle.stage.bottle_heat.scene.leave.lines": [
+      "瓶子里的粉末仍然是耐火的。"
+    ],
+    "quest.last_ember.nether_candle.stage.bottle_heat.scene.reminder_details.action.remind.lines.reminder": [
+      "为下界之烛携带 4 个火焰粉和 8 个萤石粉。"
+    ],
+    "quest.last_ember.nether_candle.stage.bottle_heat.scene.reminder_details.action.remind.lines.unavailable": [
+      "瓶装火焰可以等待点火工作完成。"
+    ],
+    "quest.last_ember.nether_candle.stage.bottle_heat.ui.tracker_text": "带上 4 个火焰粉和 8 个萤石粉。",
+    "quest.last_ember.nether_candle.stage.bright_heat.dialogue.offer.label": "下界之烛",
+    "quest.last_ember.nether_candle.stage.bright_heat.dialogue.offer.lines": [
+      "珍珠教会了我们看向别处的形状。火教一些不太礼貌的东西。",
+      "带上火焰棒，证明你面对过制造它们的东西。之后，我们仔细地总结课程。"
+    ],
+    "quest.last_ember.nether_candle.stage.bright_heat.dialogue.offer.response.accept.label": "我会带来地狱之火。",
+    "quest.last_ember.nether_candle.stage.bright_heat.dialogue.offer.response.decline.label": "还没有。",
+    "quest.last_ember.nether_candle.stage.bright_heat.dialogue.reminder.label": "关于下界之烛",
+    "quest.last_ember.nether_candle.stage.bright_heat.dialogue.reminder.lines": [
+      "击败火焰并带上木棒。这个教训需要的是赢得的热量，而不是从箱子里偷来的热量。"
+    ],
+    "quest.last_ember.nether_candle.stage.bright_heat.dialogue.reminder.response.details.label": "重复消防工作。",
+    "quest.last_ember.nether_candle.stage.bright_heat.dialogue.reminder.response.leave.label": "我会处理的。",
+    "quest.last_ember.nether_candle.stage.bright_heat.objective.bring_blaze_rods.tracker.complete_text": "火焰棒已准备就绪。",
+    "quest.last_ember.nether_candle.stage.bright_heat.objective.bring_blaze_rods.tracker.text": "带2根火焰棒作为可以计算的热量。",
+    "quest.last_ember.nether_candle.stage.bright_heat.objective.defeat_blazes.tracker.complete_text": "火灾威胁已被测量。",
+    "quest.last_ember.nether_candle.stage.bright_heat.objective.defeat_blazes.tracker.text": "击败 3 个火焰以进行下界之烛研究。",
+    "quest.last_ember.nether_candle.stage.bright_heat.scene.decline.lines": [
+      "好的。下界工作永远不应该因为有人感到匆忙而开始。"
+    ],
+    "quest.last_ember.nether_candle.stage.bright_heat.scene.leave.lines": [
+      "如果可以的话，把眉毛带回来。"
+    ],
+    "quest.last_ember.nether_candle.stage.bright_heat.scene.reminder_details.action.remind.lines.reminder": [
+      "击败 3 个火焰并为下界之烛带来 2 个火焰棒。"
+    ],
+    "quest.last_ember.nether_candle.stage.bright_heat.scene.reminder_details.action.remind.lines.unavailable": [
+      "下界之烛课程目前尚未开放。"
+    ],
+    "quest.last_ember.nether_candle.stage.bright_heat.scene.start_quest.action.start.lines.already_completed": [
+      "下界之烛已经写好了。"
+    ],
+    "quest.last_ember.nether_candle.stage.bright_heat.scene.start_quest.action.start.lines.started": [
+      "击败 3 只火焰并带上 2 根火焰棒。尊重火，但不要奉承它。"
+    ],
+    "quest.last_ember.nether_candle.stage.bright_heat.scene.start_quest.action.start.lines.unavailable": [
+      "下界之烛课程目前尚未准备好。"
+    ],
+    "quest.last_ember.nether_candle.stage.bright_heat.ui.tracker_text": "击败 3 只火焰并带上 2 根火焰棒。",
+    "quest.last_ember.nether_candle.stage.return.dialogue.turn_in.label": "关于下界之烛",
+    "quest.last_ember.nether_candle.stage.return.dialogue.turn_in.lines": [
+      "这是可以命名的火焰。危险，但有名字。"
+    ],
+    "quest.last_ember.nether_candle.stage.return.dialogue.turn_in.response.complete.label": "写下界之烛。",
+    "quest.last_ember.nether_candle.stage.return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.last_ember.nether_candle.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "好的。第二个注释是这样说的：有些火引导，有些火消耗，智慧始于了解差异。"
+    ],
+    "quest.last_ember.nether_candle.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "下界之烛课程仍然缺少一些东西。"
+    ],
+    "quest.last_ember.nether_candle.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "在我们结束课程之前，将下界材料带到这里。"
+    ],
+    "quest.last_ember.nether_candle.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "我现在无法关闭下界之烛。"
+    ],
+    "quest.last_ember.nether_candle.stage.return.scene.leave.lines": [
+      "保持粉末密封。当他们不逃跑时，教训会更好。"
+    ],
+    "quest.last_ember.nether_candle.stage.return.ui.tracker_text": "带着下界之烛材料返回。",
+    "quest.last_ember.nether_candle.title": "下界之烛"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "complete_refuge": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "complete_refuge"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

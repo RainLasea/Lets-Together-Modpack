@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "id": "farmersdelight:cooking_pot"
+    },
+    "title": {
+      "translate": "advancements.letstogether.farm.root.title",
+      "fallback": "Farm and Kitchen"
+    },
+    "description": {
+      "translate": "advancements.letstogether.farm.root.description",
+      "fallback": "Farming and cooking."
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false,
+    "background": "minecraft:textures/block/hay_block_side.png"
+  },
+  "criteria": {
+    "welcome": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "requirements": [
+    [
+      "welcome"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

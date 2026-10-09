@@ -1,0 +1,372 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.dangerous_commissions.nether_wart_warranty.description": {
+      "lines": [
+        "到达下界堡垒并带着下界疣和火焰棒返回。"
+      ]
+    },
+    "quest.dangerous_commissions.nether_wart_warranty.dialogue.already_completed": {
+      "lines": [
+        "事情结束得还算顺利。我们已经解决了下界疣的保修问题。",
+        "我记得你第一次回来。你已经从地狱要塞带回了我们需要的东西。",
+        "该章已关闭。下界疣保证已结束。我不会让你两次穿过火焰和熔岩。",
+        "该章已关闭。你的 路线 前往下界要塞已经在酿造说明中了。",
+        "从此一无所获。我记得你带着地狱疣回来的那一天。",
+        "我不会重新打开已完成的帐户。您获得了下界疣保修奖励，并且已支付。",
+        "这里没有第二次付款。我们有解药，因为你完成了前往地狱要塞的旅程。",
+        "从此一无所获。堡垒中没有任何东西有待恢复。",
+        "保留旧的计数。你从幽冥要塞带来的东西还在帮助村庄。",
+        "该章已关闭。你曾经证明过要塞路线。这就够了。",
+        "事情结束得还算顺利。酿造说明在完成的标记旁边带有您的名字。",
+        "你早期的作品仍然有效。将下界疣保修留在过去它所属的地方。",
+        "事情结束得还算顺利。您在第一次返回时就解决了下界疣保修的所有部分。",
+        "从此一无所获。到达了下界要塞并交付了下界疣证据。",
+        "该章已关闭。我会在幽冥要塞之外为你找到一条路，然后再送你回去。",
+        "事情结束得还算顺利。没有人忘记前往下界要塞的旅程花费了多少钱。",
+        "所欠的已经还清了。下界要塞的下界疣保修不需要您第二次访问。",
+        "我问的你都说完了。你给了我们地狱疣，而不是另一个谣言。",
+        "没有人需要这样做两次。下界疣保证正常结束，并且一直结束。",
+        "没有人需要这样做两次。我们现在可以展望未来。下界疣保证已完成。"
+      ]
+    },
+    "quest.dangerous_commissions.nether_wart_warranty.dialogue.inactive": {
+      "lines": [
+        "当重要的时候我会发布它。目前下界疣的保证条件并不合适。",
+        "还没有开始的理由。幽冥要塞的标记今天没有开放。",
+        "时间不对。我现在没有理由让你冒着大火和熔岩的危险。",
+        "还没有开始的理由。村庄还没有准备好使用地狱疣和一根火焰棒。",
+        "我不会把这个问题列入考虑范围。等到酿造音符要求前往下界要塞的旅程。",
+        "等店铺换了再问我。毫无必要的前往幽冥要塞，只会带来危险。",
+        "今天没有什么需要做这项工作。堡垒 路线 可以保持折叠状态，直到时机改善。",
+        "暂时先别管那项工作。我暂时不考虑下界疣的保修。",
+        "现在，就让这件事平息吧。今天，下界要塞里没有什么需要我们回答的。",
+        "等店铺换了再问我。准备好前往下界要塞的装备，但先不要离开。",
+        "还没有开始的理由。下界疣保证是真实的。现在还不是。",
+        "我们还不需要它。我不会为了满足旧的音符而送你去烈火和熔岩。",
+        "现在，就让这件事平息吧。下界要塞可以等我们有空再回来。",
+        "时间不对。村里审查了酿造记录后再次询问。",
+        "不是今天。今天还没有对下界疣的主动宣称。",
+        "不是今天。通往幽冥要塞的路很安静，我打算就这样吧。",
+        "暂时先别管那项工作。现在开始下界疣保修会花费勇气却不会产生任何有用的结果。",
+        "董事会可以等待。下界疣保证尚未发布给任何旅行者。",
+        "今天没有什么需要做这项工作。给下界疣保修时间以使其变得必要。",
+        "暂时先别管那项工作。目前，请留在前往地狱要塞的旅程的这一侧。"
+      ]
+    },
+    "quest.dangerous_commissions.nether_wart_warranty.dialogue.locate_failed": {
+      "lines": [
+        "没有标记比假标记好。我无法从这里读取堡垒 路线。下界对于 敌对 的身份异常诚实。",
+        "图表有问题。我无法在幽冥要塞上留下值得信赖的标记。",
+        "小路已经冷了。我检查过的每台 路线 在要塞前都会崩溃。",
+        "我的地图让我们失望了。下界要塞的地图不一致，火焰和开放的熔岩没有留下任何猜测的空间。",
+        "小路已经冷了。我发现了关于幽冥要塞的传闻，但我不会给你任何道路。",
+        "在我认路之前，你就待在这里。下界要塞已经超出了我的下界要塞图表。",
+        "在我认路之前，你就待在这里。如果没有坚定的方位，幽疣质保就会飘忽不定。",
+        "在我认路之前，你就待在这里。我最好的地图在堡垒应该在的地方是空白的。",
+        "没有标记比假标记好。我追踪到了三个 路线 前往下界要塞，而 信任 则没有。",
+        "可疑的地图风险太大。旧的下界要塞指示在危险开始之前就结束了。",
+        "我的地图让我们失望了。我不会假装猜测可以标记下界要塞。",
+        "我找不到可以给你的安全支撑。还没有侦察兵确认下界要塞的标记。",
+        "搜索没有发现任何可靠的结果。我还没来得及标记，通往地狱要塞的小路就变冷了。",
+        "我的地图让我们失望了。我需要的是幽冥要塞坐标，而不是篝火故事。",
+        "小路已经冷了。幽冥要塞或许在那里，但我无法证明在哪里。",
+        "旧的指示不再一致。下界要塞的方位均不通向同一地面。",
+        "小路已经冷了。在你准备离开之前，让我找到一个诚实的堡垒路线。",
+        "我不会猜测 路线。今天的酿造说明提供的是警告，而不是指示。",
+        "我不会猜测 路线。当我需要确定性时，下界要塞地图却让我产生怀疑。",
+        "我的地图让我们失望了。等幽冥要塞之路回来后给了我们答案。"
+      ]
+    },
+    "quest.dangerous_commissions.nether_wart_warranty.dialogue.missing_proof": {
+      "lines": [
+        "证据仍然很重要。带上地狱疣。整个请求都是围绕它写的。",
+        "证据必须到达我的手中。地狱疣在你的回归中仍然不见踪影。",
+        "你回来时却没有带我要的一件东西。如果没有一致同意的地狱疣证据，我无法关闭酿造记录。",
+        "证据仍然很重要。你面对了幽冥要塞，但村庄仍然需要幽冥疣。",
+        "你的话并不是缺失的部分。在我们解决下界疣保修之前，带回下界疣和一根火焰棒。",
+        "证据仍然很重要。你的故事可能是真的。我还需要地狱疣。",
+        "你带回家的东西决定了这一点。当幽冥疣易主时，前往幽冥要塞的旅程就结束了。",
+        "我无法在空的退货单上签字。不要到达地狱要塞而忘记验证它的地狱疣。",
+        "我无法在空的退货单上签字。我知道你旅行过。我需要幽冥要塞的结果。",
+        "证据仍然很重要。下界疣保证奖励等待下界疣的证据，而不是讲述。",
+        "你的话并不是缺失的部分。给我看下界疣，下界疣保修就可以关闭。",
+        "你的话并不是缺失的部分。酿造笔记中的空白处等待着您恢复的内容。",
+        "我相信你去了，但这还不够。言语不能代替治疗。",
+        "让我看看你带回来了什么。在两次前往下界要塞之前检查一下你的背包。",
+        "你回来时却没有带我要的一件东西。下界疣保证从一开始就命名了它的证据。",
+        "带回来一些村里可以核实的东西。将地狱疣的证据带到这里，而不是将其留在 仓储 中。",
+        "我需要一些我能握住的东西。村庄要求地狱疣和一根火焰棒，但仍未完成。",
+        "我相信你去了，但这还不够。当我看到要塞 路线 发出的内容后，我可以记录它。",
+        "我无法在空的退货单上签字。一次下界疣交接会将下界疣保修与完成分开。",
+        "最后一个要求仍然缺失。当地狱疣到达你手中时返回。"
+      ]
+    },
+    "quest.dangerous_commissions.nether_wart_warranty.dialogue.missing_target": {
+      "lines": [
+        "你还没有走得足够远。没有堡垒路线的地狱疣是一个猜测。我需要确认地点。",
+        "你还没有走得足够远。你还没有确认下界要塞本身。",
+        "你不能跳过任务的核心。如果永远无法到达下界要塞，那么这些货物就毫无意义。",
+        "我需要确认该网站。下界疣保证包括路上和退货。",
+        "靠近它不算数。在你给我带来证据之前，先踏入要塞。",
+        "达到目标是承诺的一部分。我向幽冥要塞索要证据，而不是其他地方。",
+        "必须到达该地点本身。下界要塞在酿造笔记中保持不变。",
+        "必须到达该地点本身。在领取下界疣保证奖励之前完成外出旅程。",
+        "你不能跳过任务的核心。借来的地狱疣并不能代替到达地狱堡垒。",
+        "你还没有走得足够远。下界要塞地图仍然显示你停了下来。",
+        "先完成外出的旅程。前往标记的地方并通过那里查看下界疣保修。",
+        "我需要确认该网站。要塞 路线 必须在下界要塞结束，而不是靠近它。",
+        "地图上仍然显示着未完成的旅程。在我相信这份报告之前，我需要你关注下界要塞。",
+        "先完成外出的旅程。不要跳过在你面前放出火焰和开放熔岩的部分。",
+        "地图上仍然显示着未完成的旅程。村庄要求你确认堡垒的存在。",
+        "达到目标是承诺的一部分。你回来的还早。幽冥要塞还在等待。",
+        "路一定会在我送你去的地方结束。到达下界要塞，然后找回下界疣和一根火焰棒。",
+        "我需要确认该网站。通往地狱要塞的旅程尚未完成，而最后的目标尚未到达。",
+        "这项任务不仅仅与货物有关。酿造笔记需要一个确定的地方，而不仅仅是一个物品。",
+        "这项任务不仅仅与货物有关。返回地狱要塞并完成你开始的事情。"
+      ]
+    },
+    "quest.dangerous_commissions.nether_wart_warranty.dialogue.reminder": {
+      "lines": [
+        "你还没有完成。 {target_x}、{target_z} 附近的堡垒。地狱疣是治疗方法。 <gradient:gold:red><pulse>火焰</pulse></gradient> 棒证明您已经达到了极限。",
+        "继续你接受的工作。幽冥要塞还在{target_x}、{target_z}附近。",
+        "离开之前，请再听一遍。该标记仍然靠近 {target_x}、{target_z}，因此请保留计划中的堡垒 路线。",
+        "记住村庄在等待什么。再次查看地图。幽冥要塞还在{target_x}、{target_z}附近。",
+        "这项工作仍有未完成的任务。下界疣保修仍然需要下界疣和一根 <gradient:gold:red><pulse>火焰</pulse></gradient> 棒。",
+        "遵守我给你的指示。进去的时候要注意火焰和开放的熔岩。",
+        "使这一切得到适当的完成。不要在未携带下界疣的情况下离开下界要塞。",
+        "将回程行程保留在您的计划中。你的回归应该会给我们带来治愈的方法。",
+        "离开之前，请再听一遍。在地标模糊之前检查 {target_x}、{target_z} 的下界要塞方位。",
+        "记住村庄在等待什么。恢复地狱疣后，请确保其安全。",
+        "不要让已完成的一步分散您的注意力。酿造说明一直保持开放状态，直到您回家为止。",
+        "继续你接受的工作。不要盲目冲向下界要塞。按照标记并完整返回。",
+        "你还没有完成。下界要塞从{target_x}、{target_z}一直没有移动。",
+        "你还没有完成。记住你为什么要去。我们需要从要塞获取药品。",
+        "不要让已完成的一步分散您的注意力。如果要塞 路线 感觉不对，请对照 {target_x}、{target_z} 检查您的位置。",
+        "继续你接受的工作。困难的部分是到达堡垒并带着证据离开。",
+        "使这一切得到适当的完成。幽冥要塞还在{target_x}、{target_z}附近等待。",
+        "遵守我给你的指示。将地狱疣的每个部分和一根 <gradient:gold:red><pulse>火焰</pulse></gradient> 棒重新组装在一起。",
+        "牢记整个任务。我宁愿等待，也不愿收到约定的一半地狱疣。",
+        "牢记整个任务。找到下界要塞，在那里做下界疣保修，然后回到我身边。"
+      ]
+    },
+    "quest.dangerous_commissions.nether_wart_warranty.dialogue.start": {
+      "lines": [
+        "在你同意之前，先听听所有的内容。要塞标记位于 {direction}，距离 {distance} 大约一个街区，靠近 {target_x}、{target_z}。带上地狱疣和一根 <gradient:gold:red><pulse>火焰</pulse></gradient> 棒。",
+        "在你同意之前，先听听所有的内容。我在{target_x}、{target_z}附近标记了下界要塞。",
+        "我选择你是有原因的。向 {direction} 行驶约 {distance} 方块并寻找堡垒。",
+        "仅当您准备好时才接受任务。任务是从要塞获取药品。",
+        "让我们清楚地了解这项工作。带着地狱疣和一根 <gradient:gold:red><pulse>火焰</pulse></gradient> 棒回家，所以村子里的谣言不止于此。",
+        "仅当您准备好时才接受任务。这条路穿过火焰和开放的熔岩，所以在出发前做好准备。",
+        "仅当您准备好时才接受任务。我需要有人愿意到达下界要塞并带着证据回来。",
+        "仔细听。根据我的地图，下界要塞位于 {target_x}、{target_z} 附近。",
+        "这是工作。跟随 {direction} 轴承并保持冲泡音符干燥。",
+        "认真对待这件事。下界疣保修从下界要塞开始，到下界疣到达我时结束。",
+        "这是工作。下界要塞标记距离大约 {distance} 个街区。不要将速度误认为是谨慎。",
+        "我把一些重要的事情托付给你。带上地狱疣和一根 <gradient:gold:red><pulse>火焰</pulse></gradient> 棒，我可以把这个风险变成有用的东西。",
+        "在你同意之前，先听听所有的内容。村庄需要治愈，而不是在火灾中吹嘘。",
+        "我有一个困难的请求。我信任你要塞路线，因为它并不友善。",
+        "我需要你来看看这件事。前往{target_x}、{target_z}，亲自确认下界要塞。",
+        "让我们清楚地了解这项工作。在穿越最后一个安全地带之前，做好应对大火和熔岩的准备。",
+        "我把一些重要的事情托付给你。向外的旅程证明了幽冥要塞地图。回报证明了你。",
+        "这需要小心谨慎。不要从要塞空手而归。",
+        "我把一些重要的事情托付给你。仅当您打算完成旅行和恢复时才接受下界疣保修。",
+        "仅当您准备好时才接受任务。当你有地狱疣和一根 <gradient:gold:red><pulse>火焰</pulse></gradient> 棒时，直接把它带到这里。"
+      ]
+    },
+    "quest.dangerous_commissions.nether_wart_warranty.dialogue.turn_in": {
+      "lines": [
+        "你已经看透了。这将不仅仅是药物。它将酝酿成信心。拿走你的奖励吧。",
+        "村里可以用这个。你到达了下界要塞并把下界疣带回家了。",
+        "困难的部分已经过去了。酝酿笔记终于有了真正的结局。",
+        "你使工作得到了圆满的结束。这就是解药，坚固得足以容纳。",
+        "你已经看透了。因为你冒险了，所以村庄可以从要塞获得药品。",
+        "你使工作得到了圆满的结束。我要了地狱疣和一根火焰棒，你却把所有零件都带回来了。",
+        "很好，你回来了。你穿过火焰和熔岩并保持头脑清醒。",
+        "你已经看透了。 路线要塞现已确认，而不仅仅是绘制的。",
+        "这将会带来真正的改变。我毫无疑问可以支付下界疣保修。",
+        "很好，你回来了。地狱疣比任何吹嘘都更能讲述这个故事。",
+        "我很高兴见到你回家。你让通往地狱要塞的危险道路对这里的每个人都有用。",
+        "这就是我需要的结果。下界要塞不再只是地图上的一个警告。",
+        "你使工作得到了圆满的结束。我会把你在地狱要塞的发现放在村庄可以研究的地方。",
+        "这次回归值得等待。下界疣保证是干净的，即使前往下界要塞的旅程并非如此。",
+        "现在我可以关闭账本了。这就是我希望看到的地狱疣证据。",
+        "这次回归值得等待。你从地狱要塞回来，不仅仅只是为了生存。你带来了答案。",
+        "你已经看透了。随着村庄做好更好的准备，下界疣保证期结束。",
+        "现在我可以关闭账本了。下一位前往下界要塞的旅行者将拥有您的 路线。",
+        "现在我可以关闭账本了。领取下界疣保修奖励。你在安全道路之外赢得了它。",
+        "村里可以用这个。我很高兴看到地狱疣和携带它的人。"
+      ]
+    },
+    "quest.dangerous_commissions.nether_wart_warranty.dialogue.unavailable": {
+      "lines": [
+        "您还没有准备好接受此请求。这个请求需要比你迄今为止向我展示的更稳定的手。",
+        "我现在还不能相信你。下界疣保证要求我对你还没有信任。",
+        "这需要我们更了解的人。今天我无法通过火焰和开放熔岩向您提供 路线。",
+        "我现在还不能相信你。下界要塞不是未经考验的盟友的立足之地。",
+        "不，风险太高了。在索取下界要塞地图之前，请先在这里进行更稳定的工作。",
+        "不，风险太高了。我需要一个可以信任的人从幽冥要塞回来。",
+        "在再次询问之前先赢得我们的信任。酿造笔记暂时对您不开放。",
+        "这个村庄需要更稳定的手。下界疣保证的风险不仅仅是旅行者的生命。",
+        "目前答案是否定的。赢得我们的信任，然后再询问要塞的情况。",
+        "我首先需要证明你的判断力。治愈后我不会派陌生人来。",
+        "目前答案是否定的。毫无疑问，幽冥要塞对我们来说已经足够危险了。",
+        "这个村庄需要更稳定的手。您的名字还没有出现在酿造笔记的 信任 页面上。",
+        "今天这项工作不是你的。有比下界疣保修更安全的任务可以向我展示你是如何工作的。",
+        "我不会把这个负担加在你身上。在提供前往幽冥要塞的旅程之前，我需要判断的证据。",
+        "我不会把这个负担加在你身上。目前，下界要塞地图仍处于折叠状态。",
+        "您还没有准备好接受此请求。村庄还没有准备好将堡垒中的安全药品押在你身上。",
+        "目前答案是否定的。等你和我们待得更久之后再询问关于地狱要塞的事情。",
+        "不，风险太高了。勇气可能到达地狱要塞。可靠性将地狱疣带回家。",
+        "我不会把这个负担加在你身上。下界疣保修由经过验证的双手提供。",
+        "这需要我们更了解的人。当我们信任你通往地狱要塞的道路时我会告诉你。"
+      ]
+    },
+    "quest.dangerous_commissions.nether_wart_warranty.objective.bring_blaze_rod.complete_text": {
+      "lines": [
+        "火焰棒证明了 路线。"
+      ]
+    },
+    "quest.dangerous_commissions.nether_wart_warranty.objective.bring_blaze_rod.text": {
+      "lines": [
+        "带上一根火焰棒，以便牧师知道堡垒是真实的。"
+      ]
+    },
+    "quest.dangerous_commissions.nether_wart_warranty.stage.return.dialogue.turn_in.label": "关于下界疣保证",
+    "quest.dangerous_commissions.nether_wart_warranty.stage.return.dialogue.turn_in.lines": [
+      "疣是活的，棒是真的，酿造台终于有工作了。",
+      "一次危险的旅行可能会为我们酿造的每一瓶药水埋下种子。",
+      "在我关闭笔记之前让我看看完整的作品。"
+    ],
+    "quest.dangerous_commissions.nether_wart_warranty.stage.return.dialogue.turn_in.response.complete.label": "交出工作。",
+    "quest.dangerous_commissions.nether_wart_warranty.stage.return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.dangerous_commissions.nether_wart_warranty.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "疣是活的，棒是真的，酿造台终于有工作了。",
+      "一次危险的旅行可能会为我们酿造的每一瓶药水埋下种子。"
+    ],
+    "quest.dangerous_commissions.nether_wart_warranty.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "完整的工作尚未准备好进行计算。"
+    ],
+    "quest.dangerous_commissions.nether_wart_warranty.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "在我们解决这个问题之前，请带上证据。",
+      "我需要在这里提交完整的内容，而不仅仅是故事。"
+    ],
+    "quest.dangerous_commissions.nether_wart_warranty.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "原料 背后需要一个真正的目的地。",
+      "在我们称之为完成之前到达标记的地方。"
+    ],
+    "quest.dangerous_commissions.nether_wart_warranty.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "下界疣保修目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.dangerous_commissions.nether_wart_warranty.stage.return.scene.turn_in_wait.lines": [
+      "要塞印记，八颗幽冥疣，一根火焰棒。",
+      "当工作准备好时再回来。"
+    ],
+    "quest.dangerous_commissions.nether_wart_warranty.stage.return.ui.tracker_text": "返回任务给予者。",
+    "quest.dangerous_commissions.nether_wart_warranty.stage.work.dialogue.offer.label": "下界疣保证",
+    "quest.dangerous_commissions.nether_wart_warranty.stage.work.dialogue.offer.lines": [
+      "酿造台有瓶子、粉末，但没有地狱疣。这使它成为一个非常整洁的架子。",
+      "找到要塞花园并带回足够的疣来开始村里的农作物，再加上一根火焰棒来证明 路线。",
+      "到达标记的下界要塞并带上 8 个下界疣和 1 个火焰棒。"
+    ],
+    "quest.dangerous_commissions.nether_wart_warranty.stage.work.dialogue.offer.response.accept.label": "我能做到。",
+    "quest.dangerous_commissions.nether_wart_warranty.stage.work.dialogue.offer.response.decline.label": "现在不行。",
+    "quest.dangerous_commissions.nether_wart_warranty.stage.work.dialogue.reminder.label": "关于下界疣保证",
+    "quest.dangerous_commissions.nether_wart_warranty.stage.work.dialogue.reminder.lines": [
+      "要塞印记，八颗幽冥疣，一根火焰棒。",
+      "到达标记的下界要塞并带上 8 个下界疣和 1 个火焰棒。",
+      "找到要塞花园并带回足够的疣来开始村里的农作物，再加上一根火焰棒来证明 路线。"
+    ],
+    "quest.dangerous_commissions.nether_wart_warranty.stage.work.dialogue.reminder.response.abandon.label": "把这个放在一边。",
+    "quest.dangerous_commissions.nether_wart_warranty.stage.work.dialogue.reminder.response.details.label": "重复该工作。",
+    "quest.dangerous_commissions.nether_wart_warranty.stage.work.dialogue.reminder.response.leave.label": "我有。",
+    "quest.dangerous_commissions.nether_wart_warranty.stage.work.objective.bring_rod.tracker.complete_text": "火焰棒已准备就绪。",
+    "quest.dangerous_commissions.nether_wart_warranty.stage.work.objective.bring_rod.tracker.text": "带 1 个火焰棒作为 路线 证明。",
+    "quest.dangerous_commissions.nether_wart_warranty.stage.work.objective.bring_wart.tracker.complete_text": "地狱疣被封印了。",
+    "quest.dangerous_commissions.nether_wart_warranty.stage.work.objective.bring_wart.tracker.text": "为酿造台带来 8 个地狱疣。",
+    "quest.dangerous_commissions.nether_wart_warranty.stage.work.objective.visit_fortress.tracker.complete_text": "要塞路线已确认。",
+    "quest.dangerous_commissions.nether_wart_warranty.stage.work.objective.visit_fortress.tracker.text": "到达标记的下界要塞。",
+    "quest.dangerous_commissions.nether_wart_warranty.stage.work.scene.abandon_confirm.lines": [
+      "把下界疣保证放在一边？",
+      "如果你确定的话我可以把你的名字从工作中删除。"
+    ],
+    "quest.dangerous_commissions.nether_wart_warranty.stage.work.scene.abandon_confirm.response.cancel.label": "保持打开状态。",
+    "quest.dangerous_commissions.nether_wart_warranty.stage.work.scene.abandon_confirm.response.confirm.label": "把它放在一边。",
+    "quest.dangerous_commissions.nether_wart_warranty.stage.work.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "好的。我会从工作中清除你的名字。",
+      "便条收起来了。你可以稍后再问。"
+    ],
+    "quest.dangerous_commissions.nether_wart_warranty.stage.work.scene.abandon_quest.action.abandon.lines.abandoned_cooldown": [
+      "我会把这张纸条先搁置一段时间，然后再重新发布。",
+      "在你再次提出要求之前，先让工作休息一下。"
+    ],
+    "quest.dangerous_commissions.nether_wart_warranty.stage.work.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "下界疣保修目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.dangerous_commissions.nether_wart_warranty.stage.work.scene.decline.lines": [
+      "酿造台可以等待。火灾并不是匆忙的理由。"
+    ],
+    "quest.dangerous_commissions.nether_wart_warranty.stage.work.scene.leave.lines": [
+      "要塞印记，八颗幽冥疣，一根火焰棒。",
+      "当工作准备好时再回来。"
+    ],
+    "quest.dangerous_commissions.nether_wart_warranty.stage.work.scene.reminder_details.action.remind.lines.reminder": [
+      "要塞印记，八颗幽冥疣，一根火焰棒。",
+      "到达标记的下界要塞并带上 8 个下界疣和 1 个火焰棒。",
+      "找到要塞花园并带回足够的疣来开始村里的农作物，再加上一根火焰棒来证明 路线。"
+    ],
+    "quest.dangerous_commissions.nether_wart_warranty.stage.work.scene.reminder_details.action.remind.lines.unavailable": [
+      "下界疣保修目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.dangerous_commissions.nether_wart_warranty.stage.work.scene.start_quest.action.start.lines.already_completed": [
+      "地狱疣的保修现在已经解决了。",
+      "这项工作已经被计算在内。"
+    ],
+    "quest.dangerous_commissions.nether_wart_warranty.stage.work.scene.start_quest.action.start.lines.locate_failed": [
+      "我在这里找不到值得信赖的标记。等道路畅通后再询问。",
+      "今天地图不会确定安全目的地。"
+    ],
+    "quest.dangerous_commissions.nether_wart_warranty.stage.work.scene.start_quest.action.start.lines.started": [
+      "走不止一条路回家。堡垒桥习惯于在你的脚下结束。",
+      "到达标记的下界要塞并带上 8 个下界疣和 1 个火焰棒。"
+    ],
+    "quest.dangerous_commissions.nether_wart_warranty.stage.work.scene.start_quest.action.start.lines.unavailable": [
+      "下界疣保修目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.dangerous_commissions.nether_wart_warranty.stage.work.ui.tracker_text": "到达下界要塞并带着 8 个下界疣和 1 个火焰棒返回。",
+    "quest.dangerous_commissions.nether_wart_warranty.title": {
+      "lines": [
+        "下界疣保证"
+      ]
+    },
+    "quest.dangerous_commissions.nether_wart_warranty.tracker.bring_blaze_rod.text": {
+      "lines": [
+        "带上一根带有地狱疣的火焰棒。"
+      ]
+    },
+    "quest.dangerous_commissions.nether_wart_warranty.tracker.proof.text": {
+      "lines": [
+        "收集地狱疣和火焰棒。"
+      ]
+    },
+    "quest.dangerous_commissions.nether_wart_warranty.tracker.return.text": {
+      "lines": [
+        "带着下界证据返回 任务 给予者。"
+      ]
+    },
+    "quest.dangerous_commissions.nether_wart_warranty.tracker.title": {
+      "lines": [
+        "下界疣保证"
+      ]
+    },
+    "quest.dangerous_commissions.nether_wart_warranty.tracker.travel.text": {
+      "lines": [
+        "找到 {target_x}、{target_z} 附近的堡垒。"
+      ]
+    }
+  }
+}

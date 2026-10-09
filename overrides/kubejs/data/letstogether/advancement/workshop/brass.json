@@ -1,0 +1,38 @@
+{
+  "display": {
+    "icon": {
+      "id": "create:brass_ingot"
+    },
+    "title": {
+      "translate": "advancements.letstogether.workshop.brass.title",
+      "fallback": "Brass at Last"
+    },
+    "description": {
+      "translate": "advancements.letstogether.workshop.brass.description",
+      "fallback": "Obtain a brass ingot."
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "0": {
+      "conditions": {
+        "items": [
+          {
+            "items": "create:brass_ingot"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:workshop/mixer"
+}

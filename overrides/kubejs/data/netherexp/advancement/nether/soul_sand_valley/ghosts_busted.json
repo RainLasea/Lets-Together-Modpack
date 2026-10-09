@@ -1,0 +1,55 @@
+{
+  "criteria": {
+    "minecraft:skeleton": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:ghast": {
+      "trigger": "minecraft:impossible"
+    },
+    "netherexp:wisp": {
+      "trigger": "minecraft:impossible"
+    },
+    "netherexp:apparition": {
+      "trigger": "minecraft:impossible"
+    },
+    "netherexp:vessel": {
+      "trigger": "minecraft:impossible"
+    },
+    "netherexp:ecto_slab": {
+      "trigger": "minecraft:impossible"
+    },
+    "netherexp:banshee": {
+      "trigger": "minecraft:impossible"
+    },
+    "netherexp:stampede": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "minecraft:skeleton"
+    ],
+    [
+      "minecraft:ghast"
+    ],
+    [
+      "netherexp:wisp"
+    ],
+    [
+      "netherexp:apparition"
+    ],
+    [
+      "netherexp:vessel"
+    ],
+    [
+      "netherexp:ecto_slab"
+    ],
+    [
+      "netherexp:banshee"
+    ],
+    [
+      "netherexp:stampede"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

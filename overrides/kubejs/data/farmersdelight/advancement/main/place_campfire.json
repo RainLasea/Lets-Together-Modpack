@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "campfire": {
+      "trigger": "minecraft:impossible"
+    },
+    "soul_campfire": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "campfire",
+      "soul_campfire"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

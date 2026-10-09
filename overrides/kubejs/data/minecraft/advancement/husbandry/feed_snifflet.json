@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "feed_snifflet": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "feed_snifflet"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

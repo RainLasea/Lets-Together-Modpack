@@ -1,0 +1,72 @@
+{
+  "display": {
+    "icon": {
+      "id": "nomansland:tap"
+    },
+    "title": {
+      "translate": "advancements.letstogether.farm.tap.title",
+      "fallback": "On Tap"
+    },
+    "description": {
+      "translate": "advancements.letstogether.farm.tap.description",
+      "fallback": "Collect resin or maple syrup with a tap and a cauldron."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "harvests_from_cauldron": {
+      "trigger": "minecraft:any_block_use",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:any_of",
+            "terms": [
+              {
+                "condition": "minecraft:block_state_property",
+                "block": "nomansland:resin_cauldron"
+              },
+              {
+                "condition": "minecraft:block_state_property",
+                "block": "nomansland:maple_syrup_cauldron"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "acquired_resin": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "nomansland:resin"
+          }
+        ]
+      }
+    },
+    "acquired_maple": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "nomansland:maple_syrup_bottle"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "harvests_from_cauldron"
+    ],
+    [
+      "acquired_maple",
+      "acquired_resin"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:farm/seeds"
+}

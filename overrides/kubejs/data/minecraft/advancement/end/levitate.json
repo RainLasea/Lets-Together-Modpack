@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "levitated": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "levitated"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

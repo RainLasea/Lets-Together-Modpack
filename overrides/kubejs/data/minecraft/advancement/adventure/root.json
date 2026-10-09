@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "killed_by_something": {
+      "trigger": "minecraft:impossible"
+    },
+    "killed_something": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "killed_something",
+      "killed_by_something"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

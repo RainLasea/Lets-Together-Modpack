@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "tags": [
+      "content.dialogue",
+      "dialogue.ambient",
+      "scope.profession.leatherworker",
+      "section.messages"
+    ],
+    "topic": "professions.leatherworker.messages"
+  },
+  "messages": [
+    {
+      "id": "leatherworker_gift_given_variants",
+      "key": "gift_given",
+      "lines": [
+        "以{gift_item}为例。好的装备应该能够行驶，而不是积满灰尘。",
+        "在这里，{gift_item}。它对你来说比在我的大锅旁边更有用。",
+        "在其他人领取 {gift_item} 之前，我已为您预留了它。",
+        "你看起来可以使用{gift_item}，所以我把它拿了过来。",
+        "保留 {gift_item}。我先仔细检查了一下。",
+        "这款 {gift_item} 应该比我的架子更适合您。",
+        "希望{gift_item}让接下来的旅程变得更加轻松。",
+        "你们帮助了这个村庄，{gift_item} 是我的一份感谢。",
+        "不要大惊小怪。就拿{gift_item}来说吧。",
+        "我宁愿看到你背着{gift_item}比没有。",
+        "{gift_item} 中充满了关怀，即使它看起来并不花哨。",
+        "在我改变主意并寻找它的其他用途之前，先拿走 {gift_item}。",
+        "我有一个备用的 {gift_item}，并且有充分的理由分享它。",
+        "用好{gift_item}，我们就算了。",
+        "我为您包裹了{gift_item}以抵御天气。",
+        "这款 {gift_item} 足够坚固，适合实际工作。",
+        "如果有任何东西开始松动，请将 {gift_item} 带回来。",
+        "我选择{gift_item}，因为有用的礼物是人们会记住的。",
+        "您赚取 {gift_item} 的诚实程度比大多数客户赚取折扣的程度还要高。",
+        "将 {gift_item} 放置在出现问题时可以触及的地方。"
+      ],
+      "weight": 48
+    },
+    {
+      "id": "leatherworker_gift_advice_followup_liked_variants",
+      "key": "gift_advice_followup.liked",
+      "lines": [
+        "好的。{gift_item} 与 {tested_villager} 配合得很好。",
+        "然后选择适合的。{tested_villager} 喜欢 {gift_item}。",
+        "我很高兴 {gift_item} 如此适合 {tested_villager}。",
+        "当您建议{gift_item}时，您对{tested_villager}的判断是正确的。",
+        "后来我听到{tested_villager}谈论{gift_item}。",
+        "{tested_villager} 的笑容告诉我 {gift_item} 很受欢迎。",
+        "你对 {gift_item} 的建议让我免于猜测 {tested_villager} 想要什么。",
+        "{gift_item} 似乎与 {tested_villager} 找到了合适的归宿。",
+        "我不会选择{gift_item}为了{tested_villager}没有你的帮助。",
+        "{tested_villager} 已经找到了 {gift_item} 的用途。",
+        "{tested_villager} 收到 {gift_item} 的方式让我们的努力变得值得。",
+        "你比我更匹配 {gift_item} 和 {tested_villager}。",
+        "我对 {gift_item} 不确定，但 {tested_villager} 证明你是对的。",
+        "{gift_item} 让 {tested_villager} 平凡的一天变得更加美好。",
+        "我会记得 {tested_villager} 欣赏 {gift_item}。",
+        "在打开它之前，{tested_villager}似乎对{gift_item}很满意。",
+        "下次我需要{tested_villager}的礼物时，我会根据{gift_item}来判断。",
+        "{gift_item} 的任何内容都不会与 {tested_villager} 浪费。",
+        "您选择{gift_item}表明您确实在听{tested_villager}。",
+        "我欠你一句谢谢。{gift_item} 非常适合 {tested_villager}。"
+      ],
+      "weight": 44
+    },
+    {
+      "id": "leatherworker_gift_advice_followup_disliked_variants",
+      "key": "gift_advice_followup.disliked",
+      "lines": [
+        "对于 {gift_subject} 来说，{gift_item} 的选择太僵硬了。尝试 {alternative_gift}。",
+        "{gift_subject} 没有接受 {gift_item}。请携带 {alternative_gift} 来代替。",
+        "我们严重错过了 {gift_item} 和 {gift_subject}。{alternative_gift}可能更适合。",
+        "将 {gift_item} 放在一边。{gift_subject} 可能会欢迎 {alternative_gift}。",
+        "我不应该选择{gift_item}为了{gift_subject}。让我们尝试一下{alternative_gift}。",
+        "{gift_subject} 看起来与 {gift_item} 不太舒服，所以 {alternative_gift} 是我们的下一个猜测。",
+        "问题不在于 {gift_subject}。与 {alternative_gift} 不同，{gift_item} 根本没有达到目标。",
+        "将 {gift_item} 留给其他人，并将 {alternative_gift} 提供给 {gift_subject}。",
+        "我们了解到 {gift_subject} 对 {gift_item} 没有用处。也许 {alternative_gift} 会起作用。",
+        "当{gift_subject}看到{gift_item}时，我注意到了失望。下次选择{alternative_gift}。",
+        "{gift_item} 可能没问题，但 {gift_subject} 就错了。{alternative_gift}听起来更个性化。",
+        "您的建议让我们找到了 {gift_item}，但 {gift_subject} 讨厌它。现在我们尝试{alternative_gift}。",
+        "不防御 {gift_item} 至 {gift_subject}。将其替换为 {alternative_gift}。",
+        "{gift_subject}值得比{gift_item}更好的搭配。我会从 {alternative_gift} 开始。",
+        "我们考虑的是物体而不是{gift_subject}。这就是 {gift_item} 失败而 {alternative_gift} 可能不会的原因。",
+        "{gift_subject}的下一个礼物应该是{alternative_gift}，而不是另一个{gift_item}。",
+        "我会为{gift_item}找到另一个家。您可以将 {alternative_gift} 带到 {gift_subject}。",
+        "对于 {gift_subject} 来说，精美的 {gift_item} 仍然是一个糟糕的礼物。尝试 {alternative_gift}。",
+        "至少{gift_subject}对{gift_item}是诚实的。我们可以用{alternative_gift}来纠正它。",
+        "记住{gift_item}是如何与{gift_subject}登陆的，然后选择{alternative_gift}。"
+      ],
+      "weight": 44
+    },
+    {
+      "key": "gift_advice_followup.disliked",
+      "lines": [
+        "这个建议很恼火。收起 {gift_item}，带上 {alternative_gift}。",
+        "将 {gift_item} 放在一边。{alternative_gift}应该着陆得更好。",
+        "我们通过用 {alternative_gift} 替换 {gift_item} 来纠正猜测。",
+        "我警告过你 {gift_item} 感觉不对。立即尝试 {alternative_gift}。",
+        "当 {alternative_gift} 是更好的选择时，不要继续推动 {gift_item}。",
+        "其他人可能想要 {gift_item}。此人应该获得 {alternative_gift}。",
+        "{gift_item}一出现，失望就显而易见了。找到 {alternative_gift}。",
+        "承认 {gift_item} 失败并不可耻。带上{alternative_gift}。",
+        "我宁愿用 {alternative_gift} 来修复错误，也不愿为 {gift_item} 争论。",
+        "将 {gift_item} 保留一天，然后使用 {alternative_gift} 进行下一次尝试。",
+        "问题在于选择是否合适。{gift_item} 被挤压到 {alternative_gift} 可以轻松坐的位置。",
+        "我们选择{gift_item}时测得不好。{alternative_gift}给了我们另一个机会。",
+        "我对 {gift_item} 的反应并没有感到高兴。也许{alternative_gift}可以改变它。",
+        "让错误的选择以{gift_item}结束。使用 {alternative_gift} 重新开始。",
+        "当你捍卫 {gift_item} 时，没有任何改善。去找{alternative_gift}。",
+        "如果您离开 {gift_item} 并携带 {alternative_gift}，下次访问将不再那么尴尬。",
+        "在提供 {alternative_gift} 之前，请使用我们从 {gift_item} 中学到的知识。",
+        "深思熟虑的修正不仅仅意味着坚持 {gift_item}。尝试 {alternative_gift}。",
+        "这个选择仍然可以修改。将 {gift_item} 换成 {alternative_gift}。",
+        "当你把{gift_item}收起来之后，我会帮你把{alternative_gift}包起来。"
+      ],
+      "dispositions": [
+        "cautious",
+        "rude",
+        "hostile",
+        "fearful"
+      ],
+      "weight": 20,
+      "id": "professions.leatherworker.messages.00_messages.messages.gift_advice_followup.disliked.003"
+    },
+    {
+      "key": "gift_advice_followup.disliked",
+      "lines": [
+        "你接受糟糕的建议太久了。将 {gift_item} 换成 {alternative_gift}。",
+        "不要再坚持使用 {gift_item}。这次带上{alternative_gift}来听听。",
+        "我说{gift_item}是一个糟糕的选择。 {alternative_gift} 可能会拯救这个局面。",
+        "在事情变得更糟之前收回 {gift_item}。改为提供 {alternative_gift}。",
+        "如果你留意的话，{gift_item} 仍然在货架上，而 {alternative_gift} 会被包装起来。",
+        "不要责怪收件人不喜欢 {gift_item}。您应该选择 {alternative_gift}。",
+        "{gift_item} 的这种反应是值得的。用 {alternative_gift} 纠正自己。",
+        "您想要一个简单的答案并选择了 {gift_item}。现在进行工作并找到 {alternative_gift}。",
+        "我不会帮你捍卫{gift_item}。我帮你换成{alternative_gift}。",
+        "如果必须的话，请将 {gift_item} 留在这里，但不要在没有 {alternative_gift} 的情况下返回。",
+        "问题在于你的判断，而不是 {gift_item} 的包装。尝试 {alternative_gift}。",
+        "你可以继续争论{gift_item}，也可以用{alternative_gift}来解决这个问题。",
+        "我们已经知道 {gift_item} 失败了。没有理由推迟{alternative_gift}。",
+        "有人在选择{gift_item}时忽略了理智。用 {alternative_gift} 进行弥补。",
+        "固执的礼物仍然是糟糕的礼物。放下 {gift_item}，拿起 {alternative_gift}。",
+        "如果下一个道歉是 {gift_item} 而不是 {alternative_gift}，那么听起来会很空洞。",
+        "当 {gift_item} 忽视你被告知的一切时，你的努力不会得到赞扬。带上{alternative_gift}。",
+        "别再把 {gift_item} 当作一个需要证明的点了。 {alternative_gift} 是更好的答案。",
+        "我可以软化皮革，而不是{gift_item}造成的侮辱。也许{alternative_gift}可以。",
+        "这很简单。 {gift_item} 消失，{alternative_gift} 取而代之。"
+      ],
+      "dispositions": [
+        "rude",
+        "hostile"
+      ],
+      "weight": 20,
+      "id": "professions.leatherworker.messages.00_messages.messages.gift_advice_followup.disliked.004"
+    }
+  ]
+}

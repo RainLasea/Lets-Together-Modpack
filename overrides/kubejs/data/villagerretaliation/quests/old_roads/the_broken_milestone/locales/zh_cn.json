@@ -1,0 +1,372 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.old_roads.the_broken_milestone.description": {
+      "lines": [
+        "找到附近的小径遗迹，并带上刷子和石头来恢复路标。"
+      ]
+    },
+    "quest.old_roads.the_broken_milestone.dialogue.already_completed": {
+      "lines": [
+        "该章已关闭。我们已经解决了破碎的里程碑。",
+        "没有人需要这样做两次。你已经带着我们需要的东西从小道废墟回来了。",
+        "所欠的已经还清了。破碎的里程碑已关闭。我不会让你两次穿过埋藏的石头和古老的尘土。",
+        "事情结束得还算顺利。您前往遗迹遗迹的 路线 已在公路记录中。",
+        "我不会重新打开已完成的帐户。我记得你拿着画笔回来的那天。",
+        "我记得你第一次回来。您赢得了“破碎的里程碑”的奖励，并且已支付。",
+        "事情结束得还算顺利。我们有被遗忘的道路，因为你完成了通往小径遗迹的旅程。",
+        "保留旧的计数。废墟中什么也没有恢复。",
+        "保留旧的计数。你从小道遗迹带来的东西仍在帮助村庄。",
+        "你早期的作品仍然有效。你曾经证明过路线废墟。这就够了。",
+        "没有人需要这样做两次。道路记录在完成的标记旁边有您的名字。",
+        "我记得你第一次回来。将破碎的里程碑留在过去，留在它所属的地方。",
+        "事情结束得还算顺利。你在第一次回归时就解决了破碎里程碑的所有部分。",
+        "保留旧的计数。到达了小道废墟，并交付了灌木丛证据。",
+        "从此一无所获。我会在小道废墟之外为你找到一条路，然后再送你回去。",
+        "这件事我们已经解决了。没有人忘记前往小径遗迹的旅程花费了多少费用。",
+        "我记得你第一次回来。小径遗迹中的破碎里程碑不需要您第二次访问。",
+        "我记得你第一次回来。你给了我们画笔，而不是另一个谣言。",
+        "该章已关闭。破碎的里程碑正确地结束了，而且仍然结束了。",
+        "我不会重新打开已完成的帐户。我们现在可以展望未来。破碎的里程碑已经完成。"
+      ]
+    },
+    "quest.old_roads.the_broken_milestone.dialogue.inactive": {
+      "lines": [
+        "现在，就让这件事平息吧。目前，《破碎的里程碑》的条件并不合适。",
+        "今天没有什么需要做这项工作。小径遗址的标志今天没有开放。",
+        "等店铺换了再问我。我现在没有理由让你冒着埋藏的石头和古老的灰尘的风险。",
+        "现在，就让这件事平息吧。村里没有准备好使用刷子和12块光滑的石头。",
+        "时间不对。等到道路记录要求前往小径遗迹。",
+        "我们还不需要它。毫无必要地前往小径遗迹只会带来危险。",
+        "时间不对。废墟 路线 可以保持折叠状态，直到时机改善。",
+        "村里可以等这一件事。我暂时将“破碎的里程碑”排除在外。",
+        "等店铺换了再问我。今天，小道废墟里没有什么需要我们回答的。",
+        "不是今天。准备好前往小径遗迹的装备，但先不要离开。",
+        "董事会可以等待。破碎的里程碑是真实的。现在还不是。",
+        "董事会可以等待。我不会送你去埋葬的石头和古老的尘土去满足一个古老的音符。",
+        "不是今天。小道废墟可以等到我们有需要时再返回。",
+        "暂时先别管那项工作。村里审核道路记录后再询问。",
+        "还没有开始的理由。今天没有对刷子的主动索赔。",
+        "等店铺换了再问我。通往小道遗迹的道路很安静，我打算就这样走下去。",
+        "现在，就让这件事平息吧。现在开始“破碎的里程碑”需要勇气，但不会有任何有用的结果。",
+        "现在，就让这件事平息吧。破碎的里程碑尚未发布给任何旅行者。",
+        "我们还不需要它。给破碎的里程碑一些时间，让其变得必要。",
+        "等店铺换了再问我。目前，请留在通往小径遗迹的旅程的这一侧。"
+      ]
+    },
+    "quest.old_roads.the_broken_milestone.dialogue.locate_failed": {
+      "lines": [
+        "我不能盲目地送你出去。今天的路上太安静了。我从这里找不到损坏的标记。",
+        "旧的指示不再一致。我无法在小道遗迹上留下值得信赖的标记。",
+        "没有标记比假标记好。我检查过的每台 路线 都在废墟前崩溃了。",
+        "我不能盲目地送你出去。小径遗迹的地图不一致，埋藏的石头和古老的灰尘没有留下任何猜测的空间。",
+        "可疑的地图风险太大。我发现了关于小道遗迹的传闻，但我不会给你任何道路。",
+        "旧的指示不再一致。小径废墟已经超出了我的小径废墟排行榜。",
+        "我找不到可以给你的安全支撑。如果没有坚定的方向，破碎的里程碑就会徘徊。",
+        "在我认路之前，你就待在这里。我最好的地图在应该是废墟的地方却是空白的。",
+        "图表有问题。我追踪到三台 路线 前往小径废墟，但没有追踪到 信任。",
+        "图表有问题。旧的小径遗迹指示在危险开始之前就结束了。",
+        "图表有问题。我不会假装猜测可以标记小道废墟。",
+        "我不能盲目地送你出去。尚无侦察员确认小径遗迹的标记。",
+        "旧的指示不再一致。我还没来得及标记，通往小径遗迹的小路就已经冷了。",
+        "我们首先需要一个值得信赖的路线。我需要的是小径遗迹坐标，而不是篝火故事。",
+        "我找不到可以给你的安全支撑。小道遗迹也许在那里，但我无法证明在哪里。",
+        "可疑的地图风险太大。遗迹遗迹方位均不通向同一个地面。",
+        "我们首先需要一个值得信赖的路线。在你准备离开之前，让我找到一个诚实的废墟路线。",
+        "没有标记比假标记好。今天的道路记录提供的是警告，而不是方向。",
+        "我不能盲目地送你出去。当我需要确定性时，小道废墟地图却让我产生怀疑。",
+        "小路已经冷了。到小道遗迹的路回来后会给我们答案。"
+      ]
+    },
+    "quest.old_roads.the_broken_milestone.dialogue.missing_proof": {
+      "lines": [
+        "带回来一些村里可以核实的东西。从工作中拿出一把画笔。一个干净的故事需要沾上灰尘。",
+        "证据仍然很重要。你回来时，刷子仍然不见了。",
+        "故事无法关闭账本。如果没有商定的刷子证据，我无法关闭道路记录。",
+        "我相信你去了，但这还不够。你面对着小道遗迹，但村庄仍然需要刷刷。",
+        "让我看看你带回来了什么。在我们解决破碎的里程碑之前，带回一把刷子和 12 块光滑的石头。",
+        "故事无法关闭账本。你的故事可能是真的。我还是需要刷子",
+        "你带回家的东西决定了这一点。当画笔易主时，前往小径遗迹的旅程就结束了。",
+        "让我看看你带回来了什么。不要到达小道废墟并忘记验证它的刷子。",
+        "你带回家的东西决定了这一点。我知道你旅行过。我需要小道遗迹的结果。",
+        "你的话并不是缺失的部分。破碎的里程碑奖励等待的是刷子证据，而不是讲述。",
+        "带回来一些村里可以核实的东西。给我看看画笔，破碎的里程碑就可以关闭了。",
+        "我无法在空的退货单上签字。道路记录中的空白处等待您恢复的内容。",
+        "带回来一些村里可以核实的东西。言语无法代替被遗忘的道路。",
+        "故事无法关闭账本。在两次前往小径遗迹之前检查一下你的背包。",
+        "最后一个要求仍然缺失。破碎的里程碑从一开始就命名了它的证明。",
+        "让我看看你带回来了什么。将刷子证据带到这里，而不是将其留在 仓储 中。",
+        "你带回家的东西决定了这一点。村里要了一把刷子和 12 块光滑的石头，但仍未完成。",
+        "让我看看你带回来了什么。当我看到废墟 路线 的内容后，我可以记录它。",
+        "带回来一些村里可以核实的东西。一刷交接将破碎的里程碑与完成分开。",
+        "最后一个要求仍然缺失。当刷子在你手中时返回。"
+      ]
+    },
+    "quest.old_roads.the_broken_milestone.dialogue.missing_target": {
+      "lines": [
+        "你还没有走得足够远。石头很有用，但我需要你先到达标记附近的废墟。",
+        "你还欠道路最后一英里。你还没有确认小道遗迹本身。",
+        "必须到达该地点本身。如果从未到达过小道废墟，那么这些货物就毫无意义。",
+        "你还欠道路最后一英里。破碎的里程碑包括道路和返回。",
+        "我需要确认该网站。在你给我带来证据之前，先踏入废墟。",
+        "旅程结束得太早了。我向小道遗迹索要证据，而不是其他地方。",
+        "地图上仍然显示着未完成的旅程。小径遗迹在公路记录中保持不变。",
+        "旅程结束得太早了。在领取“破碎的里程碑”奖励之前完成外出旅程。",
+        "必须到达该地点本身。借来的刷子并不能代替到达小径遗迹。",
+        "你还没有走得足够远。遗迹遗迹地图仍然显示你停下来了。",
+        "这项任务不仅仅与货物有关。前往标记的地方并通过那里看到破碎的里程碑。",
+        "你还没有走得足够远。 路线 废墟必须在小径废墟处结束，而不是靠近它。",
+        "你还欠道路最后一英里。在我相信这份报告之前，我需要你先看看小道废墟。",
+        "你还没有走得足够远。不要跳过将埋藏的石头和旧灰尘放在你面前的部分。",
+        "你还没有走得足够远。村庄要求你确认遗迹的存在。",
+        "靠近它不算数。你回来的还早。小道废墟仍在等待。",
+        "必须到达该地点本身。到达小径废墟，然后找回灌木丛和 12 块光滑的石头。",
+        "你还没有走得足够远。通往小径遗迹的旅程尚未完成，而最终的标记尚未到达。",
+        "这项任务不仅仅与货物有关。道路记录需要一个确认的地点，而不仅仅是一个项目。",
+        "你还欠道路最后一英里。返回小径废墟并完成你开始的事情。"
+      ]
+    },
+    "quest.old_roads.the_broken_milestone.dialogue.reminder": {
+      "lines": [
+        "你还没有完成。 {target_x}、{target_z} 附近的小径遗址。我需要一把刷子清除旧灰尘，并需要 12 块光滑的石头来清除新面孔。",
+        "这项工作仍有未完成的任务。小道遗迹仍在{target_x}、{target_z}附近。",
+        "下一步仍然很重要。该标记仍位于 {target_x}、{target_z} 附近，因此请保留计划的废墟 路线。",
+        "记住村庄在等待什么。再次查看地图。小径遗迹仍在{target_x}、{target_z}附近。",
+        "记住村庄在等待什么。破碎的里程碑仍然需要一把刷子和 12 块光滑的石头。",
+        "将回程行程保留在您的计划中。进去的时候要注意埋藏的石头和陈旧的灰尘。",
+        "不要让已完成的一步分散您的注意力。不要在没有灌木丛的情况下离开小径遗迹。",
+        "将回程行程保留在您的计划中。你的归来应该会给我们带来被遗忘的道路。",
+        "下一步仍然很重要。在地标模糊之前检查 {target_x}、{target_z} 处的小径遗迹方位。",
+        "不要让已完成的一步分散您的注意力。恢复刷子后请妥善保管。",
+        "你还没有完成。道路记录在您回家之前一直保持开放。",
+        "不要让已完成的一步分散您的注意力。不要盲目冲向小道遗迹。按照标记并完整返回。",
+        "不要让已完成的一步分散您的注意力。 {target_x}、{target_z}中的小道遗迹尚未移动。",
+        "记住村庄在等待什么。记住你为什么要去。我们需要恢复旧的路标。",
+        "牢记整个任务。如果 路线 废墟感觉不对，请对照 {target_x}、{target_z} 检查您的位置。",
+        "下一步仍然很重要。困难的部分是到达废墟并带着证据离开。",
+        "记住村庄在等待什么。小径遗迹仍在 {target_x}、{target_z} 附近等待。",
+        "离开之前，请再听一遍。将刷子的每个部分和 12 块光滑的石头重新组合在一起。",
+        "牢记整个任务。我宁愿等待，也不愿收到约定的刷子的一半。",
+        "记住村庄在等待什么。找到小道废墟，在那里完成破碎的里程碑，然后回到我身边。"
+      ]
+    },
+    "quest.old_roads.the_broken_milestone.dialogue.start": {
+      "lines": [
+        "让我们清楚地了解这项工作。旧标记是关于 {distance} 块 {direction}、{target_x}、{target_z} 附近。带上刷子和 12 块光滑的石头，以便我们可以正确设置 路线。",
+        "这是工作。我标记了 {target_x}、{target_z} 附近的小道遗迹。",
+        "仔细听。向 {direction} 行驶约 {distance} 方块并寻找废墟。",
+        "我把一些重要的事情托付给你。这项工作是修复旧的路标。",
+        "让我们清楚地了解这项工作。带着一把刷子和 12 块光滑的石头回家，所以村里的事情比谣言要多。",
+        "仔细听。这条路穿过埋藏的石头和陈旧的灰尘，所以在出发前做好准备。",
+        "我需要你来看看这件事。我需要有人愿意到达小道废墟并带着证据回来。",
+        "村里有工作给你。根据我的地图，小径遗迹位于 {target_x}、{target_z} 附近。",
+        "我把一些重要的事情托付给你。跟随 {direction} 轴承，保持道路记录干燥。",
+        "我选择你是有原因的。破碎的里程碑从小道废墟开始，在灌木丛到达我身边时结束。",
+        "仔细听。小径遗迹标记距离 {distance} 街区左右。不要将速度误认为是谨慎。",
+        "让我们清楚地了解这项工作。带上一把刷子和 12 块光滑的石头，我就能把这个风险变成有用的东西。",
+        "这是工作。村庄需要被遗忘的道路，而不是在大火中吹嘘。",
+        "仅当您准备好时才接受任务。我把废墟 路线 交给你，因为它并不友善。",
+        "我把一些重要的事情托付给你。前往 {target_x}、{target_z}，亲自确认小道遗迹。",
+        "我把一些重要的事情托付给你。在穿过最后一个安全地带之前，准备好埋藏的石头和陈旧的灰尘。",
+        "我需要你来看看这件事。向外的旅程证明了古迹废墟地图。回报证明了你。",
+        "在你同意之前，先听听所有的内容。不要从废墟中空手而归。",
+        "认真对待这件事。仅当您打算完成旅行和恢复时才选择“破碎的里程碑”。",
+        "我有一个困难的请求。当你有一把刷子和 12 块光滑的石头时，直接把它带到这里。"
+      ]
+    },
+    "quest.old_roads.the_broken_milestone.dialogue.turn_in": {
+      "lines": [
+        "这次回归值得等待。好的。修好的道路是一个安静的承诺，人们仍然可以回家。",
+        "这将会带来真正的改变。你到达了小道废墟并将灌木带回家。",
+        "您准确地交付了所需的内容。路记终于有了真正的结局。",
+        "很好，你回来了。这是被遗忘的路，坚固得足以支撑。",
+        "这将会带来真正的改变。村里可以恢复旧的路标，因为你冒险了。",
+        "这解决了我对你的要求。我要了一把刷子和 12 块光滑的石头，你把所有零件都回来了。",
+        "困难的部分已经过去了。你穿过埋藏的石头和古老的尘土，并保持头脑清醒。",
+        "您准确地交付了所需的内容。 路线遗址现已确认，而不仅仅是绘制出来的。",
+        "现在我可以关闭账本了。我毫无疑问可以支付破碎的里程碑。",
+        "你已经看透了。画笔比任何吹嘘都更能讲述故事。",
+        "我很高兴见到你回家。你让通往小径遗迹的危险道路对这里的每个人都有用。",
+        "村里可以用这个。小道废墟不再只是地图上的警告。",
+        "这就是我需要的结果。我会将你在小径遗迹中的发现放在村庄可以研究的地方。",
+        "现在我可以关闭账本了。破碎的里程碑是干净的，即使前往小径遗迹的旅程并不干净。",
+        "你使工作得到了圆满的结束。这就是我希望看到的刷证据。",
+        "这就是我需要的结果。你从小道废墟中回来，不仅仅只是为了生存。你带来了答案。",
+        "我很高兴见到你回家。随着村庄做好更好的准备，破碎的里程碑结束了。",
+        "我很高兴见到你回家。下一位前往小径遗迹的旅行者将拥有您的 路线。",
+        "困难的部分已经过去了。获得破碎的里程碑奖励。你在安全道路之外赢得了它。",
+        "这解决了我对你的要求。我很高兴看到这把刷子和拿着它的人。"
+      ]
+    },
+    "quest.old_roads.the_broken_milestone.dialogue.unavailable": {
+      "lines": [
+        "今天这项工作不是你的。 路线 尚未准备好供您使用。",
+        "这个村庄需要更稳定的手。破碎的里程碑要求我对你还没有信任。",
+        "不，风险太高了。今天我无法通过埋藏的石头和陈旧的灰尘向您提供 路线。",
+        "在再次询问之前先赢得我们的信任。小道废墟不适合未经考验的盟友。",
+        "这需要我们更了解的人。在索要小径遗迹地图之前，先在这里进行更稳定的工作。",
+        "这个村庄需要更稳定的手。我需要一个可以信任的人从小道遗迹回来。",
+        "我不会把这个负担加在你身上。目前，道路记录对您来说仍然关闭。",
+        "赢得更多信任后再回来。破碎的里程碑所面临的风险不仅仅是旅行者的生命。",
+        "目前答案是否定的。赢得我们的信任，然后再次询问废墟的情况。",
+        "这需要我们更了解的人。我不会在被遗忘的路后送一个陌生人。",
+        "今天这项工作不是你的。毫无疑问，小道废墟对我们来说已经足够危险了。",
+        "您还没有准备好接受此请求。您的名字尚未到达道路记录的 信任 页面。",
+        "赢得更多信任后再回来。有比破碎的里程碑更安全的任务可以向我展示您的工作方式。",
+        "我现在还不能相信你。在提供前往小径遗迹的旅程之前，我需要判断的证据。",
+        "在再次询问之前先赢得我们的信任。目前，小道遗迹地图仍处于折叠状态。",
+        "这个村庄需要更稳定的手。村庄还没有准备好修复你身上的旧路标。",
+        "我现在还不能相信你。等你和我们待得更久之后，再询问一下小径遗迹的情况。",
+        "今天这项工作不是你的。勇气可能会到达小道遗迹。可靠性让刷子回家。",
+        "我现在还不能相信你。破碎的里程碑由经过验证的人来完成。",
+        "这个村庄需要更稳定的手。当我们信任你通往小道遗迹的道路时我会告诉你。"
+      ]
+    },
+    "quest.old_roads.the_broken_milestone.objective.bring_smooth_stone.complete_text": {
+      "lines": [
+        "替换石头已准备就绪。"
+      ]
+    },
+    "quest.old_roads.the_broken_milestone.objective.bring_smooth_stone.text": {
+      "lines": [
+        "带 12 块光滑的石头来修复标记。"
+      ]
+    },
+    "quest.old_roads.the_broken_milestone.stage.return.dialogue.turn_in.label": "关于破碎的里程碑",
+    "quest.old_roads.the_broken_milestone.stage.return.dialogue.turn_in.lines": [
+      "旧号码再次可见。曾经有人测量过这条路，现在我们也可以了。",
+      "一根破损的记号笔又竖了起来。这条路有一种记忆。",
+      "在我关闭笔记之前让我看看完整的作品。"
+    ],
+    "quest.old_roads.the_broken_milestone.stage.return.dialogue.turn_in.response.complete.label": "交出工作。",
+    "quest.old_roads.the_broken_milestone.stage.return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.old_roads.the_broken_milestone.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "旧号码再次可见。曾经有人测量过这条路，现在我们也可以了。",
+      "一根破损的记号笔又竖了起来。这条路有一种记忆。"
+    ],
+    "quest.old_roads.the_broken_milestone.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "完整的工作尚未准备好进行计算。"
+    ],
+    "quest.old_roads.the_broken_milestone.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "在我们解决这个问题之前，请带上证据。",
+      "我需要在这里提交完整的内容，而不仅仅是故事。"
+    ],
+    "quest.old_roads.the_broken_milestone.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "原料 背后需要一个真正的目的地。",
+      "在我们称之为完成之前到达标记的地方。"
+    ],
+    "quest.old_roads.the_broken_milestone.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "破碎的里程碑目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.old_roads.the_broken_milestone.stage.return.scene.turn_in_wait.lines": [
+      "遗迹痕迹、一根刷子和十二块光滑的石头作为里程碑。",
+      "当工作准备好时再回来。"
+    ],
+    "quest.old_roads.the_broken_milestone.stage.return.ui.tracker_text": "返回任务给予者。",
+    "quest.old_roads.the_broken_milestone.stage.work.dialogue.offer.label": "破碎的里程碑",
+    "quest.old_roads.the_broken_milestone.stage.work.dialogue.offer.lines": [
+      "一个古老的里程碑埋在小路废墟附近，在道路忘记了自己的名字的地方被破坏了。",
+      "将标记刷干净并带上光滑的石头，以便我们可以再次举起它。",
+      "到达标记的小径废墟并带着刷子和 12 块光滑的石头返回。"
+    ],
+    "quest.old_roads.the_broken_milestone.stage.work.dialogue.offer.response.accept.label": "我能做到。",
+    "quest.old_roads.the_broken_milestone.stage.work.dialogue.offer.response.decline.label": "现在不行。",
+    "quest.old_roads.the_broken_milestone.stage.work.dialogue.reminder.label": "关于破碎的里程碑",
+    "quest.old_roads.the_broken_milestone.stage.work.dialogue.reminder.lines": [
+      "遗迹痕迹、一根刷子和十二块光滑的石头作为里程碑。",
+      "到达标记的小径废墟并带着刷子和 12 块光滑的石头返回。",
+      "将标记刷干净并带上光滑的石头，以便我们可以再次举起它。"
+    ],
+    "quest.old_roads.the_broken_milestone.stage.work.dialogue.reminder.response.abandon.label": "把这个放在一边。",
+    "quest.old_roads.the_broken_milestone.stage.work.dialogue.reminder.response.details.label": "重复该工作。",
+    "quest.old_roads.the_broken_milestone.stage.work.dialogue.reminder.response.leave.label": "我有。",
+    "quest.old_roads.the_broken_milestone.stage.work.objective.bring_stone.tracker.complete_text": "替换石头已准备就绪。",
+    "quest.old_roads.the_broken_milestone.stage.work.objective.bring_stone.tracker.text": "带 12 块光滑的石头来修复。",
+    "quest.old_roads.the_broken_milestone.stage.work.objective.carry_brush.tracker.complete_text": "刷子准备好了。",
+    "quest.old_roads.the_broken_milestone.stage.work.objective.carry_brush.tracker.text": "携带 1 个刷子，用于埋入标记。",
+    "quest.old_roads.the_broken_milestone.stage.work.objective.visit_ruins.tracker.complete_text": "旧路标已被发现。",
+    "quest.old_roads.the_broken_milestone.stage.work.objective.visit_ruins.tracker.text": "到达标记的小径遗迹。",
+    "quest.old_roads.the_broken_milestone.stage.work.scene.abandon_confirm.lines": [
+      "把破碎的里程碑放在一边？",
+      "如果你确定的话我可以把你的名字从工作中删除。"
+    ],
+    "quest.old_roads.the_broken_milestone.stage.work.scene.abandon_confirm.response.cancel.label": "保持打开状态。",
+    "quest.old_roads.the_broken_milestone.stage.work.scene.abandon_confirm.response.confirm.label": "把它放在一边。",
+    "quest.old_roads.the_broken_milestone.stage.work.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "好的。我会从工作中清除你的名字。",
+      "便条收起来了。你可以稍后再问。"
+    ],
+    "quest.old_roads.the_broken_milestone.stage.work.scene.abandon_quest.action.abandon.lines.abandoned_cooldown": [
+      "我会把这张纸条先搁置一段时间，然后再重新发布。",
+      "在你再次提出要求之前，先让工作休息一下。"
+    ],
+    "quest.old_roads.the_broken_milestone.stage.work.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "破碎的里程碑目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.old_roads.the_broken_milestone.stage.work.scene.decline.lines": [
+      "这个里程碑已经在地下度过了数年。多一日也不会得罪它。"
+    ],
+    "quest.old_roads.the_broken_milestone.stage.work.scene.leave.lines": [
+      "遗迹痕迹、一根刷子和十二块光滑的石头作为里程碑。",
+      "当工作准备好时再回来。"
+    ],
+    "quest.old_roads.the_broken_milestone.stage.work.scene.reminder_details.action.remind.lines.reminder": [
+      "遗迹痕迹、一根刷子和十二块光滑的石头作为里程碑。",
+      "到达标记的小径废墟并带着刷子和 12 块光滑的石头返回。",
+      "将标记刷干净并带上光滑的石头，以便我们可以再次举起它。"
+    ],
+    "quest.old_roads.the_broken_milestone.stage.work.scene.reminder_details.action.remind.lines.unavailable": [
+      "破碎的里程碑目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.old_roads.the_broken_milestone.stage.work.scene.start_quest.action.start.lines.already_completed": [
+      "破碎的里程碑现在已经解决了。",
+      "这项工作已经被计算在内。"
+    ],
+    "quest.old_roads.the_broken_milestone.stage.work.scene.start_quest.action.start.lines.locate_failed": [
+      "我在这里找不到值得信赖的标记。等道路畅通后再询问。",
+      "今天地图不会确定安全目的地。"
+    ],
+    "quest.old_roads.the_broken_milestone.stage.work.scene.start_quest.action.start.lines.started": [
+      "轻轻地刷。老路留下的标志比新旅行者预期的要小。",
+      "到达标记的小径废墟并带着刷子和 12 块光滑的石头返回。"
+    ],
+    "quest.old_roads.the_broken_milestone.stage.work.scene.start_quest.action.start.lines.unavailable": [
+      "破碎的里程碑目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.old_roads.the_broken_milestone.stage.work.ui.tracker_text": "找到小径废墟并带着刷子和 12 块光滑的石头回来。",
+    "quest.old_roads.the_broken_milestone.title": {
+      "lines": [
+        "破碎的里程碑"
+      ]
+    },
+    "quest.old_roads.the_broken_milestone.tracker.bring_smooth_stone.text": {
+      "lines": [
+        "收集 12 块光滑的石头进行修复。"
+      ]
+    },
+    "quest.old_roads.the_broken_milestone.tracker.proof.text": {
+      "lines": [
+        "带上一把刷子和 12 块光滑的石头。"
+      ]
+    },
+    "quest.old_roads.the_broken_milestone.tracker.return.text": {
+      "lines": [
+        "带着画笔和石头返回任务给予者。"
+      ]
+    },
+    "quest.old_roads.the_broken_milestone.tracker.title": {
+      "lines": [
+        "破碎的里程碑"
+      ]
+    },
+    "quest.old_roads.the_broken_milestone.tracker.travel.text": {
+      "lines": [
+        "到达 {target_x}、{target_z} 附近的旧路标。"
+      ]
+    }
+  }
+}

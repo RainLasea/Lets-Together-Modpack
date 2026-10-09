@@ -1,0 +1,360 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.village_supply.wool_blankets.description": {
+      "lines": [
+        "带上羊毛来准备干净的床上用品和温暖的包裹。"
+      ]
+    },
+    "quest.village_supply.wool_blankets.dialogue.already_completed": {
+      "lines": [
+        "这里没有第二次付款。我们已经安顿好羊毛毯了。",
+        "没有人需要这样做两次。床上用品柜里有你带来的白色羊毛。",
+        "保留旧的计数。我数了数你的白羊毛有12根。我们是方的。",
+        "没有人需要这样做两次。治疗师已经开始实施这种分娩方式。",
+        "保留旧的计数。你解决了医务室冷床的问题。",
+        "我记得你第一次回来。没有理由再收集一车白羊毛。",
+        "保留旧的计数。羊毛毯已从白色羊毛工作清单中划掉。",
+        "你早期的作品仍然有效。您帮助我们制作干净的毯子和温暖的包裹的工作已经完成。",
+        "你早期的作品仍然有效。最后一批白羊毛仍在为村庄服务。",
+        "我记得你第一次回来。我记得是谁填写了白色羊毛订单，是你。",
+        "从此一无所获。奖励是在白羊毛交付时支付的。",
+        "我记得你第一次回来。第一次你就做得够多了。我将把旧条目保留在羊毛毯下。",
+        "从此一无所获。我们可以让病床保持温暖，因为您回答了羊毛毯。",
+        "我问的你都说完了。全白色的羊毛支数到达了床上用品柜子。什么都没有丢失。",
+        "你早期的作品仍然有效。如果我问你两次，治疗师就会反对。",
+        "所欠的已经还清了。您交付的白羊毛已通过检验并投入使用。",
+        "我不会重新打开已完成的帐户。床上用品柜子里的那个空位属于昨天。",
+        "我问的你都说完了。记录显示您收到了 12 件白色羊毛。",
+        "该章已关闭。你所做的安静的白色羊毛工作让每个人都继续前进。",
+        "我不会重新打开已完成的帐户。对于羊毛毯来说，第一个结局已经足够好了。"
+      ]
+    },
+    "quest.village_supply.wool_blankets.dialogue.inactive": {
+      "lines": [
+        "不是今天。目前尚未开放床上用品请求。",
+        "现在，就让这件事平息吧。今天没有白色羊毛的开放订单。",
+        "还没有开始的理由。在我要求更多之前，床上用品柜已被清点。",
+        "当重要的时候我会发布它。治疗师还没有发布新的请求。",
+        "等店铺换了再问我。抓住白色羊毛。我们没有地方可以放置它。",
+        "暂时先别管那项工作。制作干净的毯子和温暖的包裹的需求将会再次出现，但不是今天。",
+        "董事会可以等待。我正在等待下一次计数，然后再打开羊毛毯。",
+        "等店铺换了再问我。现在带 12 件白色羊毛就会挤满仓储。",
+        "还没有开始的理由。最后一批白羊毛还没有用完。",
+        "暂时先别管那项工作。在治疗师检查剩余的情况后再次询问。",
+        "等店铺换了再问我。我不会发明对白羊毛的迫切需要。",
+        "还没有开始的理由。床上用品柜子很安静，这个可以等。",
+        "不是今天。我们正在处理白色羊毛的工作订单。",
+        "现在，就让这件事平息吧。床上用品柜子里没有任何问题。时机根本不对。",
+        "时间不对。省省力，直到我们真正需要白羊毛为止。",
+        "现在，就让这件事平息吧。除了羊毛毯之外，板上没有当前标记。",
+        "董事会可以等待。今天不是另一场白色羊毛比赛的日子。",
+        "我们还不需要它。一旦医务室的冷床成为问题，我将重新开放。",
+        "现在，就让这件事平息吧。我宁愿拖延也不愿浪费好白羊毛。",
+        "今天没有什么需要做这项工作。等仓储换了再向我询问羊毛毯的情况。"
+      ]
+    },
+    "quest.village_supply.wool_blankets.dialogue.locate_failed": {
+      "lines": [
+        "我无法确认当前的羊毛订单。检查完床上用品柜后再询问。",
+        "床上用品柜子计数不见了，所以我不会要求你收集白色羊毛。",
+        "目前还没有人确定床上用品柜需要多少白羊毛。",
+        "工作笔记不完整。我先把羊毛数算一下。",
+        "在村里确认订单之前，我不会给你发白羊毛。",
+        "床上用品柜子上没有贴出值得信赖的羊毛支数。",
+        "我检查了工作清单两次；羊毛请求尚未准备好。",
+        "这个订单可以等到我有当前的羊毛理货之后再下。",
+        "在我把订单交给您之前，需要有人检查一下床上用品柜。",
+        "村里还没有就羊毛数量达成一致。",
+        "我有一份旧的羊毛理货单，但没有最新的。",
+        "床上用品柜可能需要白色羊毛，但我不会将猜测变成工作。",
+        "待床上用品柜清完后回来。",
+        "该订单缺少详细信息。我需要确认金额和收货地点。",
+        "在工作说明完成之前，我无法将此请求提交给董事会。",
+        "请求尚未准备好。我还在等待床上用品柜子的计数。",
+        "在你们开始收集之前，让我确认一下谁需要白色羊毛。",
+        "还没有工作。村里还没有批准这个羊毛请求。",
+        "在我提供这项工作之前，仓储需要再次清点。",
+        "当羊毛订单有明确的所有者和计数时再询问。"
+      ]
+    },
+    "quest.village_supply.wool_blankets.dialogue.missing_proof": {
+      "lines": [
+        "我相信你去了，但这还不够。在我标记提供的床之前，请带上白色 <green><wavy>羊毛</wavy></green>。",
+        "故事无法关闭账本。在我签字之前我需要这里的白羊毛。",
+        "我无法在空的退货单上签字。承诺并不能填满床上用品柜。带来白色羊毛交付。",
+        "我需要一些我能握住的东西。你可能已经收集到了它，但治疗师还没有收到它。",
+        "我需要一些我能握住的东西。将 12 根白羊毛放在这里，我可以关闭白羊毛订单。",
+        "我相信你去了，但这还不够。上交白羊毛就是这次供应工作的证明。",
+        "最后一个要求仍然缺失。当你两手空空时，我无法检查干净的白色羊毛。",
+        "我无法在空的退货单上签字。你的报告听起来不错。我仍然需要真正的白羊毛。",
+        "带回来一些村里可以核实的东西。床上用品柜里还没有任何东西。",
+        "让我看看你带回来了什么。在我们讨论羊毛毯奖励之前，请带上您收集的物品。",
+        "证据必须到达我的手中。床上用品柜需要可用的白色羊毛，而不是关于它的故事。",
+        "你回来时却没有带我要的一件东西。你一放在这里我就数数白色羊毛。",
+        "你回来时却没有带我要的一件东西。请勿将白色羊毛交付物留在另一个箱子中。",
+        "带回来一些村里可以核实的东西。治疗师正在等待白色羊毛束本身。",
+        "我相信你去了，但这还不够。最后一步很简单。交出白色羊毛。",
+        "我无法在空的退货单上签字。我无法用空柜台制作干净的毯子和温暖的包裹。",
+        "证据必须到达我的手中。带着白色羊毛订单回来，我们就完成了。",
+        "带回来一些村里可以核实的东西。一旦床上用品柜收到白色羊毛制品，它就开始起作用。",
+        "我需要一些我能握住的东西。您只需一交手即可完成羊毛毯。",
+        "你带回家的东西决定了这一点。在我结束之前让我看看白色的羊毛。"
+      ]
+    },
+    "quest.village_supply.wool_blankets.dialogue.missing_target": {
+      "lines": [
+        "交货时间仍然很短。把剩下的白色羊毛带来。",
+        "我数了两遍； 12 块白色羊毛的完整订单尚未到货。",
+        "这有帮助，但床上用品柜仍然需要剩余的白色羊毛。",
+        "上交不完整。我还无法关闭工作笔记。",
+        "我们商定了 12 块白色羊毛；堆还是很短。",
+        "把缺少的白羊毛拿来，我就可以结单了。",
+        "床上用品柜子里还有空间等待剩下的送货。",
+        "部分交付无法满足该村的需求。",
+        "你带来了正确的货物，但不是全额。",
+        "再算一下。床上用品柜仍然很短。",
+        "工作开始后我无法降低约定的数量。",
+        "继续收集，直到收集完所有 12 块白色羊毛。",
+        "村子可以用这么多，但还需要剩下的。",
+        "工作即将完成；剩下的就是缺少的金额。",
+        "理货和交货尚未匹配。",
+        "带上一整套，而不是把床上用品柜子留下来。",
+        "订单将一直开放，直到所有 12 块白羊毛都到达为止。",
+        "除了金额之外，你带来的东西没有任何问题。",
+        "床上用品柜依赖的是完整订单，而不是部分订单。",
+        "带着剩下的回来，我会关闭笔记。"
+      ]
+    },
+    "quest.village_supply.wool_blankets.dialogue.reminder": {
+      "lines": [
+        "这项工作仍有未完成的任务。病床用十二块白羊毛。柔软、干净，最好不要被羊争吵。",
+        "将回程行程保留在您的计划中。我还在等待 12 块白色羊毛来制作床上用品柜子。",
+        "记住村庄在等待什么。寻找干净的白色羊毛。 原料不好只有移动的问题。",
+        "现在不要丢失线。治疗师需要这些白色羊毛来制作干净的毯子和温暖的包裹。",
+        "现在不要丢失线。支数为 12 根白色羊毛。回来之前检查一下。",
+        "遵守我给你的指示。这些白色羊毛的交付意味着我们可以让病床保持温暖。",
+        "下一步仍然很重要。如果您要在货物之间进行选择，请先携带白色羊毛。",
+        "不要让已完成的一步分散您的注意力。将白色羊毛订单放在一起，以便轻松清点白色羊毛。",
+        "这项工作仍有未完成的任务。床上用品柜有空间等待整套床上用品。",
+        "记住村庄在等待什么。不要让一个简单的请求变成医务室的冷床。",
+        "下一步仍然很重要。羊毛毯没有隐藏的部分。带上约定的白色羊毛支数。",
+        "继续你接受的工作。小心处理。我想要干净的白色羊毛。",
+        "你还没有完成。如果可以的话，一次性带上所有的白色羊毛。",
+        "离开之前，请再听一遍。治疗师正在围绕你的回归计划他们的下一步工作。",
+        "继续你接受的工作。我在白色羊毛石板上写下了 12 条白色羊毛，这样我们就不用猜了。",
+        "现在不要丢失线。越早到达，我们就能越早制作干净的毯子和温暖的包裹。",
+        "将回程行程保留在您的计划中。白色羊毛订单中没有遗漏任何其他内容。",
+        "不要让已完成的一步分散您的注意力。当白羊毛准备好交出时返回。",
+        "下一步仍然很重要。你知道床上用品柜子需要多少白羊毛。其余的正在聚集。",
+        "记住村庄在等待什么。完整的白色羊毛束可以节省每个人的第二次旅行。"
+      ]
+    },
+    "quest.village_supply.wool_blankets.dialogue.start": {
+      "lines": [
+        "我需要你来看看这件事。带12根白色羊毛。干净的床上用品比人们承认的更有治愈作用。",
+        "我把一些重要的事情托付给你。白羊毛订单需要12根白羊毛。你能处理吗？",
+        "这是工作。治疗师正在尝试制作干净的毯子和温暖的包裹，而 原料 很薄。",
+        "我把一些重要的事情托付给你。给我 12 件白色羊毛。我想要干净的白色羊毛。",
+        "我选择你是有原因的。我有一份平淡的工作，却有一份有用的成果。找到 12 块白色羊毛。",
+        "村里有工作给你。如果您填写白色羊毛订单，我们可以为病床保暖。",
+        "我有一个困难的请求。医务室里的冷床只是一个小问题，直到每个人都需要同样的东西。",
+        "在你同意之前，先听听所有的内容。白色羊毛石板上的计数为 12 根白色羊毛。",
+        "仅当您准备好时才接受任务。收集白色羊毛并将整个货物运送到这里。",
+        "这是工作。备齐床上用品柜并不光彩，但很重要。",
+        "我需要你来看看这件事。治疗师要求我为这次跑步寻找可靠的人。",
+        "这是工作。我需要一个干净的床上用品柜子。",
+        "这需要小心谨慎。如果你有时间的话，12个白羊毛就可以解决白羊毛短缺的问题。",
+        "让我们清楚地了解这项工作。需求是真实的，这使得羊毛毯的说明变得简单。",
+        "仅当您准备好时才接受任务。当你有完整的计数后，带上白色羊毛。",
+        "让我们清楚地了解这项工作。好的白羊毛可以让我们制作干净的毯子和温暖的包裹。",
+        "村里有工作给你。在我们采取行动之前，村里的人不应该到达医务室的冷床。",
+        "在你同意之前，先听听所有的内容。小心处理白色羊毛束。我们需要干净的白色羊毛。",
+        "认真对待这件事。当床上用品柜收到完整订单时我会付款。",
+        "仔细听。找到 12 根白色羊毛，我们就可以暂时不再担心这个问题了。"
+      ]
+    },
+    "quest.village_supply.wool_blankets.dialogue.turn_in": {
+      "lines": [
+        "你已经看透了。好的。这就是边角折叠起来的舒适感。",
+        "很好，你回来了。计数是对的。我会把它拿到床上用品柜子里。",
+        "这将会带来真正的改变。治疗师现在可以制作干净的毯子和温暖的包裹。",
+        "困难的部分已经过去了。这是干净的白色羊毛。你选得不错。",
+        "困难的部分已经过去了。这次分娩让我们远离了医务室的冰冷床铺。",
+        "很好，你回来了。干得好。所有的白色羊毛都聚集在一起。",
+        "这就是我需要的结果。我有你的白色羊毛，你也获得了羊毛毯奖励。",
+        "这将会带来真正的改变。床上用品柜看起来已经不那么光秃秃了。",
+        "村里可以用这个。这将帮助我们保持病床温暖。",
+        "我很高兴见到你回家。你让治疗师免于用残片凑合。",
+        "现在我可以关闭账本了。白色羊毛石板上的所有东西都在这里。",
+        "这将会带来真正的改变。一项有用的白色羊毛工作，毫不费力地完成。谢谢。",
+        "村里可以用这个。在有人借用白羊毛之前我会把它收起来。",
+        "困难的部分已经过去了。由于您完成了羊毛毯，村庄里的库存更加丰富。",
+        "您准确地交付了所需的内容。你带来的正是我要的白羊毛。",
+        "您准确地交付了所需的内容。白羊毛交割自上而下表现良好。",
+        "你使工作得到了圆满的结束。床上用品柜子里少了一件等待我们惊喜的事情。",
+        "你使工作得到了圆满的结束。村庄可能不会为白色羊毛欢呼，但会注意到它们的缺席。",
+        "你使工作得到了圆满的结束。接受你的付款。白色的羊毛支数让我没有任何抱怨。",
+        "你已经看透了。我可以放心地将白羊毛订单交给治疗师。"
+      ]
+    },
+    "quest.village_supply.wool_blankets.dialogue.unavailable": {
+      "lines": [
+        "在再次询问之前先赢得我们的信任。羊毛毯请求暂时关闭。",
+        "目前答案是否定的。我还不能把羊毛毯下归档的工作交给你。",
+        "不，风险太高了。白色羊毛订单是为床上用品柜已经认识的人提供的。",
+        "有些工作必须等到信任赶上来才可以。治疗师需要他们可以信赖的交付。",
+        "目前答案是否定的。在拿走羊毛毯之前，向村里展示更稳定的工作。",
+        "目前答案是否定的。白羊毛太重要了，不能把赌注押在陌生人身上。",
+        "赢得更多信任后再回来。我今天不会向你打开白色羊毛石板。",
+        "有些工作必须等到信任赶上来才可以。建立一些信任，然后再次询问羊毛毯的情况。",
+        "我现在还不能相信你。我需要一个能带着全部 12 根白色羊毛回来的人。",
+        "我现在还不能相信你。收集白色羊毛很简单，但可靠性却是不可忽视的。",
+        "在再次询问之前先赢得我们的信任。目前，白色羊毛订单仍由普通人手中。",
+        "赢得更多信任后再回来。我还不能保证床上用品柜子会由你送货。",
+        "不，风险太高了。在我们把床上用品柜交给您之前，还有其他工作要做。",
+        "我首先需要证明你的判断力。村里还没有允许你参加这条白色羊毛运动。",
+        "我首先需要证明你的判断力。我宁愿等待，也不愿冒着躺在医务室的冷床的危险。",
+        "今天这项工作不是你的。这不是惩罚。在我打开羊毛毯之前表现出更好的判断力。",
+        "今天这项工作不是你的。这次治疗师们要求找一位熟悉的跑步者。",
+        "我现在还不能相信你。当你的名字更有分量后，再来订购白色羊毛。",
+        "我现在还不能相信你。我不会为羊毛毯接受新的帮助。",
+        "我不会把这个负担加在你身上。在这里赢得一些信心，我们可以重新审视羊毛毯。"
+      ]
+    },
+    "quest.village_supply.wool_blankets.objective.bring_wool.complete_text": {
+      "lines": [
+        "羊毛束已干净且准备就绪。"
+      ]
+    },
+    "quest.village_supply.wool_blankets.objective.bring_wool.text": {
+      "lines": [
+        "携带 12 块白色羊毛用于病床。"
+      ]
+    },
+    "quest.village_supply.wool_blankets.stage.return.dialogue.turn_in.label": "关于羊毛毯",
+    "quest.village_supply.wool_blankets.stage.return.dialogue.turn_in.lines": [
+      "柔软、干净的羊毛。现在任何村民都不应该在屋檐下瑟瑟发抖。",
+      "计数是对的，没有一个会闲置太久。",
+      "在我关闭笔记之前让我看看完整的作品。"
+    ],
+    "quest.village_supply.wool_blankets.stage.return.dialogue.turn_in.response.complete.label": "交出工作。",
+    "quest.village_supply.wool_blankets.stage.return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.village_supply.wool_blankets.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "柔软、干净的羊毛。现在任何村民都不应该在屋檐下瑟瑟发抖。",
+      "计数是对的，没有一个会闲置太久。",
+      "这样就解决了。村里一定会好好利用这一点。"
+    ],
+    "quest.village_supply.wool_blankets.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "仍然缺少一些东西。在我关闭笔记之前检查日记。",
+      "完整的工作尚未准备好进行计算。"
+    ],
+    "quest.village_supply.wool_blankets.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "在我们解决这个问题之前，请带上证据。",
+      "我需要在这里提交完整的内容，而不仅仅是故事。"
+    ],
+    "quest.village_supply.wool_blankets.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "原料 背后需要一个真正的目的地。",
+      "在我们称之为完成之前到达标记的地方。"
+    ],
+    "quest.village_supply.wool_blankets.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "羊毛毯目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_supply.wool_blankets.stage.return.scene.turn_in_wait.lines": [
+      "带 12 条白色羊毛来保暖毯子",
+      "当工作准备好时再回来。"
+    ],
+    "quest.village_supply.wool_blankets.stage.return.ui.tracker_text": "返回任务给予者。",
+    "quest.village_supply.wool_blankets.stage.work.dialogue.offer.label": "羊毛毯",
+    "quest.village_supply.wool_blankets.stage.work.dialogue.offer.lines": [
+      "床是用来御寒的，而不仅仅是给它提供一个可以坐的地方。",
+      "带 12 条白色羊毛来保暖毯子，架子上看起来就不那么担心了。",
+      "带 12 条白色羊毛作为温暖的毯子。我会让回报值得付出的努力。"
+    ],
+    "quest.village_supply.wool_blankets.stage.work.dialogue.offer.response.accept.label": "我能做到。",
+    "quest.village_supply.wool_blankets.stage.work.dialogue.offer.response.decline.label": "现在不行。",
+    "quest.village_supply.wool_blankets.stage.work.dialogue.reminder.label": "关于羊毛毯",
+    "quest.village_supply.wool_blankets.stage.work.dialogue.reminder.lines": [
+      "带 12 条白色羊毛来保暖毯子",
+      "带 12 条白色羊毛作为温暖的毯子。",
+      "带 12 条白色羊毛来保暖毯子，架子上看起来就不那么担心了。"
+    ],
+    "quest.village_supply.wool_blankets.stage.work.dialogue.reminder.response.abandon.label": "把这个放在一边。",
+    "quest.village_supply.wool_blankets.stage.work.dialogue.reminder.response.details.label": "重复该工作。",
+    "quest.village_supply.wool_blankets.stage.work.dialogue.reminder.response.leave.label": "我有。",
+    "quest.village_supply.wool_blankets.stage.work.scene.abandon_confirm.lines": [
+      "把羊毛毯放在一边？",
+      "如果你确定的话我可以把你的名字从工作中删除。"
+    ],
+    "quest.village_supply.wool_blankets.stage.work.scene.abandon_confirm.response.cancel.label": "保持打开状态。",
+    "quest.village_supply.wool_blankets.stage.work.scene.abandon_confirm.response.confirm.label": "把它放在一边。",
+    "quest.village_supply.wool_blankets.stage.work.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "好的。我会从工作中清除你的名字。",
+      "便条收起来了。你可以稍后再问。"
+    ],
+    "quest.village_supply.wool_blankets.stage.work.scene.abandon_quest.action.abandon.lines.abandoned_cooldown": [
+      "我会把这张纸条先搁置一段时间，然后再重新发布。",
+      "在你再次提出要求之前，先让工作休息一下。"
+    ],
+    "quest.village_supply.wool_blankets.stage.work.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "羊毛毯目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_supply.wool_blankets.stage.work.scene.decline.lines": [
+      "好的。空架子会以自己的方式不断询问。",
+      "另一双手可能会接住它，或者您可以稍后再问。"
+    ],
+    "quest.village_supply.wool_blankets.stage.work.scene.leave.lines": [
+      "带 12 条白色羊毛来保暖毯子",
+      "当工作准备好时再回来。"
+    ],
+    "quest.village_supply.wool_blankets.stage.work.scene.reminder_details.action.remind.lines.reminder": [
+      "带 12 条白色羊毛来保暖毯子",
+      "带 12 条白色羊毛作为温暖的毯子。",
+      "带 12 条白色羊毛来保暖毯子，架子上看起来就不那么担心了。"
+    ],
+    "quest.village_supply.wool_blankets.stage.work.scene.reminder_details.action.remind.lines.unavailable": [
+      "羊毛毯目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_supply.wool_blankets.stage.work.scene.start_quest.action.start.lines.already_completed": [
+      "羊毛毯现在已经解决了。",
+      "这项工作已经被计算在内。"
+    ],
+    "quest.village_supply.wool_blankets.stage.work.scene.start_quest.action.start.lines.locate_failed": [
+      "我在这里找不到值得信赖的标记。等道路畅通后再询问。",
+      "今天地图不会确定安全目的地。"
+    ],
+    "quest.village_supply.wool_blankets.stage.work.scene.start_quest.action.start.lines.started": [
+      "带 12 条白色羊毛作为温暖的毯子。在返回的路上将完整的计数放在一起。",
+      "带 12 条白色羊毛作为温暖的毯子。",
+      "好的。我会为你带回来的东西保留一个地方。"
+    ],
+    "quest.village_supply.wool_blankets.stage.work.scene.start_quest.action.start.lines.unavailable": [
+      "羊毛毯目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_supply.wool_blankets.stage.work.ui.tracker_text": "带 12 条白色羊毛作为温暖的毯子。",
+    "quest.village_supply.wool_blankets.title": {
+      "lines": [
+        "羊毛毯"
+      ]
+    },
+    "quest.village_supply.wool_blankets.tracker.proof.text": {
+      "lines": [
+        "携带 12 块白色羊毛用于病床。"
+      ]
+    },
+    "quest.village_supply.wool_blankets.tracker.return.text": {
+      "lines": [
+        "带着白色羊毛回到任务给予者那里。"
+      ]
+    },
+    "quest.village_supply.wool_blankets.tracker.title": {
+      "lines": [
+        "羊毛毯"
+      ]
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "criteria": {
+    "rune_white": {
+      "trigger": "minecraft:impossible"
+    },
+    "rune_orange": {
+      "trigger": "minecraft:impossible"
+    },
+    "rune_magenta": {
+      "trigger": "minecraft:impossible"
+    },
+    "rune_light_blue": {
+      "trigger": "minecraft:impossible"
+    },
+    "rune_yellow": {
+      "trigger": "minecraft:impossible"
+    },
+    "rune_lime": {
+      "trigger": "minecraft:impossible"
+    },
+    "rune_pink": {
+      "trigger": "minecraft:impossible"
+    },
+    "rune_gray": {
+      "trigger": "minecraft:impossible"
+    },
+    "rune_light_gray": {
+      "trigger": "minecraft:impossible"
+    },
+    "rune_cyan": {
+      "trigger": "minecraft:impossible"
+    },
+    "rune_purple": {
+      "trigger": "minecraft:impossible"
+    },
+    "rune_blue": {
+      "trigger": "minecraft:impossible"
+    },
+    "rune_brown": {
+      "trigger": "minecraft:impossible"
+    },
+    "rune_green": {
+      "trigger": "minecraft:impossible"
+    },
+    "rune_red": {
+      "trigger": "minecraft:impossible"
+    },
+    "rune_black": {
+      "trigger": "minecraft:impossible"
+    },
+    "rune_rainbow": {
+      "trigger": "minecraft:impossible"
+    },
+    "rune_blank": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "rune_white",
+      "rune_orange",
+      "rune_magenta",
+      "rune_light_blue",
+      "rune_yellow",
+      "rune_lime",
+      "rune_pink",
+      "rune_gray",
+      "rune_light_gray",
+      "rune_cyan",
+      "rune_purple",
+      "rune_blue",
+      "rune_brown",
+      "rune_green",
+      "rune_red",
+      "rune_black",
+      "rune_rainbow",
+      "rune_blank"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

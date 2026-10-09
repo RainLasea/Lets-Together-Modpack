@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "hit_with_bamboo_mat": {
+      "trigger": "minecraft:impossible"
+    },
+    "hit_with_bamboo_mat_carpet": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "hit_with_bamboo_mat",
+      "hit_with_bamboo_mat_carpet"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

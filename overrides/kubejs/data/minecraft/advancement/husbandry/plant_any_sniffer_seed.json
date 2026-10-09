@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "pitcher_pod": {
+      "trigger": "minecraft:impossible"
+    },
+    "torchflower": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "torchflower",
+      "pitcher_pod"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

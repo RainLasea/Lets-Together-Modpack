@@ -1,0 +1,34 @@
+{
+  "display": {
+    "icon": {
+      "id": "the_beyond:refuge"
+    },
+    "title": {
+      "translate": "advancements.letstogether.realms.refuge.title",
+      "fallback": "Somewhere to Stop"
+    },
+    "description": {
+      "translate": "advancements.letstogether.realms.refuge.description",
+      "fallback": "Place a refuge near an Enadrake village and let them activate it."
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "complete_refuge": {
+      "trigger": "the_beyond:complete_refuge"
+    }
+  },
+  "requirements": [
+    [
+      "complete_refuge"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:realms/gift",
+  "rewards": {
+    "experience": 50
+  }
+}

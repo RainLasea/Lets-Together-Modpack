@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "half_court": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "half_court"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

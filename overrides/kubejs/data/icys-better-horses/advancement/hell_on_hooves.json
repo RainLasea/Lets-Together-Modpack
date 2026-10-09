@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "horse_in_the_nether": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "horse_in_the_nether"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

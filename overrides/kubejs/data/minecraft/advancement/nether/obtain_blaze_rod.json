@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "blaze_rod": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "blaze_rod"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

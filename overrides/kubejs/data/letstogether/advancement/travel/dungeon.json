@@ -1,0 +1,44 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:spawner"
+    },
+    "title": {
+      "translate": "advancements.letstogether.travel.dungeon.title",
+      "fallback": "Something Down Here"
+    },
+    "description": {
+      "translate": "advancements.letstogether.travel.dungeon.description",
+      "fallback": "Find a monster room from YUNG's Better Dungeons."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "in_better_monster_room": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "betterdungeons:small_dungeon"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "in_better_monster_room"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:travel/map"
+}

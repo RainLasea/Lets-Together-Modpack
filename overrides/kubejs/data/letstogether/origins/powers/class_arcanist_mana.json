@@ -1,0 +1,9 @@
+{
+  "type": "neoorigins:attribute_modifier",
+  "attribute": "irons_spellbooks:max_mana",
+  "amount": 0.1,
+  "operation": "add_multiplied_total",
+  "required_mods": [
+    "irons_spellbooks"
+  ]
+}

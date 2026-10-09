@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "harvest_straw": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "harvest_straw"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

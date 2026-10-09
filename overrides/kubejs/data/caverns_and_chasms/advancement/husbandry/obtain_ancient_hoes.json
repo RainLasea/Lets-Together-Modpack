@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "ancient_hoes": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "ancient_hoes"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

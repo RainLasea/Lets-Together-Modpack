@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:pig_spawn_egg"
+    },
+    "title": {
+      "translate": "advancements.letstogether.travel.animals.title",
+      "fallback": "I Know That One"
+    },
+    "description": {
+      "translate": "advancements.letstogether.travel.animals.description",
+      "fallback": "Complete the Animals category in your Field Guide."
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "complete": {
+      "trigger": "fieldguide:category_completed",
+      "conditions": {
+        "category": "fieldguide:animals"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "complete"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:travel/discovery",
+  "rewards": {
+    "experience": 50
+  }
+}

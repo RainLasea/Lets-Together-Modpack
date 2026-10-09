@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "tags": [
+      "content.dialogue",
+      "dialogue.ambient",
+      "scope.global",
+      "section.messages"
+    ],
+    "topic": "global.container_theft_memory"
+  },
+  "messages": [
+    {
+      "key": "container_theft_memory.direct",
+      "lines": [
+        "我仍然记得 <pulse></pulse> 你试图抢走我的 {stolen_stack}。",
+        "从{stolen_container}到{stolen_item}，我都没有忘记。",
+        "你曾经接触过乡村仓储。我现在是<pulse>正在观看</pulse>他们。",
+        "信任是在小事上体现出来的。上次是在{stolen_stack}里算的。",
+        "我记得 {stolen_container}、丢失的 {stolen_item}，以及两者旁边的你的脸。",
+        "如果您想正确使用 {stolen_item}，请首先保持双手可见。",
+        "{stolen_stack} 不是您的，假装不是您的在这里对您没有帮助。",
+        "我现在把我的东西放得更近了。你可以猜到为什么。",
+        "被盗的 {stolen_item} 留下的不仅仅是空地。",
+        "如果需要的话请说出来，但要理解为什么我仍然是 <shake>小心</shake>。",
+        "事情发生后我把贵重的物资搬走了。",
+        "那个容器里的空地方很容易注意到。",
+        "每当你在附近时，我都会检查门闩两次。",
+        "归还你拿走的东西将是一个有用的开始。",
+        "我确切地知道有多少 {stolen_item} 属于那里。",
+        "在你伸手去拿这些物资之前，人们就已经开始工作了。",
+        "这次盗窃使普通谈话变得异常困难。",
+        "我还没有决定你是否后悔服用它。",
+        "我们说话时请远离 {stolen_container}。",
+        "道歉背后需要诚实的行动。"
+      ],
+      "weight": 155,
+      "id": "global.messages.05_container_theft_memory.messages.container_theft_memory.direct.000"
+    },
+    {
+      "key": "container_theft_memory.village",
+      "lines": [
+        "<aqua>{theft_witness}</aqua> 告诉我你偷了 {stolen_stack}。不明智。",
+        "消息传得比口袋里装满的还快。 <aqua>{theft_witness}</aqua> <pulse>锯</pulse> {stolen_item}。",
+        "在这里，失踪的 {stolen_item} 成为每个人的故事。",
+        "<aqua>{theft_witness_possessive}</aqua> <shake>警告</shake> 到达的门比您打开的门还要多。",
+        "这里的人们分享面包、工具和警告。 {stolen_stack}之后，你就成了警告。",
+        "我不在那儿，但 <aqua>{theft_witness}</aqua> 在那儿。这足够我观看 {stolen_container} 了。",
+        "一名村民的盗窃行为可以到达村里的每个柜台。",
+        "你可能认为{stolen_stack}是一件小事。村庄不会以这种方式衡量信任。",
+        "{stolen_item} 的故事先于您讲述。",
+        "我会与您交谈，但我也会密切关注我的 <pulse>商店</pulse>。",
+        "整个市场都听说了{stolen_item}失踪的消息。",
+        "我知道哪个集装箱被打开以及在它旁边看到了谁。",
+        "没有人需要修饰这个故事，让它听起来很糟糕。",
+        "警告发布后，交易员开始清点存货。",
+        "你让一些村民因为无人看管物资而感到紧张。",
+        "我相信 <aqua>{theft_witness}</aqua> 知道他们看到了什么。",
+        "当你拒绝归还时，丢失的物品就变成了村里的事情。",
+        "不要指望其他店主会忽视这一警告。",
+        "当你走近时，人们已经开始关上百叶窗。",
+        "如果这个故事是错误的，你在这里的行为必须证明这一点。"
+      ],
+      "weight": 154,
+      "id": "global.messages.05_container_theft_memory.messages.container_theft_memory.village.001"
+    }
+  ]
+}

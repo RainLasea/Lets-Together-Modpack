@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:spyglass"
+    },
+    "title": {
+      "translate": "advancements.letstogether.travel.discovery.title",
+      "fallback": "First Entry"
+    },
+    "description": {
+      "translate": "advancements.letstogether.travel.discovery.description",
+      "fallback": "Unlock your first Field Guide entry."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "unlock": {
+      "trigger": "fieldguide:entry_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "unlock"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:travel/spyglass"
+}

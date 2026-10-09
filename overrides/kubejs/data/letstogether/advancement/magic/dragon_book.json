@@ -1,0 +1,43 @@
+{
+  "display": {
+    "icon": {
+      "id": "irons_spellbooks:dragonskin_spell_book"
+    },
+    "title": {
+      "translate": "advancements.letstogether.magic.dragon_book.title",
+      "fallback": "Bound in Dragonskin"
+    },
+    "description": {
+      "translate": "advancements.letstogether.magic.dragon_book.description",
+      "fallback": "Obtain a Dragonskin Spell Book."
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "requirement": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "irons_spellbooks:dragonskin_spell_book"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "requirement"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:magic/netherite_book",
+  "rewards": {
+    "experience": 50
+  }
+}

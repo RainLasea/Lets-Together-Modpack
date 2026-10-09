@@ -1,0 +1,86 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.last_ember.eye_before_dawn.description": "通过聚集目光和勇气面对答案，为大门准备最后的余烬笔记。",
+    "quest.last_ember.eye_before_dawn.stage.answer_the_eye.dialogue.offer.label": "黎明之前",
+    "quest.last_ember.eye_before_dawn.stage.answer_the_eye.dialogue.offer.lines": [
+      "珍珠和火焰指向一扇门，它不在乎是否有人准备好。",
+      "带上末影之眼，证明你可以面对黑暗的凝视。村庄需要在大门前接受教训，而不是在大门后。"
+    ],
+    "quest.last_ember.eye_before_dawn.stage.answer_the_eye.dialogue.offer.response.accept.label": "我会为登机口做好准备。",
+    "quest.last_ember.eye_before_dawn.stage.answer_the_eye.dialogue.offer.response.decline.label": "还没有。",
+    "quest.last_ember.eye_before_dawn.stage.answer_the_eye.dialogue.reminder.label": "关于黎明之前",
+    "quest.last_ember.eye_before_dawn.stage.answer_the_eye.dialogue.reminder.lines": [
+      "击败末影人并带来末影之眼。进门不应该是你的手第一次颤抖。"
+    ],
+    "quest.last_ember.eye_before_dawn.stage.answer_the_eye.dialogue.reminder.response.details.label": "重复眼睛工作。",
+    "quest.last_ember.eye_before_dawn.stage.answer_the_eye.dialogue.reminder.response.leave.label": "我会处理的。",
+    "quest.last_ember.eye_before_dawn.stage.answer_the_eye.objective.bring_eyes.tracker.complete_text": "眼睛已经准备好了。",
+    "quest.last_ember.eye_before_dawn.stage.answer_the_eye.objective.bring_eyes.tracker.text": "为大门笔记带来 3 只末影之眼。",
+    "quest.last_ember.eye_before_dawn.stage.answer_the_eye.objective.defeat_endermen.tracker.complete_text": "凝视的黑暗得到了回答。",
+    "quest.last_ember.eye_before_dawn.stage.answer_the_eye.objective.defeat_endermen.tracker.text": "击败 3 名末影人，不要让恐惧为你吸取教训。",
+    "quest.last_ember.eye_before_dawn.stage.answer_the_eye.scene.decline.lines": [
+      "这是允许的。大门不会因为你匆忙走向它而变得更仁慈。"
+    ],
+    "quest.last_ember.eye_before_dawn.stage.answer_the_eye.scene.leave.lines": [
+      "当你必须的时候把目光移开。勇气不是凝视着直到你崩溃。"
+    ],
+    "quest.last_ember.eye_before_dawn.stage.answer_the_eye.scene.reminder_details.action.remind.lines.reminder": [
+      "击败 3 个末影人并带上 3 个末影之眼参加大门课程。"
+    ],
+    "quest.last_ember.eye_before_dawn.stage.answer_the_eye.scene.reminder_details.action.remind.lines.unavailable": [
+      "门课现在还没有开放。"
+    ],
+    "quest.last_ember.eye_before_dawn.stage.answer_the_eye.scene.start_quest.action.start.lines.already_completed": [
+      "门音已经稳定。"
+    ],
+    "quest.last_ember.eye_before_dawn.stage.answer_the_eye.scene.start_quest.action.start.lines.started": [
+      "击败 3 个末影人并带来 3 个末影之眼。我们今天不开放任何东西；我们正在学习明天如何不惊慌。"
+    ],
+    "quest.last_ember.eye_before_dawn.stage.answer_the_eye.scene.start_quest.action.start.lines.unavailable": [
+      "门课现在还没有准备好。"
+    ],
+    "quest.last_ember.eye_before_dawn.stage.answer_the_eye.ui.tracker_text": "击败 3 个末影人并带来 3 个末影之眼。",
+    "quest.last_ember.eye_before_dawn.stage.return.dialogue.turn_in.label": "关于黎明之前",
+    "quest.last_ember.eye_before_dawn.stage.return.dialogue.turn_in.lines": [
+      "钞票已准备好等待登机口。这可能是最难的部分。"
+    ],
+    "quest.last_ember.eye_before_dawn.stage.return.dialogue.turn_in.response.complete.label": "封门注。",
+    "quest.last_ember.eye_before_dawn.stage.return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.last_ember.eye_before_dawn.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "好的。第三个音符是这样说的：在有人走过门之前，门并不是命运。"
+    ],
+    "quest.last_ember.eye_before_dawn.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "门课还缺少一些东西。"
+    ],
+    "quest.last_ember.eye_before_dawn.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "在我们密封票据之前，将大门材料带到这里。"
+    ],
+    "quest.last_ember.eye_before_dawn.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "我现在无法关闭门课。"
+    ],
+    "quest.last_ember.eye_before_dawn.stage.return.scene.leave.lines": [
+      "这些笔记保持打开状态，这是脆弱性的另一种表达方式。"
+    ],
+    "quest.last_ember.eye_before_dawn.stage.return.ui.tracker_text": "连同密封门材料一起返回。",
+    "quest.last_ember.eye_before_dawn.stage.steady_hands.dialogue.reminder.label": "关于黎明之前",
+    "quest.last_ember.eye_before_dawn.stage.steady_hands.dialogue.reminder.lines": [
+      "眼睛就够指点了。带上一个末影箱，这样笔记就可以等待，而不会从普通抽屉里窃窃私语。"
+    ],
+    "quest.last_ember.eye_before_dawn.stage.steady_hands.dialogue.reminder.response.details.label": "重复密封。",
+    "quest.last_ember.eye_before_dawn.stage.steady_hands.dialogue.reminder.response.leave.label": "我会带来它。",
+    "quest.last_ember.eye_before_dawn.stage.steady_hands.objective.bring_ender_chest.tracker.complete_text": "密封的箱子已经准备好了。",
+    "quest.last_ember.eye_before_dawn.stage.steady_hands.objective.bring_ender_chest.tracker.text": "带上 1 个末影箱来密封最后的余烬笔记。",
+    "quest.last_ember.eye_before_dawn.stage.steady_hands.scene.leave.lines": [
+      "有些笔记需要一个知道如何保持关闭状态的盖子。"
+    ],
+    "quest.last_ember.eye_before_dawn.stage.steady_hands.scene.reminder_details.action.remind.lines.reminder": [
+      "带 1 个末影箱来封印最后的余烬笔记。"
+    ],
+    "quest.last_ember.eye_before_dawn.stage.steady_hands.scene.reminder_details.action.remind.lines.unavailable": [
+      "稳定的双手课程可以等到眼睛准备好后再进行。"
+    ],
+    "quest.last_ember.eye_before_dawn.stage.steady_hands.ui.tracker_text": "带上 1 个末影箱。",
+    "quest.last_ember.eye_before_dawn.title": "黎明之前"
+  }
+}

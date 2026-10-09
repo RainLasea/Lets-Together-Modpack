@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "lighten_up": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "lighten_up"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

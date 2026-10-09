@@ -1,0 +1,88 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.workshop_oaths.honed_handles.description": "帮助乡村作坊重建工具所依赖的把手、握把和绑扎工具。",
+    "quest.workshop_oaths.honed_handles.stage.edge_bits.dialogue.reminder.label": "关于手艺",
+    "quest.workshop_oaths.honed_handles.stage.edge_bits.dialogue.reminder.lines": [
+      "握把被覆盖。接下来带上燧石和铜，这些小碎片可以在小故障变成大故障之前解决。"
+    ],
+    "quest.workshop_oaths.honed_handles.stage.edge_bits.dialogue.reminder.response.details.label": "重复安装。",
+    "quest.workshop_oaths.honed_handles.stage.edge_bits.dialogue.reminder.response.leave.label": "我会把它们带来。",
+    "quest.workshop_oaths.honed_handles.stage.edge_bits.objective.bring_copper.tracker.complete_text": "铜配件已准备就绪。",
+    "quest.workshop_oaths.honed_handles.stage.edge_bits.objective.bring_copper.tracker.text": "带 4 个铜锭来制作销钉和配件。",
+    "quest.workshop_oaths.honed_handles.stage.edge_bits.objective.bring_flint.tracker.complete_text": "火石准备好了。",
+    "quest.workshop_oaths.honed_handles.stage.edge_bits.objective.bring_flint.tracker.text": "带 6 块燧石作为备用边缘和刮刀。",
+    "quest.workshop_oaths.honed_handles.stage.edge_bits.scene.leave.lines": [
+      "当最小的配件失败时，大家总是会指责它。"
+    ],
+    "quest.workshop_oaths.honed_handles.stage.edge_bits.scene.reminder_details.action.remind.lines.reminder": [
+      "携带 6 个燧石和 4 个铜锭，用于车间边缘和配件。"
+    ],
+    "quest.workshop_oaths.honed_handles.stage.edge_bits.scene.reminder_details.action.remind.lines.unavailable": [
+      "边缘配件可以等到夹具准备就绪。"
+    ],
+    "quest.workshop_oaths.honed_handles.stage.edge_bits.ui.tracker_text": "带6块燧石和4块铜锭。",
+    "quest.workshop_oaths.honed_handles.stage.raw_handles.dialogue.offer.label": "制作握柄",
+    "quest.workshop_oaths.honed_handles.stage.raw_handles.dialogue.offer.lines": [
+      "每个人都需要锋利的铁。很少有人会注意到手柄，直到它折断为止。",
+      "首先帮我补充普通部件：用于握柄的棍子、用于绑扎的绳子以及用于不值得铁的边缘的燧石。"
+    ],
+    "quest.workshop_oaths.honed_handles.stage.raw_handles.dialogue.offer.response.accept.label": "我会帮助研讨会。",
+    "quest.workshop_oaths.honed_handles.stage.raw_handles.dialogue.offer.response.decline.label": "现在不要。",
+    "quest.workshop_oaths.honed_handles.stage.raw_handles.dialogue.reminder.label": "关于手艺",
+    "quest.workshop_oaths.honed_handles.stage.raw_handles.dialogue.reminder.lines": [
+      "工作室仍然需要那些没有人写歌的部分。"
+    ],
+    "quest.workshop_oaths.honed_handles.stage.raw_handles.dialogue.reminder.response.details.label": "重复句柄列表。",
+    "quest.workshop_oaths.honed_handles.stage.raw_handles.dialogue.reminder.response.leave.label": "我会把它们带来。",
+    "quest.workshop_oaths.honed_handles.stage.raw_handles.objective.bring_sticks.tracker.complete_text": "手柄存货已准备就绪。",
+    "quest.workshop_oaths.honed_handles.stage.raw_handles.objective.bring_sticks.tracker.text": "带上 24 根用于把手和工具握把的棍子。",
+    "quest.workshop_oaths.honed_handles.stage.raw_handles.objective.bring_string.tracker.complete_text": "鞭子已经准备好了。",
+    "quest.workshop_oaths.honed_handles.stage.raw_handles.objective.bring_string.tracker.text": "带 8 根绳子用于绑扎和包裹。",
+    "quest.workshop_oaths.honed_handles.stage.raw_handles.scene.decline.lines": [
+      "然后我会继续打磨分裂的手柄，假装堆越来越小。"
+    ],
+    "quest.workshop_oaths.honed_handles.stage.raw_handles.scene.leave.lines": [
+      "干棒。干净的弦。这听起来很简单，因为它很重要。"
+    ],
+    "quest.workshop_oaths.honed_handles.stage.raw_handles.scene.reminder_details.action.remind.lines.reminder": [
+      "携带 24 根棍子和 8 根绳子，用于车间把手和绑扎。"
+    ],
+    "quest.workshop_oaths.honed_handles.stage.raw_handles.scene.reminder_details.action.remind.lines.unavailable": [
+      "车间目前还没有准备好进行这项工作。"
+    ],
+    "quest.workshop_oaths.honed_handles.stage.raw_handles.scene.start_quest.action.start.lines.already_completed": [
+      "手柄架已经重新进货。"
+    ],
+    "quest.workshop_oaths.honed_handles.stage.raw_handles.scene.start_quest.action.start.lines.started": [
+      "先带24根木棍和8根绳子。好的工具始于手的接触处。"
+    ],
+    "quest.workshop_oaths.honed_handles.stage.raw_handles.scene.start_quest.action.start.lines.unavailable": [
+      "研讨会目前还没有准备好寻求帮助。"
+    ],
+    "quest.workshop_oaths.honed_handles.stage.raw_handles.ui.tracker_text": "带24根木棍和8根绳子。",
+    "quest.workshop_oaths.honed_handles.stage.return.dialogue.turn_in.label": "关于手艺",
+    "quest.workshop_oaths.honed_handles.stage.return.dialogue.turn_in.lines": [
+      "这是一架简单的东西，可以阻止许多不寻常的灾难。"
+    ],
+    "quest.workshop_oaths.honed_handles.stage.return.dialogue.turn_in.response.complete.label": "车间补货。",
+    "quest.workshop_oaths.honed_handles.stage.return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.workshop_oaths.honed_handles.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "好的。下一个能够组合在一起的工具将比使用它的人所知道的更多。"
+    ],
+    "quest.workshop_oaths.honed_handles.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "车间订单仍然需要手柄、装订器、燧石或铜配件。"
+    ],
+    "quest.workshop_oaths.honed_handles.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "在我将车间存货记入分类帐之前，请将其带到这里。"
+    ],
+    "quest.workshop_oaths.honed_handles.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "我现在无法关闭处理订单。"
+    ],
+    "quest.workshop_oaths.honed_handles.stage.return.scene.leave.lines": [
+      "机架有间隙。差距会产生后果。"
+    ],
+    "quest.workshop_oaths.honed_handles.stage.return.ui.tracker_text": "带着车间手柄用品返回。",
+    "quest.workshop_oaths.honed_handles.title": "制作握柄"
+  }
+}

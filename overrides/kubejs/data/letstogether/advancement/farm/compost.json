@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "id": "farmersdelight:organic_compost"
+    },
+    "title": {
+      "translate": "advancements.letstogether.farm.compost.title",
+      "fallback": "Back to the Soil"
+    },
+    "description": {
+      "translate": "advancements.letstogether.farm.compost.description",
+      "fallback": "Place organic compost."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "place_organic_compost": {
+      "conditions": {
+        "location": [
+          {
+            "block": "farmersdelight:organic_compost",
+            "condition": "minecraft:block_state_property"
+          }
+        ]
+      },
+      "trigger": "minecraft:placed_block"
+    }
+  },
+  "requirements": [
+    [
+      "place_organic_compost"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:farm/straw"
+}

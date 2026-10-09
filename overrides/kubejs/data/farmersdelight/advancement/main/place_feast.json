@@ -1,0 +1,33 @@
+{
+  "criteria": {
+    "gleaming_salad": {
+      "trigger": "minecraft:impossible"
+    },
+    "honey_glazed_ham": {
+      "trigger": "minecraft:impossible"
+    },
+    "rice_roll_medley": {
+      "trigger": "minecraft:impossible"
+    },
+    "roast_chicken": {
+      "trigger": "minecraft:impossible"
+    },
+    "shepherds_pie": {
+      "trigger": "minecraft:impossible"
+    },
+    "stuffed_pumpkin": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "roast_chicken",
+      "stuffed_pumpkin",
+      "honey_glazed_ham",
+      "shepherds_pie",
+      "gleaming_salad",
+      "rice_roll_medley"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

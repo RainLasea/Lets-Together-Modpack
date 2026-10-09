@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "meet_friend_moon_trigger": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "meet_friend_moon_trigger"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

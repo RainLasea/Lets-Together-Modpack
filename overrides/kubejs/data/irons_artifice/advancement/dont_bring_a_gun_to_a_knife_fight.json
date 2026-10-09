@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "dont_bring_a_gun_to_a_knife_fight": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "dont_bring_a_gun_to_a_knife_fight"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

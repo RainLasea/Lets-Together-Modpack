@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "bastion": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "bastion"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

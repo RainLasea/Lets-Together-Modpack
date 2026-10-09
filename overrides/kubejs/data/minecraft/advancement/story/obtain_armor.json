@@ -1,0 +1,25 @@
+{
+  "criteria": {
+    "iron_boots": {
+      "trigger": "minecraft:impossible"
+    },
+    "iron_chestplate": {
+      "trigger": "minecraft:impossible"
+    },
+    "iron_helmet": {
+      "trigger": "minecraft:impossible"
+    },
+    "iron_leggings": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "iron_helmet",
+      "iron_chestplate",
+      "iron_leggings",
+      "iron_boots"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

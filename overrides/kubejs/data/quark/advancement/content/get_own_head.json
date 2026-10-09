@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "get_own_head": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "get_own_head"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

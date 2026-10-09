@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "make_a_sign_glow": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "make_a_sign_glow"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

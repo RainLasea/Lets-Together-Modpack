@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "davy_joness_locker": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "davy_joness_locker"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

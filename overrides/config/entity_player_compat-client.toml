@@ -1,0 +1,19 @@
+[animations]
+	#Keep the vanilla head rotation while an animation mod drives other body parts.
+	keepVanillaHeadRotation = true
+	#Milliseconds the resource pack takes to blend back in after an animation. 0 disables it.
+	# Default: 250
+	# Range: 0 ~ 1000
+	transitionMillis = 250
+	#Keep poses that other mods give the player, such as Carry On, gliders and Iron's Arms 'n Artifice guns.
+	keepModdedPoses = false
+
+[betterCombat]
+	#Reduce the body pitch Better Combat adds to attacks so it does not stack with the pack.
+	reduceBodyTilt = true
+	#Leave the legs to the resource pack while Better Combat animates the rest of the body.
+	separateLegs = true
+
+[notEnoughAnimations]
+	#Pause the resource pack on the body parts Not Enough Animations is posing.
+	enabled = true

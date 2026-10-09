@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "id": "exposure:interplanar_projector"
+    },
+    "title": {
+      "translate": "advancements.letstogether.memories.project.title",
+      "fallback": "Let's See It Bigger"
+    },
+    "description": {
+      "translate": "advancements.letstogether.memories.project.description",
+      "fallback": "Successfully project an image."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "use_interplanar_projector": {
+      "conditions": {},
+      "trigger": "exposure:successfully_project_image"
+    }
+  },
+  "requirements": [
+    [
+      "use_interplanar_projector"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:memories/print"
+}

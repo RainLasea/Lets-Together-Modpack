@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "get_skeleton_smirk_photograph": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "get_skeleton_smirk_photograph"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

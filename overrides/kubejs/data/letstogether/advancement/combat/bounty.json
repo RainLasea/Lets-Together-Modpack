@@ -1,0 +1,40 @@
+{
+  "display": {
+    "icon": {
+      "id": "bountiful:bountyboard"
+    },
+    "title": {
+      "translate": "advancements.letstogether.combat.bounty.title",
+      "fallback": "I'll Take the Job"
+    },
+    "description": {
+      "translate": "advancements.letstogether.combat.bounty.description",
+      "fallback": "Take a bounty from a bounty board."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "take_a_bounty": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "bountiful:bounty"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "take_a_bounty"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:combat/root"
+}

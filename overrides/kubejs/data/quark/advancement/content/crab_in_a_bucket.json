@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "crab_bucket": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "crab_bucket"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

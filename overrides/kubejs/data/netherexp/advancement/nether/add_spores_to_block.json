@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "nightspores_used": {
+      "trigger": "minecraft:impossible"
+    },
+    "lightspores_used": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "nightspores_used",
+      "lightspores_used"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

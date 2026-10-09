@@ -1,0 +1,34 @@
+{
+  "display": {
+    "icon": {
+      "id": "create:steam_engine"
+    },
+    "title": {
+      "translate": "advancements.letstogether.workshop.max_steam.title",
+      "fallback": "Full Steam Ahead"
+    },
+    "description": {
+      "translate": "advancements.letstogether.workshop.max_steam.description",
+      "fallback": "Run a steam boiler at its maximum power level."
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "0": {
+      "trigger": "create:steam_engine_maxed_builtin"
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:workshop/steam",
+  "rewards": {
+    "experience": 50
+  }
+}

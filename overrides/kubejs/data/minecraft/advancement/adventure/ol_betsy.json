@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "shot_crossbow": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "shot_crossbow"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

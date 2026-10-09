@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "allay_deliver_item_to_player": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "allay_deliver_item_to_player"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

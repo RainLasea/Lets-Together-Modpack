@@ -1,0 +1,29 @@
+{
+  "criteria": {
+    "diamond_knife": {
+      "trigger": "minecraft:impossible"
+    },
+    "flint_knife": {
+      "trigger": "minecraft:impossible"
+    },
+    "golden_knife": {
+      "trigger": "minecraft:impossible"
+    },
+    "iron_knife": {
+      "trigger": "minecraft:impossible"
+    },
+    "netherite_knife": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "flint_knife",
+      "iron_knife",
+      "diamond_knife",
+      "golden_knife",
+      "netherite_knife"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

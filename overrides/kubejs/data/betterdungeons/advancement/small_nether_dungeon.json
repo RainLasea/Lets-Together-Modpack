@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "in_small_nether_dungeon": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "in_small_nether_dungeon"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

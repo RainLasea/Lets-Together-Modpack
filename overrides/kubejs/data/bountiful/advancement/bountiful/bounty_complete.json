@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "turn_in_bounty": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "turn_in_bounty"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

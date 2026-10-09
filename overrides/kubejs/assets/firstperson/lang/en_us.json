@@ -1,0 +1,8 @@
+{
+    "text.firstperson.option.firstperson.hideLeftArmArmor": "Hide Left Arm Armor",
+    "text.firstperson.option.firstperson.hideLeftArmArmor.tooltip": "Hides the armor on the left arm of the first person model, the chestplate stays visible",
+    "text.firstperson.option.firstperson.hideRightArmArmor": "Hide Right Arm Armor",
+    "text.firstperson.option.firstperson.hideRightArmArmor.tooltip": "Hides the armor on the right arm of the first person model, the chestplate stays visible",
+    "text.firstperson.option.firstperson.lockBodyToCamera": "Body Follows Camera",
+    "text.firstperson.option.firstperson.lockBodyToCamera.tooltip": "While walking and sneaking the body always faces the camera, so the side of the body is never visible"
+}

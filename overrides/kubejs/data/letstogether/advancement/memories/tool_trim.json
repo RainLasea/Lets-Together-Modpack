@@ -1,0 +1,41 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:netherite_sword"
+    },
+    "title": {
+      "translate": "advancements.letstogether.memories.tool_trim.title",
+      "fallback": "Tools Can Dress Up Too"
+    },
+    "description": {
+      "translate": "advancements.letstogether.memories.tool_trim.description",
+      "fallback": "Obtain a trimmed tool."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "has_trimmed_tool": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#tooltrims:trimmable_tools",
+            "predicates": {
+              "minecraft:trim": {}
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_trimmed_tool"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:memories/rune"
+}

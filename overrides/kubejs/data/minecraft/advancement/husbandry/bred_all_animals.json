@@ -1,0 +1,157 @@
+{
+  "criteria": {
+    "minecraft:armadillo": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:axolotl": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:bee": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:camel": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:cat": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:chicken": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:cow": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:donkey": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:fox": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:frog": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:goat": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:hoglin": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:horse": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:llama": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:mooshroom": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:mule": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:ocelot": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:panda": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:pig": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:rabbit": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:sheep": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:sniffer": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:strider": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:turtle": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:wolf": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "minecraft:horse"
+    ],
+    [
+      "minecraft:donkey"
+    ],
+    [
+      "minecraft:mule"
+    ],
+    [
+      "minecraft:sheep"
+    ],
+    [
+      "minecraft:cow"
+    ],
+    [
+      "minecraft:mooshroom"
+    ],
+    [
+      "minecraft:pig"
+    ],
+    [
+      "minecraft:chicken"
+    ],
+    [
+      "minecraft:wolf"
+    ],
+    [
+      "minecraft:ocelot"
+    ],
+    [
+      "minecraft:rabbit"
+    ],
+    [
+      "minecraft:llama"
+    ],
+    [
+      "minecraft:cat"
+    ],
+    [
+      "minecraft:panda"
+    ],
+    [
+      "minecraft:fox"
+    ],
+    [
+      "minecraft:bee"
+    ],
+    [
+      "minecraft:hoglin"
+    ],
+    [
+      "minecraft:strider"
+    ],
+    [
+      "minecraft:goat"
+    ],
+    [
+      "minecraft:axolotl"
+    ],
+    [
+      "minecraft:camel"
+    ],
+    [
+      "minecraft:armadillo"
+    ],
+    [
+      "minecraft:turtle"
+    ],
+    [
+      "minecraft:frog"
+    ],
+    [
+      "minecraft:sniffer"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

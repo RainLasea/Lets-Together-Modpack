@@ -1,0 +1,42 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:iron_sword"
+    },
+    "title": {
+      "translate": "advancements.letstogether.home.guard.title",
+      "fallback": "Your Turn on Watch"
+    },
+    "description": {
+      "translate": "advancements.letstogether.home.guard.description",
+      "fallback": "Recruit a village guard."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "recruit_guard": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "guardvillagers:guard"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:summoned_entity"
+    }
+  },
+  "requirements": [
+    [
+      "recruit_guard"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:home/workbench"
+}

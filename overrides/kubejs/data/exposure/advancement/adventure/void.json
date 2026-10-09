@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "photograph_in_end": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "photograph_in_end"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

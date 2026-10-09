@@ -1,0 +1,113 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.nether_routes.bastion_line.description": "保护堡垒分支并建立耐用的黑石 路线 标记。",
+    "quest.nether_routes.bastion_line.stage.return.dialogue.turn_in.label": "关于破碎的黄金",
+    "quest.nether_routes.bastion_line.stage.return.dialogue.turn_in.lines": [
+      "堡垒线有标记，有库存，而且价格足够 尊重。",
+      "一条穿过破碎的黄金的道路现在通向村庄。",
+      "在我关闭笔记之前让我看看完整的作品。"
+    ],
+    "quest.nether_routes.bastion_line.stage.return.dialogue.turn_in.response.complete.label": "交出工作。",
+    "quest.nether_routes.bastion_line.stage.return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.nether_routes.bastion_line.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "堡垒线有标记，有库存，而且价格足够 尊重。",
+      "一条穿过破碎的黄金的道路现在通向村庄。"
+    ],
+    "quest.nether_routes.bastion_line.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "完整的工作尚未准备好进行计算。"
+    ],
+    "quest.nether_routes.bastion_line.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "在我们解决这个问题之前，请带上证据。",
+      "我需要在这里提交完整的内容，而不仅仅是故事。"
+    ],
+    "quest.nether_routes.bastion_line.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "原料 背后需要一个真正的目的地。",
+      "在我们称之为完成之前到达标记的地方。"
+    ],
+    "quest.nether_routes.bastion_line.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "破碎的黄金目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.nether_routes.bastion_line.stage.return.scene.turn_in_wait.lines": [
+      "三个野蛮人，三十二块黑石，两块用于储藏室的金块。",
+      "当工作准备好时再回来。"
+    ],
+    "quest.nether_routes.bastion_line.stage.return.ui.tracker_text": "返回任务给予者。",
+    "quest.nether_routes.bastion_line.stage.work.dialogue.offer.label": "破碎的黄金",
+    "quest.nether_routes.bastion_line.stage.work.dialogue.offer.lines": [
+      "堡垒方位是真实的，但野蛮人将每一个标记都视为挑战。",
+      "清除 路线，设置黑石标记，并在滞留的旅行者可以交换的地方储存黄金。",
+      "击败 3 个猪灵兽并带来 32 个黑石和 2 个金块。"
+    ],
+    "quest.nether_routes.bastion_line.stage.work.dialogue.offer.response.accept.label": "我能做到。",
+    "quest.nether_routes.bastion_line.stage.work.dialogue.offer.response.decline.label": "现在不行。",
+    "quest.nether_routes.bastion_line.stage.work.dialogue.reminder.label": "关于破碎的黄金",
+    "quest.nether_routes.bastion_line.stage.work.dialogue.reminder.lines": [
+      "三个野蛮人，三十二块黑石，两块用于储藏室的金块。",
+      "击败 3 个猪灵兽并带来 32 个黑石和 2 个金块。",
+      "清除 路线，设置黑石标记，并在滞留的旅行者可以交换的地方储存黄金。"
+    ],
+    "quest.nether_routes.bastion_line.stage.work.dialogue.reminder.response.abandon.label": "把这个放在一边。",
+    "quest.nether_routes.bastion_line.stage.work.dialogue.reminder.response.details.label": "重复该工作。",
+    "quest.nether_routes.bastion_line.stage.work.dialogue.reminder.response.leave.label": "我有。",
+    "quest.nether_routes.bastion_line.stage.work.objective.bring_blackstone.tracker.complete_text": "黑石标记已准备就绪。",
+    "quest.nether_routes.bastion_line.stage.work.objective.bring_blackstone.tracker.text": "为 路线 标记带来 32 个黑石。",
+    "quest.nether_routes.bastion_line.stage.work.objective.bring_gold.tracker.complete_text": "金块已经准备好了。",
+    "quest.nether_routes.bastion_line.stage.work.objective.bring_gold.tracker.text": "携带 2 个金块用于安全 路线 缓存。",
+    "quest.nether_routes.bastion_line.stage.work.objective.clear_brutes.tracker.complete_text": "堡垒巡逻队已被清除。",
+    "quest.nether_routes.bastion_line.stage.work.objective.clear_brutes.tracker.text": "击败 路线 沿线的 3 个猪灵蛮族。",
+    "quest.nether_routes.bastion_line.stage.work.scene.abandon_confirm.lines": [
+      "把破碎的黄金放在一边？",
+      "如果你确定的话我可以把你的名字从工作中删除。"
+    ],
+    "quest.nether_routes.bastion_line.stage.work.scene.abandon_confirm.response.cancel.label": "保持打开状态。",
+    "quest.nether_routes.bastion_line.stage.work.scene.abandon_confirm.response.confirm.label": "把它放在一边。",
+    "quest.nether_routes.bastion_line.stage.work.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "好的。我会从工作中清除你的名字。",
+      "便条收起来了。你可以稍后再问。"
+    ],
+    "quest.nether_routes.bastion_line.stage.work.scene.abandon_quest.action.abandon.lines.abandoned_cooldown": [
+      "我会把这张纸条先搁置一段时间，然后再重新发布。",
+      "在你再次提出要求之前，先让工作休息一下。"
+    ],
+    "quest.nether_routes.bastion_line.stage.work.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "破碎的黄金目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.nether_routes.bastion_line.stage.work.scene.decline.lines": [
+      "然后堡垒保留它的墙壁和它的意见。"
+    ],
+    "quest.nether_routes.bastion_line.stage.work.scene.leave.lines": [
+      "三个野蛮人，三十二块黑石，两块用于储藏室的金块。",
+      "当工作准备好时再回来。"
+    ],
+    "quest.nether_routes.bastion_line.stage.work.scene.reminder_details.action.remind.lines.reminder": [
+      "三个野蛮人，三十二块黑石，两块用于储藏室的金块。",
+      "击败 3 个猪灵兽并带来 32 个黑石和 2 个金块。",
+      "清除 路线，设置黑石标记，并在滞留的旅行者可以交换的地方储存黄金。"
+    ],
+    "quest.nether_routes.bastion_line.stage.work.scene.reminder_details.action.remind.lines.unavailable": [
+      "破碎的黄金目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.nether_routes.bastion_line.stage.work.scene.start_quest.action.start.lines.already_completed": [
+      "破碎的黄金目前已经尘埃落定。",
+      "这项工作已经被计算在内。"
+    ],
+    "quest.nether_routes.bastion_line.stage.work.scene.start_quest.action.start.lines.locate_failed": [
+      "我在这里找不到值得信赖的标记。等道路畅通后再询问。",
+      "今天地图不会确定安全目的地。"
+    ],
+    "quest.nether_routes.bastion_line.stage.work.scene.start_quest.action.start.lines.started": [
+      "佩戴一件金子。它不会给野蛮人留下深刻的印象，但其他人可能会停下来。",
+      "击败 3 个猪灵兽并带来 32 个黑石和 2 个金块。"
+    ],
+    "quest.nether_routes.bastion_line.stage.work.scene.start_quest.action.start.lines.unavailable": [
+      "破碎的黄金目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.nether_routes.bastion_line.stage.work.ui.tracker_text": "击败 3 个猪灵兽并带来 32 个黑石和 2 个金块。",
+    "quest.nether_routes.bastion_line.title": "破碎的黄金"
+  }
+}

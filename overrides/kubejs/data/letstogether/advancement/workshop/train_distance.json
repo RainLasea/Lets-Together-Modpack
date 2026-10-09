@@ -1,0 +1,34 @@
+{
+  "display": {
+    "icon": {
+      "id": "create:green_seat"
+    },
+    "title": {
+      "translate": "advancements.letstogether.workshop.train_distance.title",
+      "fallback": "Missed My Stop"
+    },
+    "description": {
+      "translate": "advancements.letstogether.workshop.train_distance.description",
+      "fallback": "Leave your train seat more than 5000 blocks from where you started riding."
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "0": {
+      "trigger": "create:long_travel_builtin"
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:workshop/train",
+  "rewards": {
+    "experience": 50
+  }
+}

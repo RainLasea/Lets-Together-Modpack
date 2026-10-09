@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "lion_nap": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "lion_nap"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

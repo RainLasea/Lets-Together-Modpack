@@ -1,0 +1,46 @@
+{
+  "display": {
+    "icon": {
+      "id": "farmersdelight:tomato"
+    },
+    "title": {
+      "translate": "advancements.letstogether.farm.tomato.title",
+      "fallback": "A Little Support"
+    },
+    "description": {
+      "translate": "advancements.letstogether.farm.tomato.description",
+      "fallback": "Harvest a tomato growing along a rope."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "harvest_ropelogged_tomato": {
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "block": {
+                "blocks": "farmersdelight:tomatoes_on_rope",
+                "state": {
+                  "age": "0"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:default_block_use"
+    }
+  },
+  "requirements": [
+    [
+      "harvest_ropelogged_tomato"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:farm/seeds"
+}

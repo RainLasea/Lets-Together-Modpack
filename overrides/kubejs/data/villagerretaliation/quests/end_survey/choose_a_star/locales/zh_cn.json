@@ -1,0 +1,143 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.end_survey.choose_a_star.description": "选择合唱路线或末地城灯光进行调查。",
+    "quest.end_survey.choose_a_star.scene.end_star_choice.metadata.title": "末地星辰的抉择",
+    "quest.end_survey.choose_a_star.scene.end_star_choice.step.chorus_charge.data.text": "合唱踪迹。绘制活生生的紫色 路线，即使它的果实与距离不一致。",
+    "quest.end_survey.choose_a_star.scene.end_star_choice.step.city_charge.data.text": "城市之光。绘制出白色塔楼、塔楼之间的空隙以及每一个假装是石头的贝壳的地图。",
+    "quest.end_survey.choose_a_star.scene.end_star_choice.step.mark_the_star.data.text": "调查账本中圈出了一个末端光点。 路线 现在属于您的选择。",
+    "quest.end_survey.choose_a_star.stage.choose.dialogue.offer.label": "选择星辰",
+    "quest.end_survey.choose_a_star.stage.choose.dialogue.offer.lines": [
+      "外岛有两种灯光：靠近地面的紫颂林，或城市高处的末端杆。",
+      "此选择结束其他调查。合唱更安全，并提供难得的末影宝箱机会；城市更加困难，为 路线 提供了唯一、更强的鞘翅机会。"
+    ],
+    "quest.end_survey.choose_a_star.stage.choose.dialogue.offer.response.chorus.action.notification.text": "你选择了穿过外端的合唱路线。",
+    "quest.end_survey.choose_a_star.stage.choose.dialogue.offer.response.chorus.label": "跟随紫颂",
+    "quest.end_survey.choose_a_star.stage.choose.dialogue.offer.response.chorus.text": "合唱踪迹。做好准备，让水果改变你的归属。",
+    "quest.end_survey.choose_a_star.stage.choose.dialogue.offer.response.city.action.notification.text": "你选择了末地城的灯光。",
+    "quest.end_survey.choose_a_star.stage.choose.dialogue.offer.response.city.label": "跟随城市的灯光",
+    "quest.end_survey.choose_a_star.stage.choose.dialogue.offer.response.city.text": "城市之光。观察塔楼、塔楼之间的空隙，以及每一个假装成方块的炮弹。",
+    "quest.end_survey.choose_a_star.stage.choose.dialogue.offer.response.decline.label": "还没有。",
+    "quest.end_survey.choose_a_star.stage.choose.dialogue.reminder.label": "关于选择星辰",
+    "quest.end_survey.choose_a_star.stage.choose.dialogue.reminder.lines": [
+      "外岛有两种灯光：靠近地面的紫颂林，或城市高处的末端杆。",
+      "此选择结束其他调查。合唱更安全，并提供难得的末影宝箱机会；城市更加困难，为 路线 提供了唯一、更强的鞘翅机会。"
+    ],
+    "quest.end_survey.choose_a_star.stage.choose.dialogue.reminder.response.chorus.action.notification.text": "你选择了穿过外端的合唱路线。",
+    "quest.end_survey.choose_a_star.stage.choose.dialogue.reminder.response.chorus.label": "跟随紫颂",
+    "quest.end_survey.choose_a_star.stage.choose.dialogue.reminder.response.chorus.text": "合唱踪迹。做好准备，让水果改变你的归属。",
+    "quest.end_survey.choose_a_star.stage.choose.dialogue.reminder.response.city.action.notification.text": "你选择了末地城的灯光。",
+    "quest.end_survey.choose_a_star.stage.choose.dialogue.reminder.response.city.label": "跟随城市的灯光",
+    "quest.end_survey.choose_a_star.stage.choose.dialogue.reminder.response.city.text": "城市之光。观察塔楼、塔楼之间的空隙，以及每一个假装成方块的炮弹。",
+    "quest.end_survey.choose_a_star.stage.choose.dialogue.reminder.response.decline.label": "还没有。",
+    "quest.end_survey.choose_a_star.stage.choose.dialogue.reminder.response.details.label": "重复选择。",
+    "quest.end_survey.choose_a_star.stage.choose.objective.choose_route.tracker.complete_text": "路线 选择：{objective_choice_value}。",
+    "quest.end_survey.choose_a_star.stage.choose.objective.choose_route.tracker.text": "选择带有 任务 给予器的 路线。",
+    "quest.end_survey.choose_a_star.stage.choose.scene.decline.lines": [
+      "然后末地之地将两盏灯都保留在我们的地图之外。"
+    ],
+    "quest.end_survey.choose_a_star.stage.choose.scene.reminder_details.action.remind.lines.reminder": [
+      "外岛有两种灯光：靠近地面的紫颂林，或城市高处的末端杆。",
+      "此选择结束其他调查。合唱更安全，并提供难得的末影宝箱机会；城市更加困难，为 路线 提供了唯一、更强的鞘翅机会。"
+    ],
+    "quest.end_survey.choose_a_star.stage.choose.scene.reminder_details.action.remind.lines.unavailable": [
+      "该选择目前尚未开放。"
+    ],
+    "quest.end_survey.choose_a_star.stage.choose.ui.tracker_text": "选择 路线。",
+    "quest.end_survey.choose_a_star.stage.chorus_return.dialogue.turn_in.label": "关于选择星辰",
+    "quest.end_survey.choose_a_star.stage.chorus_return.dialogue.turn_in.lines": [
+      "这些果实都来自一台 路线，但没有一个与 路线 的位置一致。",
+      "合唱轨迹已标记。这次探险的最终调查将沿着活着的紫色树枝进行。"
+    ],
+    "quest.end_survey.choose_a_star.stage.chorus_return.dialogue.turn_in.response.complete.label": "完成这个路线。",
+    "quest.end_survey.choose_a_star.stage.chorus_return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.end_survey.choose_a_star.stage.chorus_return.scene.complete_route.action.turn_in.lines.completed": [
+      "合唱轨迹已标记。这次探险的最终调查将沿着活着的紫色树枝进行。",
+      "这些果实都来自一台 路线，但没有一个与 路线 的位置一致。"
+    ],
+    "quest.end_survey.choose_a_star.stage.chorus_return.scene.complete_route.action.turn_in.lines.missing_objectives": [
+      "清除踪迹中的五名末影人并带来三十二颗紫颂果。"
+    ],
+    "quest.end_survey.choose_a_star.stage.chorus_return.scene.complete_route.action.turn_in.lines.missing_proof": [
+      "在我们关闭地图之前，将 路线 证据带到这里。"
+    ],
+    "quest.end_survey.choose_a_star.stage.chorus_return.scene.complete_route.action.turn_in.lines.unavailable": [
+      "路线 现在无法关闭。"
+    ],
+    "quest.end_survey.choose_a_star.stage.chorus_return.scene.leave.lines": [
+      "路线 保持打开状态，直到您准备好为止。"
+    ],
+    "quest.end_survey.choose_a_star.stage.chorus_return.ui.tracker_text": "返回任务给予者。",
+    "quest.end_survey.choose_a_star.stage.chorus_work.dialogue.reminder.label": "关于选择星辰",
+    "quest.end_survey.choose_a_star.stage.chorus_work.dialogue.reminder.lines": [
+      "清除踪迹中的五名末影人并带来三十二颗紫颂果。",
+      "合唱踪迹。做好准备，让水果改变你的归属。"
+    ],
+    "quest.end_survey.choose_a_star.stage.chorus_work.dialogue.reminder.response.details.label": "重复 路线。",
+    "quest.end_survey.choose_a_star.stage.chorus_work.dialogue.reminder.response.leave.label": "我有。",
+    "quest.end_survey.choose_a_star.stage.chorus_work.objective.bring_chorus.tracker.complete_text": "紫颂果样品已准备就绪。",
+    "quest.end_survey.choose_a_star.stage.chorus_work.objective.bring_chorus.tracker.text": "带上32个紫颂果。",
+    "quest.end_survey.choose_a_star.stage.chorus_work.objective.clear_endermen.tracker.complete_text": "合唱轨迹清晰。",
+    "quest.end_survey.choose_a_star.stage.chorus_work.objective.clear_endermen.tracker.text": "沿合唱路线击败 5 个末影人。",
+    "quest.end_survey.choose_a_star.stage.chorus_work.scene.leave.lines": [
+      "保留您选择的 路线。"
+    ],
+    "quest.end_survey.choose_a_star.stage.chorus_work.scene.reminder_details.action.remind.lines.reminder": [
+      "清除踪迹中的五名末影人并带来三十二颗紫颂果。",
+      "合唱踪迹。做好准备，让水果改变你的归属。"
+    ],
+    "quest.end_survey.choose_a_star.stage.chorus_work.scene.reminder_details.action.remind.lines.unavailable": [
+      "路线 目前未处于活动状态。"
+    ],
+    "quest.end_survey.choose_a_star.stage.chorus_work.ui.tracker_text": "清除踪迹中的五名末影人并带来三十二颗紫颂果。",
+    "quest.end_survey.choose_a_star.stage.city_return.dialogue.turn_in.label": "关于选择星辰",
+    "quest.end_survey.choose_a_star.stage.city_return.dialogue.turn_in.lines": [
+      "城市的方位依然存在，尽管它的楼梯似乎与地面格格不入。",
+      "城市之光已被标记。这次探险的最终调查将沿着苍白的塔楼进行。"
+    ],
+    "quest.end_survey.choose_a_star.stage.city_return.dialogue.turn_in.response.complete.label": "完成这个路线。",
+    "quest.end_survey.choose_a_star.stage.city_return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.end_survey.choose_a_star.stage.city_return.scene.complete_route.action.turn_in.lines.completed": [
+      "城市之光已被标记。这次探险的最终调查将沿着苍白的塔楼进行。",
+      "城市的方位依然存在，尽管它的楼梯似乎与地面格格不入。"
+    ],
+    "quest.end_survey.choose_a_star.stage.city_return.scene.complete_route.action.turn_in.lines.missing_objectives": [
+      "到达城市之光，清除三个潜影贝，并带上一枚贝壳。"
+    ],
+    "quest.end_survey.choose_a_star.stage.city_return.scene.complete_route.action.turn_in.lines.missing_proof": [
+      "在我们关闭地图之前，将 路线 证据带到这里。"
+    ],
+    "quest.end_survey.choose_a_star.stage.city_return.scene.complete_route.action.turn_in.lines.unavailable": [
+      "路线 现在无法关闭。"
+    ],
+    "quest.end_survey.choose_a_star.stage.city_return.scene.leave.lines": [
+      "路线 保持打开状态，直到您准备好为止。"
+    ],
+    "quest.end_survey.choose_a_star.stage.city_return.ui.tracker_text": "返回任务给予者。",
+    "quest.end_survey.choose_a_star.stage.city_work.dialogue.reminder.label": "关于选择星辰",
+    "quest.end_survey.choose_a_star.stage.city_work.dialogue.reminder.lines": [
+      "到达城市之光，清除三个潜影贝，并带上一枚贝壳。",
+      "城市之光。观察塔楼、塔楼之间的空隙，以及每一个假装成方块的炮弹。"
+    ],
+    "quest.end_survey.choose_a_star.stage.city_work.dialogue.reminder.response.details.label": "重复 路线。",
+    "quest.end_survey.choose_a_star.stage.city_work.dialogue.reminder.response.leave.label": "我有。",
+    "quest.end_survey.choose_a_star.stage.city_work.objective.bring_shell.tracker.complete_text": "潜影壳已准备就绪。",
+    "quest.end_survey.choose_a_star.stage.city_work.objective.bring_shell.tracker.text": "带上 1 个潜影壳。",
+    "quest.end_survey.choose_a_star.stage.city_work.objective.clear_shulkers.tracker.complete_text": "三个潜影贝已被清除。",
+    "quest.end_survey.choose_a_star.stage.city_work.objective.clear_shulkers.tracker.text": "击败 3 个潜影贝。",
+    "quest.end_survey.choose_a_star.stage.city_work.objective.visit_city.tracker.complete_text": "末地城的灯光已被标记。",
+    "quest.end_survey.choose_a_star.stage.city_work.objective.visit_city.tracker.text": "到达标记的末地城。",
+    "quest.end_survey.choose_a_star.stage.city_work.scene.leave.lines": [
+      "保留您选择的 路线。"
+    ],
+    "quest.end_survey.choose_a_star.stage.city_work.scene.reminder_details.action.remind.lines.reminder": [
+      "到达城市之光，清除三个潜影贝，并带上一枚贝壳。",
+      "城市之光。观察塔楼、塔楼之间的空隙，以及每一个假装成方块的炮弹。"
+    ],
+    "quest.end_survey.choose_a_star.stage.city_work.scene.reminder_details.action.remind.lines.unavailable": [
+      "路线 目前未处于活动状态。"
+    ],
+    "quest.end_survey.choose_a_star.stage.city_work.ui.tracker_text": "到达城市之光，清除三个潜影贝，并带上一枚贝壳。",
+    "quest.end_survey.choose_a_star.title": "选择星辰"
+  }
+}

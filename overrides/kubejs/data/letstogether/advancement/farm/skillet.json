@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "id": "farmersdelight:skillet"
+    },
+    "title": {
+      "translate": "advancements.letstogether.farm.skillet.title",
+      "fallback": "Pan on the Stove"
+    },
+    "description": {
+      "translate": "advancements.letstogether.farm.skillet.description",
+      "fallback": "Place a skillet while sneaking."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "skillet": {
+      "conditions": {
+        "location": [
+          {
+            "block": "farmersdelight:skillet",
+            "condition": "minecraft:block_state_property"
+          }
+        ]
+      },
+      "trigger": "minecraft:placed_block"
+    }
+  },
+  "requirements": [
+    [
+      "skillet"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:farm/campfire"
+}

@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "fetch": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "fetch"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

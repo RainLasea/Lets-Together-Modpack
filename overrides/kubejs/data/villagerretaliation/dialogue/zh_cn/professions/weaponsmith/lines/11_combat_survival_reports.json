@@ -1,0 +1,42 @@
+{
+  "lines": [
+    {
+      "id": "combat_survival_weaponsmith",
+      "request": "combat_survival_report",
+      "lines": [
+        "当我回家的时候，刀片完成了它的工作，我的脚也完成了它的工作。",
+        "热、压力、<dark_gray><wavy>恐惧</wavy></dark_gray>。好的钢材能经受住这一考验。我也是。",
+        "钢铁在歌唱，恐惧在呼喊，而我仍然听到归家之路。",
+        "在我发现我的手在颤抖之前，我清理了武器。",
+        "即使骄傲不同意，撤退也是正确的选择。",
+        "有些伤口是在我身后的门关上之后才开始疼痛的。",
+        "第一个安静的时刻比战斗更奇怪。",
+        "疲惫的双腿比刀刃带我走得更远。",
+        "我幸存下来是因为我知道什么时候钢铁是不够的。",
+        "锻造厂的声音告诉我我到家了。",
+        "干净的边缘不能取代良好的判断力。",
+        "我记得武器为我捕获的每一次攻击。",
+        "握把上有污渍，但从未滑落过。",
+        "我回来时带着一个新的伤疤和几条新的规则。",
+        "刀片需要修理。我也一样。",
+        "我感觉自己不够勇敢。我觉得自己很忙，要活下去。",
+        "恐惧一直伴随着我，直到锤子再次敲响。",
+        "下次我会带更多的绷带和更少的骄傲。",
+        "战斗在我的双手意识到之前就结束了。",
+        "生存不是一件漂亮的工作，但它是诚实的。"
+      ],
+      "option": "combat_survival_report",
+      "show_for_babies": false,
+      "weight": 234
+    }
+  ],
+  "metadata": {
+    "tags": [
+      "content.dialogue",
+      "dialogue.ambient",
+      "scope.profession.weaponsmith",
+      "section.lines"
+    ],
+    "topic": "professions.weaponsmith.combat_survival_reports"
+  }
+}

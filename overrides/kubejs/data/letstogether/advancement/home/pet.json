@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:lead"
+    },
+    "title": {
+      "translate": "advancements.letstogether.home.pet.title",
+      "fallback": "You're Coming with Me"
+    },
+    "description": {
+      "translate": "advancements.letstogether.home.pet.description",
+      "fallback": "Tame an animal."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "tamed_animal": {
+      "trigger": "minecraft:tame_animal"
+    }
+  },
+  "requirements": [
+    [
+      "tamed_animal"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:home/sleep"
+}

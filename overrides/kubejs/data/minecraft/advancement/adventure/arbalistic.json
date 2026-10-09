@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "arbalistic": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "arbalistic"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

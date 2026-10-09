@@ -1,0 +1,145 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.nether_routes.choose_a_road.description": "选择下界要塞 路线 或堡垒 路线。",
+    "quest.nether_routes.choose_a_road.scene.nether_road_choice.metadata.title": "下界道路的抉择",
+    "quest.nether_routes.choose_a_road.scene.nether_road_choice.step.bastion_charge.data.text": "堡垒路。观看野兽，相信没有打开的箱子，并为 路线 账本带来镀金的石头。",
+    "quest.nether_routes.choose_a_road.scene.nether_road_choice.step.fortress_charge.data.text": "堡垒路。在每次穿越前数一下火焰，并带回标尺来标记安全转弯。",
+    "quest.nether_routes.choose_a_road.scene.nether_road_choice.step.unroll_the_route.data.text": "木炭路线已修复。从这里开始，每个标记都必须能够经受住火灾和错误判断的考验。",
+    "quest.nether_routes.choose_a_road.stage.bastion_return.dialogue.turn_in.label": "关于选择道路",
+    "quest.nether_routes.choose_a_road.stage.bastion_return.dialogue.turn_in.lines": [
+      "堡垒的方位是真实的，镀金的石头证明你穿过了它的城墙。",
+      "堡垒路有标记。最终的 路线 将紧接着破碎的黄金。"
+    ],
+    "quest.nether_routes.choose_a_road.stage.bastion_return.dialogue.turn_in.response.complete.label": "完成这个路线。",
+    "quest.nether_routes.choose_a_road.stage.bastion_return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.nether_routes.choose_a_road.stage.bastion_return.scene.complete_route.action.turn_in.lines.completed": [
+      "堡垒路有标记。最终的 路线 将紧接着破碎的黄金。",
+      "堡垒的方位是真实的，镀金的石头证明你穿过了它的城墙。"
+    ],
+    "quest.nether_routes.choose_a_road.stage.bastion_return.scene.complete_route.action.turn_in.lines.missing_objectives": [
+      "到达堡垒标记，击败两个野蛮人，并带来四块镀金黑石。"
+    ],
+    "quest.nether_routes.choose_a_road.stage.bastion_return.scene.complete_route.action.turn_in.lines.missing_proof": [
+      "在我们关闭地图之前，将 路线 证据带到这里。"
+    ],
+    "quest.nether_routes.choose_a_road.stage.bastion_return.scene.complete_route.action.turn_in.lines.unavailable": [
+      "路线 现在无法关闭。"
+    ],
+    "quest.nether_routes.choose_a_road.stage.bastion_return.scene.leave.lines": [
+      "路线 保持打开状态，直到您准备好为止。"
+    ],
+    "quest.nether_routes.choose_a_road.stage.bastion_return.ui.tracker_text": "返回任务给予者。",
+    "quest.nether_routes.choose_a_road.stage.bastion_work.dialogue.reminder.label": "关于选择道路",
+    "quest.nether_routes.choose_a_road.stage.bastion_work.dialogue.reminder.lines": [
+      "到达堡垒标记，击败两个野蛮人，并带来四块镀金黑石。",
+      "堡垒路。佩戴黄金，观看畜生，不要用手欣赏任何东西。"
+    ],
+    "quest.nether_routes.choose_a_road.stage.bastion_work.dialogue.reminder.response.details.label": "重复 路线。",
+    "quest.nether_routes.choose_a_road.stage.bastion_work.dialogue.reminder.response.leave.label": "我有。",
+    "quest.nether_routes.choose_a_road.stage.bastion_work.objective.bring_gilded_stone.tracker.complete_text": "镀金的黑石就准备好了。",
+    "quest.nether_routes.choose_a_road.stage.bastion_work.objective.bring_gilded_stone.tracker.text": "带4块镀金黑石。",
+    "quest.nether_routes.choose_a_road.stage.bastion_work.objective.defeat_brutes.tracker.complete_text": "两只猪灵兽已被清除。",
+    "quest.nether_routes.choose_a_road.stage.bastion_work.objective.defeat_brutes.tracker.text": "击败 2 只猪灵蛮族。",
+    "quest.nether_routes.choose_a_road.stage.bastion_work.objective.visit_bastion.tracker.complete_text": "堡垒 路线 已标记。",
+    "quest.nether_routes.choose_a_road.stage.bastion_work.objective.visit_bastion.tracker.text": "到达标记的堡垒遗迹。",
+    "quest.nether_routes.choose_a_road.stage.bastion_work.scene.leave.lines": [
+      "保留您选择的 路线。"
+    ],
+    "quest.nether_routes.choose_a_road.stage.bastion_work.scene.reminder_details.action.remind.lines.reminder": [
+      "到达堡垒标记，击败两个野蛮人，并带来四块镀金黑石。",
+      "堡垒路。佩戴黄金，观看畜生，不要用手欣赏任何东西。"
+    ],
+    "quest.nether_routes.choose_a_road.stage.bastion_work.scene.reminder_details.action.remind.lines.unavailable": [
+      "路线 目前未处于活动状态。"
+    ],
+    "quest.nether_routes.choose_a_road.stage.bastion_work.ui.tracker_text": "到达堡垒标记，击败两个野蛮人，并带来四块镀金黑石。",
+    "quest.nether_routes.choose_a_road.stage.choose.dialogue.offer.label": "选择道路",
+    "quest.nether_routes.choose_a_road.stage.choose.dialogue.offer.lines": [
+      "下界路可以沿着要塞桥梁或堡垒墙行驶。一个充满火；另一个是业主。",
+      "这个选择关闭了另一条地狱之路。要塞工作提供了罕见的枯萎骷髅头骨机会；更难的堡垒工作提供了难得的远古碎片机会。"
+    ],
+    "quest.nether_routes.choose_a_road.stage.choose.dialogue.offer.response.bastion.action.notification.text": "你选择了堡垒遗迹路。",
+    "quest.nether_routes.choose_a_road.stage.choose.dialogue.offer.response.bastion.label": "跟随堡垒",
+    "quest.nether_routes.choose_a_road.stage.choose.dialogue.offer.response.bastion.text": "堡垒路。佩戴黄金，观看畜生，不要用手欣赏任何东西。",
+    "quest.nether_routes.choose_a_road.stage.choose.dialogue.offer.response.decline.label": "还没有。",
+    "quest.nether_routes.choose_a_road.stage.choose.dialogue.offer.response.fortress.action.notification.text": "你选择了幽冥要塞之路。",
+    "quest.nether_routes.choose_a_road.stage.choose.dialogue.offer.response.fortress.label": "跟随堡垒",
+    "quest.nether_routes.choose_a_road.stage.choose.dialogue.offer.response.fortress.text": "堡垒路。标记每座桥梁，切勿站在火焰可以看到您两侧的地方。",
+    "quest.nether_routes.choose_a_road.stage.choose.dialogue.reminder.label": "关于选择道路",
+    "quest.nether_routes.choose_a_road.stage.choose.dialogue.reminder.lines": [
+      "下界路可以沿着要塞桥梁或堡垒墙行驶。一个充满火；另一个是业主。",
+      "这个选择关闭了另一条地狱之路。要塞工作提供了罕见的枯萎骷髅头骨机会；更难的堡垒工作提供了难得的远古碎片机会。"
+    ],
+    "quest.nether_routes.choose_a_road.stage.choose.dialogue.reminder.response.bastion.action.notification.text": "你选择了堡垒遗迹路。",
+    "quest.nether_routes.choose_a_road.stage.choose.dialogue.reminder.response.bastion.label": "跟随堡垒",
+    "quest.nether_routes.choose_a_road.stage.choose.dialogue.reminder.response.bastion.text": "堡垒路。佩戴黄金，观看畜生，不要用手欣赏任何东西。",
+    "quest.nether_routes.choose_a_road.stage.choose.dialogue.reminder.response.decline.label": "还没有。",
+    "quest.nether_routes.choose_a_road.stage.choose.dialogue.reminder.response.details.label": "重复选择。",
+    "quest.nether_routes.choose_a_road.stage.choose.dialogue.reminder.response.fortress.action.notification.text": "你选择了幽冥要塞之路。",
+    "quest.nether_routes.choose_a_road.stage.choose.dialogue.reminder.response.fortress.label": "跟随堡垒",
+    "quest.nether_routes.choose_a_road.stage.choose.dialogue.reminder.response.fortress.text": "堡垒路。标记每座桥梁，切勿站在火焰可以看到您两侧的地方。",
+    "quest.nether_routes.choose_a_road.stage.choose.objective.choose_route.tracker.complete_text": "路线 选择：{objective_choice_value}。",
+    "quest.nether_routes.choose_a_road.stage.choose.objective.choose_route.tracker.text": "选择带有 任务 给予器的 路线。",
+    "quest.nether_routes.choose_a_road.stage.choose.scene.decline.lines": [
+      "那么门户仍然是一个没有路的门口。"
+    ],
+    "quest.nether_routes.choose_a_road.stage.choose.scene.reminder_details.action.remind.lines.reminder": [
+      "下界路可以沿着要塞桥梁或堡垒墙行驶。一个充满火；另一个是业主。",
+      "这个选择关闭了另一条地狱之路。要塞工作提供了罕见的枯萎骷髅头骨机会；更难的堡垒工作提供了难得的远古碎片机会。"
+    ],
+    "quest.nether_routes.choose_a_road.stage.choose.scene.reminder_details.action.remind.lines.unavailable": [
+      "该选择目前尚未开放。"
+    ],
+    "quest.nether_routes.choose_a_road.stage.choose.ui.tracker_text": "选择 路线。",
+    "quest.nether_routes.choose_a_road.stage.fortress_return.dialogue.turn_in.label": "关于选择道路",
+    "quest.nether_routes.choose_a_road.stage.fortress_return.dialogue.turn_in.lines": [
+      "桥梁支座清晰可见，火焰计数用灰烬书写。",
+      "堡垒路有标记。最终的路线将遵循黑砖。"
+    ],
+    "quest.nether_routes.choose_a_road.stage.fortress_return.dialogue.turn_in.response.complete.label": "完成这个路线。",
+    "quest.nether_routes.choose_a_road.stage.fortress_return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.nether_routes.choose_a_road.stage.fortress_return.scene.complete_route.action.turn_in.lines.completed": [
+      "堡垒路有标记。最终的路线将遵循黑砖。",
+      "桥梁支座清晰可见，火焰计数用灰烬书写。"
+    ],
+    "quest.nether_routes.choose_a_road.stage.fortress_return.scene.complete_route.action.turn_in.lines.missing_objectives": [
+      "到达要塞标记，击败四场火焰，并带上两根棍子。"
+    ],
+    "quest.nether_routes.choose_a_road.stage.fortress_return.scene.complete_route.action.turn_in.lines.missing_proof": [
+      "在我们关闭地图之前，将 路线 证据带到这里。"
+    ],
+    "quest.nether_routes.choose_a_road.stage.fortress_return.scene.complete_route.action.turn_in.lines.unavailable": [
+      "路线 现在无法关闭。"
+    ],
+    "quest.nether_routes.choose_a_road.stage.fortress_return.scene.leave.lines": [
+      "路线 保持打开状态，直到您准备好为止。"
+    ],
+    "quest.nether_routes.choose_a_road.stage.fortress_return.ui.tracker_text": "返回任务给予者。",
+    "quest.nether_routes.choose_a_road.stage.fortress_work.dialogue.reminder.label": "关于选择道路",
+    "quest.nether_routes.choose_a_road.stage.fortress_work.dialogue.reminder.lines": [
+      "到达要塞标记，击败四场火焰，并带上两根棍子。",
+      "堡垒路。标记每座桥梁，切勿站在火焰可以看到您两侧的地方。"
+    ],
+    "quest.nether_routes.choose_a_road.stage.fortress_work.dialogue.reminder.response.details.label": "重复 路线。",
+    "quest.nether_routes.choose_a_road.stage.fortress_work.dialogue.reminder.response.leave.label": "我有。",
+    "quest.nether_routes.choose_a_road.stage.fortress_work.objective.bring_rods.tracker.complete_text": "火焰棒已准备就绪。",
+    "quest.nether_routes.choose_a_road.stage.fortress_work.objective.bring_rods.tracker.text": "带2根火焰棒。",
+    "quest.nether_routes.choose_a_road.stage.fortress_work.objective.defeat_blazes.tracker.complete_text": "四处大火已被扑灭。",
+    "quest.nether_routes.choose_a_road.stage.fortress_work.objective.defeat_blazes.tracker.text": "击败4个烈火。",
+    "quest.nether_routes.choose_a_road.stage.fortress_work.objective.visit_fortress.tracker.complete_text": "堡垒 路线 已标记。",
+    "quest.nether_routes.choose_a_road.stage.fortress_work.objective.visit_fortress.tracker.text": "到达标记的下界要塞。",
+    "quest.nether_routes.choose_a_road.stage.fortress_work.scene.leave.lines": [
+      "保留您选择的 路线。"
+    ],
+    "quest.nether_routes.choose_a_road.stage.fortress_work.scene.reminder_details.action.remind.lines.reminder": [
+      "到达要塞标记，击败四场火焰，并带上两根棍子。",
+      "堡垒路。标记每座桥梁，切勿站在火焰可以看到您两侧的地方。"
+    ],
+    "quest.nether_routes.choose_a_road.stage.fortress_work.scene.reminder_details.action.remind.lines.unavailable": [
+      "路线 目前未处于活动状态。"
+    ],
+    "quest.nether_routes.choose_a_road.stage.fortress_work.ui.tracker_text": "到达要塞标记，击败四场火焰，并带上两根棍子。",
+    "quest.nether_routes.choose_a_road.title": "选择道路"
+  }
+}

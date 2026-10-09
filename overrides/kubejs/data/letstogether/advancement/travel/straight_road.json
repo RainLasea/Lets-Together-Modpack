@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:iron_shovel"
+    },
+    "title": {
+      "translate": "advancements.letstogether.travel.straight_road.title",
+      "fallback": "One More Road"
+    },
+    "description": {
+      "translate": "advancements.letstogether.travel.straight_road.description",
+      "fallback": "Chart a total of 5 km of roads with Via Romana."
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "straight_up_pathing_it": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "straight_up_pathing_it"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:travel/road"
+}

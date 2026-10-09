@@ -1,0 +1,113 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.green_thumb.new_furrows.description": "为村庄的新田地准备种子、水和好锄头。",
+    "quest.green_thumb.new_furrows.stage.return.dialogue.turn_in.label": "关于弗罗斯",
+    "quest.green_thumb.new_furrows.stage.return.dialogue.turn_in.lines": [
+      "这就是一块光秃秃的土地变成一片田野所需要的一切。",
+      "田垄可以在日出时开始。你给了他们一个公平的开始。",
+      "在我关闭笔记之前让我看看完整的作品。"
+    ],
+    "quest.green_thumb.new_furrows.stage.return.dialogue.turn_in.response.complete.label": "交出工作。",
+    "quest.green_thumb.new_furrows.stage.return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.green_thumb.new_furrows.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "这就是一块光秃秃的土地变成一片田野所需要的一切。",
+      "田垄可以在日出时开始。你给了他们一个公平的开始。"
+    ],
+    "quest.green_thumb.new_furrows.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "完整的工作尚未准备好进行计算。"
+    ],
+    "quest.green_thumb.new_furrows.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "在我们解决这个问题之前，请带上证据。",
+      "我需要在这里提交完整的内容，而不仅仅是故事。"
+    ],
+    "quest.green_thumb.new_furrows.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "原料 背后需要一个真正的目的地。",
+      "在我们称之为完成之前到达标记的地方。"
+    ],
+    "quest.green_thumb.new_furrows.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "田垄现在还没有开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.green_thumb.new_furrows.stage.return.scene.turn_in_wait.lines": [
+      "行的种子、一把铁锄头和一桶水。",
+      "当工作准备好时再回来。"
+    ],
+    "quest.green_thumb.new_furrows.stage.return.ui.tracker_text": "返回任务给予者。",
+    "quest.green_thumb.new_furrows.stage.work.dialogue.offer.label": "田垄",
+    "quest.green_thumb.new_furrows.stage.work.dialogue.offer.lines": [
+      "最后一道栅栏之外有良好的地面，但良好的地面仍然需要双手。",
+      "带上种子、水和一把能在多行中存活的锄头。",
+      "带24颗小麦种子、一把铁锄头和一个水桶。"
+    ],
+    "quest.green_thumb.new_furrows.stage.work.dialogue.offer.response.accept.label": "我能做到。",
+    "quest.green_thumb.new_furrows.stage.work.dialogue.offer.response.decline.label": "现在不行。",
+    "quest.green_thumb.new_furrows.stage.work.dialogue.reminder.label": "关于弗罗斯",
+    "quest.green_thumb.new_furrows.stage.work.dialogue.reminder.lines": [
+      "行的种子、一把铁锄头和一桶水。",
+      "带24颗小麦种子、一把铁锄头和一个水桶。",
+      "带上种子、水和一把能在多行中存活的锄头。"
+    ],
+    "quest.green_thumb.new_furrows.stage.work.dialogue.reminder.response.abandon.label": "把这个放在一边。",
+    "quest.green_thumb.new_furrows.stage.work.dialogue.reminder.response.details.label": "重复该工作。",
+    "quest.green_thumb.new_furrows.stage.work.dialogue.reminder.response.leave.label": "我有。",
+    "quest.green_thumb.new_furrows.stage.work.objective.bring_seeds.tracker.complete_text": "种子袋已经准备好了。",
+    "quest.green_thumb.new_furrows.stage.work.objective.bring_seeds.tracker.text": "带24颗小麦种子。",
+    "quest.green_thumb.new_furrows.stage.work.objective.carry_hoe.tracker.complete_text": "铁锄头已经准备好了。",
+    "quest.green_thumb.new_furrows.stage.work.objective.carry_hoe.tracker.text": "携带一把铁锄头去新田。",
+    "quest.green_thumb.new_furrows.stage.work.objective.carry_water.tracker.complete_text": "水桶准备好了。",
+    "quest.green_thumb.new_furrows.stage.work.objective.carry_water.tracker.text": "携带 1 个水桶用于田垄。",
+    "quest.green_thumb.new_furrows.stage.work.scene.abandon_confirm.lines": [
+      "把田垄放在一边？",
+      "如果你确定的话我可以把你的名字从工作中删除。"
+    ],
+    "quest.green_thumb.new_furrows.stage.work.scene.abandon_confirm.response.cancel.label": "保持打开状态。",
+    "quest.green_thumb.new_furrows.stage.work.scene.abandon_confirm.response.confirm.label": "把它放在一边。",
+    "quest.green_thumb.new_furrows.stage.work.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "好的。我会从工作中清除你的名字。",
+      "便条收起来了。你可以稍后再问。"
+    ],
+    "quest.green_thumb.new_furrows.stage.work.scene.abandon_quest.action.abandon.lines.abandoned_cooldown": [
+      "我会把这张纸条先搁置一段时间，然后再重新发布。",
+      "在你再次提出要求之前，先让工作休息一下。"
+    ],
+    "quest.green_thumb.new_furrows.stage.work.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "田垄现在还没有开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.green_thumb.new_furrows.stage.work.scene.decline.lines": [
+      "地会保留。我们不应该在没有计划的情况下打开它。"
+    ],
+    "quest.green_thumb.new_furrows.stage.work.scene.leave.lines": [
+      "行的种子、一把铁锄头和一桶水。",
+      "当工作准备好时再回来。"
+    ],
+    "quest.green_thumb.new_furrows.stage.work.scene.reminder_details.action.remind.lines.reminder": [
+      "行的种子、一把铁锄头和一桶水。",
+      "带24颗小麦种子、一把铁锄头和一个水桶。",
+      "带上种子、水和一把能在多行中存活的锄头。"
+    ],
+    "quest.green_thumb.new_furrows.stage.work.scene.reminder_details.action.remind.lines.unavailable": [
+      "田垄现在还没有开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.green_thumb.new_furrows.stage.work.scene.start_quest.action.start.lines.already_completed": [
+      "田垄现在已经解决了。",
+      "这项工作已经被计算在内。"
+    ],
+    "quest.green_thumb.new_furrows.stage.work.scene.start_quest.action.start.lines.locate_failed": [
+      "我在这里找不到值得信赖的标记。等道路畅通后再询问。",
+      "今天地图不会确定安全目的地。"
+    ],
+    "quest.green_thumb.new_furrows.stage.work.scene.start_quest.action.start.lines.started": [
+      "保持种子干燥。水可以等到田垄打开。",
+      "带24颗小麦种子、一把铁锄头和一个水桶。"
+    ],
+    "quest.green_thumb.new_furrows.stage.work.scene.start_quest.action.start.lines.unavailable": [
+      "田垄现在还没有开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.green_thumb.new_furrows.stage.work.ui.tracker_text": "带24颗小麦种子、一把铁锄头和一个水桶。",
+    "quest.green_thumb.new_furrows.title": "田垄"
+  }
+}

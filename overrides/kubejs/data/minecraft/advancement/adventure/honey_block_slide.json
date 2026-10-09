@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "honey_block_slide": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "honey_block_slide"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

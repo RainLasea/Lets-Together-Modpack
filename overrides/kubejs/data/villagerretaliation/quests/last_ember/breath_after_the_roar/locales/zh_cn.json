@@ -1,0 +1,89 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.last_ember.breath_after_the_roar.description": "从末地归来并证明村庄能够在听到龙的消息后幸存下来，完成最后的余烬线。",
+    "quest.last_ember.breath_after_the_roar.scene.last_ember_charge.metadata.title": "最后余烬的冲锋",
+    "quest.last_ember.breath_after_the_roar.scene.last_ember_charge.step.final_charge.data.text": "趁着咆哮声还响着的时候，将龙的呼吸封入瓶中。然后带着石头和仍然属于你的故事回家。",
+    "quest.last_ember.breath_after_the_roar.scene.last_ember_charge.step.first_charge.data.text": "最后的余烬在门外结束，但村庄的部分却没有。",
+    "quest.last_ember.breath_after_the_roar.stage.answer_roar.dialogue.offer.label": "咆哮之后",
+    "quest.last_ember.breath_after_the_roar.stage.answer_roar.dialogue.offer.lines": [
+      "《最后余烬》的音符在一个我无法让声音变得无害的地方结束。",
+      "如果你穿过大门，在龙还在坠落时将其封住，结束咆哮，然后带着沉默属于生者的证据回来。"
+    ],
+    "quest.last_ember.breath_after_the_roar.stage.answer_roar.dialogue.offer.response.accept.label": "我将面对巨龙。",
+    "quest.last_ember.breath_after_the_roar.stage.answer_roar.dialogue.offer.response.decline.label": "还没有。",
+    "quest.last_ember.breath_after_the_roar.stage.answer_roar.dialogue.reminder.label": "关于咆哮之后",
+    "quest.last_ember.breath_after_the_roar.stage.answer_roar.dialogue.reminder.lines": [
+      "这个阶段没有温和的措辞。趁龙的气息还在下落时将其装瓶，面对龙，然后活着回来就这些音符进行争论。"
+    ],
+    "quest.last_ember.breath_after_the_roar.stage.answer_roar.dialogue.reminder.response.details.label": "重复充电。",
+    "quest.last_ember.breath_after_the_roar.stage.answer_roar.dialogue.reminder.response.leave.label": "我会回来的。",
+    "quest.last_ember.breath_after_the_roar.stage.answer_roar.objective.bring_dragon_breath.tracker.complete_text": "龙息已经准备好了。",
+    "quest.last_ember.breath_after_the_roar.stage.answer_roar.objective.bring_dragon_breath.tracker.text": "带上 1 条龙息作为咆哮的证明。",
+    "quest.last_ember.breath_after_the_roar.stage.answer_roar.objective.defeat_dragon.tracker.complete_text": "轰鸣声已经结束。",
+    "quest.last_ember.breath_after_the_roar.stage.answer_roar.objective.defeat_dragon.tracker.text": "在龙还活着的时候喝 1 瓶龙息，然后击败末影龙。",
+    "quest.last_ember.breath_after_the_roar.stage.answer_roar.scene.decline.lines": [
+      "好的。末日等待的时间比我们任何人都长。它可以等到你选择。"
+    ],
+    "quest.last_ember.breath_after_the_roar.stage.answer_roar.scene.leave.lines": [
+      "带着你的故事回来。"
+    ],
+    "quest.last_ember.breath_after_the_roar.stage.answer_roar.scene.reminder_details.action.remind.lines.reminder": [
+      "在末影龙还活着的时候装瓶 1 龙息，击败它，然后将 16 个末影石带回村庄。"
+    ],
+    "quest.last_ember.breath_after_the_roar.stage.answer_roar.scene.reminder_details.action.remind.lines.unavailable": [
+      "龙的答案现在还没有公开。"
+    ],
+    "quest.last_ember.breath_after_the_roar.stage.answer_roar.scene.start_quest.action.start.lines.already_completed": [
+      "最后的余烬已经被带回家了。"
+    ],
+    "quest.last_ember.breath_after_the_roar.stage.answer_roar.scene.start_quest.action.start.lines.started": [
+      "在龙仍在坠落时将其吐息装瓶，然后击败末影龙。平实的言语，给谨慎的选择留下了更多的空间。"
+    ],
+    "quest.last_ember.breath_after_the_roar.stage.answer_roar.scene.start_quest.action.start.lines.unavailable": [
+      "最后的余烬现在还没有准备好向你提出这个要求。"
+    ],
+    "quest.last_ember.breath_after_the_roar.stage.answer_roar.ui.tracker_text": "在龙还活着的时候喝 1 瓶龙息，然后击败末影龙。",
+    "quest.last_ember.breath_after_the_roar.stage.carry_proof.dialogue.reminder.label": "关于咆哮之后",
+    "quest.last_ember.breath_after_the_roar.stage.carry_proof.dialogue.reminder.lines": [
+      "轰鸣声已经结束。带上末地石，这样村庄就可以在瓶中的龙息旁边放置一些坚固的东西。"
+    ],
+    "quest.last_ember.breath_after_the_roar.stage.carry_proof.dialogue.reminder.response.details.label": "重复证明。",
+    "quest.last_ember.breath_after_the_roar.stage.carry_proof.dialogue.reminder.response.leave.label": "我会带来它。",
+    "quest.last_ember.breath_after_the_roar.stage.carry_proof.objective.bring_end_stone.tracker.complete_text": "末地石已经准备好了。",
+    "quest.last_ember.breath_after_the_roar.stage.carry_proof.objective.bring_end_stone.tracker.text": "带上 16 个末地石，这样课程的下方就有了坚实的东西。",
+    "quest.last_ember.breath_after_the_roar.stage.carry_proof.scene.leave.lines": [
+      "证据比石头更奇怪。"
+    ],
+    "quest.last_ember.breath_after_the_roar.stage.carry_proof.scene.reminder_details.action.remind.lines.reminder": [
+      "既然龙已被击败，请带来 16 个末地石；瓶中的龙息已经被考虑在内。"
+    ],
+    "quest.last_ember.breath_after_the_roar.stage.carry_proof.scene.reminder_details.action.remind.lines.unavailable": [
+      "证据只能等到巨龙陨落之后才能证明。"
+    ],
+    "quest.last_ember.breath_after_the_roar.stage.carry_proof.ui.tracker_text": "带上16块末地石来完成证明。",
+    "quest.last_ember.breath_after_the_roar.stage.return.dialogue.turn_in.label": "关于咆哮之后",
+    "quest.last_ember.breath_after_the_roar.stage.return.dialogue.turn_in.lines": [
+      "你在这里。这是第一个证明。剩下的就可以上桌了。"
+    ],
+    "quest.last_ember.breath_after_the_roar.stage.return.dialogue.turn_in.response.complete.label": "完成最后的余烬。",
+    "quest.last_ember.breath_after_the_roar.stage.return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.last_ember.breath_after_the_roar.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "最后的说明是这样的：世界可以广阔、残酷，但仍然可以让某人回家。村庄会记住这一点，但不会缩小规模。"
+    ],
+    "quest.last_ember.breath_after_the_roar.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "最后的余烬仍然需要证据。"
+    ],
+    "quest.last_ember.breath_after_the_roar.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "在我们完成笔记之前，把龙息和末地石带到这里。"
+    ],
+    "quest.last_ember.breath_after_the_roar.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "我现在无法关闭最后的余烬。"
+    ],
+    "quest.last_ember.breath_after_the_roar.stage.return.scene.leave.lines": [
+      "最后一页等待。它赢得了耐心。"
+    ],
+    "quest.last_ember.breath_after_the_roar.stage.return.ui.tracker_text": "带着最后的余烬证据回来。",
+    "quest.last_ember.breath_after_the_roar.title": "咆哮之后"
+  }
+}

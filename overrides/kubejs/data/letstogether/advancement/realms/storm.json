@@ -1,0 +1,34 @@
+{
+  "display": {
+    "icon": {
+      "id": "the_beyond:lantern_shed"
+    },
+    "title": {
+      "translate": "advancements.letstogether.realms.storm.title",
+      "fallback": "Caught the Migration"
+    },
+    "description": {
+      "translate": "advancements.letstogether.realms.storm.description",
+      "fallback": "Soar through a migration storm."
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "ride_lantern_thunder": {
+      "trigger": "the_beyond:migration_storm"
+    }
+  },
+  "requirements": [
+    [
+      "ride_lantern_thunder"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:realms/auroracite",
+  "rewards": {
+    "experience": 50
+  }
+}

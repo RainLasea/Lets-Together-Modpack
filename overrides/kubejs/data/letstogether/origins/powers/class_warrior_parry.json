@@ -1,0 +1,5 @@
+{
+  "type": "block_parry_dodge:parry",
+  "enabled": true,
+  "priority": 10
+}

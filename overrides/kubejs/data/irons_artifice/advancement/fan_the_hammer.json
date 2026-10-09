@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "fan_the_hammer": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "fan_the_hammer"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

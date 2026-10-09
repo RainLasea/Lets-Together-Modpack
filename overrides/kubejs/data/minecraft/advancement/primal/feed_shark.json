@@ -1,0 +1,55 @@
+{
+  "criteria": {
+    "minecraft:cod": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:dolphin": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:glow_squid": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:pufferfish": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:salmon": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:squid": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:tropical_fish": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:turtle": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "minecraft:cod"
+    ],
+    [
+      "minecraft:salmon"
+    ],
+    [
+      "minecraft:tropical_fish"
+    ],
+    [
+      "minecraft:pufferfish"
+    ],
+    [
+      "minecraft:squid"
+    ],
+    [
+      "minecraft:glow_squid"
+    ],
+    [
+      "minecraft:turtle"
+    ],
+    [
+      "minecraft:dolphin"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

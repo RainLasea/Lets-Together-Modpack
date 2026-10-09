@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "arms": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "arms"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "expose_frame": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "expose_frame"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "tags": [
+      "content.dialogue",
+      "dialogue.ambient",
+      "scope.global",
+      "section.options"
+    ],
+    "topic": "global.menu_options.baby"
+  },
+  "options": [
+    {
+      "id": "baby_greeting",
+      "label": "打个招呼",
+      "type": "dialogue_option",
+      "request": "greeting",
+      "order": 0,
+      "show_for_adults": false
+    },
+    {
+      "id": "baby_today_question",
+      "label": "询问今天的情况",
+      "type": "dialogue_option",
+      "request": "question",
+      "order": 1,
+      "show_for_adults": false
+    },
+    {
+      "id": "baby_question",
+      "label": "询问他们知道什么",
+      "type": "dialogue_option",
+      "request": "question",
+      "order": 2,
+      "show_for_adults": false
+    },
+    {
+      "id": "baby_family",
+      "label": "询问家人情况",
+      "type": "dialogue_option",
+      "request": "question",
+      "order": 2,
+      "conditions": [
+        {
+          "type": "family"
+        }
+      ],
+      "show_for_adults": false
+    },
+    {
+      "id": "baby_gift_preferences",
+      "label": "询问礼物",
+      "type": "dialogue_option",
+      "request": "gift_preferences",
+      "order": 3,
+      "show_for_adults": false
+    },
+    {
+      "id": "baby_story",
+      "label": "求一个故事",
+      "type": "dialogue_option",
+      "request": "story",
+      "order": 4,
+      "show_for_adults": false
+    },
+    {
+      "id": "baby_share_story",
+      "label": "分享一个故事",
+      "type": "dialogue_option",
+      "request": "share_story",
+      "order": 5,
+      "requires_shareable_story": true,
+      "show_for_adults": false
+    },
+    {
+      "id": "baby_joke",
+      "label": "讲个笑话",
+      "type": "dialogue_option",
+      "request": "joke",
+      "order": 6,
+      "show_for_adults": false
+    },
+    {
+      "id": "baby_insult",
+      "label": "刻薄一点",
+      "type": "dialogue_option",
+      "request": "insult",
+      "order": 7,
+      "show_for_adults": false
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "tags": [
+      "content.dialogue",
+      "dialogue.ambient",
+      "scope.profession.fisherman",
+      "section.messages"
+    ],
+    "topic": "professions.fisherman.messages"
+  },
+  "messages": [
+    {
+      "id": "fisherman_gift_given_variants",
+      "key": "gift_given",
+      "lines": [
+        "以{gift_item}为例。一个有用的捕获物不应该只掌握在一双手中。",
+        "在这里，{gift_item}。今天的水量很大。",
+        "我想你可能会用到 {gift_item}。",
+        "如果您想要的话，这款 {gift_item} 就是您的。",
+        "你之前帮过我，所以带上{gift_item}吧。",
+        "我为你保持 {gift_item} 干燥。",
+        "公平的渔获应该被分享。有{gift_item}。",
+        "在海鸥注意到之前拿走 {gift_item}。",
+        "我给你带来了{gift_item}。无需交易。",
+        "篮子里还有空间可以容纳 善良，所以这里是 {gift_item}。",
+        "我宁愿看到你使用 {gift_item}，也不愿把它留在我的架子上。",
+        "这是用于道路的 {gift_item}。",
+        "早上对我很好。让我给你{gift_item}。",
+        "你看起来比我更会使用{gift_item}。",
+        "我今天工作中保存了这个{gift_item}。",
+        "有{gift_item}。考虑一下，感谢有好的陪伴。",
+        "我发现自己多了一个 {gift_item} 并且想到了你。",
+        "这款{gift_item}并不花哨，但却是诚实的给予。",
+        "将 {gift_item} 放在干燥的地方，它应该会很好用。",
+        "以{gift_item}为例。礼物不需要有钩子。"
+      ],
+      "weight": 48
+    },
+    {
+      "id": "fisherman_gift_advice_followup_liked_variants",
+      "key": "gift_advice_followup.liked",
+      "lines": [
+        "好的。 {tested_villager}拿走了{gift_item}。这个建议成立了。",
+        "我很高兴 {gift_item} 适合 {tested_villager}。",
+        "所以{tested_villager}喜欢{gift_item}。我正确地读取了电流。",
+        "这是个好消息。 {gift_item} 是 {tested_villager} 的明智选择。",
+        "我认为 {tested_villager} 可能会欣赏 {gift_item}。",
+        "然后{gift_item}找到了合适的人手。",
+        "好的。 {tested_villager} 看到了 {gift_item} 的价值。",
+        "我很高兴 {gift_item} 表现良好。",
+        "{tested_villager} 的笑容告诉我 {gift_item} 成功了。",
+        "当您带来{tested_villager}和{gift_item}时，您选择得很好。",
+        "礼物干净利落地落地。 {tested_villager} 喜欢 {gift_item}。",
+        "当我看到一场比赛时，我就知道这是一场好比赛。 {gift_item} 适合 {tested_villager}。",
+        "然后我的建议得到了保留。 {tested_villager} 想要 {gift_item}。",
+        "{gift_item}值得携带到{tested_villager}。",
+        "我为你们俩感到高兴。 {gift_item} 是正确的选择。",
+        "很高兴听到。 {tested_villager} 可以利用 {gift_item}。",
+        "你听了，{tested_villager} 得到了一份重要的礼物。",
+        "这个选择是正确的。 {tested_villager}迎来了{gift_item}。",
+        "这比大多数人的猜测要好。 {gift_item} 令 {tested_villager} 满意。",
+        "记住那个。 {tested_villager} 对 {gift_item} 有兴趣。"
+      ],
+      "weight": 44
+    },
+    {
+      "id": "fisherman_gift_advice_followup_disliked_variants",
+      "key": "gift_advice_followup.disliked",
+      "lines": [
+        "那条线回来是空的。对于 {gift_subject}，请尝试使用 {alternative_gift}。",
+        "如果 {gift_item} 与 {gift_subject} 错过，下次带上 {alternative_gift}。",
+        "留下 {gift_item}。 {gift_subject} 可能更喜欢 {alternative_gift}。",
+        "我读错了。提供 {gift_subject} 和 {alternative_gift}。",
+        "{gift_item} 与 {gift_subject} 不太匹配。尝试 {alternative_gift}。",
+        "有些礼物不会落地。 {alternative_gift}应该更适合{gift_subject}。",
+        "我们现在知道一件事。 {gift_subject} 不想要 {gift_item}。",
+        "将 {gift_item} 替换为 {alternative_gift}，然后再次访问 {gift_subject}。",
+        "那是我的错误。我应该建议 {alternative_gift} 作为 {gift_subject}。",
+        "请勿按压 {gift_item}。给 {gift_subject} 一些空间，稍后再尝试 {alternative_gift}。",
+        "一份糟糕的礼物并不意味着一切的结束。 {gift_subject} 可能会欢迎 {alternative_gift}。",
+        "{gift_item} 不太合适。对于 {gift_subject}，请记住 {alternative_gift}。",
+        "我会改变路线并带来 {gift_subject} {alternative_gift}。",
+        "预留 {gift_item}。 {alternative_gift} 对于 {gift_subject} 来说更有意义。",
+        "至少我们在尝试{gift_item}两次之前就了解到了。下次使用{alternative_gift}。",
+        "无需强迫。 {gift_subject} 可能对 {alternative_gift} 更满意。",
+        "即使 {gift_item} 是错误的，这个想法也是善意的。尝试 {alternative_gift}。",
+        "我欠你更好的建议。下次将{alternative_gift}带到{gift_subject}。",
+        "{gift_item} 不适合 {gift_subject}。让{alternative_gift}作为第二次尝试。",
+        "换礼物，不是善良。 {gift_subject} 可能会欣赏 {alternative_gift}。"
+      ],
+      "weight": 44
+    },
+    {
+      "key": "gift_advice_followup.disliked",
+      "lines": [
+        "不好的猜测。将 {gift_item} 放在一边并尝试 {alternative_gift}。",
+        "请勿再次提供 {gift_item}。下次带上{alternative_gift}。",
+        "我警告过你这可能会失败。 {alternative_gift} 现在是更安全的选择。",
+        "{gift_item} 是白费力气。切换到 {alternative_gift}。",
+        "您测试了错误的水。请尝试使用 {alternative_gift}。",
+        "下次将 {gift_item} 留在背包中并携带 {alternative_gift}。",
+        "这个反应已经足够说明问题了。将 {gift_item} 替换为 {alternative_gift}。",
+        "第一个选择沉没了。 {alternative_gift} 可能仍会浮动。",
+        "停止推动 {gift_item}。第二次尝试应该是 {alternative_gift}。",
+        "我不会犯两次同样的错误。使用{alternative_gift}。",
+        "将 {gift_item} 留给其他人。将 {alternative_gift} 带到这里。",
+        "结果很清楚。 {gift_item} 已退出，{alternative_gift} 已上线。",
+        "你想要建议，所以接受吧。尝试 {alternative_gift} 并放弃 {gift_item}。",
+        "{gift_item} 不太合适。 {alternative_gift}给您一个更好的机会。",
+        "使用 {gift_item} 不再需要猜测。下一个礼物应该是{alternative_gift}。",
+        "{gift_item} 无法工作。调整并使用{alternative_gift}。",
+        "在再次尝试之前，我会先交易 {gift_item}。寻找 {alternative_gift}。",
+        "电流改变了。现在你更好的课程是{alternative_gift}。",
+        "从错误的选择中吸取教训。带{alternative_gift}，而不是{gift_item}。",
+        "这对我来说已经足够证明了。 {alternative_gift}值得下次尝试。"
+      ],
+      "dispositions": [
+        "cautious",
+        "rude",
+        "hostile",
+        "fearful"
+      ],
+      "weight": 20,
+      "id": "professions.fisherman.messages.00_messages.messages.gift_advice_followup.disliked.003"
+    },
+    {
+      "key": "gift_advice_followup.disliked",
+      "lines": [
+        "你选择了{gift_item}，而不是我。如果您想再尝试一次，请找到 {alternative_gift}。",
+        "{gift_item} 的失败与看上去的一样严重。使用{alternative_gift}。",
+        "带上{gift_item}后不要怪建议。尝试 {alternative_gift} 并继续。",
+        "海鸥可能会选择比 {gift_item} 更好的选择。下次带上{alternative_gift}。",
+        "您忽略了所有警告，仍然携带 {gift_item}。将其替换为 {alternative_gift}。",
+        "错误的选择已经做出。您现在唯一有用的步骤是找到 {alternative_gift}。",
+        "如果你愿意，就继续争论吧。它不会让{gift_item}受到欢迎。尝试 {alternative_gift}。",
+        "{gift_item} 从一开始就很沉重。 {alternative_gift}有机会。",
+        "你投错了鱼饵，吓坏了鱼。等等，然后提供{alternative_gift}。",
+        "我不是为你打扮的。 {gift_item} 失败。使用{alternative_gift}。",
+        "别再挥舞 {gift_item} 了，只要坚持就能改善它。获取 {alternative_gift}。",
+        "答案是否定的。尊重一下，下次选择{alternative_gift}。",
+        "你把 {gift_item} 搞得一团糟。请勿通过拒绝 {alternative_gift} 来制作另一个。",
+        "我会在 {gift_item} 引起更多麻烦之前把它扔回去。找到 {alternative_gift}。",
+        "这就是你的教训。固执的礼物仍然是糟糕的礼物。尝试 {alternative_gift}。",
+        "{gift_item} 没有为您做任何事情。 {alternative_gift} 可能，如果你听的话。",
+        "您想要更好的答案，所以就在这里。带上 {alternative_gift}，并将 {gift_item} 留在家里。",
+        "看着很痛苦。至少{alternative_gift}给你一个可以去的地方。",
+        "不要重复 {gift_item} 错误。制作下一个产品 {alternative_gift}。",
+        "你已经耗尽了我对 {gift_item} 的耐心。尝试 {alternative_gift} 或停止询问。"
+      ],
+      "dispositions": [
+        "rude",
+        "hostile"
+      ],
+      "weight": 20,
+      "id": "professions.fisherman.messages.00_messages.messages.gift_advice_followup.disliked.004"
+    }
+  ]
+}

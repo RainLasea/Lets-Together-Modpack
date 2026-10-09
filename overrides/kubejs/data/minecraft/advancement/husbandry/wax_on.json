@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "wax_on": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "wax_on"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "bred": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "bred"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

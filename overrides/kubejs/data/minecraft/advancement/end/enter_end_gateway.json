@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "entered_end_gateway": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "entered_end_gateway"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

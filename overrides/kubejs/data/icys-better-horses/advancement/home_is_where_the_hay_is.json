@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "set_home": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "set_home"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

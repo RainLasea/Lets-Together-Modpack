@@ -1,0 +1,44 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:shield"
+    },
+    "title": {
+      "translate": "advancements.letstogether.combat.shield.title",
+      "fallback": "Nice Try!"
+    },
+    "description": {
+      "translate": "advancements.letstogether.combat.shield.description",
+      "fallback": "Block an arrow with a shield."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "deflected_projectile": {
+      "conditions": {
+        "damage": {
+          "type": {
+            "tags": [
+              {
+                "expected": true,
+                "id": "minecraft:is_projectile"
+              }
+            ]
+          },
+          "blocked": true
+        }
+      },
+      "trigger": "minecraft:entity_hurt_player"
+    }
+  },
+  "requirements": [
+    [
+      "deflected_projectile"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:combat/armor"
+}

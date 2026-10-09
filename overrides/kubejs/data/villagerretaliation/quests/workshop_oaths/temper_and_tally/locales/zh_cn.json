@@ -1,0 +1,86 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.workshop_oaths.temper_and_tally.description": "携带车间所需的较重材料，然后工具才能在压力下得到信赖。",
+    "quest.workshop_oaths.temper_and_tally.stage.finish_edge.dialogue.reminder.label": "关于淬炼",
+    "quest.workshop_oaths.temper_and_tally.stage.finish_edge.dialogue.reminder.lines": [
+      "铁和热量足以开始。带上磨石，这样工作就可以正常结束。"
+    ],
+    "quest.workshop_oaths.temper_and_tally.stage.finish_edge.dialogue.reminder.response.details.label": "重复完成。",
+    "quest.workshop_oaths.temper_and_tally.stage.finish_edge.dialogue.reminder.response.leave.label": "我会带来它。",
+    "quest.workshop_oaths.temper_and_tally.stage.finish_edge.objective.bring_grindstone.tracker.complete_text": "磨刀石已经准备好了。",
+    "quest.workshop_oaths.temper_and_tally.stage.finish_edge.objective.bring_grindstone.tracker.text": "带 1 块磨石来打磨车间边缘。",
+    "quest.workshop_oaths.temper_and_tally.stage.finish_edge.scene.leave.lines": [
+      "粗糙的边缘只是未完成的诚实。"
+    ],
+    "quest.workshop_oaths.temper_and_tally.stage.finish_edge.scene.reminder_details.action.remind.lines.reminder": [
+      "带 1 个磨石来完成工坊订单。"
+    ],
+    "quest.workshop_oaths.temper_and_tally.stage.finish_edge.scene.reminder_details.action.remind.lines.unavailable": [
+      "磨刀石可以等到铁和煤准备好了。"
+    ],
+    "quest.workshop_oaths.temper_and_tally.stage.finish_edge.ui.tracker_text": "带1块磨石。",
+    "quest.workshop_oaths.temper_and_tally.stage.heat_stock.dialogue.offer.label": "淬炼",
+    "quest.workshop_oaths.temper_and_tally.stage.heat_stock.dialogue.offer.lines": [
+      "小零件已分类。现在到了工具要么学习纪律，要么成为带有手柄的抱怨的部分。",
+      "带上铁和燃料。然后是磨刀石，这样我们就可以完成工作而不是欣赏铁水。"
+    ],
+    "quest.workshop_oaths.temper_and_tally.stage.heat_stock.dialogue.offer.response.accept.label": "我会带来锻造库存。",
+    "quest.workshop_oaths.temper_and_tally.stage.heat_stock.dialogue.offer.response.decline.label": "下次吧。",
+    "quest.workshop_oaths.temper_and_tally.stage.heat_stock.dialogue.reminder.label": "关于淬炼",
+    "quest.workshop_oaths.temper_and_tally.stage.heat_stock.dialogue.reminder.lines": [
+      "首先是铁和煤。没有库存的热量只是室内出汗的一种方式。"
+    ],
+    "quest.workshop_oaths.temper_and_tally.stage.heat_stock.dialogue.reminder.response.details.label": "重复伪造列表。",
+    "quest.workshop_oaths.temper_and_tally.stage.heat_stock.dialogue.reminder.response.leave.label": "我会带来它。",
+    "quest.workshop_oaths.temper_and_tally.stage.heat_stock.objective.bring_coal.tracker.complete_text": "锻造燃料已准备就绪。",
+    "quest.workshop_oaths.temper_and_tally.stage.heat_stock.objective.bring_coal.tracker.text": "带 12 块煤来稳定热量。",
+    "quest.workshop_oaths.temper_and_tally.stage.heat_stock.objective.bring_iron.tracker.complete_text": "铁库存准备好了。",
+    "quest.workshop_oaths.temper_and_tally.stage.heat_stock.objective.bring_iron.tracker.text": "带8个铁锭用于修理和装配。",
+    "quest.workshop_oaths.temper_and_tally.stage.heat_stock.scene.decline.lines": [
+      "熔炉可以等待。糟糕的工具不能，但他们假装可以。"
+    ],
+    "quest.workshop_oaths.temper_and_tally.stage.heat_stock.scene.leave.lines": [
+      "首先是煤炭，然后是骄傲。骄傲难以燃烧。"
+    ],
+    "quest.workshop_oaths.temper_and_tally.stage.heat_stock.scene.reminder_details.action.remind.lines.reminder": [
+      "携带 8 个铁锭和 12 个煤炭用于锻造统计。"
+    ],
+    "quest.workshop_oaths.temper_and_tally.stage.heat_stock.scene.reminder_details.action.remind.lines.unavailable": [
+      "熔炉目前还没有准备好进行这项工作。"
+    ],
+    "quest.workshop_oaths.temper_and_tally.stage.heat_stock.scene.start_quest.action.start.lines.already_completed": [
+      "锻造计数已经确定。"
+    ],
+    "quest.workshop_oaths.temper_and_tally.stage.heat_stock.scene.start_quest.action.start.lines.started": [
+      "带8个铁锭和12个煤炭。在锤子升起之前，好的工作就开始了。"
+    ],
+    "quest.workshop_oaths.temper_and_tally.stage.heat_stock.scene.start_quest.action.start.lines.unavailable": [
+      "熔炉现在还没有准备好寻求帮助。"
+    ],
+    "quest.workshop_oaths.temper_and_tally.stage.heat_stock.ui.tracker_text": "带8个铁锭和12个煤炭。",
+    "quest.workshop_oaths.temper_and_tally.stage.return.dialogue.turn_in.label": "关于淬炼",
+    "quest.workshop_oaths.temper_and_tally.stage.return.dialogue.turn_in.lines": [
+      "熨烫、加热和清洁表面。那是一个可以脸红地做出承诺的工坊。"
+    ],
+    "quest.workshop_oaths.temper_and_tally.stage.return.dialogue.turn_in.response.complete.label": "关闭锻造记录。",
+    "quest.workshop_oaths.temper_and_tally.stage.return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.workshop_oaths.temper_and_tally.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "好的。用这种材料制成的工具失败的声音应该较小。理想情况下，根本不会。"
+    ],
+    "quest.workshop_oaths.temper_and_tally.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "在我关闭锻造台之前，它仍然需要铁、煤或磨石。"
+    ],
+    "quest.workshop_oaths.temper_and_tally.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "在我进入统计之前把锻造原料带到这里。"
+    ],
+    "quest.workshop_oaths.temper_and_tally.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "我现在无法关闭伪造记录。"
+    ],
+    "quest.workshop_oaths.temper_and_tally.stage.return.scene.leave.lines": [
+      "计票等待。金属具有人类所没有的耐心。"
+    ],
+    "quest.workshop_oaths.temper_and_tally.stage.return.ui.tracker_text": "带着锻造原料返回。",
+    "quest.workshop_oaths.temper_and_tally.title": "淬炼"
+  }
+}

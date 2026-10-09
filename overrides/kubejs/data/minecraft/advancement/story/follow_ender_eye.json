@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "in_stronghold": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "in_stronghold"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

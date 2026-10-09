@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "scan": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "scan"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

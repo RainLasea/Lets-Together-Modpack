@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "necromium_armor": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "necromium_armor"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

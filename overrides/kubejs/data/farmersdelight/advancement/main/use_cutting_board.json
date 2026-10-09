@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "cutting_board": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "cutting_board"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

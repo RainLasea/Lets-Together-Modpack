@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "anger_wizard": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "anger_wizard"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

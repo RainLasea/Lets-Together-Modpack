@@ -1,0 +1,38 @@
+{
+  "display": {
+    "icon": {
+      "id": "irons_spellbooks:copper_spell_book"
+    },
+    "title": {
+      "translate": "advancements.letstogether.magic.equip.title",
+      "fallback": "Keep a Book Handy"
+    },
+    "description": {
+      "translate": "advancements.letstogether.magic.equip.description",
+      "fallback": "Equip a spell book in the spellbook Curios slot."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "requirement": {
+      "conditions": {
+        "curios:slot": {
+          "slots": [
+            "spellbook"
+          ]
+        }
+      },
+      "trigger": "curios:equip_curio"
+    }
+  },
+  "requirements": [
+    [
+      "requirement"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:magic/inscription_table"
+}

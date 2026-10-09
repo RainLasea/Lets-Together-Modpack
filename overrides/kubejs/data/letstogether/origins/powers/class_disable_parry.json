@@ -1,0 +1,6 @@
+{
+  "type": "block_parry_dodge:parry",
+  "enabled": false,
+  "priority": 0,
+  "hidden": true
+}

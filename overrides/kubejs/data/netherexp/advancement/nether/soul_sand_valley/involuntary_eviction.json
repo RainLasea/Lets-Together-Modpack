@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "killed_petrified_ecto_slab": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "killed_petrified_ecto_slab"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

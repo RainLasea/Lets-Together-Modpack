@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:leather_boots"
+    },
+    "title": {
+      "translate": "advancements.letstogether.travel.long_road.title",
+      "fallback": "Are We There Yet?"
+    },
+    "description": {
+      "translate": "advancements.letstogether.travel.long_road.description",
+      "fallback": "Travel a total of 5 km along charted Via Romana roads."
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "i_just_felt_like_running": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "i_just_felt_like_running"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:travel/road"
+}

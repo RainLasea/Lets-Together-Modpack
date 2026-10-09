@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "flash_in_darkness": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "flash_in_darkness"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

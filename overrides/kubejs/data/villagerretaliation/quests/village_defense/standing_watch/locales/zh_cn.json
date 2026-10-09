@@ -1,0 +1,359 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.village_defense.standing_watch.description": {
+      "lines": [
+        "站岗并帮助保卫村庄免受真正的威胁。"
+      ]
+    },
+    "quest.village_defense.standing_watch.dialogue.already_completed": {
+      "lines": [
+        "我不会重新打开已完成的帐户。我们已经安排好了值班。",
+        "没有人需要这样做两次。当危险来临的时候，你已经和我们站在一起了。",
+        "你早期的作品仍然有效。手表会记住谁接听了警报。",
+        "保留旧的计数。没有人需要你两次证明同样的勇气。",
+        "这里没有第二次付款。你在墙上的位置是那天晚上赢得的。",
+        "没有人需要这样做两次。威胁过去了，你帮助实现了这一目标。",
+        "保留旧的计数。我们已经统计过您的服务。",
+        "我记得你第一次回来。大门就在你身边。",
+        "所欠的已经还清了。那次守望结束了。休息一下吧。",
+        "这里没有第二次付款。当村庄需要你的时候你没有逃跑。",
+        "我不会重新打开已完成的帐户。巡逻记录上已经有你的名字了。",
+        "你早期的作品仍然有效。你的奖励是真正的防守，而且它已经得到了支付。",
+        "保留旧的计数。我们可以把那个警报留在过去。",
+        "我问的你都说完了。门后的村民记得你的帮助。",
+        "这里没有第二次付款。您回答过一次，该答案仍然有效。",
+        "所欠的已经还清了。这里没有未完成的任务在等待。",
+        "这里没有第二次付款。在重要的时候你证明了自己的立场。",
+        "从此一无所获。那天晚上，手表没有第二次索赔。",
+        "这件事我们已经解决了。守望结束，村庄完好无损。",
+        "从此一无所获。我又有了新的担忧，不过这个已经解决了。"
+      ]
+    },
+    "quest.village_defense.standing_watch.dialogue.inactive": {
+      "lines": [
+        "还没有开始的理由。该手表目前不要求提供证据。",
+        "当重要的时候我会发布它。今天没有发出警报。",
+        "暂时先别管那项工作。村里很安静，适合定期巡逻。",
+        "等店铺换了再问我。保持你的武器靠近，但没有呼叫墙。",
+        "时间不对。该手表尚未发现值得寻求帮助的威胁。",
+        "当重要的时候我会发布它。我们现在不需要在门口额外的后卫。",
+        "现在，就让这件事平息吧。钟声很安静，我打算保持这种状态。",
+        "当重要的时候我会发布它。发明一场战斗并不勇敢。",
+        "今天没有什么需要做这项工作。等待真正的危险发生后再上任。",
+        "不是今天。巡逻队报告村庄周围道路畅通。",
+        "现在，就让这件事平息吧。没有人被叫去紧急值班。",
+        "我不会把这个问题列入考虑范围。如果村庄需要另一个盾牌，我会发消息。",
+        "时间不对。目前，普通的眼睛在墙上就足够了。",
+        "时间不对。大门敞开，田野一片平静。",
+        "时间不对。为重要的警报节省体力。",
+        "等店铺换了再问我。今晚的手表已经有足够的指针了。",
+        "不是今天。没有有效的防御令上面有你的名字。",
+        "等店铺换了再问我。一个安静的村庄是好消息，而不是失败。",
+        "我不会把这个问题列入考虑范围。暂时站起来并留在听力范围内。",
+        "暂时先别管那项工作。手表会询问何时需要回答。"
+      ]
+    },
+    "quest.village_defense.standing_watch.dialogue.locate_failed": {
+      "lines": [
+        "图表有问题。地图上没有可标记的岗哨。保持足够的距离以解决麻烦。",
+        "在我认路之前，你就待在这里。这项职责没有遥远的标记可供遵循。",
+        "没有标记比假标记好。不要在坐标之后徘徊。村庄是防守的地方。",
+        "我不会猜测 路线。哪里有危险，哪里就有岗哨。",
+        "我找不到可以给你的安全支撑。这张地图上没有隐藏任何前哨站或废墟。",
+        "我找不到可以给你的安全支撑。保持足够近以听到铃声。",
+        "我不能盲目地送你出去。目标是攻击，目前还没有出现。",
+        "我们首先需要一个值得信赖的路线。我不能在问题出现之前就指出它。",
+        "旧的指示不再一致。保持大门在视线范围内，而不是寻找地平线。",
+        "旧的指示不再一致。村庄边界是您唯一需要的标记。",
+        "我们首先需要一个值得信赖的路线。手表是在等待，而不是追逐。",
+        "我不会猜测 路线。没有地图可以告诉我们危险会选择哪条路。",
+        "我不会猜测 路线。坚守在房屋附近，让威胁进入视野。",
+        "我不会猜测 路线。没有 路线，因为这项工作发生在这里。",
+        "我的地图让我们失望了。观察道路、田野和灯光之外的黑暗。",
+        "我的地图让我们失望了。如果你离开去发现危险，你就会让村庄暴露无遗。",
+        "旧的指示不再一致。闹钟会在时间到的时候给你一个方向。",
+        "可疑的地图风险太大。在附近巡逻，但不要把这变成一次探险。",
+        "我不能盲目地送你出去。你的立场是与村民同在，而不是超越他们。",
+        "我的地图让我们失望了。回到登机口等待可以提供帮助的地方。"
+      ]
+    },
+    "quest.village_defense.standing_watch.dialogue.missing_proof": {
+      "lines": [
+        "让我看看你带回来了什么。言语并不能守住大门。当危险降临到村庄时，与我们站在一起。",
+        "你的话并不是缺失的部分。我需要在攻击期间采取行动，而不是在攻击之前做出承诺。",
+        "你带回家的东西决定了这一点。手表不能相信从未发生过的防守。",
+        "你的话并不是缺失的部分。留下来等待警报并与我们并肩作战。",
+        "证据仍然很重要。你的武器已经准备好了，但你的职责还没有经过考验。",
+        "我无法在空的退货单上签字。证明是一个村庄在真正的危险之后仍然屹立不倒。",
+        "你的话并不是缺失的部分。训练挥杆不算守门。",
+        "你带回家的东西决定了这一点。在村民可以看到你的地方回答下一个威胁。",
+        "故事无法关闭账本。我相信你的本意是好的。手表需要行动。",
+        "证据必须到达我的手中。不要给我带来任何物品并称手表已完成。",
+        "我相信你去了，但这还不够。在您帮助击退攻击后，此任务结束。",
+        "证据必须到达我的手中。巡逻日志还没有为您记录的战斗。",
+        "我无法在空的退货单上签字。当 敌对 到达村庄时，请坚守阵地。",
+        "让我看看你带回来了什么。在危险发生时，村民们需要你的存在。",
+        "你回来时却没有带我要的一件东西。其他地方的报告无法证明这一义务。",
+        "我相信你去了，但这还不够。站在威胁和门之间。",
+        "证据仍然很重要。你的证据将是你在惊慌之下的行为方式。",
+        "故事无法关闭账本。你所能携带的任何东西都无法替代出现在战斗中。",
+        "证据必须到达我的手中。等待真正的攻击并帮助我们应对。",
+        "你的话并不是缺失的部分。当值班人员看到你保卫村庄后回来。"
+      ]
+    },
+    "quest.village_defense.standing_watch.dialogue.missing_target": {
+      "lines": [
+        "你还没有走得足够远。村庄仍然需要看到你应对真正的威胁。",
+        "必须到达该地点本身。真正的威胁尚未得到回应。",
+        "路一定会在我送你去的地方结束。村庄仍然需要你在这里面对危险。",
+        "你还欠道路最后一英里。你站在附近，但防御本身仍未完成。",
+        "这项任务不仅仅与货物有关。等到敌对部队到达村庄，然后帮助赶走他们。",
+        "达到目标是承诺的一部分。该职责与实际攻击有关。",
+        "你不能跳过任务的核心。在安静的道路上巡逻并不能完成站立值守。",
+        "必须到达该地点本身。目标是任何威胁村民的东西，而不是练习假人。",
+        "先完成外出的旅程。做好准备，直到警报响起，让你有真正需要战斗的东西。",
+        "必须到达该地点本身。宁静的夜晚让这个承诺未经检验。",
+        "你还没有走得足够远。您必须在危险发生时提供帮助，而不仅仅是事后才到达。",
+        "靠近它不算数。手表尚未记录您对威胁的回答。",
+        "达到目标是承诺的一部分。保持密切。重要的时刻还没有发生。",
+        "先完成外出的旅程。当大门受到压力时，村庄需要一名防守者。",
+        "必须到达该地点本身。门口没有敌人，就意味着防御不完整。",
+        "靠近它不算数。当安全常规被打破时，工作就开始了。",
+        "路一定会在我送你去的地方结束。不要在其他地方寻求战斗。这个属于家里的。",
+        "先完成外出的旅程。你的勇气还需要发挥的时刻。",
+        "靠近它不算数。待命，直到村庄面临真正的危险。",
+        "你还没有走得足够远。当袭击发生时，使其远离房屋。"
+      ]
+    },
+    "quest.village_defense.standing_watch.dialogue.reminder": {
+      "lines": [
+        "继续你接受的工作。住在村子附近。如果危险来临，请在它到达门口之前回答。",
+        "使这一切得到适当的完成。让村庄在眼前，让钟声在耳边。",
+        "现在不要丢失线。黄昏后观察道路。麻烦更喜欢简单的方法。",
+        "现在不要丢失线。如果警报响起，请立即到门口。",
+        "这项工作仍有未完成的任务。这是防御职责，而不是野外狩猎。",
+        "这项工作仍有未完成的任务。当您在村庄附近时，请保持装备齐全。",
+        "记住村庄在等待什么。手表需要您在第一扇门打开之前做好准备。",
+        "不要让已完成的一步分散您的注意力。望向灯笼之外的黑暗边缘。",
+        "将回程行程保留在您的计划中。不要追逐每一种噪音，但也不要忽视错误的噪音。",
+        "不要让已完成的一步分散您的注意力。你的任务是应对这里的真正威胁。",
+        "牢记整个任务。如果战斗蔓延到道路上，请让平民留在你身后。",
+        "记住村庄在等待什么。巡逻队将呼叫攻击方向。",
+        "记住村庄在等待什么。站在可以快速到达任一门的地方。",
+        "使这一切得到适当的完成。如果危险来临，请在它蔓延到街道之前应对它。",
+        "现在不要丢失线。离家近的盾胜于远方的剑。",
+        "牢记整个任务。聆听铃声、喊叫声以及 铁傀儡 的快速移动。",
+        "现在不要丢失线。手表的安静部分仍然很重要。",
+        "下一步仍然很重要。坚守岗位，直到有真正的答案为止。",
+        "将回程行程保留在您的计划中。当村庄受到威胁时，用手表战斗。",
+        "离开之前，请再听一遍。危险结束并且门安全后才回来。"
+      ]
+    },
+    "quest.village_defense.standing_watch.dialogue.start": {
+      "lines": [
+        "我选择你是有原因的。箭头有帮助。神经更有帮助。和我们一起警惕，如果危险来了，就应对。",
+        "村里有工作给你。坐在靠近大门的地方并保持警惕。",
+        "这需要小心谨慎。当麻烦来临时，村庄需要另一位稳定的人手。",
+        "这需要小心谨慎。这项工作就是在安静中等待，在警报中战斗。",
+        "仅当您准备好时才接受任务。在家附近保持警惕，然后应对任何真正的威胁。",
+        "认真对待这件事。我要求你和巡逻队站在一起，不要独自徘徊。",
+        "在你同意之前，先听听所有的内容。当铃声响起时，准备好出发。",
+        "我把一些重要的事情托付给你。如果战斗蔓延到街道，首先保护村民。",
+        "仔细听。在敌人来到门口之前，防御就开始了。",
+        "这是工作。选择一个可以清楚地看到道路的位置。",
+        "这是工作。手表就像利器一样需要判断力。",
+        "这是工作。保持足够近，以便喊声可以传到您。",
+        "在你同意之前，先听听所有的内容。如果出现危险，请帮助将其赶出家门。",
+        "这需要小心谨慎。不要去寻找荣耀。确保村庄安全。",
+        "仅当您准备好时才接受任务。和我们一起守住村子的边缘。",
+        "让我们清楚地了解这项工作。你的任务说起来很简单，但很难伪造。重要的时候就在这里。",
+        "我选择你是有原因的。观察灯后的黑暗并相信警报。",
+        "村里有工作给你。做好准备，直到真正的威胁考验村庄。",
+        "仔细听。当和平被打破时，将自己置于危险和大门之间。",
+        "认真对待这件事。帮助村庄渡过一次袭击后返回。"
+      ]
+    },
+    "quest.village_defense.standing_watch.dialogue.turn_in": {
+      "lines": [
+        "现在我可以关闭账本了。关键时刻你挺身而出。手表会记住这一点。",
+        "困难的部分已经过去了。大门之所以坚守，是因为像你这样的人留下来了。",
+        "村里可以用这个。我看到你毫不犹豫地接了警报。",
+        "这将会带来真正的改变。村民们很安全，你的责任是显而易见的。",
+        "你已经看透了。你们让战斗远离了家园。",
+        "你已经看透了。这款手表很荣幸将您视为它的捍卫者。",
+        "我很高兴见到你回家。你所做的不仅仅是挥舞武器。你坚守阵地。",
+        "这就是我需要的结果。这种威胁没有轻易通过我们。",
+        "你已经看透了。巡逻日志会记住你的名字。",
+        "现在我可以关闭账本了。你留下来直到危险真正过去。",
+        "您准确地交付了所需的内容。门已经竖立起来，街道又恢复了安静。",
+        "我很高兴见到你回家。你在村庄最需要你的地方战斗。",
+        "我很高兴见到你回家。这就是真正的手表的样子。",
+        "现在我可以关闭账本了。墙后各家各户怀着感谢之情接受这份奖励。",
+        "这解决了我对你的要求。您缩短了闹钟时间，让早晨更加安全。",
+        "很好，你回来了。没有人会怀疑你站在哪一边。",
+        "村里可以用这个。防守结束了，你该休息了。",
+        "这次回归值得等待。当常规被打破时，你仍保持镇静。",
+        "村里可以用这个。我请求帮助，你给了村庄一个保卫者。",
+        "这就是我需要的结果。干得好。下一场比赛因为有你而更加自信。"
+      ]
+    },
+    "quest.village_defense.standing_watch.dialogue.unavailable": {
+      "lines": [
+        "您还没有准备好接受此请求。手表还没有准备好询问您这个问题。",
+        "在再次询问之前先赢得我们的信任。手表对您的了解不够，无法胜任这项职责。",
+        "我不会把这个负担加在你身上。我不能把乡村生活置于未经考验的后卫身后。",
+        "今天这项工作不是你的。在门口要求职位之前先赢得一些信任。",
+        "在再次询问之前先赢得我们的信任。巡逻队需要的是跟随警报的人，而不是他们的骄傲。",
+        "我不会把这个负担加在你身上。更安全的工作可以显示您如何承担责任。",
+        "这个村庄需要更稳定的手。我今天不会让你处于紧急监视状态。",
+        "这个村庄需要更稳定的手。以较小的方式帮助村庄之后再回来。",
+        "目前答案是否定的。武器与良好的判断力不同。",
+        "您还没有准备好接受此请求。这堵墙后面的房屋值得有人证明。",
+        "目前答案是否定的。您的名字尚未出现在 信任 监视列表中。",
+        "我现在还不能相信你。我需要知道危险来临时你会留下来。",
+        "不，风险太高了。目前，这项职责仍然由熟悉的人承担。",
+        "目前答案是否定的。向村民展示他们可以信赖你。",
+        "这需要我们更了解的人。闹铃真实时手表不能赌博。",
+        "您还没有准备好接受此请求。在这里建立一个记录，然后再问我。",
+        "我不会把这个负担加在你身上。没有纪律的勇气会使攻击变得更糟。",
+        "我现在还不能相信你。我不会仅仅因为你要求就给你一个帖子。",
+        "这需要我们更了解的人。让全村人先了解你的性格。",
+        "不，风险太高了。现在，先停下来寻找其他工作。"
+      ]
+    },
+    "quest.village_defense.standing_watch.objective.defend_village.complete_text": {
+      "lines": [
+        "村庄看到你保卫它。"
+      ]
+    },
+    "quest.village_defense.standing_watch.objective.defend_village.text": {
+      "lines": [
+        "保卫村庄免受真正的威胁。"
+      ]
+    },
+    "quest.village_defense.standing_watch.scene.standing_watch.metadata.title": "站岗防守",
+    "quest.village_defense.standing_watch.scene.standing_watch.step.after_action.data.text": "这条线成立。当您准备好关闭手表时，返回 任务 给予者。",
+    "quest.village_defense.standing_watch.scene.standing_watch.step.sound_the_watch.data.text": "值班钟响了。攻击者正在逼近村庄——在 任务 提供者附近坚守阵线。",
+    "quest.village_defense.standing_watch.stage.return.dialogue.turn_in.label": "关于值班",
+    "quest.village_defense.standing_watch.stage.return.dialogue.turn_in.lines": [
+      "村庄看到了你所站的地方。没有任何代币可以更好地证明这一点。",
+      "当门在你身后关上时，你一直在排队。这样才能赢得信任。",
+      "在我关闭笔记之前让我看看完整的作品。"
+    ],
+    "quest.village_defense.standing_watch.stage.return.dialogue.turn_in.response.complete.label": "交出工作。",
+    "quest.village_defense.standing_watch.stage.return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.village_defense.standing_watch.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "村庄看到了你所站的地方。没有任何代币可以更好地证明这一点。",
+      "当门在你身后关上时，你一直在排队。这样才能赢得信任。"
+    ],
+    "quest.village_defense.standing_watch.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "完整的工作尚未准备好进行计算。"
+    ],
+    "quest.village_defense.standing_watch.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "在我们解决这个问题之前，请带上证据。",
+      "我需要在这里提交完整的内容，而不仅仅是故事。"
+    ],
+    "quest.village_defense.standing_watch.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "原料 背后需要一个真正的目的地。",
+      "在我们称之为完成之前到达标记的地方。"
+    ],
+    "quest.village_defense.standing_watch.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "站立值班目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_defense.standing_watch.stage.return.scene.turn_in_wait.lines": [
+      "当真正的威胁到达村庄时，与村庄站在一起。",
+      "当工作准备好时再回来。"
+    ],
+    "quest.village_defense.standing_watch.stage.return.ui.tracker_text": "返回任务给予者。",
+    "quest.village_defense.standing_watch.stage.work.dialogue.offer.label": "站岗守望",
+    "quest.village_defense.standing_watch.stage.work.dialogue.offer.lines": [
+      "箭有帮助，但村庄也需要有人在钟声响起时站起来。",
+      "保卫这个村庄免受真正的威胁。村民们会知道你是否这样做了。",
+      "保卫村庄免受真正的威胁。"
+    ],
+    "quest.village_defense.standing_watch.stage.work.dialogue.offer.response.accept.label": "我能做到。",
+    "quest.village_defense.standing_watch.stage.work.dialogue.offer.response.decline.label": "现在不行。",
+    "quest.village_defense.standing_watch.stage.work.dialogue.reminder.label": "关于值班",
+    "quest.village_defense.standing_watch.stage.work.dialogue.reminder.lines": [
+      "当真正的威胁到达村庄时，与村庄站在一起。",
+      "保卫村庄免受真正的威胁。",
+      "保卫这个村庄免受真正的威胁。村民们会知道你是否这样做了。"
+    ],
+    "quest.village_defense.standing_watch.stage.work.dialogue.reminder.response.abandon.label": "把这个放在一边。",
+    "quest.village_defense.standing_watch.stage.work.dialogue.reminder.response.details.label": "重复该工作。",
+    "quest.village_defense.standing_watch.stage.work.dialogue.reminder.response.leave.label": "我有。",
+    "quest.village_defense.standing_watch.stage.work.scene.abandon_confirm.lines": [
+      "把站岗放在一边？",
+      "如果你确定的话我可以把你的名字从工作中删除。"
+    ],
+    "quest.village_defense.standing_watch.stage.work.scene.abandon_confirm.response.cancel.label": "保持打开状态。",
+    "quest.village_defense.standing_watch.stage.work.scene.abandon_confirm.response.confirm.label": "把它放在一边。",
+    "quest.village_defense.standing_watch.stage.work.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "好的。我会从工作中清除你的名字。",
+      "便条收起来了。你可以稍后再问。"
+    ],
+    "quest.village_defense.standing_watch.stage.work.scene.abandon_quest.action.abandon.lines.abandoned_cooldown": [
+      "我会把这张纸条先搁置一段时间，然后再重新发布。",
+      "在你再次提出要求之前，先让工作休息一下。"
+    ],
+    "quest.village_defense.standing_watch.stage.work.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "站立值班目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_defense.standing_watch.stage.work.scene.decline.lines": [
+      "然后保持你的盾牌靠近。麻烦很少会发送预约。"
+    ],
+    "quest.village_defense.standing_watch.stage.work.scene.leave.lines": [
+      "当真正的威胁到达村庄时，与村庄站在一起。",
+      "当工作准备好时再回来。"
+    ],
+    "quest.village_defense.standing_watch.stage.work.scene.reminder_details.action.remind.lines.reminder": [
+      "当真正的威胁到达村庄时，与村庄站在一起。",
+      "保卫村庄免受真正的威胁。",
+      "保卫这个村庄免受真正的威胁。村民们会知道你是否这样做了。"
+    ],
+    "quest.village_defense.standing_watch.stage.work.scene.reminder_details.action.remind.lines.unavailable": [
+      "站立值班目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_defense.standing_watch.stage.work.scene.start_quest.action.start.lines.already_completed": [
+      "目前，站岗已经确定。",
+      "这项工作已经被计算在内。"
+    ],
+    "quest.village_defense.standing_watch.stage.work.scene.start_quest.action.start.lines.locate_failed": [
+      "我在这里找不到值得信赖的标记。等道路畅通后再询问。",
+      "今天地图不会确定安全目的地。"
+    ],
+    "quest.village_defense.standing_watch.stage.work.scene.start_quest.action.start.lines.started": [
+      "当危险来临时，请留在铃声附近。分散的防守只是几次孤军奋战。",
+      "保卫村庄免受真正的威胁。"
+    ],
+    "quest.village_defense.standing_watch.stage.work.scene.start_quest.action.start.lines.unavailable": [
+      "站立值班目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_defense.standing_watch.stage.work.ui.tracker_text": "守住村庄防线并击败守望者的进攻。",
+    "quest.village_defense.standing_watch.title": {
+      "lines": [
+        "站岗守望"
+      ]
+    },
+    "quest.village_defense.standing_watch.tracker.event.text": {
+      "lines": [
+        "保卫村庄免受真正的威胁。"
+      ]
+    },
+    "quest.village_defense.standing_watch.tracker.return.text": {
+      "lines": [
+        "保卫村庄后返回任务给予者。"
+      ]
+    },
+    "quest.village_defense.standing_watch.tracker.title": {
+      "lines": [
+        "站岗守望"
+      ]
+    }
+  }
+}

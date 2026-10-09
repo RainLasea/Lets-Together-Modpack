@@ -1,0 +1,109 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.cartographers_atlas.roads_that_remember.description": {
+      "lines": [
+        "记录一段村庄防御记忆，将其变成一条地图集能看懂的道路。"
+      ]
+    },
+    "quest.cartographers_atlas.roads_that_remember.stage.hear_story.dialogue.offer.label": "记得过往的道路",
+    "quest.cartographers_atlas.roads_that_remember.stage.hear_story.dialogue.offer.lines": [
+      "地图会记住地点。村庄记得那里发生的事情。一个有用的地图集应该同时学习这两点。",
+      "当一个村庄从危险中幸存下来时，用书面记录带回这段记忆。当人们需要通过道路返回时，道路最为重要。"
+    ],
+    "quest.cartographers_atlas.roads_that_remember.stage.hear_story.dialogue.offer.response.accept.label": "记录路途记忆",
+    "quest.cartographers_atlas.roads_that_remember.stage.hear_story.dialogue.offer.response.decline.label": "另一次",
+    "quest.cartographers_atlas.roads_that_remember.stage.hear_story.dialogue.reminder.label": "关于记住的道路",
+    "quest.cartographers_atlas.roads_that_remember.stage.hear_story.dialogue.reminder.lines": [
+      "地图集仍然需要一条活路：捍卫一个村庄的记忆，然后是书面记录。"
+    ],
+    "quest.cartographers_atlas.roads_that_remember.stage.hear_story.dialogue.reminder.response.abandon.label": "放弃任务",
+    "quest.cartographers_atlas.roads_that_remember.stage.hear_story.dialogue.reminder.response.details.label": "重复任务",
+    "quest.cartographers_atlas.roads_that_remember.stage.hear_story.dialogue.reminder.response.leave.label": "算了",
+    "quest.cartographers_atlas.roads_that_remember.stage.hear_story.objective.witness_defense.tracker.complete_text": "村庄防御记忆已准备好用于地图集。",
+    "quest.cartographers_atlas.roads_that_remember.stage.hear_story.objective.witness_defense.tracker.text": "帮助或见证村庄防御，以便地图集有一条可以记录的活路。",
+    "quest.cartographers_atlas.roads_that_remember.stage.hear_story.scene.abandon_confirm.lines": [
+      "暂时不写这段记忆吗？"
+    ],
+    "quest.cartographers_atlas.roads_that_remember.stage.hear_story.scene.abandon_confirm.response.cancel.label": "继续听",
+    "quest.cartographers_atlas.roads_that_remember.stage.hear_story.scene.abandon_confirm.response.confirm.label": "放弃任务",
+    "quest.cartographers_atlas.roads_that_remember.stage.hear_story.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "我会把这一页留白，直到道路有话要说。"
+    ],
+    "quest.cartographers_atlas.roads_that_remember.stage.hear_story.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "目前没有打开的道路内存。"
+    ],
+    "quest.cartographers_atlas.roads_that_remember.stage.hear_story.scene.decline.lines": [
+      "公平的。有些故事还在发生时就不应该追究。"
+    ],
+    "quest.cartographers_atlas.roads_that_remember.stage.hear_story.scene.leave.lines": [
+      "保持警惕。道路在危险之后说话。"
+    ],
+    "quest.cartographers_atlas.roads_that_remember.stage.hear_story.scene.reminder_details.action.remind.lines.reminder": [
+      "帮助或见证村庄防御，然后给我带来一本书，以便我可以将帐户写入地图集。"
+    ],
+    "quest.cartographers_atlas.roads_that_remember.stage.hear_story.scene.reminder_details.action.remind.lines.unavailable": [
+      "我现在没有为你开放那条路记忆。"
+    ],
+    "quest.cartographers_atlas.roads_that_remember.stage.hear_story.scene.start_quest.action.start.lines.already_completed": [
+      "地图集已经有了第一条活路。"
+    ],
+    "quest.cartographers_atlas.roads_that_remember.stage.hear_story.scene.start_quest.action.start.lines.started": [
+      "倾听一个在危险中幸存下来的村庄。等记忆犹新的时候，带一本书来，我会把它好好地放下。"
+    ],
+    "quest.cartographers_atlas.roads_that_remember.stage.hear_story.scene.start_quest.action.start.lines.unavailable": [
+      "在地图册能够衡量记忆之前，必须先给第一个现场标记上墨。"
+    ],
+    "quest.cartographers_atlas.roads_that_remember.stage.hear_story.ui.tracker_text": "帮助或见证村庄防御记忆。",
+    "quest.cartographers_atlas.roads_that_remember.stage.return.dialogue.turn_in.label": "关于记住的道路",
+    "quest.cartographers_atlas.roads_that_remember.stage.return.dialogue.turn_in.lines": [
+      "一个被防守的村庄，一份书面记录，以及一本区分距离和意义的地图集。"
+    ],
+    "quest.cartographers_atlas.roads_that_remember.stage.return.dialogue.turn_in.response.leave.label": "还没有",
+    "quest.cartographers_atlas.roads_that_remember.stage.return.dialogue.turn_in.response.record.label": "记录路途记忆",
+    "quest.cartographers_atlas.roads_that_remember.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "现在，地图册上有一条路可以记住它的重要性。这将改变它对未来每一个分数的判断方式。"
+    ],
+    "quest.cartographers_atlas.roads_that_remember.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "在我写这篇文章之前，地图集需要防御记忆和书本。"
+    ],
+    "quest.cartographers_atlas.roads_that_remember.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "把书拿过来，我们就能保持记忆干净。"
+    ],
+    "quest.cartographers_atlas.roads_that_remember.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "这段路记忆还需要你的账号我才能关闭。"
+    ],
+    "quest.cartographers_atlas.roads_that_remember.stage.return.scene.leave.lines": [
+      "不着急。有些回忆需要安静的双手。"
+    ],
+    "quest.cartographers_atlas.roads_that_remember.stage.return.ui.tracker_text": "将道路帐户返回给制图师。",
+    "quest.cartographers_atlas.roads_that_remember.stage.write_account.dialogue.reminder.label": "关于记住的道路",
+    "quest.cartographers_atlas.roads_that_remember.stage.write_account.dialogue.reminder.lines": [
+      "记忆就在那里。带一本书，这样地图集就可以保存它，而不会将其歪曲成谣言。"
+    ],
+    "quest.cartographers_atlas.roads_that_remember.stage.write_account.dialogue.reminder.response.details.label": "重复任务",
+    "quest.cartographers_atlas.roads_that_remember.stage.write_account.dialogue.reminder.response.leave.label": "算了",
+    "quest.cartographers_atlas.roads_that_remember.stage.write_account.objective.bring_book.tracker.complete_text": "路帐可写。",
+    "quest.cartographers_atlas.roads_that_remember.stage.write_account.objective.bring_book.tracker.text": "带 1 本书作为道路帐户。",
+    "quest.cartographers_atlas.roads_that_remember.stage.write_account.scene.leave.lines": [
+      "一条被铭记的道路值得一个干净的页面。"
+    ],
+    "quest.cartographers_atlas.roads_that_remember.stage.write_account.scene.reminder_details.action.remind.lines.reminder": [
+      "带1本书。防御内存准备就绪；该帐户仍然需要一个页面。"
+    ],
+    "quest.cartographers_atlas.roads_that_remember.stage.write_account.scene.reminder_details.action.remind.lines.unavailable": [
+      "我现在没有为你开放那条路记忆。"
+    ],
+    "quest.cartographers_atlas.roads_that_remember.stage.write_account.ui.tracker_text": "带一本记录村防记忆的书。",
+    "quest.cartographers_atlas.roads_that_remember.title": {
+      "lines": [
+        "记得过往的道路"
+      ]
+    },
+    "quest.cartographers_atlas.roads_that_remember.tracker.title": {
+      "lines": [
+        "记得过往的道路"
+      ]
+    }
+  }
+}

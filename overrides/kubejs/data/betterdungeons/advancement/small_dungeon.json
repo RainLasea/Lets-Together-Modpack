@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "in_better_monster_room": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "in_better_monster_room"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

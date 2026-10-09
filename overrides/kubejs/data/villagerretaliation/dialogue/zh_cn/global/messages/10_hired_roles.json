@@ -1,0 +1,143 @@
+{
+  "metadata": {
+    "tags": [
+      "content.dialogue",
+      "dialogue.ambient",
+      "scope.global",
+      "section.messages"
+    ],
+    "topic": "global.interaction.hired_roles"
+  },
+  "messages": [
+    {
+      "key": "interaction.role_requires_hire",
+      "lines": [
+        "先雇用我，然后选择我的工作。",
+        "先给我一份合同，然后分配我的角色。",
+        "在你选择我做什么之前先让我受雇。",
+        "在你指导我的工作之前我需要被雇用。",
+        "先和我签订合同，然后我们才能谈论角色。",
+        "首先雇用我。之后，选择我的工作。",
+        "我的角色是在合同签订之后，而不是之前。",
+        "在您雇用我之前，我无法担任分配的角色。",
+        "先签合同，然后告诉我你想要什么工作。",
+        "雇用我，然后我们就可以决定我的职责。",
+        "您需要有效的雇佣合同来管理此职位。",
+        "只有我的雇主可以更改任务。",
+        "在合同生效之前，角色菜单将被锁定。",
+        "工作分配没有改变。",
+        "请雇用我的人来管理该职位。",
+        "村账本不承认你的权威。",
+        "在选择工作之前就开始招聘。",
+        "过期的合同不能支持活跃的角色。",
+        "我将保留我目前的工作，直到雇主改变它为止。",
+        "该限制保护协议双方。"
+      ],
+      "id": "global.messages.10_hired_roles.messages.interaction.role_requires_hire.000"
+    },
+    {
+      "key": "interaction.role_not_suitable",
+      "lines": [
+        "{role} 不适合我的职业或技能。",
+        "我不太适合 {role}。",
+        "{role}不是我适合的工作。",
+        "我的训练不适合 {role}。",
+        "我不会是 {role} 的好选择。",
+        "这个角色与我所知道的不符。",
+        "{role} 不适合我。",
+        "我的职业和技能不适合{role}。",
+        "我不是 {role} 的合适村民。",
+        "你应该选择比我更适合{role}的人。",
+        "这个角色不适合我的职业或能力。",
+        "选择一份与我实际能力相匹配的工作。",
+        "我会在那个位置浪费物资。",
+        "这个角色需要我没有的技能。",
+        "我目前的状况也限制了可以从事的工作。",
+        "另一个村民可能是更好的选择。",
+        "我可以解释哪些角色适合。",
+        "没有更改分配。",
+        "合约在没有角色的情况下保持活跃状态​​。",
+        "我不会假装自己有能力并制造问题。"
+      ],
+      "id": "global.messages.10_hired_roles.messages.interaction.role_not_suitable.001"
+    },
+    {
+      "key": "interaction.role_assigned",
+      "lines": [
+        "很好。我将担任{role}。",
+        "明白了。我的角色现在是 {role}。",
+        "好的。我将承担{role}的职责。",
+        "那么{role}现在就是我的作品了。",
+        "就这样吧。我将扮演{role}。",
+        "我明白。您已将我分配到 {role}。",
+        "非常好。我将扮演{role}的角色。",
+        "然后我设置为{role}。",
+        "我们的安排很明确。我将担任{role}。",
+        "我将担任这个角色。 {role}。",
+        "我将调整 {role} 的装备。",
+        "新的职责是明确的。",
+        "我将从{role}需要的工作开始。",
+        "你可以相信我会妥善处理 {role}。",
+        "我知道我的注意力现在属于哪里。",
+        "我将辞去之前的职务，接受这一职务。",
+        "合同现在将我列为 {role}。",
+        "我已经准备好开始新的任务了。",
+        "我将报告我的 {role} 工作。",
+        "这个改变很适合我。"
+      ],
+      "id": "global.messages.10_hired_roles.messages.interaction.role_assigned.002"
+    },
+    {
+      "key": "interaction.role_overview",
+      "lines": [
+        "我的身份是 {role}。我也可以带{available_roles}。",
+        "我目前的角色是{role}。向我开放的角色是 {available_roles}。",
+        "现在我的工作名称是{role}。我可以使用的角色是 {available_roles}。",
+        "目前我被分配到{role}。我能够担任{available_roles}。",
+        "我现在的职责是{role}。我也可以选择 {available_roles}。",
+        "我目前设置为 {role}。这些是我可以担任的角色。 {available_roles}。",
+        "目前我的身份是{role}。我可以扮演的其他角色是{available_roles}。",
+        "你让我作为 {role} 工作。我也可以使用 {available_roles}。",
+        "我目前的任务是{role}。我可以胜任这些角色。 {available_roles}。",
+        "我现在的身份是 {role}，尽管我有能力成为 {available_roles}。",
+        "{role} 是我今天要履行的职责。我可以切换到{available_roles}。",
+        "我的合同目前列出 {role}。",
+        "如果你想改变，我接受过 {available_roles} 培训。",
+        "我现在有 {role} 的工具。",
+        "我培训中的其他职责是 {available_roles}。",
+        "我将保留在 {role} 中，直到我的租用者更改为止。",
+        "我目前的工作是由 {role} 负责的。",
+        "合同中有空间可以选择{available_roles}。",
+        "我准备好解释任何可用的职责。",
+        "现在，让我来处理 {role}。"
+      ],
+      "id": "global.messages.10_hired_roles.messages.interaction.role_overview.003"
+    },
+    {
+      "key": "interaction.role.manage_requires_hirer",
+      "lines": [
+        "只有雇用我的人才能改变我的角色。",
+        "我的职责由我的雇主决定。",
+        "你不是雇用我从事这项工作的人。",
+        "在我改变我正在做的事情之前，我需要我的雇主。",
+        "付钱给我的人必须下达该命令。",
+        "我不能为别人改变角色。",
+        "把我的租用者带到这里来，我会听的。",
+        "该命令必须来自雇用我的人。",
+        "我的合同不允许你改变我的职责。",
+        "不。我的雇主决定我的工作。",
+        "你不是雇用我的村民。",
+        "只有持有我合同的人才能管理我的角色。",
+        "我的雇主决定我的任务何时发生变化。",
+        "如果你想改变我的职责，就把租用者带到这里来。",
+        "我不会接受合同之外的人的工作订单。",
+        "合同赋予我的雇主对该角色的控制权。",
+        "您可以要求我的雇主更改任务。",
+        "我目前的角色将保持不变，直到雇主另有说明为止。",
+        "我知道是谁签了我的合同，但不是你。",
+        "雇主必须批准我工作的任何变更。"
+      ],
+      "id": "global.messages.10_hired_roles.messages.interaction.role.manage_requires_hirer.004"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "bullseye": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "bullseye"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

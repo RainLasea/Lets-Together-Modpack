@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "add_helmet_horns": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "add_helmet_horns"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

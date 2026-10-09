@@ -1,0 +1,113 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.nether_routes.through_fire.description": "通过下界为永久村庄 路线 准备 原料。",
+    "quest.nether_routes.through_fire.stage.return.dialogue.turn_in.label": "关于穿越烈火",
+    "quest.nether_routes.through_fire.stage.return.dialogue.turn_in.lines": [
+      "框架已完成，消防 原料 已密封。路可以跨越世界。",
+      "我们有一个门道。接下来我们决定热路通向何处。",
+      "在我关闭笔记之前让我看看完整的作品。"
+    ],
+    "quest.nether_routes.through_fire.stage.return.dialogue.turn_in.response.complete.label": "交出工作。",
+    "quest.nether_routes.through_fire.stage.return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.nether_routes.through_fire.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "框架已完成，消防 原料 已密封。路可以跨越世界。",
+      "我们有一个门道。接下来我们决定热路通向何处。"
+    ],
+    "quest.nether_routes.through_fire.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "完整的工作尚未准备好进行计算。"
+    ],
+    "quest.nether_routes.through_fire.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "在我们解决这个问题之前，请带上证据。",
+      "我需要在这里提交完整的内容，而不仅仅是故事。"
+    ],
+    "quest.nether_routes.through_fire.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "原料 背后需要一个真正的目的地。",
+      "在我们称之为完成之前到达标记的地方。"
+    ],
+    "quest.nether_routes.through_fire.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "《穿越烈火》目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.nether_routes.through_fire.stage.return.scene.turn_in_wait.lines": [
+      "路线 宝箱需要 10 个黑曜石、2 个火焰弹、4 个岩浆霜。",
+      "当工作准备好时再回来。"
+    ],
+    "quest.nether_routes.through_fire.stage.return.ui.tracker_text": "返回任务给予者。",
+    "quest.nether_routes.through_fire.stage.work.dialogue.offer.label": "穿越烈火",
+    "quest.nether_routes.through_fire.stage.work.dialogue.offer.lines": [
+      "一个门户就是一种逃避。用 原料 标记的门户可以成为一条道路。",
+      "带上框架、引火材料它的方法，以及足够的岩浆霜，以应对第一次错误。",
+      "带上 10 个黑曜石、2 个火焰弹和 4 个岩浆膏。"
+    ],
+    "quest.nether_routes.through_fire.stage.work.dialogue.offer.response.accept.label": "我能做到。",
+    "quest.nether_routes.through_fire.stage.work.dialogue.offer.response.decline.label": "现在不行。",
+    "quest.nether_routes.through_fire.stage.work.dialogue.reminder.label": "关于穿越烈火",
+    "quest.nether_routes.through_fire.stage.work.dialogue.reminder.lines": [
+      "路线 宝箱需要 10 个黑曜石、2 个火焰弹、4 个岩浆霜。",
+      "带上 10 个黑曜石、2 个火焰弹和 4 个岩浆膏。",
+      "带上框架、引火材料它的方法，以及足够的岩浆霜，以应对第一次错误。"
+    ],
+    "quest.nether_routes.through_fire.stage.work.dialogue.reminder.response.abandon.label": "把这个放在一边。",
+    "quest.nether_routes.through_fire.stage.work.dialogue.reminder.response.details.label": "重复该工作。",
+    "quest.nether_routes.through_fire.stage.work.dialogue.reminder.response.leave.label": "我有。",
+    "quest.nether_routes.through_fire.stage.work.objective.bring_fire_charges.tracker.complete_text": "火药已准备就绪。",
+    "quest.nether_routes.through_fire.stage.work.objective.bring_fire_charges.tracker.text": "带2个火药。",
+    "quest.nether_routes.through_fire.stage.work.objective.bring_magma_cream.tracker.complete_text": "岩浆霜就做好了。",
+    "quest.nether_routes.through_fire.stage.work.objective.bring_magma_cream.tracker.text": "带上4个岩浆霜来抵抗火。",
+    "quest.nether_routes.through_fire.stage.work.objective.bring_obsidian.tracker.complete_text": "传送门黑曜石已准备就绪。",
+    "quest.nether_routes.through_fire.stage.work.objective.bring_obsidian.tracker.text": "为 路线 传送门携带 10 颗黑曜石。",
+    "quest.nether_routes.through_fire.stage.work.scene.abandon_confirm.lines": [
+      "把火放在一边？",
+      "如果你确定的话我可以把你的名字从工作中删除。"
+    ],
+    "quest.nether_routes.through_fire.stage.work.scene.abandon_confirm.response.cancel.label": "保持打开状态。",
+    "quest.nether_routes.through_fire.stage.work.scene.abandon_confirm.response.confirm.label": "把它放在一边。",
+    "quest.nether_routes.through_fire.stage.work.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "好的。我会从工作中清除你的名字。",
+      "便条收起来了。你可以稍后再问。"
+    ],
+    "quest.nether_routes.through_fire.stage.work.scene.abandon_quest.action.abandon.lines.abandoned_cooldown": [
+      "我会把这张纸条先搁置一段时间，然后再重新发布。",
+      "在你再次提出要求之前，先让工作休息一下。"
+    ],
+    "quest.nether_routes.through_fire.stage.work.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "《穿越烈火》目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.nether_routes.through_fire.stage.work.scene.decline.lines": [
+      "当我们思考时，下界不会冷却。"
+    ],
+    "quest.nether_routes.through_fire.stage.work.scene.leave.lines": [
+      "路线 宝箱需要 10 个黑曜石、2 个火焰弹、4 个岩浆霜。",
+      "当工作准备好时再回来。"
+    ],
+    "quest.nether_routes.through_fire.stage.work.scene.reminder_details.action.remind.lines.reminder": [
+      "路线 宝箱需要 10 个黑曜石、2 个火焰弹、4 个岩浆霜。",
+      "带上 10 个黑曜石、2 个火焰弹和 4 个岩浆膏。",
+      "带上框架、引火材料它的方法，以及足够的岩浆霜，以应对第一次错误。"
+    ],
+    "quest.nether_routes.through_fire.stage.work.scene.reminder_details.action.remind.lines.unavailable": [
+      "《穿越烈火》目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.nether_routes.through_fire.stage.work.scene.start_quest.action.start.lines.already_completed": [
+      "《穿越烈火》目前已经确定。",
+      "这项工作已经被计算在内。"
+    ],
+    "quest.nether_routes.through_fire.stage.work.scene.start_quest.action.start.lines.locate_failed": [
+      "我在这里找不到值得信赖的标记。等道路畅通后再询问。",
+      "今天地图不会确定安全目的地。"
+    ],
+    "quest.nether_routes.through_fire.stage.work.scene.start_quest.action.start.lines.started": [
+      "数黑曜石两次。九格传送门只是一扇通往无处可去的沉重大门。",
+      "带上 10 个黑曜石、2 个火焰弹和 4 个岩浆膏。"
+    ],
+    "quest.nether_routes.through_fire.stage.work.scene.start_quest.action.start.lines.unavailable": [
+      "《穿越烈火》目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.nether_routes.through_fire.stage.work.ui.tracker_text": "带上 10 个黑曜石、2 个火焰弹和 4 个岩浆膏。",
+    "quest.nether_routes.through_fire.title": "穿越烈火"
+  }
+}

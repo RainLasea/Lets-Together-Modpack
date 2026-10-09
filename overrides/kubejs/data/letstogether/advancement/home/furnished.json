@@ -1,0 +1,85 @@
+{
+  "display": {
+    "icon": {
+      "id": "handcrafted:oak_chair"
+    },
+    "title": {
+      "translate": "advancements.letstogether.home.furnished.title",
+      "fallback": "Looks Like Home"
+    },
+    "description": {
+      "translate": "advancements.letstogether.home.furnished.description",
+      "fallback": "Collect a Handcrafted oak chair, table, cupboard, and couch."
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "item_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "handcrafted:oak_chair"
+            ]
+          }
+        ]
+      }
+    },
+    "item_1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "handcrafted:oak_table"
+            ]
+          }
+        ]
+      }
+    },
+    "item_2": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "handcrafted:oak_cupboard"
+            ]
+          }
+        ]
+      }
+    },
+    "item_3": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "handcrafted:oak_couch"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "item_0"
+    ],
+    [
+      "item_1"
+    ],
+    [
+      "item_2"
+    ],
+    [
+      "item_3"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:home/cupboard"
+}

@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "throw_parrot_egg": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "throw_parrot_egg"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

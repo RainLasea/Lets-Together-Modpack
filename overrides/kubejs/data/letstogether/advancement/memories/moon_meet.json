@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "id": "nomansland:ancient_bronze_mask"
+    },
+    "title": {
+      "translate": "advancements.letstogether.memories.moon_meet.title",
+      "fallback": "So It Was Real"
+    },
+    "description": {
+      "translate": "advancements.letstogether.memories.moon_meet.description",
+      "fallback": "Meet the Friend Moon."
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "criteria": {
+    "meet_friend_moon_trigger": {
+      "trigger": "nomansland:meet_friend_moon_trigger"
+    }
+  },
+  "requirements": [
+    [
+      "meet_friend_moon_trigger"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:memories/moon_dream"
+}

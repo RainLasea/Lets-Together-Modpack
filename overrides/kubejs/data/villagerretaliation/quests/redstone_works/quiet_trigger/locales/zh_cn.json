@@ -1,0 +1,113 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.redstone_works.quiet_trigger.description": "通过城市调查和仔细的羊毛屏蔽来完成浮雕分支。",
+    "quest.redstone_works.quiet_trigger.stage.return.dialogue.turn_in.label": "关于聆听之门",
+    "quest.redstone_works.quiet_trigger.stage.return.dialogue.turn_in.lines": [
+      "现在，大门能够听到重要的内容，而忽略不重要的内容。让我们希望它能保持这种智慧。",
+      "一台由沉默教导的机器。骷髅分支已完成。",
+      "在我关闭笔记之前让我看看完整的作品。"
+    ],
+    "quest.redstone_works.quiet_trigger.stage.return.dialogue.turn_in.response.complete.label": "交出工作。",
+    "quest.redstone_works.quiet_trigger.stage.return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.redstone_works.quiet_trigger.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "现在，大门能够听到重要的内容，而忽略不重要的内容。让我们希望它能保持这种智慧。",
+      "一台由沉默教导的机器。骷髅分支已完成。"
+    ],
+    "quest.redstone_works.quiet_trigger.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "完整的工作尚未准备好进行计算。"
+    ],
+    "quest.redstone_works.quiet_trigger.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "在我们解决这个问题之前，请带上证据。",
+      "我需要在这里提交完整的内容，而不仅仅是故事。"
+    ],
+    "quest.redstone_works.quiet_trigger.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "原料 背后需要一个真正的目的地。",
+      "在我们称之为完成之前到达标记的地方。"
+    ],
+    "quest.redstone_works.quiet_trigger.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "聆听之门目前尚未开启。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.redstone_works.quiet_trigger.stage.return.scene.turn_in_wait.lines": [
+      "城市信号，放置了三十二根羊毛，返回了一个校准传感器。",
+      "当工作准备好时再回来。"
+    ],
+    "quest.redstone_works.quiet_trigger.stage.return.ui.tracker_text": "返回任务给予者。",
+    "quest.redstone_works.quiet_trigger.stage.work.dialogue.offer.label": "聆听之门",
+    "quest.redstone_works.quiet_trigger.stage.work.dialogue.offer.lines": [
+      "村庄的传感器可以工作，但古城早在我们之前就知道如何塑造声音。",
+      "研究它的寂静，在喧闹的路径周围铺上羊毛，并恢复一个校准过的传感器。",
+      "研究标记的古城，放置 32 根羊毛，并携带 1 个校准过的浮潜传感器。"
+    ],
+    "quest.redstone_works.quiet_trigger.stage.work.dialogue.offer.response.accept.label": "我能做到。",
+    "quest.redstone_works.quiet_trigger.stage.work.dialogue.offer.response.decline.label": "现在不行。",
+    "quest.redstone_works.quiet_trigger.stage.work.dialogue.reminder.label": "关于聆听之门",
+    "quest.redstone_works.quiet_trigger.stage.work.dialogue.reminder.lines": [
+      "城市信号，放置了三十二根羊毛，返回了一个校准传感器。",
+      "研究标记的古城，放置 32 根羊毛，并携带 1 个校准过的浮潜传感器。",
+      "研究它的寂静，在喧闹的路径周围铺上羊毛，并恢复一个校准过的传感器。"
+    ],
+    "quest.redstone_works.quiet_trigger.stage.work.dialogue.reminder.response.abandon.label": "把这个放在一边。",
+    "quest.redstone_works.quiet_trigger.stage.work.dialogue.reminder.response.details.label": "重复该工作。",
+    "quest.redstone_works.quiet_trigger.stage.work.dialogue.reminder.response.leave.label": "我有。",
+    "quest.redstone_works.quiet_trigger.stage.work.objective.bring_sensor.tracker.complete_text": "校准后的传感器已准备就绪。",
+    "quest.redstone_works.quiet_trigger.stage.work.objective.bring_sensor.tracker.text": "带 1 个经过校准的浮渣传感器。",
+    "quest.redstone_works.quiet_trigger.stage.work.objective.place_wool.tracker.complete_text": "放置羊毛屏蔽。",
+    "quest.redstone_works.quiet_trigger.stage.work.objective.place_wool.tracker.text": "放置 32 个羊毛块作为振动屏蔽。",
+    "quest.redstone_works.quiet_trigger.stage.work.objective.study_city.tracker.complete_text": "对古城信号进行了研究。",
+    "quest.redstone_works.quiet_trigger.stage.work.objective.study_city.tracker.text": "研究标记的古城而不唤醒其守护者。",
+    "quest.redstone_works.quiet_trigger.stage.work.scene.abandon_confirm.lines": [
+      "把聆听门放在一边？",
+      "如果你确定的话我可以把你的名字从工作中删除。"
+    ],
+    "quest.redstone_works.quiet_trigger.stage.work.scene.abandon_confirm.response.cancel.label": "保持打开状态。",
+    "quest.redstone_works.quiet_trigger.stage.work.scene.abandon_confirm.response.confirm.label": "把它放在一边。",
+    "quest.redstone_works.quiet_trigger.stage.work.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "好的。我会从工作中清除你的名字。",
+      "便条收起来了。你可以稍后再问。"
+    ],
+    "quest.redstone_works.quiet_trigger.stage.work.scene.abandon_quest.action.abandon.lines.abandoned_cooldown": [
+      "我会把这张纸条先搁置一段时间，然后再重新发布。",
+      "在你再次提出要求之前，先让工作休息一下。"
+    ],
+    "quest.redstone_works.quiet_trigger.stage.work.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "聆听之门目前尚未开启。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.redstone_works.quiet_trigger.stage.work.scene.decline.lines": [
+      "好的。古城惩罚喧闹的教训。"
+    ],
+    "quest.redstone_works.quiet_trigger.stage.work.scene.leave.lines": [
+      "城市信号，放置了三十二根羊毛，返回了一个校准传感器。",
+      "当工作准备好时再回来。"
+    ],
+    "quest.redstone_works.quiet_trigger.stage.work.scene.reminder_details.action.remind.lines.reminder": [
+      "城市信号，放置了三十二根羊毛，返回了一个校准传感器。",
+      "研究标记的古城，放置 32 根羊毛，并携带 1 个校准过的浮潜传感器。",
+      "研究它的寂静，在喧闹的路径周围铺上羊毛，并恢复一个校准过的传感器。"
+    ],
+    "quest.redstone_works.quiet_trigger.stage.work.scene.reminder_details.action.remind.lines.unavailable": [
+      "聆听之门目前尚未开启。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.redstone_works.quiet_trigger.stage.work.scene.start_quest.action.start.lines.already_completed": [
+      "聆听之门目前已经尘埃落定。",
+      "这项工作已经被计算在内。"
+    ],
+    "quest.redstone_works.quiet_trigger.stage.work.scene.start_quest.action.start.lines.locate_failed": [
+      "我在这里找不到值得信赖的标记。等道路畅通后再询问。",
+      "今天地图不会确定安全目的地。"
+    ],
+    "quest.redstone_works.quiet_trigger.stage.work.scene.start_quest.action.start.lines.started": [
+      "每块羊毛都比一只尖叫者便宜。将它们放在好奇心之前。",
+      "研究标记的古城，放置 32 根羊毛，并携带 1 个校准过的浮潜传感器。"
+    ],
+    "quest.redstone_works.quiet_trigger.stage.work.scene.start_quest.action.start.lines.unavailable": [
+      "聆听之门目前尚未开启。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.redstone_works.quiet_trigger.stage.work.ui.tracker_text": "研究标记的古城，放置 32 根羊毛，并携带 1 个校准过的浮潜传感器。",
+    "quest.redstone_works.quiet_trigger.title": "聆听之门"
+  }
+}

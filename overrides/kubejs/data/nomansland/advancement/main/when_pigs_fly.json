@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "fall_with_pig": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "fall_with_pig"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

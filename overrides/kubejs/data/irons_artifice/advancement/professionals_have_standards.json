@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "professionals_have_standards": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "professionals_have_standards"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

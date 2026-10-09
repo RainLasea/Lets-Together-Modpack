@@ -1,0 +1,42 @@
+{
+  "lines": [
+    {
+      "id": "combat_survival_fletcher",
+      "request": "combat_survival_report",
+      "lines": [
+        "丢了两支箭，让我保持勇气。我将其称为公平贸易。",
+        "我的箭袋变轻了，但我在家了。",
+        "我数着箭头，直到数步变得更加重要。",
+        "在我的头跟上之前，我的手想起了要做什么。",
+        "我带着空的箭袋和对墙壁的新的尊重回来了。",
+        "战斗结束后，归家之路显得更远了。",
+        "当黑暗呼喊时，稳定的呼吸变得更加困难。",
+        "我一时失去了目标，不是归家之路。",
+        "我仍在倾听身后的脚步声。",
+        "第一击让我害怕得超出了我愿意承认的程度。",
+        "我继续移动，因为站着不动感觉更糟。",
+        "当我无法保护自己时，有人掩护了我。",
+        "当箭开始飞行时，我就忘记了时间。",
+        "直到我们安全后，我的手才开始颤抖。",
+        "我用了我打包的所有有用的东西。",
+        "一根干绳子就带来了不同。",
+        "我知道我要先更换哪一件装备。",
+        "我们幸存下来是因为人们互相警告。",
+        "我不会再嘲笑练习了。",
+        "噪音使人无法判断距离。"
+      ],
+      "option": "combat_survival_report",
+      "show_for_babies": false,
+      "weight": 234
+    }
+  ],
+  "metadata": {
+    "tags": [
+      "content.dialogue",
+      "dialogue.ambient",
+      "scope.profession.fletcher",
+      "section.lines"
+    ],
+    "topic": "professions.fletcher.combat_survival_reports"
+  }
+}

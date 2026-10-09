@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "place_organic_compost": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "place_organic_compost"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

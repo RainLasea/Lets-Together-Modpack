@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "id": "quark:diamond_heart"
+    },
+    "title": {
+      "translate": "advancements.letstogether.memories.stoneling.title",
+      "fallback": "The Rock Moved"
+    },
+    "description": {
+      "translate": "advancements.letstogether.memories.stoneling.description",
+      "fallback": "Create a Stoneling with a Heart of Diamond."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "make_stoneling": {
+      "trigger": "quark:make_stoneling"
+    }
+  },
+  "requirements": [
+    [
+      "make_stoneling"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:memories/diamond_heart",
+  "neoforge:conditions": [
+    {
+      "type": "zeta:flag",
+      "flag": "stoneling_drop_diamond_heart"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "content": {
+    "complete_villager_quest": {
+      "type": "criteria",
+      "content": "minecraft:impossible",
+      "conditions": {},
+      "name": "完成村民委托（先携带赏金纸；不含村庄赏金联动任务）",
+      "amount": {
+        "min": 1,
+        "max": 2
+      },
+      "unitWorth": 2500,
+      "timeMult": 24,
+      "weightMult": 1
+    },
+    "bread": {
+      "type": "item",
+      "content": "minecraft:bread",
+      "amount": {
+        "min": 8,
+        "max": 24
+      },
+      "unitWorth": 100,
+      "weightMult": 0.4
+    },
+    "torches": {
+      "type": "item",
+      "content": "minecraft:torch",
+      "amount": {
+        "min": 16,
+        "max": 48
+      },
+      "unitWorth": 40,
+      "weightMult": 0.3
+    },
+    "pillager": {
+      "type": "entity",
+      "content": "minecraft:pillager",
+      "amount": {
+        "min": 1,
+        "max": 3
+      },
+      "unitWorth": 800,
+      "timeMult": 6,
+      "weightMult": 0.3
+    }
+  }
+}

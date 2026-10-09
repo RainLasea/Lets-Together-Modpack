@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "through_and_through": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "through_and_through"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

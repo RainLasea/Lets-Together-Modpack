@@ -1,0 +1,392 @@
+{
+  "lines": [
+    {
+      "id": "gift_global_disliked_poor",
+      "request": "gift_preferences",
+      "lines": [
+        "{gift_item} 是一份糟糕的礼物。大多数村民宁愿不处理它。",
+        "{gift_item} 发送错误消息。",
+        "如果您想表现得友善，请避免使用 {gift_item}。",
+        "{gift_item}比现在更具警告性。",
+        "给某人 {gift_item} 是一种让房间变酸的快速方法。",
+        "{gift_item} 属于其他地方，而不是作为礼物在某人手中。",
+        "这里的大多数人都会认为 {gift_item} 是一个糟糕的产品。",
+        "空手而归比带着 {gift_item} 来要好。",
+        "不要把{gift_item}包裹起来并称之为善意。",
+        "{gift_item} 是一种人们会因为错误的原因而记住的礼物。",
+        "大多数村民很难对 {gift_item} 感到满意。",
+        "{gift_item}作为礼物制造的麻烦多于感激。",
+        "我会把 {gift_item} 排除在任何礼品篮之外。",
+        "该物品可能在某个地方有用，但在这里不是一个友好的姿态。",
+        "给予 {gift_item} 会使接收器处于尴尬的境地。",
+        "对于 {gift_item}，您更有可能会皱眉而不是感谢。",
+        "首先询问您是否决定给予某人 {gift_item}。",
+        "有比交出 {gift_item} 更简单的方式来表达善意。",
+        "村民可能会礼貌地接受并想知道你的意思。",
+        "如果你想让礼物顺利送达，几乎可以选择其他任何东西。"
+      ],
+      "gift_advice": "global_disliked",
+      "weight": 186
+    },
+    {
+      "id": "gift_profession_liked_thoughtful",
+      "request": "gift_preferences",
+      "lines": [
+        "如果您选择 {gift_subject}，{gift_item} 是一个深思熟虑的选择。",
+        "对于{gift_subject}、{gift_item}，说明您已经关注了。",
+        "{gift_subject}可以很好地利用{gift_item}。",
+        "{gift_item} 比大多数礼物更适合 {gift_subject}。",
+        "当某人携带 {gift_item} 时，您就可以看出他了解该行业。",
+        "这项工作给了 {gift_item} 真正的价值。",
+        "{gift_item} 是 {gift_subject} 记忆深刻的东西。",
+        "给{gift_subject}的一份精心礼物？ {gift_item}。",
+        "{gift_subject} 倾向于尊重像 {gift_item} 这样的礼物。",
+        "{gift_item} 与 {gift_subject} 相比，给人一种个性化的感觉。",
+        "{gift_subject}会认识到选择{gift_item}背后的用心。",
+        "该项目非常适合 {gift_subject} 的工作。",
+        "他们不需要花很长时间来寻找 {gift_item} 的用途。",
+        "通过给予他们，你可能会得到真诚的微笑。",
+        "他们会注意到你选择了与他们的手艺相关的东西。",
+        "它足够实用，可以提供帮助，也足够个性化，让你有被选中的感觉。",
+        "如果我要购买 {gift_subject}，它就会出现在我的清单中。",
+        "他们可能不会要求 {gift_item}，但我希望他们会欢迎。",
+        "这份礼物适合这个人，而不仅仅是适合这个场合。",
+        "你很有可能做出让 {gift_subject} 满意的选择。"
+      ],
+      "gift_advice": "profession_liked",
+      "weight": 186
+    },
+    {
+      "id": "gift_profession_disliked_avoid",
+      "request": "gift_preferences",
+      "lines": [
+        "如果您选择 {gift_subject}，我会避免 {gift_item}。",
+        "对于{gift_subject}，{gift_item}感觉粗心。",
+        "请勿将 {gift_item} 带到 {gift_subject} 并期望得到感谢。",
+        "{gift_subject} 对 {gift_item} 的用处不大。",
+        "{gift_item} 与 {gift_subject} 不太匹配。",
+        "如果我送 {gift_subject}，我会把 {gift_item} 留在家里。",
+        "{gift_subject} 可能会将 {gift_item} 理解为错误的方式。",
+        "对于这个职业来说，{gift_item} 与其说是礼物，不如说是麻烦。",
+        "你可以无意识地侮辱这个行业。 {gift_item} 可以做到。",
+        "{gift_item} 就是 {gift_subject} 记得很酸的那种东西。",
+        "{gift_item}根本不符合{gift_subject}的口味。",
+        "我不会让 {gift_subject} 礼貌地接受这一点。",
+        "他们的工作让他们没有理由想要 {gift_item}。",
+        "如果您希望手势给人一种深思熟虑的感觉，请选择其他内容。",
+        "{gift_subject}之前曾拒绝过类似的项目。",
+        "那件礼物会建议你猜测而不是询问。",
+        "你可能是出于好意，但 {gift_item} 与他们不太匹配。",
+        "我宁愿拯救你的绿宝石，也不愿冒这种反应的风险。",
+        "{gift_subject} 有很多东西会更欣赏。",
+        "除非他们特别要求，否则避免使用 {gift_item}。"
+      ],
+      "gift_advice": "profession_disliked",
+      "weight": 186
+    },
+    {
+      "id": "gift_already_known_all",
+      "request": "gift_preferences",
+      "lines": [
+        "我想你已经知道我可以告诉你关于礼物的事情了。",
+        "恐怕你已经把我关于礼物的记忆清除了。",
+        "没有新的建议。如果您想要更多的礼物流言，请尝试另一个村民。",
+        "我宁愿不假装我知道的比我实际知道的还要多。",
+        "今天我没有新的礼物建议。问问别人，你可能会听到更多。",
+        "我的天赋智慧现在就到此结束。",
+        "脑子里没有什么新的想法。即使村民们在闲聊，礼物也是私人的。",
+        "我没有为您准备其他礼物提示。",
+        "你已经听过我讲的有用的部分了。",
+        "我的礼物建议目前是空的。最好不要刮擦碗。",
+        "如果我记得任何新的事情，你将是我第一个告诉的人。",
+        "我已经告诉过你我记得的每一个偏好。",
+        "现在你已经知道足够的知识，无需我的帮助即可做出选择。",
+        "自从你上次询问以来，我的清单没有改变。",
+        "如果我们一直谈论礼物，我只会重复一遍。",
+        "您已经有了有用的答案。相信你所学到的。",
+        "没有什么秘密是我一直隐瞒的。",
+        "如果您需要更具体的信息，请直接询问该人。",
+        "我已经分享了我要提供的所有建议。",
+        "下一个决定属于你和你的判断。"
+      ],
+      "gift_advice": "already_known",
+      "weight": 150
+    },
+    {
+      "id": "cured_recognition_generic_warm_1",
+      "request": "cured_recognition",
+      "lines": [
+        "我记得碎片。在我的声音出现之前，你的脸就出现了。谢谢你在另一边的等待。",
+        "我记得足够多，知道你把我从黑暗中拉了出来。",
+        "我记得醒来时，我发现你是那个早晨的一部分。",
+        "治愈的感觉就像在水下太久后浮出水面。当我再次呼吸时你就在那里。",
+        "有些记忆已经破碎，但你的帮助是留下的碎片之一。",
+        "我记不太清一切，但我记得足够感激。",
+        "你帮我找回了名字。这可不是一件小事。",
+        "当雾散去时，我知道有人在附近提供帮助。",
+        "我记得恐惧，然后是温暖，然后是你的脸。这个顺序对我来说很重要。",
+        "无论我在那片黑暗中失去什么，我知道你都帮助我找到了出路。",
+        "我记得在病痛中你的声音传到我耳边。",
+        "当其他人都有理由逃跑时，你却紧随其后。",
+        "治愈方法让我重获新生，但你给了我接受它的机会。",
+        "那天晚上的一些片段不见了。你的脸不是其中之一。",
+        "我害怕地醒来，而你还在那里。",
+        "我欠你几个早晨，我以为我再也见不到你了。",
+        "我的家人知道你的名字，因为我回到了他们身边。",
+        "当你几乎永远失去这个村庄时，它听起来就不一样了。",
+        "我无法偿还你所恢复的一切，但我会记住它。",
+        "在我表现得像一个人之前，你就把我当作一个人来对待。"
+      ],
+      "dispositions": [
+        "friendly",
+        "respectful"
+      ],
+      "weight": 60
+    },
+    {
+      "id": "cured_recognition_generic_confused_1",
+      "request": "cured_recognition",
+      "lines": [
+        "我想我认识你。内存的边缘有齿痕。",
+        "你的声音听起来很熟悉，但治愈之前的一切都是雾气和饥饿。",
+        "我认识你的脸，但当它到达你身边时，记忆仍然跛行。",
+        "我的记忆里有你的碎片，但它们还没有整齐地排列在一起。",
+        "我相信你帮助了我。我仍在努力记住这一点，但不发抖。",
+        "治愈方法让我恢复了健康，但不是一下子就恢复了。",
+        "我一眼就认出了你。这比听起来更舒服。",
+        "在到达你的仁慈之前，我的思绪仍然在黑暗的地方盘旋。",
+        "我想我是 <gold><pulse>感恩的</pulse></gold>。我只希望我的记忆能够清楚地表达出来。",
+        "你给人一种熟悉的感觉，这仍然让我小心翼翼。",
+        "我记得有一只手把药放在我嘴边。我无法判断它是否是你的。",
+        "有时我确切地知道你是谁。然后，在名字到来之前，这种感觉就消失了。",
+        "有些面孔先于名字出现在我的记忆中。",
+        "我知道我很安全，但我醒来时仍然期待着生病。",
+        "部分时间感觉是从别人的生活中借来的。",
+        "你的声音很熟悉。我仍在寻找它所属的地方。",
+        "我记得我害怕那些试图提供帮助的人。",
+        "这个村庄看起来很不错，尽管我有时会觉得自己身处其中。",
+        "如果我问同一个问题两次，请耐心等待。",
+        "康复给了我答案和一系列新的问题。"
+      ],
+      "dispositions": [
+        "neutral",
+        "cautious"
+      ],
+      "weight": 60
+    },
+    {
+      "id": "cured_recognition_generic_uneasy_1",
+      "request": "cured_recognition",
+      "lines": [
+        "我记得你。这并不会让记忆变得容易。",
+        "我知道你帮忙了。我也知道回忆仍然很痛。",
+        "感激之情是真实的。围绕它的恐惧也是如此。",
+        "你是我回归的一部分，但回归之路并不平坦。",
+        "我很感激，也很不安。两者都是真的。",
+        "不要仅仅因为治疗有效就要求我清除记忆。",
+        "我知道我欠你一些东西。我也知道，当我想起这件事时，我的手仍然在颤抖。",
+        "得救并不能抹去之前发生的一切。",
+        "你的脸与一个艰难的早晨联系在一起。我仍在学习如何处理它。",
+        "我可以感激不已，无需准备好靠近。",
+        "感谢您留下来。请理解我现在需要空间。",
+        "我记得足够多，知道为什么靠近你很困难。",
+        "治愈方法结束了疾病，但并没有消除它留下的所有恐惧。",
+        "我很庆幸自己还活着，但对这件事的发生感到不安。",
+        "当我整理记忆时，请不要站得太近。",
+        "你的脸既属于我的救援，也属于我的一个可怕的夜晚。",
+        "我想相信人们对你的评价。我的身体同意的速度较慢。",
+        "有些早晨我感觉就像我自己一样。其他人则从恐慌开始。",
+        "在寻求温暖之前先与我进行普通对话。",
+        "我正在康复，但我无法让这个过程让你感到舒服。"
+      ],
+      "dispositions": [
+        "rude",
+        "hostile",
+        "fearful"
+      ],
+      "weight": 30
+    },
+    {
+      "id": "village_cure_acknowledgement_respectful_1",
+      "request": "greeting",
+      "lines": [
+        "我们收到了有关 <aqua>{cured_villager}</aqua> 的消息。你把我们的一个带回来了。",
+        "人们说 <aqua>{cured_villager}</aqua> 回家是因为你留下了。",
+        "<aqua>{cured_villager_possessive}</aqua>治愈改变了人们说你名字的方式。",
+        "很高兴看到 <aqua>{cured_villager}</aqua> 再次走上这些道路。",
+        "你给了<aqua>{cured_villager}</aqua>一条回来的路，村庄会记住这一点。",
+        "并不是每个人都会留下足够长的时间来帮助 <aqua>{cured_villager}</aqua>。",
+        "<aqua>{cured_villager}</aqua> 回归后，村庄感觉更加完整了。",
+        "你所做的不仅仅是治愈疾病。你把某人归还给了他们的人民。",
+        "<aqua>{cured_villager}</aqua> 又回家了。这在这里很重要。",
+        "最近，当人们对你说好话时，<aqua>{cured_villager}</aqua> 通常就是原因。",
+        "您将 <aqua>{cured_villager}</aqua> 带回了一个几乎失去希望的家庭。",
+        "我看到他们再次穿过广场，因为你不肯放弃。",
+        "村庄会记住谁采集了药物。",
+        "帮助 <aqua>{cured_villager}</aqua> 需要勇气和细心的双手。",
+        "他们的工作站不再空着。",
+        "当很多人都在逃跑的时候，你却挺过了危险的部分。",
+        "一户人家因你而重拾熟悉的声音。",
+        "我们准备哀悼并接待了一位邻居。",
+        "这种疗法比任何演讲都赢得了更多的尊重。",
+        "谢谢你看到了一个生病的村民，而其他人只看到了一个怪物。"
+      ],
+      "dispositions": [
+        "friendly",
+        "respectful"
+      ],
+      "player_event_tags": [
+        "player_cured_villager"
+      ],
+      "show_for_babies": false,
+      "weight": 34
+    },
+    {
+      "id": "village_cure_acknowledgement_respectful_2",
+      "request": "question",
+      "lines": [
+        "<aqua>{cured_villager_possessive}</aqua>治愈在这里很重要。人们记得谁留下来帮忙。",
+        "有消息说你一直待在 <aqua>{cured_villager}</aqua> 身边直到治愈。",
+        "<aqua>{cured_villager_possessive}</aqua> 恢复后，人们会以新的尊重说出您的名字。",
+        "你帮助 <aqua>{cured_villager}</aqua> 回到村庄，这可不是一件小事。",
+        "再次在我们中间看到 <aqua>{cured_villager}</aqua> 让人松了口气。",
+        "这种治愈方法不仅恢复了健康，还恢复了 <aqua>{cured_villager}</aqua> 的健康。它给了他们家。",
+        "人们注意到了您对 <aqua>{cured_villager}</aqua> 的耐心。",
+        "这样的治疗方法在不止一个家庭中得到回响。",
+        "<aqua>{cured_villager}</aqua> 现在走得更轻松，部分原因是因为您。",
+        "是的，村庄会计算伤害，但它也会计算治疗量。",
+        "<aqua>{cured_villager_possessive}</aqua>的恢复让全村人都有理由为你说好话。",
+        "他们的家人在每次共进晚餐时都会记住你的名字。",
+        "你治疗了可怕的疾病，但没有残忍地对待他们。",
+        "我们看着你的工作一天一天地恢复力量。",
+        "当他们第一次再次敲响工作钟时，人们停下来聆听。",
+        "当你拯救他们时，你就恢复了不止一个人的生命。",
+        "这里没有人会轻视这种救援。",
+        "他们的家再次变得忙碌起来，而你的帮助让这一切成为可能。",
+        "您为他们所做的一切将比我们所能提供的任何奖励更持久。",
+        "你给我们讲述了一个关于回归而不是失去的故事。"
+      ],
+      "dispositions": [
+        "friendly",
+        "respectful"
+      ],
+      "player_event_tags": [
+        "player_cured_villager"
+      ],
+      "show_for_babies": false,
+      "weight": 34
+    },
+    {
+      "id": "village_cure_acknowledgement_neutral_1",
+      "request": "greeting",
+      "lines": [
+        "我听说你治好了<aqua>{cured_villager}</aqua>。这可不是一件小事。",
+        "<aqua>{cured_villager_possessive}</aqua> 治疗改变了人们谈论你的方式。",
+        "<aqua>{cured_villager}</aqua> 所发生的事情改善了村庄对你的看法。",
+        "<aqua>{cured_villager}</aqua> 又回到了我们身边。人们已经注意到了。",
+        "不管怎么说，帮助 <aqua>{cured_villager}</aqua> 很重要。",
+        "对于一个村庄来说，这样的治疗方法很难被忽视。",
+        "据我所知，<aqua>{cured_villager}</aqua> 做得对。",
+        "再次见到<aqua>{cured_villager}</aqua>好，缓解了不止一处担忧。",
+        "村庄也有空间记住善行。",
+        "您将 <aqua>{cured_villager}</aqua> 从困境中带了回来。这很重要。",
+        "我听说你治好了<aqua>{cured_villager}</aqua>。结果对你来说很好。",
+        "他们回到邻居身边，这是最重要的。",
+        "并不是每个人都会冒险接近并进行治疗。",
+        "他们的家人一直在帮助他们恢复正常生活。",
+        "村里人注意到了你在把他们带回家的过程中所做出的贡献。",
+        "我不太了解你，但我知道你为他们做了什么。",
+        "他们仍然需要时间，尽管最糟糕的时刻已经过去。",
+        "少一张空床对我们所有人来说都是个好消息。",
+        "你做出了一个艰难的选择，并坚持到底。",
+        "人们会根据邻居是否再次走上这些路来对你做出部分评价。"
+      ],
+      "dispositions": [
+        "neutral"
+      ],
+      "player_event_tags": [
+        "player_cured_villager"
+      ],
+      "show_for_babies": false,
+      "weight": 32
+    },
+    {
+      "id": "village_cure_acknowledgement_neutral_2",
+      "request": "question",
+      "lines": [
+        "<aqua>{cured_villager}</aqua>因为你而再次走上这条路。村里注意到了。",
+        "<aqua>{cured_villager}</aqua> 是家，每个人都知道您帮助实现了这一目标。",
+        "你在 <aqua>{cured_villager_possessive}</aqua> 治疗中的贡献已经成为你在这里声望的一部分。",
+        "<aqua>{cured_villager}</aqua> 回归后，担忧的表情减少了。",
+        "你用这种疗法帮助不止一个人恢复了平静。",
+        "我不知道每一个细节，但我知道 <aqua>{cured_villager}</aqua> 返回。",
+        "一个村庄会记住那个带人回家的人。",
+        "<aqua>{cured_villager}</aqua> 还有第二次机会。你帮助实现了这一目标。",
+        "人们小心翼翼地谈论这种疗法。这很重要。",
+        "你让村庄少了一个空旷的地方可供观赏。",
+        "<aqua>{cured_villager}</aqua>自治愈以来已恢复工作。",
+        "有人告诉我你提供了所需的东西并留在附近。",
+        "他们的恢复虽然缓慢，但却是真实的。",
+        "那一家人又变得忙碌起来，不再沉默了。",
+        "你给了治疗师一个活生生的病人来照顾。",
+        "村庄已将您的行为添加到其对您的了解中。",
+        "看到他们又和朋友一起吃饭，心里的烦恼也减轻了很多。",
+        "像这样的治疗方法非常罕见，值得关注。",
+        "他们可能会以不同的方式讲述故事，但您的帮助仍然是其中的一部分。",
+        "不管人们怎么想，他们知道你救了我们中的一个人。"
+      ],
+      "dispositions": [
+        "neutral"
+      ],
+      "player_event_tags": [
+        "player_cured_villager"
+      ],
+      "show_for_babies": false,
+      "weight": 32
+    },
+    {
+      "id": "village_cure_acknowledgement_wary_1",
+      "request": "greeting",
+      "lines": [
+        "我听说了你为 <aqua>{cured_villager}</aqua> 所做的事情。我仍然很警惕，但我不会假装这毫无意义。",
+        "你住了<aqua>{cured_villager}</aqua>，离开的话会更容易。我注意到了。",
+        "<aqua>{cured_villager_possessive}</aqua>治愈给了我一个充分的理由重新考虑你。",
+        "我对你有所怀疑，但帮助 <aqua>{cured_villager}</aqua> 是有价值的。",
+        "<aqua>{cured_villager}</aqua>回来了，就连我也可以尊重伸出的援助之手。",
+        "不要指望所有的门都会立即打开，但这种治愈方法已经被注意到。",
+        "你为<aqua>{cured_villager}</aqua>做了一件好事。我只能说这么多。",
+        "我是谨慎的，不是盲目的。带回 <aqua>{cured_villager}</aqua> 很重要。",
+        "村里仍在测量你，但治疗方法对你有利。",
+        "我不会称你为值得信赖的人，但我会称你的行为是值得的。",
+        "我知道你保存了 <aqua>{cured_villager}</aqua>。我仍在决定这能告诉我关于你的什么信息。",
+        "您的帮助很重要，即使它不能解决所有问题。",
+        "治愈后他们信任你。我需要更多时间。",
+        "我不会否认你为他们的家庭所做的好事。",
+        "一项勇敢的行为可以开始修复声望，而不是结束它。",
+        "再次送他们回家让您更容易听到您的声音。",
+        "我为了他们而感谢你。不要误以为这是完全信任。",
+        "当他们脆弱时，你以仁慈对待他们。我注意到了。",
+        "村子更安全了，因为他们被治愈了，而不是被杀了。",
+        "继续做这样的选择，也许我的谨慎就会减轻。"
+      ],
+      "dispositions": [
+        "cautious",
+        "rude"
+      ],
+      "player_event_tags": [
+        "player_cured_villager"
+      ],
+      "show_for_babies": false,
+      "weight": 34
+    }
+  ],
+  "metadata": {
+    "tags": [
+      "content.dialogue",
+      "dialogue.ambient",
+      "scope.global",
+      "section.lines"
+    ],
+    "topic": "global.cure_recognition"
+  }
+}

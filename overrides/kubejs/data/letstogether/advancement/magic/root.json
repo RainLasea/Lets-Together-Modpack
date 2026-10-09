@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "id": "irons_spellbooks:gold_spell_book"
+    },
+    "title": {
+      "translate": "advancements.letstogether.magic.root.title",
+      "fallback": "Spellcraft"
+    },
+    "description": {
+      "translate": "advancements.letstogether.magic.root.description",
+      "fallback": "Spells and magical equipment."
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false,
+    "background": "minecraft:textures/block/bookshelf.png"
+  },
+  "criteria": {
+    "welcome": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "requirements": [
+    [
+      "welcome"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "ride_lantern_thunder": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "ride_lantern_thunder"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

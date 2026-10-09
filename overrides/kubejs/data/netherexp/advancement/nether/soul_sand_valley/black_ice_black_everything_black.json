@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "shot_arrow": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "shot_arrow"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

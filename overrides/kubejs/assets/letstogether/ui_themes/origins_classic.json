@@ -1,0 +1,20 @@
+{
+  "panel_background": "letstogether:textures/gui/themes/origins_classic/panel.png",
+  "overlay_color": "0xC0101010",
+  "name_color": "0xFFFFFFFF",
+  "description_color": "0xFFCCCCCC",
+  "power_name_color": "0xFFFFFFFF",
+  "power_description_color": "0xFFCCCCCC",
+  "header_color": "0xFFFFFFFF",
+  "border_color": "0xFFC6C6C6",
+  "muted_color": "0xFFCCCCCC",
+  "accent_color": "0xFFDBA213",
+  "font": "minecraft:default",
+  "inset_left": 8,
+  "inset_top": 76,
+  "inset_right": 8,
+  "inset_bottom": 8,
+  "texture_width": 176,
+  "texture_height": 182,
+  "flat": false
+}

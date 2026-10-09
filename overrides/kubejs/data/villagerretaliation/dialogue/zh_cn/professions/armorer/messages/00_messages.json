@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "tags": [
+      "content.dialogue",
+      "dialogue.ambient",
+      "scope.profession.armorer",
+      "section.messages"
+    ],
+    "topic": "professions.armorer.messages"
+  },
+  "messages": [
+    {
+      "id": "armorer_gift_given_variants",
+      "key": "gift_given",
+      "lines": [
+        "在这里，{gift_item}。保存完好的盔甲并不是保护朋友的唯一方法。",
+        "以{gift_item}为例。我宁愿看到你做好准备，而不是事后修补。",
+        "以{gift_item}为例。虽然不多，但都是用心给予的。",
+        "{gift_item} 似乎对你有用。",
+        "带上 {gift_item} 表达我的谢意。",
+        "我为你预留了{gift_item}。",
+        "保持 {gift_item} 靠近。",
+        "此 {gift_item} 不是交易。",
+        "{gift_item} 无需讨价还价。",
+        "好好利用{gift_item}。",
+        "您赢得了这个 {gift_item}。",
+        "我检查了 {gift_item} 两次。",
+        "这个 {gift_item} 已经说得够多了。",
+        "我为某人 信任 保存了 {gift_item}。",
+        "你可以拥有{gift_item}。",
+        "善待{gift_item}。",
+        "我毫不客气地带来了{gift_item}。",
+        "没有隐藏价格。",
+        "这属于你的手中。",
+        "一份有用的礼物胜过一次演讲。"
+      ],
+      "weight": 48
+    },
+    {
+      "id": "armorer_gift_advice_followup_liked_variants",
+      "key": "gift_advice_followup.liked",
+      "lines": [
+        "好的。 {gift_item} 就像 {tested_villager} 的正确邮件一样保存。建议应该会产生影响并保持有用。",
+        "我认为 {gift_item} 很适合。很高兴 {tested_villager} 的手势表现得很好。",
+        "好的。 {gift_item} 适合 {tested_villager}。我喜欢有效的建议。",
+        "{tested_villager} 喜欢 {gift_item}。",
+        "那份礼物很顺利。",
+        "我看到{tested_villager}在微笑。",
+        "{gift_item} 是一个很好的搭配。",
+        "你是经过深思熟虑的选择的。",
+        "合身是正确的。",
+        "我会再次建议。",
+        "{tested_villager} 保持密切。",
+        "护理被注意到了。",
+        "那是值得付出的。",
+        "你的直觉是正确的。",
+        "这份礼物给人一种私人的感觉。",
+        "{tested_villager} 发现它很有用。",
+        "你听得很好。",
+        "没有什么是被迫的。",
+        "反应已经足够了。",
+        "下次相信这个选择。"
+      ],
+      "weight": 44
+    },
+    {
+      "id": "armorer_gift_advice_followup_disliked_variants",
+      "key": "gift_advice_followup.disliked",
+      "lines": [
+        "然后我判断合身性很差。对于 {gift_subject}，请尝试使用 {alternative_gift}。",
+        "{gift_item} 不适合 {gift_subject}。我应该看到我的建议中的差距。",
+        "将 {gift_item} 放在一边。 {alternative_gift}是下次更安全的选择。",
+        "这个反应已经告诉我们足够的信息了。在重试之前，请给 {gift_subject} 空间。",
+        "我将个人选择视为标准配件。那是我的错误。",
+        "不要按 {gift_subject} 接受未达标的内容。",
+        "请在询问是否欢迎其他礼物后才尝试{alternative_gift}。",
+        "当有人坚持认为错误的礼物合适时，情况可能会更糟。",
+        "我误读了{gift_subject}。你遵循了本来应该更好的建议。",
+        "将 {gift_item} 排除在下次尝试之外。",
+        "一个糟糕的推荐可以在不制作第二个场景的情况下得到纠正。",
+        "在提供任何其他内容之前先观察 {gift_subject} 的反应。",
+        "手势很重要，但 {gift_item} 的形状不适合它。",
+        "我宁愿修改建议，也不愿责怪接受礼物的人。",
+        "给它一些时间，然后考虑{alternative_gift}。",
+        "你按照我的建议做了。糟糕的结果部分是我的锻造造成的。",
+        "不再猜测 {gift_subject}。再次选择前先询问。",
+        "{alternative_gift} 可能更适合，但耐心应该是第一位的。",
+        "我们学到了一些有用的东西，而无需重复错误。",
+        "下次我会在推荐礼物之前多听听。"
+      ],
+      "weight": 44
+    },
+    {
+      "key": "gift_advice_followup.disliked",
+      "lines": [
+        "你信任我的建议，但它像破裂的盘子一样失败了。仅当他们想再次尝试时才尝试 {alternative_gift}。",
+        "将 {gift_item} 放在一边。我应该检查这个想法是否合适两次。",
+        "这个糟糕的猜测属于我们俩，但大部分属于我。",
+        "不要仅仅因为我推荐了{gift_item}就捍卫它。",
+        "他们的反应很明确。在携带 {alternative_gift} 之前给他们空间。",
+        "我而不是接受礼物的人给礼物提出了建议。",
+        "我们可以纠正选择，而无需要求他们软化答案。",
+        "下一步的行动就交给他们吧。礼物不应该给人带来压力。",
+        "{alternative_gift} 是一种更好的可能性，而不是一种义务。",
+        "我错过了我自己的推荐中的弱点。",
+        "你诚实地执行了计划。我需要拥有那个不好的配件。",
+        "在第一次失望得到解决之前，不会有第二次礼物。",
+        "把 {gift_item} 收起来，听听他们真正想要什么。",
+        "有用的教训不需要立即再次尝试。",
+        "在修理之前我会检查损坏的头盔。我们应该在这里表​​现出同样的关心。",
+        "如果他们再邀请一份礼物，{alternative_gift} 可能会更好。",
+        "他们的厌恶并不是一个需要克服的挑战。",
+        "我在应该谨慎的地方给了你确定性。",
+        "在我们寻求解决方案之前，先让错误冷静下来。",
+        "下次在送你进去之前我会问更多问题。"
+      ],
+      "dispositions": [
+        "cautious",
+        "rude",
+        "hostile",
+        "fearful"
+      ],
+      "weight": 20,
+      "id": "professions.armorer.messages.00_messages.messages.gift_advice_followup.disliked.003"
+    },
+    {
+      "key": "gift_advice_followup.disliked",
+      "lines": [
+        "{gift_item} 在第一次测试中就屈服了。如果欢迎其他礼物，{alternative_gift} 应该会更好。",
+        "这个选择失败了。我们把它放在一边，不与结果争论。",
+        "我会报废一个不适合这个的盘子。按照建议做同样的事情。",
+        "{alternative_gift} 是下一个选择，而不是强行塞到他们手中的东西。",
+        "反应解决了。 {gift_item} 不在列表中。",
+        "不合适，不推荐，干净更正。",
+        "在他们表示想要一个之前，不要重复这个手势。",
+        "我没有理由两次向您发送 {gift_item}。",
+        "让失败的选择留在原处。",
+        "直白的回答仍然是答案。尊重它。",
+        "如果有下次，带上{alternative_gift}，降低期望值。",
+        "问题在于选择，而不是不喜欢它的人。",
+        "我可以修改我的建议，而不需要让它们经受另一次考验。",
+        "将此错误与下一次对话保持距离。",
+        "无需打磨，{gift_item} 就成为送给他们的合适礼物。",
+        "我们了解了极限。今天就够了。",
+        "先询问，然后决定 {alternative_gift} 是否属于该计划。",
+        "我宁愿失去猜测，也不愿损害其背后的信任。",
+        "现在正确的反应是克制。",
+        "下次建议先适合人，再适合比喻。"
+      ],
+      "dispositions": [
+        "rude",
+        "hostile"
+      ],
+      "weight": 20,
+      "id": "professions.armorer.messages.00_messages.messages.gift_advice_followup.disliked.004"
+    }
+  ]
+}

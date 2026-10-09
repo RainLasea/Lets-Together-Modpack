@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "expose_frame_with_rgb_filter": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "expose_frame_with_rgb_filter"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

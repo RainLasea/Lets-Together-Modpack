@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "in_fortress": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "in_fortress"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

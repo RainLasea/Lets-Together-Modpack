@@ -1,0 +1,506 @@
+#难度系数基准 - 控制整体难度倍数
+#Difficulty base multiplier - controls overall difficulty scaling
+# Default: 0.5
+# Range: 0.1 ~ 20.0
+difficultyBaseMultiplier = 0.4
+
+[trueDamage]
+	#是否启用真实伤害转化 - 针对高护甲玩家的铁乌龟终结者机制
+	#Enable true damage conversion - anti-turtle mechanism for high armor players
+	enableTrueDamage = true
+	#低护甲阈值
+	# Default: 20
+	# Range: 0 ~ 100
+	lowArmorThreshold = 20
+	#低护甲时的真实伤害比例 (%)
+	# Default: 5.0
+	# Range: 0.0 ~ 100.0
+	lowArmorTrueDamagePercent = 5.0
+	#中护甲阈值
+	# Default: 50
+	# Range: 0 ~ 200
+	mediumArmorThreshold = 50
+	#中护甲时的真实伤害比例 (%)
+	# Default: 15.0
+	# Range: 0.0 ~ 100.0
+	mediumArmorTrueDamagePercent = 15.0
+	#高护甲阈值
+	# Default: 100
+	# Range: 0 ~ 500
+	highArmorThreshold = 100
+	#高护甲时的真实伤害比例 (%)
+	# Default: 25.0
+	# Range: 0.0 ~ 100.0
+	highArmorTrueDamagePercent = 25.0
+	#铁乌龟状态时的真实伤害比例 (%)
+	# Default: 35.0
+	# Range: 0.0 ~ 100.0
+	turtleTrueDamagePercent = 35.0
+
+[boss]
+	#是否启用 Boss 伤害上限 - 防止玩家秒杀 Boss
+	#Enable boss damage cap - prevents players from one-shotting bosses
+	enableBossDamageCap = true
+	#Boss 单次受到的伤害上限
+	#Boss damage cap per hit
+	# Default: 100.0
+	# Range: 1.0 ~ 10000.0
+	bossDamageCap = 100.0
+	#Boss 生命值额外倍率
+	# Default: 5.0
+	# Range: 1.0 ~ 20.0
+	bossHealthMultiplier = 4.5
+	#Boss 伤害额外倍率
+	# Default: 3.0
+	# Range: 1.0 ~ 20.0
+	bossDamageMultiplier = 2.7
+	#不受Boss限伤影响的实体ID列表（逗号分隔），例如：minecraft:zombie,minecraft:skeleton
+	#Entity IDs excluded from boss damage cap (comma-separated), e.g.: minecraft:zombie,minecraft:skeleton
+	bossDamageCapExclusions = ""
+	#Boss识别关键词列表（逗号分隔），用于通过实体名称识别模组Boss
+	#Boss identification keywords (comma-separated) for identifying mod bosses by name
+	bossIdentificationKeywords = "boss,dragon,wither,warden"
+	#Boss血量识别阈值，实体最大生命值超过此值将被识别为Boss（即使不含Boss关键词）
+	#Boss health threshold - entities with max health above this value are identified as bosses
+	# Default: 200.0
+	# Range: 0.0 ~ 10000.0
+	bossHealthThreshold = 200.0
+
+[adaptiveFloat]
+	#浮动范围最小值 (0.8 = 80%)
+	# Default: 0.8
+	# Range: 0.1 ~ 1.0
+	floatMin = 0.8
+	#浮动范围最大值 (1.2 = 120%)
+	# Default: 1.2
+	# Range: 1.0 ~ 5.0
+	floatMax = 1.2
+	#连续击杀时浮动倍数增加量 (0.1 = +10%)
+	# Default: 0.1
+	# Range: 0.0 ~ 1.0
+	killStreakMultiplierIncrease = 0.1
+	#频繁死亡时浮动倍数减少量 (0.15 = -15%)
+	# Default: 0.15
+	# Range: 0.0 ~ 1.0
+	deathStreakMultiplierDecrease = 0.15
+	#长时间未战斗后重置浮动倍数的时间（分钟）
+	# Default: 10
+	# Range: 1 ~ 60
+	floatResetTimeMinutes = 10
+	#是否启用基于时间的空闲衰减
+	enableIdleDecay = true
+	#空闲衰减速率 - 每分钟自动降低的倍率 (0.02 = 每分钟降低2%)
+	# Default: 0.02
+	# Range: 0.0 ~ 0.5
+	idleDecayRate = 0.02
+	#空闲衰减检查间隔（秒）
+	# Default: 5
+	# Range: 1 ~ 60
+	idleDecayCheckInterval = 5
+	#是否启用基于战斗效率的难度调整
+	enableEfficiencyAdjustment = true
+	#战斗效率阈值 - 低于此值时触发难度下调 (0.3 = 30%命中率)
+	# Default: 0.3
+	# Range: 0.0 ~ 1.0
+	combatEfficiencyThreshold = 0.3
+	#基于效率的难度下调量
+	# Default: 0.05
+	# Range: 0.0 ~ 0.5
+	efficiencyBasedDecrease = 0.05
+
+[newbieProtection]
+	#是否启用新手保护机制
+	#Enable newbie protection mechanism
+	enableNewbieProtection = true
+	#触发新手保护的玩家综合强度阈值
+	# Default: 50.0
+	# Range: 0.0 ~ 1000.0
+	newbieStrengthThreshold = 50.0
+	#新手保护默认持续时间（分钟）
+	# Default: 30
+	# Range: 0 ~ 120
+	newbieProtectionDuration = 30
+	#新手保护时怪物属性减免比例 (0.3 = -30%)
+	# Default: 0.3
+	# Range: 0.0 ~ 1.0
+	newbieProtectionReduction = 0.3
+	#首次死亡增加的保护时间（分钟）
+	# Default: 10
+	# Range: 0 ~ 60
+	deathProtectionBonus = 10
+	#连续死亡次数触发强制保护的阈值
+	# Default: 3
+	# Range: 1 ~ 10
+	deathStreakThreshold = 3
+
+[enemyBonusCaps]
+	#是否启用敌人加成上限 - 防止敌人属性无限增长
+	#Enable enemy bonus cap - prevents enemy stats from growing indefinitely
+	enableEnemyBonusCap = true
+	#血量加成上限倍率 (5.0 = 500%)
+	# Default: 5.0
+	# Range: 1.0 ~ 100.0
+	maxHealthMultiplier = 5.0
+	#伤害加成上限倍率 (5.0 = 500%)
+	# Default: 5.0
+	# Range: 1.0 ~ 100.0
+	maxDamageMultiplier = 5.0
+	#护甲加成上限倍率 (3.0 = 300%)
+	# Default: 3.0
+	# Range: 1.0 ~ 100.0
+	maxArmorMultiplier = 3.0
+	#法术强度加成上限倍率 (4.0 = 400%)
+	# Default: 4.0
+	# Range: 1.0 ~ 100.0
+	maxSpellPowerMultiplier = 4.0
+	#法术抗性加成上限倍率 (3.0 = 300%)
+	# Default: 3.0
+	# Range: 1.0 ~ 100.0
+	maxSpellResistMultiplier = 3.0
+	#受击抗性加成上限倍率 (2.0 = 200%)
+	# Default: 2.0
+	# Range: 1.0 ~ 100.0
+	maxHitResistMultiplier = 2.0
+	#击倒抗性加成上限倍率 (2.0 = 200%)
+	# Default: 2.0
+	# Range: 1.0 ~ 100.0
+	maxKnockdownResistMultiplier = 2.0
+	#耐力值加成上限倍率 (3.0 = 300%)
+	# Default: 3.0
+	# Range: 1.0 ~ 100.0
+	maxStaminaMultiplier = 3.0
+
+[playerStrengthWeights]
+	#防御能力（护甲值、血量上限）评估权重
+	# Default: 1.0
+	# Range: 0.0 ~ 5.0
+	defenseWeight = 1.0
+	#输出能力（伤害数值）评估权重
+	# Default: 1.0
+	# Range: 0.0 ~ 5.0
+	damageWeight = 1.0
+	#神话词条（品质与等级）评估权重
+	# Default: 0.7
+	# Range: 0.0 ~ 5.0
+	apotheosisWeight = 0.7
+	#铁魔法（法力值、法术强度）评估权重
+	# Default: 0.7
+	# Range: 0.0 ~ 5.0
+	ironsSpellsWeight = 0.7
+	#史诗战斗（耐力值）评估权重
+	# Default: 0.7
+	# Range: 0.0 ~ 5.0
+	epicFightWeight = 0.7
+
+[multiplayer]
+	#区域同步范围（区块）- 同一区域内取在线玩家平均难度
+	# Default: 8
+	# Range: 1 ~ 32
+	areaSyncRange = 8
+
+[randomDistribution]
+	#是否启用属性随机分布 - 让每次生成的怪物属性有随机波动
+	#Enable random distribution of attributes - adds variation to each spawned mob
+	enableRandomDistribution = true
+	#随机分布最小因子 (0.7 = 基础值的70%)
+	# Default: 0.7
+	# Range: 0.1 ~ 1.0
+	randomMinFactor = 0.7
+	#随机分布最大因子 (1.3 = 基础值的130%)
+	# Default: 1.3
+	# Range: 1.0 ~ 2.0
+	randomMaxFactor = 1.3
+	#是否固定移动速度加成为0 - 防止怪物跑得太快
+	#Fix movement speed bonus to zero - prevents mobs from running too fast
+	fixSpeedBonusToZero = true
+
+[difficultySmoothing]
+	#是否启用难度缓动 - 让怪物强度平滑变化，不会瞬间对齐玩家强度
+	#Enable difficulty smoothing - let monster strength change smoothly instead of instantly matching player strength
+	enableDifficultySmoothing = true
+	#难度缓动因子 (0.01-0.5)，越大对齐越快。推荐0.05：约8秒对齐；0.1：约4秒对齐
+	#Difficulty smoothing factor (0.01-0.5), higher = faster alignment.0.05 ~8s, 0.1 ~4s
+	# Default: 0.05
+	# Range: 0.01 ~ 0.5
+	difficultySmoothingFactor = 0.05
+	#难度缓动更新间隔（tick数，20tick=1秒）。默认5tick（0.25秒更新一次）
+	#Smoothing update interval in ticks (20 ticks = 1s).Default 5 ticks
+	# Default: 5
+	# Range: 1 ~ 40
+	difficultySmoothingTickInterval = 5
+
+[enchantmentScaling]
+	#是否启用怪物装备/附魔强化 - 难度越高，怪物装备越好、附魔等级越高
+	#Enable mob equipment/enchantment scaling - higher difficulty = better gear and enchants
+	enableEnchantmentScaling = true
+	#附魔概率基础值 (0.2 = 20%)
+	# Default: 0.2
+	# Range: 0.0 ~ 1.0
+	enchantmentChanceBase = 0.2
+	#每单位难度倍率增加的附魔概率 (0.05 = 每1倍率+5%)
+	# Default: 0.05
+	# Range: 0.0 ~ 0.5
+	enchantmentChancePerDifficulty = 0.05
+	#每单位难度倍率增加的附魔等级 (1.0 = 每1倍率+1级)
+	# Default: 1.0
+	# Range: 0.0 ~ 5.0
+	enchantmentLevelPerDifficulty = 1.0
+	#最高附魔等级上限
+	# Default: 5
+	# Range: 1 ~ 10
+	enchantmentMaxLevel = 5
+
+[equipmentScaling]
+	#装备生成基础概率 (0.15 = 15%) - 怪物空手时自动生成装备的基础概率
+	#Equipment base spawn chance (0.15 = 15%)
+	# Default: 0.15
+	# Range: 0.0 ~ 1.0
+	equipmentBaseChance = 0.15
+	#每单位难度倍率增加的装备生成概率 (0.10 = 每1倍率+10%)
+	#Equipment chance increase per difficulty multiplier (0.10 = +10% per unit)
+	# Default: 0.1
+	# Range: 0.0 ~ 1.0
+	equipmentChancePerDifficulty = 0.1
+	#装备品质跳级概率 (0.15 = 15%) - 概率获得高一档品质的装备
+	#Tier upgrade chance (0.15 = 15%) - chance to get one tier higher equipment
+	# Default: 0.15
+	# Range: 0.0 ~ 1.0
+	equipmentTierUpgradeChance = 0.15
+	#模组装备替换概率 (0.30 = 30%) - 用其他模组的装备替换原版装备的概率
+	#Mod equipment replacement chance (0.30 = 30%) - chance to replace vanilla gear with modded gear
+	# Default: 0.3
+	# Range: 0.0 ~ 1.0
+	equipmentModCompatChance = 0.3
+	#禁用装备掉落 (false = 启用掉落) - 设置为true时，怪物会正常穿戴装备，但死亡时不会掉落装备
+	#Disable equipment drop (false = enable drop) - When true, mobs wear equipment normally but won't drop them on death
+	disableEquipmentDrop = false
+	#禁用的装备部位（逗号分隔） - 支持 mainhand, offhand, head, chest, legs, feet；别名 hand=双手, armor=全部护甲
+	#Disabled equipment slots (comma-separated). Supports mainhand, offhand, head, chest, legs, feet; aliases: hand=both hands, armor=all armor slots
+	disabledEquipmentSlots = ""
+	#武器/装备黑名单（逗号分隔） - 在黑名单中的物品不会被怪物生成，支持 * 通配符，例如：minecraft:diamond_sword,modid:weapon_*
+	#Equipment/weapon blacklist (comma-separated). Items here will never be equipped by mobs. Supports * wildcard, e.g.: minecraft:diamond_sword,modid:weapon_*
+	equipmentBlacklist = ""
+
+[weaponDamageCap]
+	#武器伤害基础上限 (默认12.0 = 6颗心) - 最低难度时的武器伤害上限
+	#Base weapon damage cap (default 12.0 = 6 hearts) - at minimum difficulty
+	# Default: 12.0
+	# Range: 1.0 ~ 100.0
+	weaponDamageBaseCap = 12.0
+	#每单位难度倍率增加的伤害上限 (默认3.0 = 每个倍率+3点伤害)
+	#Damage cap increase per difficulty unit (default 3.0 = +3 damage per unit)
+	# Default: 3.0
+	# Range: 0.0 ~ 50.0
+	weaponDamageCapPerDifficulty = 3.0
+	#武器伤害绝对上限 (默认40.0 = 20颗心) - 无论难度多高都不超过此值
+	#Absolute weapon damage cap (default 40.0 = 20 hearts) - hard upper limit
+	# Default: 40.0
+	# Range: 1.0 ~ 500.0
+	weaponDamageMaxCap = 40.0
+
+[epicFightScaling]
+	#重量最小加值 (15.0) - 怪物重量至少比原值增加多少，防止史诗战斗模式被击飞
+	#Minimum weight bonus (15.0) - minimum weight added to prevent knockback in Epic Fight mode
+	# Default: 15.0
+	# Range: 0.0 ~ 100.0
+	weightMinBonus = 15.0
+	#每单位难度倍率增加的重量 (20.0) - 控制怪物抵抗击退的能力
+	#Weight per difficulty multiplier (20.0) - controls knockback resistance
+	# Default: 20.0
+	# Range: 0.0 ~ 200.0
+	weightPerMultiplier = 20.0
+
+[worldStage]
+	#是否启用世界阶段系统 - 击杀Boss后永久提升世界难度
+	#Enable world stage system - permanently increase difficulty after boss kills
+	enableWorldStage = true
+	#每个世界阶段的难度倍率增量 (0.5 = 每个阶段+50%怪物强度)
+	#Multiplier increment per world stage (0.5 = +50% enemy strength per stage)
+	# Default: 0.5
+	# Range: 0.0 ~ 5.0
+	worldStageMultiplierPerStage = 0.45
+	#最大世界阶段数 - 防止无限增长
+	#Maximum world stage - prevents infinite growth
+	# Default: 10
+	# Range: 1 ~ 100
+	worldStageMaxStage = 10
+
+[modCompatibility]
+	#是否启用 L2Hostility (莱特兰恶意) 兼容模式
+	#启用后跳过血量与速度缩放，防止 ADD_MULTIPLIED_TOTAL 导致血量爆炸
+	#Enable L2Hostility compat mode - skips health/speed scaling to prevent HP explosion
+	modCompatL2HostilityEnabled = true
+	#是否启用史诗战斗 (Epic Fight) 兼容模式
+	#启用后使用专用权重计算，防止怪物被击飞过远
+	#Enable Epic Fight compat mode - uses specialized weight calculation
+	modCompatEpicFightEnabled = true
+	#是否启用铁魔法 (Irons Spells) 兼容模式
+	#启用后抑制刷屏式 DEBUG 日志输出
+	#Enable Irons Spells compat mode - suppresses spamming DEBUG logs
+	modCompatIronsSpellsEnabled = true
+	#是否启用神化 (Apotheosis) 兼容模式
+	#启用后会在玩家强度评估中考虑神话词条加成
+	#Enable Apotheosis compat mode - includes mythic affix bonuses in player strength evaluation
+	modCompatApotheosisEnabled = true
+
+[entityFilter]
+	#是否启用实体过滤功能 - 关闭后黑白名单不生效，所有实体均受自适应缩放影响
+	#Enable entity filter - when disabled, all entities are subject to adaptive scaling
+	enableEntityFilter = true
+	#实体黑名单（逗号分隔），在黑名单中的生物不会被自适应系统缩放加成
+	#支持 * 通配符匹配，例如：minecraft:zombie,minecraft:iron_golem,alexsmobs:*
+	#Entity blacklist (comma-separated). Entities in this list are excluded from all adaptive scaling.
+	#Supports * wildcard, e.g.: minecraft:zombie,minecraft:iron_golem,alexsmobs:*
+	entityBlacklist = ""
+
+[debug]
+	#是否启用调试日志输出
+	enableDebugLog = false
+	#是否启用详细调试模式 - 输出更多详细信息
+	#Enable verbose debug mode - outputs more detailed information
+	enableVerboseDebug = false
+	#是否将调试日志输出到文件
+	#Enable debug log output to file
+	debugLogToFile = false
+	#调试日志文件路径（相对于游戏目录）
+	#Debug log file path (relative to game directory)
+	debugLogFilePath = "logs/adaptive_nemesis_debug.log"
+	#日志输出级别: OFF(关闭), ERROR(错误), WARN(警告), INFO(信息), DEBUG(调试)
+	#Log output level: OFF, ERROR, WARN, INFO, DEBUG
+	logOutputLevel = "INFO"
+
+[watchdog]
+	#是否启用看门狗服务 - 监控服务端线程是否卡死/死锁
+	#Enable watchdog service - monitors server thread for hangs/deadlocks
+	enableWatchdog = false
+	#看门狗检查间隔（秒）- 每多少秒检查一次服务端活性
+	#Watchdog check interval (seconds) - how often to check server activity
+	# Default: 5
+	# Range: 1 ~ 30
+	watchdogCheckInterval = 5
+	#看门狗警告阈值（秒）- 服务端超过此时间无响应则输出警告
+	#Watchdog warning threshold (seconds) - warn if server unresponsive for this long
+	# Default: 30
+	# Range: 10 ~ 120
+	watchdogWarnThreshold = 30
+	#看门狗严重阈值（秒）- 超过此时间输出线程堆栈用于死锁分析
+	#Watchdog critical threshold (seconds) - dump thread stack for deadlock analysis
+	# Default: 60
+	# Range: 30 ~ 300
+	watchdogCriticalThreshold = 60
+
+[nemesis]
+	#是否启用宿敌日常生成系统
+	enableNemesisSpawn = true
+	#宿敌生成概率 (0.01 = 1%)
+	# Default: 0.01
+	# Range: 0.0 ~ 1.0
+	nemesisSpawnChance = 0.01
+	#宿敌最小强化倍率
+	# Default: 1.5
+	# Range: 1.0 ~ 10.0
+	nemesisMinMultiplier = 1.5
+	#宿敌最大强化倍率
+	# Default: 3.0
+	# Range: 1.0 ~ 20.0
+	nemesisMaxMultiplier = 3.0
+	#宿敌基础强化倍率（在此基础上受全局难度影响）
+	# Default: 2.0
+	# Range: 1.0 ~ 10.0
+	nemesisBaseMultiplier = 2.0
+	#近战克星称号前缀列表（逗号分隔），留空则使用语言文件翻译键
+	meleeNemesisPrefixes = ""
+	#远程克星称号前缀列表（逗号分隔），留空则使用语言文件翻译键
+	rangedNemesisPrefixes = ""
+	#魔法克星称号前缀列表（逗号分隔），留空则使用语言文件翻译键
+	magicNemesisPrefixes = ""
+	#通用称号后缀列表（逗号分隔），留空则使用语言文件翻译键
+	nemesisSuffixes = ""
+	#是否显示宿敌名称（自定义名称）
+	showNemesisName = true
+	#是否让宿敌名称始终可见
+	nemesisNameAlwaysVisible = true
+	#宿敌名称颜色（十六进制，如 FF0000 = 红色）
+	nemesisNameColor = "FF0000"
+	#宿敌转化是否要求目标具有攻击力属性，缺失时跳过转化
+	nemesisRequireAttackDamage = true
+	#是否启用宿敌自动消失功能，开启后宿敌会在存在指定时间后自动消失
+	enableNemesisAutoDisappear = true
+	#宿敌存在时间 (秒),仅当 enableNemesisAutoDisappear 为 true 时生效
+	# Default: 300
+	# Range: 60 ~ 3600
+	nemesisAutoDisappearSeconds = 300
+	#宿敌消失时是否向附近玩家发送提示消息
+	nemesisDisappearMessage = true
+
+[invasion]
+	#是否启用入侵事件系统
+	enableInvasion = true
+	#入侵事件自然触发概率（每分钟）
+	# Default: 0.05
+	# Range: 0.0 ~ 1.0
+	invasionTriggerChance = 0.05
+	#基础波次数量（受难度加成，上限6波）
+	# Default: 3
+	# Range: 1 ~ 10
+	baseWaveCount = 3
+	#入侵事件难度加成上限（波次）
+	# Default: 6
+	# Range: 1 ~ 20
+	maxWaveCount = 6
+	#每波最大敌人数量
+	# Default: 10
+	# Range: 1 ~ 50
+	maxEnemiesPerWave = 10
+	#敌人在玩家周围的生成距离（方块）
+	# Default: 40
+	# Range: 10 ~ 100
+	spawnDistance = 40
+	#是否允许在水面生成敌人时穿戴冰霜行者
+	enableFrostWalkerOnWater = true
+	#是否让入侵敌人自带发光buff
+	enableGlowingEffect = true
+	#击败入侵后降低的难度值
+	# Default: 0.1
+	# Range: 0.0 ~ 0.5
+	difficultyDecreaseOnVictory = 0.1
+	#击败入侵后战利品稀有物品概率提升量
+	# Default: 0.15
+	# Range: 0.0 ~ 1.0
+	lootRarityBonus = 0.15
+	#战利品稀有物品概率提升持续时间（分钟）
+	# Default: 30
+	# Range: 1 ~ 120
+	lootRarityBonusDuration = 30
+	#是否启用自定义入侵难度
+	enableCustomDifficulty = false
+	#自定义入侵难度倍率
+	# Default: 1.5
+	# Range: 0.1 ~ 10.0
+	customDifficultyMultiplier = 1.5
+	#入侵事件间隔时间（分钟）- 两次入侵之间的最小间隔
+	# Default: 15
+	# Range: 1 ~ 120
+	invasionCooldownMinutes = 15
+	#是否在入侵开始时通知玩家
+	enablePlayerNotification = true
+	#是否在入侵期间显示波次进度
+	showWaveProgress = true
+	#是否允许入侵敌人携带战利品
+	enableInvasionLoot = true
+	#入侵敌人基础掉落物数量
+	# Default: 2
+	# Range: 1 ~ 10
+	baseLootCount = 2
+	#是否启用KubeJS支持
+	enableKubejsSupport = true
+	#是否启用数据包自定义入侵事件
+	enableDataPackSupport = true
+	#服务器启动后延迟多久开始可能触发入侵（分钟）
+	# Default: 5
+	# Range: 1 ~ 60
+	initialCooldownMinutes = 5
+	#入侵开始前的警告时间（秒）
+	# Default: 5
+	# Range: 1 ~ 60
+	warningSecondsBeforeInvasion = 5

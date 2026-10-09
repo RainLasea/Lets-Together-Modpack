@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "swim_with_shark": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "swim_with_shark"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "killed_skeleton": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "killed_skeleton"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

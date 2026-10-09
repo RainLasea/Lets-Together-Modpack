@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "charge_respawn_anchor": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "charge_respawn_anchor"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

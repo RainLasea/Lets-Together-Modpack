@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "monocle": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "monocle"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

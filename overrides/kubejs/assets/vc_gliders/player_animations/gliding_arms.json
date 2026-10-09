@@ -1,0 +1,98 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "gliding_arms": {
+      "animation_length": 999,
+      "bones": {
+        "right_arm": {
+          "rotation": {
+            "0.0": {
+              "post": {
+                "vector": [
+                  -27.5,
+                  0,
+                  112.5
+                ]
+              },
+              "lerp_mode": "linear"
+            },
+            "0.125": {
+              "post": {
+                "vector": [
+                  0,
+                  0,
+                  165
+                ]
+              },
+              "lerp_mode": "linear"
+            },
+            "0.5417": {
+              "post": {
+                "vector": [
+                  0,
+                  0,
+                  162.5
+                ]
+              },
+              "lerp_mode": "linear"
+            },
+            "1.0": {
+              "post": {
+                "vector": [
+                  0,
+                  0,
+                  165
+                ]
+              },
+              "lerp_mode": "linear"
+            }
+          }
+        },
+        "left_arm": {
+          "rotation": {
+            "0.0": {
+              "post": {
+                "vector": [
+                  -19.8423,
+                  2.55868,
+                  -112.94761
+                ]
+              },
+              "lerp_mode": "linear"
+            },
+            "0.125": {
+              "post": {
+                "vector": [
+                  0,
+                  0,
+                  -165
+                ]
+              },
+              "lerp_mode": "linear"
+            },
+            "0.5417": {
+              "post": {
+                "vector": [
+                  0,
+                  0,
+                  -162.5
+                ]
+              },
+              "lerp_mode": "linear"
+            },
+            "1.0": {
+              "post": {
+                "vector": [
+                  0,
+                  0,
+                  -165
+                ]
+              },
+              "lerp_mode": "linear"
+            }
+          }
+        }
+      }
+    }
+  }
+}

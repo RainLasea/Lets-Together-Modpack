@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "kill_with_rat": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "kill_with_rat"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "guns": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "guns"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

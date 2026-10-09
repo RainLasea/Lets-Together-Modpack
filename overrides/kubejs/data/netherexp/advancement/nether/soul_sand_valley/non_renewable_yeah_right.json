@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "killed_entity": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "killed_entity"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

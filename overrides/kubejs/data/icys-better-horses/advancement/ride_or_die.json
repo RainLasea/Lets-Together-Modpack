@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "bond_max": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "bond_max"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

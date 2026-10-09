@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "tags": [
+      "content.dialogue",
+      "dialogue.ambient",
+      "scope.profession.toolsmith",
+      "section.messages"
+    ],
+    "topic": "professions.toolsmith.messages"
+  },
+  "messages": [
+    {
+      "id": "toolsmith_gift_given_variants",
+      "key": "gift_given",
+      "lines": [
+        "在这里，{gift_item}。右手使用正确的工具可以省去很多麻烦。",
+        "以{gift_item}为例。让它有用，它会给你双倍的回报。",
+        "我宁愿把 {gift_item} 交给好的人，也不愿把它放在架子上。",
+        "这是{gift_item}。您获得的不仅仅是一句简短的感谢。",
+        "保持 {gift_item} 靠近。有用的礼物不需要演讲。",
+        "我为真正会使用它的人保留了 {gift_item}。",
+        "这台 {gift_item} 是你的了。公平的帮助应该得到公平的感谢。",
+        "在我为它找其他苦差事之前，先拿 {gift_item} 吧。",
+        "我希望 {gift_item} 让接下来艰难的一天变得更轻松。",
+        "村里记得谁帮忙。今天，它记住了 {gift_item}。",
+        "我在把{gift_item}带过来之前清理了它。",
+        "你提到需要 {gift_item}，所以我保留了一个。",
+        "这不是贷款。 {gift_item} 现在属于你了。",
+        "在我交出 {gift_item} 之前，我确认它是完好的。",
+        "当我忙得不可开交时，你帮了我忙。请携带{gift_item}。",
+        "我想你可能会发现 {gift_item} 的用处。",
+        "没有任何隐藏的恩惠。我只是想让你拥有 {gift_item}。",
+        "在考虑了您最常携带的物品后，我选择了 {gift_item}。",
+        "保留 {gift_item}。你为这个村子做的已经够多了。",
+        "一句普通的感谢感觉太少了，所以我带了{gift_item}。"
+      ],
+      "weight": 48
+    },
+    {
+      "id": "toolsmith_gift_advice_followup_liked_variants",
+      "key": "gift_advice_followup.liked",
+      "lines": [
+        "好的。 {gift_item} 完成了 {tested_villager} 的工作。",
+        "那么这个建议是合理的。 {tested_villager} 喜欢 {gift_item}。",
+        "{tested_villager} 保持 {gift_item} 靠近。你的选择很顺利。",
+        "我看到{tested_villager}对{gift_item}微笑。这已经足够告诉我们了。",
+        "良好的直觉。 {gift_item} 适合 {tested_villager}。",
+        "{gift_item} 找到了合适的人手。",
+        "你可以不用再担心了。 {tested_villager} 喜欢 {gift_item}。",
+        "请记住下次选择 {tested_villager} 时的反应。",
+        "这个时机和 {gift_item} 本身一样有帮助。",
+        "{tested_villager} 立即发现了 {gift_item} 的用途。",
+        "在 {tested_villager} 提出询问之前，您就注意到了他们需要什么。",
+        "我听到 {tested_villager} 向邻居展示 {gift_item}。",
+        "{gift_item} 仍然坐在 {tested_villager} 家里最好的位置。",
+        "你选择的是人，而不是价格。那很聪明。",
+        "在您离开后，{tested_villager}再次感谢您。",
+        "这份礼物让 {tested_villager} 艰难的一天变得轻松起来。",
+        "下次我会相信你对{tested_villager}的判断。",
+        "{tested_villager} 一直在寻找类似 {gift_item} 的东西。",
+        "你也选对了尺寸。这比你想象的要少见。",
+        "这份礼物引发了一场比我们预想的更热烈的谈话。"
+      ],
+      "weight": 44
+    },
+    {
+      "id": "toolsmith_gift_advice_followup_disliked_variants",
+      "key": "gift_advice_followup.disliked",
+      "lines": [
+        "我指点你错了。对于 {gift_subject}，请尝试使用 {alternative_gift}。",
+        "{gift_item} 不太合适。 {alternative_gift} 应该会更好。",
+        "{gift_subject}不关心{gift_item}。对此我感到很抱歉。",
+        "下次将 {gift_item} 从列表中删除并带上 {alternative_gift}。",
+        "我的建议没有达到目的。 {gift_subject} 更喜欢 {alternative_gift}。",
+        "将 {gift_item} 留给其他人。浪费在{gift_subject}上。",
+        "在建议 {gift_item} 之前我应该​​问更多问题。",
+        "{gift_subject}试图保持礼貌，但失望之情溢于言表。",
+        "我们学到了一些有用的东西。 {gift_subject} 不想要 {gift_item}。",
+        "如果您想再试一次，请从 {alternative_gift} 开始。",
+        "这既是我的错误，也是你的错误。下次带上{alternative_gift}。",
+        "请勿按 {gift_subject} 点赞 {gift_item}。选择其他东西。",
+        "如果您想再次尝试，我可以帮助您找到 {alternative_gift}。",
+        "即使 {gift_item} 是错误的选择，这份礼物也很贴心。",
+        "在提供 {alternative_gift} 之前给 {gift_subject} 一点时间。",
+        "您可以从中恢复。收听 {gift_subject} 并选择 {alternative_gift}。",
+        "至少可以返回或传递{gift_item}。",
+        "下次我向您推荐 {gift_subject} 时，请提醒我我弄错了。",
+        "简短的道歉比捍卫 {gift_item} 更有帮助。",
+        "仅当 {gift_subject} 仍想要另一份礼物时才尝试 {alternative_gift}。"
+      ],
+      "weight": 44
+    },
+    {
+      "key": "gift_advice_followup.disliked",
+      "lines": [
+        "错误的选择。下次带上{alternative_gift}。",
+        "{gift_item} 不适合他们。尝试 {alternative_gift}。",
+        "他们对 {gift_item} 没有任何用处。",
+        "保留 {gift_item} 并给他们一些空间。",
+        "他们的表情已经说明了一切。",
+        "将 {gift_item} 从列表中删除。",
+        "如果您再试一次，请带上 {alternative_gift} 并保持简单。",
+        "他们很有礼貌，因为你没有领会暗示。",
+        "不要让他们解释为什么 {gift_item} 不受欢迎。",
+        "在你带着另一件礼物出现之前先询问一下。",
+        "你猜对了。猜测是 <shake>错误的</shake>。",
+        "在 {gift_item} 引起另一个争论之前将其放在一边。",
+        "如果他们想要保持距离，再好的礼物也无济于事。",
+        "我会等待再提供 {alternative_gift}。",
+        "不要责怪我的建议忽视了他们的反应。",
+        "他们的品味与你想象的不同。",
+        "彻底接受拒绝并继续前进。",
+        "为需要的人保存 {gift_item}。",
+        "你可以道歉而不用把其他东西放在他们手里。",
+        "如果他们同意再次尝试，请选择 {alternative_gift}。"
+      ],
+      "dispositions": [
+        "cautious",
+        "rude",
+        "hostile",
+        "fearful"
+      ],
+      "weight": 20,
+      "id": "professions.toolsmith.messages.00_messages.messages.gift_advice_followup.disliked.003"
+    },
+    {
+      "key": "gift_advice_followup.disliked",
+      "lines": [
+        "你不假思索地听从了建议。现在他们很恼火。",
+        "{gift_item} 显然是一个错误的礼物。",
+        "在他们提出要求之前，不要再给他们送礼物。",
+        "把 {gift_item} 收起来。你已经做得够多了。",
+        "我说这可能有用。我没有告诉你要忽略他们的脸。",
+        "如果您以同样的方式提供，{alternative_gift} 将无法解决此问题。",
+        "不要把它们当作一个需要解决的问题。",
+        "你没有击中目标，然后继续保持 <shake>推</shake>。",
+        "礼物失败了。不要把道歉变成另一种表演。",
+        "保留 {gift_item}。他们不欠你感激之情。",
+        "你应该问他们而不是问我。",
+        "我不会帮你用{alternative_gift}给他们施压。",
+        "一件糟糕的礼物是很尴尬的。拒绝倾听会让情况变得更糟。",
+        "他们说不。事情就这样结束了。",
+        "不要躲在我的建议后面。您选择交出 {gift_item}。",
+        "如果他们想要 {alternative_gift}，他们可以自己告诉你。",
+        "你的下一步应该是道歉并保持一定的距离。",
+        "让他们独自一人，直到愤怒过去。",
+        "不再有礼物了。学会倾听拒绝。",
+        "问题不只是{gift_item}。这就是你处理答案的方式。"
+      ],
+      "dispositions": [
+        "rude",
+        "hostile"
+      ],
+      "weight": 20,
+      "id": "professions.toolsmith.messages.00_messages.messages.gift_advice_followup.disliked.004"
+    }
+  ]
+}

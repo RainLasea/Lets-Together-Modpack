@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "overlevel_enchant": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "overlevel_enchant"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

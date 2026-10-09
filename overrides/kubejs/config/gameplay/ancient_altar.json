@@ -1,0 +1,26 @@
+{
+  "enabled": true,
+  "offering": {
+    "item": "minecraft:echo_shard",
+    "count": 1
+  },
+  "bossId": "",
+  "bossSpawnOffset": [
+    0,
+    1.05,
+    0
+  ],
+  "requireSpawnClearance": true,
+  "consumeInPreview": false,
+  "postProcessing": true,
+  "requireClientPlaybackConfirmation": true,
+  "playbackTimeoutTicks": 60,
+  "sounds": {
+    "breath": "minecraft:block.respawn_anchor.ambient",
+    "pillar": "minecraft:block.amethyst_block.chime",
+    "converge": "irons_spellbooks:spell.black_hole.charge",
+    "compress": "minecraft:block.respawn_anchor.deplete",
+    "ascent": "irons_spellbooks:spell.soulfire_ray.charge",
+    "release": "irons_spellbooks:spell.shockwave.cast"
+  }
+}

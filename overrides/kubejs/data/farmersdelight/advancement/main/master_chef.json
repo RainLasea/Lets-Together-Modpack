@@ -1,0 +1,169 @@
+{
+  "criteria": {
+    "bacon_and_eggs": {
+      "trigger": "minecraft:impossible"
+    },
+    "baked_cod_stew": {
+      "trigger": "minecraft:impossible"
+    },
+    "beef_stew": {
+      "trigger": "minecraft:impossible"
+    },
+    "bone_broth": {
+      "trigger": "minecraft:impossible"
+    },
+    "chicken_soup": {
+      "trigger": "minecraft:impossible"
+    },
+    "cooked_rice": {
+      "trigger": "minecraft:impossible"
+    },
+    "fish_stew": {
+      "trigger": "minecraft:impossible"
+    },
+    "fried_rice": {
+      "trigger": "minecraft:impossible"
+    },
+    "gleaming_salad": {
+      "trigger": "minecraft:impossible"
+    },
+    "grilled_salmon": {
+      "trigger": "minecraft:impossible"
+    },
+    "honey_glazed_ham": {
+      "trigger": "minecraft:impossible"
+    },
+    "mixed_salad": {
+      "trigger": "minecraft:impossible"
+    },
+    "mushroom_rice": {
+      "trigger": "minecraft:impossible"
+    },
+    "noodle_soup": {
+      "trigger": "minecraft:impossible"
+    },
+    "onion_soup": {
+      "trigger": "minecraft:impossible"
+    },
+    "pasta_with_meatballs": {
+      "trigger": "minecraft:impossible"
+    },
+    "pasta_with_mutton_chop": {
+      "trigger": "minecraft:impossible"
+    },
+    "pumpkin_soup": {
+      "trigger": "minecraft:impossible"
+    },
+    "ratatouille": {
+      "trigger": "minecraft:impossible"
+    },
+    "roast_chicken": {
+      "trigger": "minecraft:impossible"
+    },
+    "roasted_mutton_chops": {
+      "trigger": "minecraft:impossible"
+    },
+    "shepherds_pie": {
+      "trigger": "minecraft:impossible"
+    },
+    "squid_ink_pasta": {
+      "trigger": "minecraft:impossible"
+    },
+    "steak_and_potatoes": {
+      "trigger": "minecraft:impossible"
+    },
+    "stuffed_pumpkin": {
+      "trigger": "minecraft:impossible"
+    },
+    "vegetable_noodles": {
+      "trigger": "minecraft:impossible"
+    },
+    "vegetable_soup": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "mixed_salad"
+    ],
+    [
+      "cooked_rice"
+    ],
+    [
+      "bone_broth"
+    ],
+    [
+      "beef_stew"
+    ],
+    [
+      "vegetable_soup"
+    ],
+    [
+      "fish_stew"
+    ],
+    [
+      "chicken_soup"
+    ],
+    [
+      "fried_rice"
+    ],
+    [
+      "pumpkin_soup"
+    ],
+    [
+      "baked_cod_stew"
+    ],
+    [
+      "noodle_soup"
+    ],
+    [
+      "onion_soup"
+    ],
+    [
+      "bacon_and_eggs"
+    ],
+    [
+      "ratatouille"
+    ],
+    [
+      "steak_and_potatoes"
+    ],
+    [
+      "pasta_with_meatballs"
+    ],
+    [
+      "pasta_with_mutton_chop"
+    ],
+    [
+      "mushroom_rice"
+    ],
+    [
+      "roasted_mutton_chops"
+    ],
+    [
+      "vegetable_noodles"
+    ],
+    [
+      "squid_ink_pasta"
+    ],
+    [
+      "grilled_salmon"
+    ],
+    [
+      "roast_chicken"
+    ],
+    [
+      "stuffed_pumpkin"
+    ],
+    [
+      "honey_glazed_ham"
+    ],
+    [
+      "shepherds_pie"
+    ],
+    [
+      "gleaming_salad"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

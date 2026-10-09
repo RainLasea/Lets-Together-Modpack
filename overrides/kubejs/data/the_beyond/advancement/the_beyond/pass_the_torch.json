@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "light_bonfire": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "light_bonfire"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

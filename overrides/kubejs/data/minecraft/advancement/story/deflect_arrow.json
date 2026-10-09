@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "deflected_projectile": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "deflected_projectile"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,372 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.lost_civilization.end_city_survey.description": {
+      "lines": [
+        "调查末地城以测试古城记录是否描述了相同的 建筑工。"
+      ]
+    },
+    "quest.lost_civilization.end_city_survey.dialogue.already_completed": {
+      "lines": [
+        "这里没有第二次付款。我们已经解决了勘察末地城。",
+        "事情结束得还算顺利。你已经从末地城带着我们需要的东西回来了。",
+        "该章已关闭。勘察末地城已结束。我不会让你两次穿越潜影贝和虚空。",
+        "这件事我们已经解决了。您前往末地城的 路线 已在调查中。",
+        "所欠的已经还清了。我记得你带着潜影贝壳回来的那天。",
+        "事情结束得还算顺利。您获得了勘察末地城的奖励，并且已支付。",
+        "保留旧的计数。我们有来自末地的硬签名，因为你完成了前往末地城的旅程。",
+        "这里没有第二次付款。这座城市什么也没有恢复。",
+        "你早期的作品仍然有效。你从末地城带来的东西仍在帮助村庄。",
+        "我记得你第一次回来。你曾经证明过这座城市路线。这就够了。",
+        "所欠的已经还清了。该调查在已完成的标记旁边标有您的名字。",
+        "该章已关闭。将勘察末地城留在过去它所属的地方。",
+        "这里没有第二次付款。你在第一次回归时就解决了勘察末地城的所有部分。",
+        "所欠的已经还清了。到达了末地城并交付了潜影壳证据。",
+        "从此一无所获。在送你回末地城之前，我会为你找到一条路。",
+        "该章已关闭。没有人忘记前往末地城的旅程花费了多少钱。",
+        "该章已关闭。勘察末地城不需要您第二次访问。",
+        "我不会重新打开已完成的帐户。你给了我们潜影壳，而不是另一个谣言。",
+        "所欠的已经还清了。勘察末地城正常结束，并且一直结束。",
+        "这里没有第二次付款。我们现在可以展望未来。勘察末地城已完成。"
+      ]
+    },
+    "quest.lost_civilization.end_city_survey.dialogue.inactive": {
+      "lines": [
+        "董事会可以等待。目前勘察末地城的条件还不具备。",
+        "董事会可以等待。末地城的标志今天没有开放。",
+        "等店铺换了再问我。我现在没有理由让你去冒险对抗潜影贝和虚空。",
+        "时间不对。该村庄尚未准备好使用潜影壳和一朵紫颂花。",
+        "当重要的时候我会发布它。等到调查要求前往末地城。",
+        "董事会可以等待。毫无必要地前往末地城只会带来危险。",
+        "村里可以等这一件事。城市 路线 可以保持折叠状态，直到时机改善。",
+        "不是今天。我暂时将勘察末地城排除在外。",
+        "现在，就让这件事平息吧。今天，末地城里没有什么需要我们回答的。",
+        "不是今天。准备好前往末地城的装备，但先不要离开。",
+        "我不会把这个问题列入考虑范围。勘察末地城是真实的。现在还不是。",
+        "董事会可以等待。我不会把你送到潜影贝和虚空去满足旧的音符。",
+        "我们还不需要它。末地城可以等到我们有空再回来。",
+        "我不会把这个问题列入考虑范围。等村里审核完调查后再询问。",
+        "我不会把这个问题列入考虑范围。今天没有对潜影贝壳提出任何主动索赔。",
+        "暂时先别管那项工作。通往末地城的道路很安静，我打算就这样走下去。",
+        "董事会可以等待。现在开始勘察末地城需要勇气，却得不到任何有用的结果。",
+        "今天没有什么需要做这项工作。勘察末地城尚未发布给任何旅行者。",
+        "村里可以等这一件事。给勘察末地城一些时间，以备不时之需。",
+        "今天没有什么需要做这项工作。目前，请留在通往末地城旅程的这一侧。"
+      ]
+    },
+    "quest.lost_civilization.end_city_survey.dialogue.locate_failed": {
+      "lines": [
+        "可疑的地图风险太大。 <gradient:dark_purple:light_purple><pulse>最终</pulse></gradient>今天拒绝干净的标记。甚至地图也知道何时犹豫。",
+        "旧的指示不再一致。我无法在末地城上留下值得信赖的印记。",
+        "在我认路之前，你就待在这里。我检查过的每台 路线 都在进城之前就坏了。",
+        "在我认路之前，你就待在这里。末地城地图不一致，潜影贝和 <gradient:dark_purple:light_purple><pulse>无效</pulse></gradient> 没有留下任何猜测的空间。",
+        "小路已经冷了。我发现了末地城的传闻，但我不会给你道路。",
+        "图表有问题。末地城已经超出了我的末地城排行榜。",
+        "我的地图让我们失望了。如果没有坚定的方向，末地城勘测就会陷入徘徊。",
+        "我找不到可以给你的安全支撑。我最好的地图在城市应该在的地方是空白的。",
+        "旧的指示不再一致。我追踪到了三架 路线 前往末地城，而 信任 则没有。",
+        "我的地图让我们失望了。旧的末地城方向在危险开始之前就结束了。",
+        "我找不到可以给你的安全支撑。我不会假装猜测可以标记末地城。",
+        "可疑的地图风险太大。还没有侦察兵确认末地城的标记。",
+        "可疑的地图风险太大。我还没来得及标记，通往末地城的小路就变冷了。",
+        "在我认路之前，你就待在这里。我需要末地城坐标，而不是篝火故事。",
+        "我不会猜测 路线。末地城可能在那里，但我无法证明在哪里。",
+        "小路已经冷了。末地城的方位没有通向同一个地面。",
+        "小路已经冷了。在你准备离开之前，让我找到一个诚实的城市路线。",
+        "我们首先需要一个值得信赖的路线。今天的调查提供的是警告，而不是方向。",
+        "我不能盲目地送你出去。当我需要确定性时，末地城地图却让我产生怀疑。",
+        "我找不到可以给你的安全支撑。通向末地城的路回来后会给我们答案。"
+      ]
+    },
+    "quest.lost_civilization.end_city_survey.dialogue.missing_proof": {
+      "lines": [
+        "证据必须到达我的手中。带上潜影贝壳。这座城市必须留下一个硬性的签名。",
+        "让我看看你带回来了什么。你回来时潜影贝壳仍然不见踪影。",
+        "你带回家的东西决定了这一点。如果没有商定的潜影壳证据，我无法结束调查。",
+        "我需要一些我能握住的东西。你面对的是末地城，但村庄仍然需要潜影贝壳。",
+        "证据必须到达我的手中。在我们解决勘察末地城之前带回潜影贝壳和一朵紫颂花。",
+        "故事无法关闭账本。你的故事可能是真的。我仍然需要潜影贝壳。",
+        "让我看看你带回来了什么。当潜影贝壳易主时，前往末地城的旅程就此结束。",
+        "最后一个要求仍然缺失。不要到达末地城并忘记验证它的潜影壳。",
+        "你带回家的东西决定了这一点。我知道你旅行过。我需要末地城的结果。",
+        "证据仍然很重要。勘察末地城的奖励取决于潜影壳的证据，而不是真相。",
+        "你的话并不是缺失的部分。给我看潜影贝壳，勘察末地城就可以结束了。",
+        "带回来一些村里可以核实的东西。调查中的空白处等待您恢复的内容。",
+        "带回来一些村里可以核实的东西。言语无法代替末日的硬签名。",
+        "你回来时却没有带我要的一件东西。在两次前往末地城之前检查你的背包。",
+        "最后一个要求仍然缺失。勘察末地城从一开始就命名了它的证明。",
+        "我需要一些我能握住的东西。将潜影壳证据带到这里，而不是将其留在 仓储 中。",
+        "我无法在空的退货单上签字。村庄要求提供潜影壳和一朵紫颂花，但仍未完成。",
+        "你的话并不是缺失的部分。我可以在看到 路线 城市发出的声音后将其记录下来。",
+        "你带回家的东西决定了这一点。一枚潜影壳交接将勘察末地城与完成分开。",
+        "最后一个要求仍然缺失。当潜影贝壳在你手中时返回。"
+      ]
+    },
+    "quest.lost_civilization.end_city_survey.dialogue.missing_target": {
+      "lines": [
+        "必须到达该地点本身。单独的 外壳 并不是一项调查。到达末地城本身。",
+        "旅程结束得太早了。你还没有确认末地城本身。",
+        "先完成外出的旅程。如果永远无法到达末地城，那么这些货物就毫无意义。",
+        "路一定会在我送你去的地方结束。勘察末地城包括道路和回程。",
+        "必须到达该地点本身。在你给我带来证据之前先踏入这座城市。",
+        "我需要确认该网站。我向末地城索要证据，而不是其他地方。",
+        "地图上仍然显示着未完成的旅程。末地城在调查中保持不变。",
+        "靠近它不算数。在领取勘察末地城奖励之前完成外出旅程。",
+        "靠近它不算数。借来的潜影贝壳无法替代到达末地城。",
+        "必须到达该地点本身。末地城地图仍然显示你停了下来。",
+        "必须到达该地点本身。前往标记的地方并通过那里查看勘察末地城。",
+        "必须到达该地点本身。城市 路线 必须在末地城结束，而不是靠近它。",
+        "你还没有走得足够远。在我相信这份报告之前，我需要你关注末地城。",
+        "旅程结束得太早了。不要跳过将潜影贝和虚空置于你面前的部分。",
+        "旅程结束得太早了。村庄要求你确认这座城市的存在。",
+        "达到目标是承诺的一部分。你回来的还早。末地城仍在等待。",
+        "先完成外出的旅程。到达末地城，然后找回潜影贝壳和一朵紫颂花。",
+        "这项任务不仅仅与货物有关。当最终目标尚未到达时，前往末地城的旅程尚未完成。",
+        "先完成外出的旅程。调查需要一个确定的地点，而不仅仅是一个项目。",
+        "先完成外出的旅程。返回末地城并完成你开始的事情。"
+      ]
+    },
+    "quest.lost_civilization.end_city_survey.dialogue.reminder": {
+      "lines": [
+        "下一步仍然很重要。 {target_x}、{target_z} 附近的末地城。潜影壳用于证明，紫颂花用于研究。尽量不要让 <gradient:dark_purple:light_purple><pulse>无效</pulse></gradient> 编辑报告。",
+        "现在不要丢失线。末地城仍在{target_x}、{target_z}附近。",
+        "使这一切得到适当的完成。该标记仍靠近 {target_x}、{target_z}，因此保留规划城市 路线。",
+        "现在不要丢失线。再次查看地图。末地城仍在 {target_x}、{target_z} 附近。",
+        "遵守我给你的指示。勘察末地城仍然需要潜影贝壳和一朵紫颂花。",
+        "遵守我给你的指示。在进来的路上注意潜影贝和 <gradient:dark_purple:light_purple><pulse>无效</pulse></gradient>。",
+        "离开之前，请再听一遍。不要在没有潜影贝壳的情况下离开末地城。",
+        "离开之前，请再听一遍。你的回报应该给我们一个来自末日的硬签名。",
+        "记住村庄在等待什么。在地标模糊之前检查 {target_x}、{target_z} 处的末地城方位。",
+        "将回程行程保留在您的计划中。回收潜影贝壳后，请确保其安全。",
+        "离开之前，请再听一遍。该调查将一直持续到您回家为止。",
+        "离开之前，请再听一遍。不要盲目冲向末地城。按照标记并完整返回。",
+        "你还没有完成。 {target_x}、{target_z} 末地城尚未移动。",
+        "遵守我给你的指示。记住你为什么要去。我们需要从 <gradient:dark_purple:light_purple><pulse>末地</pulse></gradient> 带回家证据。",
+        "牢记整个任务。如果 路线 感觉城市不对，请对照 {target_x}、{target_z} 检查您的位置。",
+        "遵守我给你的指示。困难的部分是到达城市并带着证据离开。",
+        "使这一切得到适当的完成。末地城仍在 {target_x}、{target_z} 附近等待。",
+        "你还没有完成。将潜影壳的每个部分和一朵紫颂花重新组合在一起。",
+        "牢记整个任务。我宁愿等待，也不愿收到约定的潜影贝壳的一半。",
+        "遵守我给你的指示。找到末地城，在那里进行勘察末地城，然后回到我身边。"
+      ]
+    },
+    "quest.lost_civilization.end_city_survey.dialogue.start": {
+      "lines": [
+        "我有一个困难的请求。城市标记为 {direction}，距此处约 {distance} 个街区，靠近 {target_x}、{target_z}。带上潜影壳和紫颂 <green><wavy>花</wavy></green>。",
+        "在你同意之前，先听听所有的内容。我在 {target_x}、{target_z} 附近标记了末地城。",
+        "这是工作。向 {direction} 行驶约 {distance} 街区并寻找城市。",
+        "村里有工作给你。我们的任务是从末日带回证据。",
+        "我有一个困难的请求。带着一枚潜影贝壳和一支紫颂 <green><wavy>花</wavy></green> 回家，所以村子里的谣言不止于此。",
+        "我选择你是有原因的。这条路穿过潜影贝和虚空，所以在离开之前做好准备。",
+        "我把一些重要的事情托付给你。我需要有人愿意到达末地城并带着证据回来。",
+        "我需要你来看看这件事。根据我的地图，末地城位于 {target_x}、{target_z} 附近。",
+        "认真对待这件事。跟随 {direction} 方位并保持测量干燥。",
+        "这是工作。勘察末地城从末地城开始，当潜影贝壳到达我身边时结束。",
+        "让我们清楚地了解这项工作。末地城标记位于大约 {distance} 个街区之外。不要将速度误认为是谨慎。",
+        "我有一个困难的请求。带上潜影贝壳和紫颂 <green><wavy>花</wavy></green>，我就能把这种风险变成有用的东西。",
+        "仅当您准备好时才接受任务。村庄需要来自末日的坚定签名，而不是在大火中吹嘘。",
+        "在你同意之前，先听听所有的内容。我信任你这个城市路线，因为它并不友善。",
+        "我把一些重要的事情托付给你。前往 {target_x}、{target_z} 并亲自确认末地城。",
+        "我需要你来看看这件事。在穿越最后一个安全地带之前，请做好应对潜影贝和虚空的准备。",
+        "认真对待这件事。向外的旅程证明了末地城地图。回报证明了你。",
+        "仅当您准备好时才接受任务。不要从城里空着回来。",
+        "村里有工作给你。仅当您打算完成旅行和恢复时才进行勘察末地城。",
+        "我把一些重要的事情托付给你。当您拥有潜影贝壳和一枚合唱 <green><wavy>花</wavy></green> 时，请直接将其带到这里。"
+      ]
+    },
+    "quest.lost_civilization.end_city_survey.dialogue.turn_in": {
+      "lines": [
+        "我很高兴见到你回家。一个外壳和一个 紫颂 <green><wavy>花</wavy></green>。村里也曾有过这样的故事。现在有证据了。你的名字将比路走得更远。",
+        "你使工作得到了圆满的结束。你到达了末地城并将潜影贝壳带回家。",
+        "这就是我需要的结果。调查终于有了一个真正的结局。",
+        "现在我可以关闭账本了。这是来自末日的硬签名，足够坚固，足以坚守。",
+        "这次回归值得等待。村庄可以从末地带回证据，因为你冒险了。",
+        "困难的部分已经过去了。我要了一个潜影壳和一个合唱 <green><wavy>花</wavy></green>，而你却把所有零件都回来了。",
+        "你已经看透了。你穿过潜影贝和虚空并保持头脑清醒。",
+        "现在我可以关闭账本了。 路线 城市现已确定，而不仅仅是绘制的。",
+        "你已经看透了。我毫无疑问可以支付勘察末地城费用。",
+        "这将会带来真正的改变。潜影贝壳比任何吹嘘都更能讲述故事。",
+        "困难的部分已经过去了。你让通往末地城的危险道路对这里的每个人都有用。",
+        "现在我可以关闭账本了。末地城不再只是地图上的警告。",
+        "很好，你回来了。我会将你的末地城发现放在村庄可以研究的地方。",
+        "这次回归值得等待。勘察末地城是干净的，即使前往末地城的旅程并非如此。",
+        "很好，你回来了。这就是我希望看到的潜影壳证据。",
+        "我很高兴见到你回家。你从末地城回来，不仅仅只是为了生存。你带来了答案。",
+        "你已经看透了。随着村庄做好更好的准备，末地城市调查结束。",
+        "困难的部分已经过去了。下一位前往末地城的旅行者将拥有您的 路线。",
+        "现在我可以关闭账本了。领取勘察末地城奖励。你在安全道路之外赢得了它。",
+        "村里可以用这个。我很高兴看到潜影贝壳和携带它的人。"
+      ]
+    },
+    "quest.lost_civilization.end_city_survey.dialogue.unavailable": {
+      "lines": [
+        "我不会把这个负担加在你身上。这项调查等待村里可以信任的人来提供不可能的指示。",
+        "我首先需要证明你的判断力。勘察末地城要求我对你还没有信任。",
+        "这需要我们更了解的人。今天我无法通过潜影贝和虚空给你一个 路线。",
+        "这个村庄需要更稳定的手。末地城不是未经考验的盟友的立足之地。",
+        "我不会把这个负担加在你身上。在索要末地城地图之前，先在这里做更稳定的工作。",
+        "这需要我们更了解的人。我需要一个可以信任的人从末地城回来。",
+        "不，风险太高了。该调查目前不对您开放。",
+        "有些工作必须等到信任赶上来才可以。勘察末地城的风险不仅仅是旅行者的生命。",
+        "在再次询问之前先赢得我们的信任。赢得我们的信任，然后再询问这座城市的情况。",
+        "这需要我们更了解的人。我不会在末日硬签名后派陌生人过来。",
+        "不，风险太高了。毫无疑问，末地城对我们来说已经足够危险了。",
+        "这个村庄需要更稳定的手。您的名字尚未到达调查的 信任 页面。",
+        "这需要我们更了解的人。有比勘察末地城更安全的任务可以向我展示你的工作方式。",
+        "今天这项工作不是你的。在提供前往末地城的旅程之前，我需要判断的证据。",
+        "今天这项工作不是你的。目前，末地城地图仍处于折叠状态。",
+        "赢得更多信任后再回来。村庄还没有准备好把来自末日之地的证据带回家对你进行赌注。",
+        "这个村庄需要更稳定的手。等你和我们在一起更久之后再询问末地城的事。",
+        "我不会把这个负担加在你身上。勇气可能会到达末地城。可靠性让潜影贝壳带回家。",
+        "我首先需要证明你的判断力。勘察末地城由经过验证的人员负责。",
+        "我首先需要证明你的判断力。当我们信任你通往末地城的道路时我会告诉你。"
+      ]
+    },
+    "quest.lost_civilization.end_city_survey.objective.bring_chorus_flower.complete_text": {
+      "lines": [
+        "紫颂花样本完好无损。"
+      ]
+    },
+    "quest.lost_civilization.end_city_survey.objective.bring_chorus_flower.text": {
+      "lines": [
+        "带 1 朵紫颂花作为活体样本。"
+      ]
+    },
+    "quest.lost_civilization.end_city_survey.stage.return.dialogue.turn_in.label": "关于勘察末地城",
+    "quest.lost_civilization.end_city_survey.stage.return.dialogue.turn_in.lines": [
+      "塔上有壳，石头上有一朵花。该记录描述了该设置，但仍然没有命名 建筑工。",
+      "这可能是同一个故事中的第二座城市，也可能是同一片天空下的不同废墟。这种联系仍然是一个假设。",
+      "在我关闭笔记之前让我看看完整的作品。"
+    ],
+    "quest.lost_civilization.end_city_survey.stage.return.dialogue.turn_in.response.complete.label": "交出工作。",
+    "quest.lost_civilization.end_city_survey.stage.return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.lost_civilization.end_city_survey.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "塔上有壳，石头上有一朵花。该记录描述了该设置，但仍然没有命名 建筑工。",
+      "这可能是同一个故事中的第二座城市，也可能是同一片天空下的不同废墟。这种联系仍然是一个假设。"
+    ],
+    "quest.lost_civilization.end_city_survey.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "完整的工作尚未准备好进行计算。"
+    ],
+    "quest.lost_civilization.end_city_survey.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "在我们解决这个问题之前，请带上证据。",
+      "我需要在这里提交完整的内容，而不仅仅是故事。"
+    ],
+    "quest.lost_civilization.end_city_survey.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "原料 背后需要一个真正的目的地。",
+      "在我们称之为完成之前到达标记的地方。"
+    ],
+    "quest.lost_civilization.end_city_survey.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "勘察末地城目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.lost_civilization.end_city_survey.stage.return.scene.turn_in_wait.lines": [
+      "末地城方位，手上有一枚潜影壳，还有一朵活的紫颂花。",
+      "当工作准备好时再回来。"
+    ],
+    "quest.lost_civilization.end_city_survey.stage.return.ui.tracker_text": "返回任务给予者。",
+    "quest.lost_civilization.end_city_survey.stage.work.dialogue.offer.label": "勘察末地城",
+    "quest.lost_civilization.end_city_survey.stage.work.dialogue.offer.lines": [
+      "一份古城记录描绘了龙岛之外的塔楼，但相似之处并不能证明它们是谁建造的。",
+      "找到末地城并带回潜影壳和仍在那里生长的东西，以便我们测试记录。",
+      "到达标记的末地城并带着潜影壳和 1 朵紫颂花返回。"
+    ],
+    "quest.lost_civilization.end_city_survey.stage.work.dialogue.offer.response.accept.label": "我能做到。",
+    "quest.lost_civilization.end_city_survey.stage.work.dialogue.offer.response.decline.label": "现在不行。",
+    "quest.lost_civilization.end_city_survey.stage.work.dialogue.reminder.label": "关于勘察末地城",
+    "quest.lost_civilization.end_city_survey.stage.work.dialogue.reminder.lines": [
+      "末地城方位，手上有一枚潜影壳，还有一朵活的紫颂花。",
+      "到达标记的末地城并带着潜影壳和 1 朵紫颂花返回。",
+      "找到末地城并带回潜影壳和仍在那里生长的东西，以便我们测试记录。"
+    ],
+    "quest.lost_civilization.end_city_survey.stage.work.dialogue.reminder.response.abandon.label": "把这个放在一边。",
+    "quest.lost_civilization.end_city_survey.stage.work.dialogue.reminder.response.details.label": "重复该工作。",
+    "quest.lost_civilization.end_city_survey.stage.work.dialogue.reminder.response.leave.label": "我有。",
+    "quest.lost_civilization.end_city_survey.stage.work.objective.bring_flower.tracker.complete_text": "紫颂花完好无损。",
+    "quest.lost_civilization.end_city_survey.stage.work.objective.bring_flower.tracker.text": "带 1 朵紫颂花作为活体样本。",
+    "quest.lost_civilization.end_city_survey.stage.work.objective.carry_shell.tracker.complete_text": "潜影壳已准备就绪。",
+    "quest.lost_civilization.end_city_survey.stage.work.objective.carry_shell.tracker.text": "携带 1 个潜影壳作为证据。",
+    "quest.lost_civilization.end_city_survey.stage.work.objective.visit_city.tracker.complete_text": "末地城已被调查。",
+    "quest.lost_civilization.end_city_survey.stage.work.objective.visit_city.tracker.text": "到达标记的末地城。",
+    "quest.lost_civilization.end_city_survey.stage.work.scene.abandon_confirm.lines": [
+      "把勘察末地城放在一边？",
+      "如果你确定的话我可以把你的名字从工作中删除。"
+    ],
+    "quest.lost_civilization.end_city_survey.stage.work.scene.abandon_confirm.response.cancel.label": "保持打开状态。",
+    "quest.lost_civilization.end_city_survey.stage.work.scene.abandon_confirm.response.confirm.label": "把它放在一边。",
+    "quest.lost_civilization.end_city_survey.stage.work.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "好的。我会从工作中清除你的名字。",
+      "便条收起来了。你可以稍后再问。"
+    ],
+    "quest.lost_civilization.end_city_survey.stage.work.scene.abandon_quest.action.abandon.lines.abandoned_cooldown": [
+      "我会把这张纸条先搁置一段时间，然后再重新发布。",
+      "在你再次提出要求之前，先让工作休息一下。"
+    ],
+    "quest.lost_civilization.end_city_survey.stage.work.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "勘察末地城目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.lost_civilization.end_city_survey.stage.work.scene.decline.lines": [
+      "末日不会去任何地方。它的岛屿几乎不知道如何。"
+    ],
+    "quest.lost_civilization.end_city_survey.stage.work.scene.leave.lines": [
+      "末地城方位，手上有一枚潜影壳，还有一朵活的紫颂花。",
+      "当工作准备好时再回来。"
+    ],
+    "quest.lost_civilization.end_city_survey.stage.work.scene.reminder_details.action.remind.lines.reminder": [
+      "末地城方位，手上有一枚潜影壳，还有一朵活的紫颂花。",
+      "到达标记的末地城并带着潜影壳和 1 朵紫颂花返回。",
+      "找到末地城并带回潜影壳和仍在那里生长的东西，以便我们测试记录。"
+    ],
+    "quest.lost_civilization.end_city_survey.stage.work.scene.reminder_details.action.remind.lines.unavailable": [
+      "勘察末地城目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.lost_civilization.end_city_survey.stage.work.scene.start_quest.action.start.lines.already_completed": [
+      "勘察末地城目前已经确定。",
+      "这项工作已经被计算在内。"
+    ],
+    "quest.lost_civilization.end_city_survey.stage.work.scene.start_quest.action.start.lines.locate_failed": [
+      "我在这里找不到值得信赖的标记。等道路畅通后再询问。",
+      "今天地图不会确定安全目的地。"
+    ],
+    "quest.lost_civilization.end_city_survey.stage.work.scene.start_quest.action.start.lines.started": [
+      "以珍珠为例，缓慢掉落，以及对入口所在位置的清晰记忆。",
+      "到达标记的末地城并带着潜影壳和 1 朵紫颂花返回。"
+    ],
+    "quest.lost_civilization.end_city_survey.stage.work.scene.start_quest.action.start.lines.unavailable": [
+      "勘察末地城目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.lost_civilization.end_city_survey.stage.work.ui.tracker_text": "调查末地城并带着潜影壳和紫颂花返回。",
+    "quest.lost_civilization.end_city_survey.title": {
+      "lines": [
+        "勘察末地城"
+      ]
+    },
+    "quest.lost_civilization.end_city_survey.tracker.bring_chorus_flower.text": {
+      "lines": [
+        "保持 1 个紫颂花样品完好无损。"
+      ]
+    },
+    "quest.lost_civilization.end_city_survey.tracker.proof.text": {
+      "lines": [
+        "带上潜影贝壳和 1 朵紫颂花。"
+      ]
+    },
+    "quest.lost_civilization.end_city_survey.tracker.return.text": {
+      "lines": [
+        "带着来自末地城的证据返回给 任务 提供者。"
+      ]
+    },
+    "quest.lost_civilization.end_city_survey.tracker.title": {
+      "lines": [
+        "勘察末地城"
+      ]
+    },
+    "quest.lost_civilization.end_city_survey.tracker.travel.text": {
+      "lines": [
+        "到达 {target_x}、{target_z} 附近的末地城。"
+      ]
+    }
+  }
+}

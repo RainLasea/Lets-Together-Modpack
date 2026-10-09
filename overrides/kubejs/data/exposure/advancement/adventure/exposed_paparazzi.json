@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "shoot_with_flash": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "shoot_with_flash"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

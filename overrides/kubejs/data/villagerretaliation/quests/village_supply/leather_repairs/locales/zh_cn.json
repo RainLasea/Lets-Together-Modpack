@@ -1,0 +1,360 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.village_supply.leather_repairs.description": {
+      "lines": [
+        "带上用于工具环、盔甲带和背包修理的皮革。"
+      ]
+    },
+    "quest.village_supply.leather_repairs.dialogue.already_completed": {
+      "lines": [
+        "你早期的作品仍然有效。我们已经解决了皮革修理问题。",
+        "这里没有第二次付款。修理堆里有你带来的皮革。",
+        "我问的你都说完了。我数了一下你的8块皮革。我们是方的。",
+        "所欠的已经还清了。皮革工人已经将货物投入使用。",
+        "从此一无所获。您解决了用绳子绑的带子断裂的问题。",
+        "我不会重新打开已完成的帐户。没有理由再收集一车皮革。",
+        "我不会重新打开已完成的帐户。皮革维修已从皮革工作清单中划掉。",
+        "我不会重新打开已完成的帐户。您帮助我们切割带子和工具环的部分已经完成。",
+        "这件事我们已经解决了。最后一批皮革仍在为村庄服务。",
+        "我记得你第一次回来。我记得谁填写了皮革订单，是你。",
+        "该章已关闭。奖励是在皮革交付时支付的。",
+        "从此一无所获。第一次你就做得够多了。我将把旧条目保留在皮革修理项下。",
+        "这件事我们已经解决了。因为您回答了“皮革修理”，所以我们可以将背包放在背上并将工具放在手边。",
+        "你早期的作品仍然有效。全皮计数到达修复堆。什么都没有丢失。",
+        "你早期的作品仍然有效。如果我问你两次，皮革工人就会反对。",
+        "该章已关闭。您交付的皮革已通过检验并投入使用。",
+        "从此一无所获。修理堆中的那个空位属于昨天。",
+        "所欠的已经还清了。记录显示从您那里收到了 8 块皮革。",
+        "这里没有第二次付款。你所做的安静的皮革工作让每个人都继续前进。",
+        "我记得你第一次回来。第一个结局对于皮革修补来说已经足够好了。"
+      ]
+    },
+    "quest.village_supply.leather_repairs.dialogue.inactive": {
+      "lines": [
+        "董事会可以等待。修复桩现在不取皮革。",
+        "今天没有什么需要做这项工作。今天没有皮革订单。",
+        "暂时先别管那项工作。在我要求更多之前，正在清点修理堆。",
+        "现在，就让这件事平息吧。皮革工人还没有提出新的要求。",
+        "等店铺换了再问我。按住皮革。我们没有地方可以放置它。",
+        "当重要的时候我会发布它。切割带子和工具环的需求将会再次出现，但不是今天。",
+        "等店铺换了再问我。我正在等待下一次统计，然后再打开皮革修理店。",
+        "暂时先别管那项工作。现在带 8 块皮革会使仓储拥挤不堪。",
+        "暂时先别管那项工作。最后一批皮革还没有用完。",
+        "时间不对。皮革工人检查剩下的东西后再次询问。",
+        "村里可以等这一件事。我不会发明对皮革的迫切需求。",
+        "还没有开始的理由。修理堆很安静，所以这个可以等。",
+        "时间不对。我们正在处理皮革订单。",
+        "当重要的时候我会发布它。修复桩上没有任何问题。时机根本不对。",
+        "村里可以等这一件事。省点力气，直到我们真正需要皮革为止。",
+        "不是今天。除了皮革修补之外，板上没有当前标记。",
+        "等店铺换了再问我。今天不是另一场皮革比赛的日子。",
+        "等店铺换了再问我。一旦用绳子绑断的带子成为问题，我将重新打开它。",
+        "今天没有什么需要做这项工作。我宁愿拖延也不愿浪费好皮革。",
+        "等店铺换了再问我。等仓储换了再向我询问皮革修补的问题。"
+      ]
+    },
+    "quest.village_supply.leather_repairs.dialogue.locate_failed": {
+      "lines": [
+        "我无法确认当前的皮革订单。修复桩检查完毕后再询问。",
+        "修复堆计数丢失，所以我不会要求你收集皮革。",
+        "目前还没有人确定修复桩需要多少皮革。",
+        "工作笔记不完整。我先算一下皮革数量。",
+        "在村里确认订单之前我不会给你寄皮革。",
+        "修复堆没有发布值得信赖的皮革数量。",
+        "我检查了工作清单两次；皮革请求尚未准备好。",
+        "这个订单可以等到我有最新的皮革理货后。",
+        "在我把订单交给你之前，需要有人检查修理堆。",
+        "村里还没有就皮革数量达成一致。",
+        "我有一张旧的皮革计数板，没有现在的。",
+        "修复桩可能需要皮革，但我不会将猜测变成工作。",
+        "修复堆完成计数后返回。",
+        "该订单缺少详细信息。我需要确认金额和收货地点。",
+        "在工作说明完成之前，我无法将此请求提交给董事会。",
+        "请求尚未准备好。我还在等待修理堆计数。",
+        "在你们开始收集之前，让我确认一下谁需要皮革。",
+        "还没有工作。村里还没有批准这个皮革请求。",
+        "在我提供这项工作之前，仓储需要再次清点。",
+        "当皮革订单有明确的所有者和计数时再次询问。"
+      ]
+    },
+    "quest.village_supply.leather_repairs.dialogue.missing_proof": {
+      "lines": [
+        "带回来一些村里可以核实的东西。在我剪修理带之前把皮革带过来。",
+        "证据必须到达我的手中。在我签字之前我需要这里的皮革。",
+        "你的话并不是缺失的部分。承诺并不能填补修复堆。带来皮革交付。",
+        "带回来一些村里可以核实的东西。你可能已经收集到了，但制革工人还没有收到。",
+        "我无法在空的退货单上签字。把 8 块皮革放在这里，我就可以关闭皮革订单了。",
+        "你带回家的东西决定了这一点。皮革的上交就是这次供应工作的证明。",
+        "最后一个要求仍然缺失。当你的手空着的时候，我无法检查没有弱边缘的声音隐藏。",
+        "带回来一些村里可以核实的东西。你的报告听起来不错。我仍然需要真正的皮革。",
+        "我无法在空的退货单上签字。目前还没有任何东西到达修复堆。",
+        "带回来一些村里可以核实的东西。在我们讨论皮革修理奖励之前，带上你收集的东西。",
+        "带回来一些村里可以核实的东西。修复桩需要可用的皮革，而不是关于它的故事。",
+        "让我看看你带回来了什么。你一放在这里我就会数皮革。",
+        "你回来时却没有带我要的一件东西。请勿将皮革制品留在另一个箱子中。",
+        "你回来时却没有带我要的一件东西。皮革工人正在等待皮革包本身。",
+        "证据必须到达我的手中。最后一步很简单。交出皮革。",
+        "你带回家的东西决定了这一点。我无法用空柜台切割带子和工具环。",
+        "你的话并不是缺失的部分。带着皮革订单回来，我们就完成了。",
+        "你回来时却没有带我要的一件东西。一旦修复堆收到皮革制品，皮革制品就开始计数。",
+        "带回来一些村里可以核实的东西。您只需一步之遥即可完成皮革修补。",
+        "带回来一些村里可以核实的东西。在我完成之前让我看看皮革。"
+      ]
+    },
+    "quest.village_supply.leather_repairs.dialogue.missing_target": {
+      "lines": [
+        "交货时间仍然很短。把剩下的皮革带过来。",
+        "我数了两遍； 8 块皮革的完整订单还没有到。",
+        "这有帮助，但修复桩仍然需要剩余的皮革。",
+        "上交不完整。我还无法关闭工作笔记。",
+        "我们商定了 8 块皮革；堆还是很短。",
+        "把缺少的皮革带过来，然后我就可以结单了。",
+        "修理堆有空间等待其余的交付。",
+        "部分交付无法满足该村的需求。",
+        "你带来了正确的货物，但不是全额。",
+        "再算一下。修复桩还很短。",
+        "工作开始后我无法降低约定的数量。",
+        "继续收集，直到收集完全部 8 块皮革。",
+        "村子可以用这么多，但还需要剩下的。",
+        "工作即将完成；剩下的就是缺少的金额。",
+        "理货和交货尚未匹配。",
+        "带来一份完整的交付，而不是留下维修堆。",
+        "订单将一直开放，直到所有 8 块皮革都到齐为止。",
+        "除了金额之外，你带来的东西没有任何问题。",
+        "维修堆依赖的是完整订单，而不是其中的一部分。",
+        "带着剩下的回来，我会关闭笔记。"
+      ]
+    },
+    "quest.village_supply.leather_repairs.dialogue.reminder": {
+      "lines": [
+        "使这一切得到适当的完成。八块皮革用于修理。干净的剪裁比巧妙的结节省更多的工作。",
+        "牢记整个任务。我还在等待 8 个皮革用于修复堆。",
+        "现在不要丢失线。寻找没有薄弱边缘的声音隐藏。 原料不好只有移动的问题。",
+        "牢记整个任务。皮革工人需要这些皮革来切割带子和工具环。",
+        "不要让已完成的一步分散您的注意力。计数为 8 皮革。回来之前检查一下。",
+        "这项工作仍有未完成的任务。这种皮革交付意味着我们可以将背包和工具放在手边。",
+        "牢记整个任务。如果您要在负载之间进行选择，请先携带皮革。",
+        "将回程行程保留在您的计划中。将皮革订单放在一起，以便轻松清点皮革。",
+        "使这一切得到适当的完成。修复堆有空间等待完整的捆绑包。",
+        "这项工作仍有未完成的任务。不要让一个简单的要求变成用绳子绑起来的断带。",
+        "遵守我给你的指示。皮革修补没有隐藏的部分。带上约定的皮革数量。",
+        "这项工作仍有未完成的任务。小心处理。我想要没有弱边缘的声音隐藏。",
+        "这项工作仍有未完成的任务。如果可以的话，一次性带上所有皮革。",
+        "这项工作仍有未完成的任务。皮革工们正在围绕您的回归计划下一步的工作。",
+        "继续你接受的工作。我在皮革石板上写下了 8 皮革，所以我们都不必猜测。",
+        "这项工作仍有未完成的任务。越早到达，我们就能越早切断带子和工具环。",
+        "将回程行程保留在您的计划中。皮革订单中没有遗漏任何其他内容。",
+        "下一步仍然很重要。当皮革准备好交接时返回。",
+        "这项工作仍有未完成的任务。你知道修复桩需要多少皮革。其余的正在聚集。",
+        "下一步仍然很重要。完整的皮革包可以节省每个人的第二次旅行。"
+      ]
+    },
+    "quest.village_supply.leather_repairs.dialogue.start": {
+      "lines": [
+        "我有一个困难的请求。带8块皮革。半个村庄都拥有一些由希望和带子连接在一起的东西。",
+        "在你同意之前，先听听所有的内容。皮革订单需要8张皮革。你能处理吗？",
+        "村里有工作给你。皮革工人正在尝试切割带子和工具环，而 原料 很薄。",
+        "仔细听。给我8块皮革。我想要没有弱边缘的声音隐藏。",
+        "仔细听。我有一份平淡的工作，却有一份有用的成果。找到 8 块皮革。",
+        "我有一个困难的请求。如果您填写皮革订单，我们可以将背包和工具放在手边。",
+        "在你同意之前，先听听所有的内容。在每个人都需要同样的东西之前，用绳子绑着的带子断裂只是一个小问题。",
+        "我选择你是有原因的。皮革石板上的计数是 8 皮革。",
+        "我需要你来看看这件事。收集皮革并将整个货物运送到这里。",
+        "我把一些重要的事情托付给你。储存修理堆并不是荣耀，但很重要。",
+        "我有一个困难的请求。皮革工人让我为这次跑步寻找可靠的人。",
+        "我选择你是有原因的。我需要干净的交付修理堆。",
+        "仅当您准备好时才接受任务。如果你有时间的话，8张皮革就可以解决皮革短缺的问题。",
+        "这是工作。需求是真实的，这使得皮革修补的说明变得简单。",
+        "这需要小心谨慎。当你有完整的计数时，带上皮革。",
+        "我选择你是有原因的。好的皮革可以让我们切割带子和工具环。",
+        "这需要小心谨慎。在我们行动之前，村里不应该到达用绳子绑着的断带。",
+        "我有一个困难的请求。小心处理皮革包。我们需要没有薄弱边缘的声音隐藏。",
+        "我选择你是有原因的。当修理堆收到完整订单时我会付款。",
+        "认真对待这件事。找到 8 个皮革，我们就可以暂时不再担心这个问题了。"
+      ]
+    },
+    "quest.village_supply.leather_repairs.dialogue.turn_in": {
+      "lines": [
+        "村里可以用这个。隐藏得好。这样可以将工具的手柄和背包放在背上。",
+        "现在我可以关闭账本了。计数是对的。我会把它送到修理堆去。",
+        "您准确地交付了所需的内容。皮革工人现在可以切割带子和工具环。",
+        "您准确地交付了所需的内容。这是没有薄弱边缘的健全皮革。你选得不错。",
+        "您准确地交付了所需的内容。这种交付使我们免于用绳子绑着的带子断裂。",
+        "困难的部分已经过去了。干得好。所有皮革都一起到达。",
+        "你已经看透了。我有你的皮革，你也获得了皮革修补奖励。",
+        "困难的部分已经过去了。修复堆看起来已经不那么光秃秃了。",
+        "现在我可以关闭账本了。这将帮助我们背上背包，手上拿着工具。",
+        "困难的部分已经过去了。你使皮革工人免于用废料凑合。",
+        "这就是我需要的结果。皮革石板上的所有内容都在这里。",
+        "这将会带来真正的改变。一项有用的皮革工作，毫不费力地完成。谢谢。",
+        "您准确地交付了所需的内容。在有人借之前我会把皮革收起来。",
+        "这次回归值得等待。由于您完成了皮革修理，村庄里的库存更加丰富。",
+        "你使工作得到了圆满的结束。你带来的皮革正是我想要的。",
+        "您准确地交付了所需的内容。皮革交付从上到下都是健全的。",
+        "这解决了我对你的要求。修理堆又少了一件，等待着我们的惊喜。",
+        "困难的部分已经过去了。村庄可能不会为皮革喝彩，但会注意到它们的缺席。",
+        "很好，你回来了。接受你的付款。皮革材质让我没有任何抱怨。",
+        "你使工作得到了圆满的结束。我可以放心地将皮革订单交给皮革工人。"
+      ]
+    },
+    "quest.village_supply.leather_repairs.dialogue.unavailable": {
+      "lines": [
+        "这需要我们更了解的人。皮革修补请求暂时关闭。",
+        "这个村庄需要更稳定的手。我还不能把皮革修理项下提交的工作交给您。",
+        "今天这项工作不是你的。皮革订单是给修理厂已经认识的人的。",
+        "我首先需要证明你的判断力。皮革工人需要可以信赖的交货。",
+        "今天这项工作不是你的。在进行皮革修理之前，向村庄展示更稳定的工作。",
+        "我首先需要证明你的判断力。皮革太重要了，不能把赌注押在陌生人身上。",
+        "目前答案是否定的。我今天不会向你打开皮革石板。",
+        "这个村庄需要更稳定的手。建立一些信任，然后再次询问皮革修补的问题。",
+        "我现在还不能相信你。我需要一个能带着整张 8 皮革回来的人。",
+        "您还没有准备好接受此请求。收集皮革很简单，但可靠性是不可忽视的。",
+        "不，风险太高了。目前，皮革订单仍由普通人负责。",
+        "目前答案是否定的。我还不能保证修理堆会从你那里交付。",
+        "这需要我们更了解的人。在我们委托您负责修复工作之前，还有其他工作要做。",
+        "有些工作必须等到信任赶上来才可以。村里还没有允许你参加这次皮革跑步活动。",
+        "我现在还不能相信你。我宁愿等待，也不愿冒险用绳子绑断带子。",
+        "我首先需要证明你的判断力。这不是惩罚。在我打开皮革修理店之前表现出更好的判断力。",
+        "这需要我们更了解的人。制革工人这次要的是熟悉的跑步者。",
+        "有些工作必须等到信任赶上来才可以。当你的名字更有分量后，再来订购皮革。",
+        "今天这项工作不是你的。我不会接受皮革修补方面的新帮助。",
+        "您还没有准备好接受此请求。在这里赢得一些信心，我们可以重新审视皮革修补。"
+      ]
+    },
+    "quest.village_supply.leather_repairs.objective.bring_leather.complete_text": {
+      "lines": [
+        "皮革已准备好切割。"
+      ]
+    },
+    "quest.village_supply.leather_repairs.objective.bring_leather.text": {
+      "lines": [
+        "带8块皮革用于修复带。"
+      ]
+    },
+    "quest.village_supply.leather_repairs.stage.return.dialogue.turn_in.label": "关于皮革修补",
+    "quest.village_supply.leather_repairs.stage.return.dialogue.turn_in.lines": [
+      "柔软、厚实、值得缝合。这些修复将持续下去。",
+      "计数是对的，没有一个会闲置太久。",
+      "在我关闭笔记之前让我看看完整的作品。"
+    ],
+    "quest.village_supply.leather_repairs.stage.return.dialogue.turn_in.response.complete.label": "交出工作。",
+    "quest.village_supply.leather_repairs.stage.return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.village_supply.leather_repairs.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "柔软、厚实、值得缝合。这些修复将持续下去。",
+      "计数是对的，没有一个会闲置太久。",
+      "这样就解决了。村里一定会好好利用这一点。"
+    ],
+    "quest.village_supply.leather_repairs.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "仍然缺少一些东西。在我关闭笔记之前检查日记。",
+      "完整的工作尚未准备好进行计算。"
+    ],
+    "quest.village_supply.leather_repairs.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "在我们解决这个问题之前，请带上证据。",
+      "我需要在这里提交完整的内容，而不仅仅是故事。"
+    ],
+    "quest.village_supply.leather_repairs.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "原料 背后需要一个真正的目的地。",
+      "在我们称之为完成之前到达标记的地方。"
+    ],
+    "quest.village_supply.leather_repairs.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "皮革维修目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_supply.leather_repairs.stage.return.scene.turn_in_wait.lines": [
+      "携带 8 块皮革用于制作围裙、肩带和书皮",
+      "当工作准备好时再回来。"
+    ],
+    "quest.village_supply.leather_repairs.stage.return.ui.tracker_text": "返回任务给予者。",
+    "quest.village_supply.leather_repairs.stage.work.dialogue.offer.label": "皮革修补",
+    "quest.village_supply.leather_repairs.stage.work.dialogue.offer.lines": [
+      "太多的带子已经裂开，而绳子对于皮革来说是一个糟糕的谎言。",
+      "带上 8 块皮革来制作围裙、背带和书籍封面，书架看起来就不那么担心了。",
+      "带 8 块皮革来制作围裙、肩带和书皮。我会让回报值得付出的努力。"
+    ],
+    "quest.village_supply.leather_repairs.stage.work.dialogue.offer.response.accept.label": "我能做到。",
+    "quest.village_supply.leather_repairs.stage.work.dialogue.offer.response.decline.label": "现在不行。",
+    "quest.village_supply.leather_repairs.stage.work.dialogue.reminder.label": "关于皮革修补",
+    "quest.village_supply.leather_repairs.stage.work.dialogue.reminder.lines": [
+      "携带 8 块皮革用于制作围裙、肩带和书皮",
+      "带 8 块皮革来制作围裙、肩带和书皮。",
+      "带上 8 块皮革来制作围裙、背带和书籍封面，书架看起来就不那么担心了。"
+    ],
+    "quest.village_supply.leather_repairs.stage.work.dialogue.reminder.response.abandon.label": "把这个放在一边。",
+    "quest.village_supply.leather_repairs.stage.work.dialogue.reminder.response.details.label": "重复该工作。",
+    "quest.village_supply.leather_repairs.stage.work.dialogue.reminder.response.leave.label": "我有。",
+    "quest.village_supply.leather_repairs.stage.work.scene.abandon_confirm.lines": [
+      "把皮革修理放在一边？",
+      "如果你确定的话我可以把你的名字从工作中删除。"
+    ],
+    "quest.village_supply.leather_repairs.stage.work.scene.abandon_confirm.response.cancel.label": "保持打开状态。",
+    "quest.village_supply.leather_repairs.stage.work.scene.abandon_confirm.response.confirm.label": "把它放在一边。",
+    "quest.village_supply.leather_repairs.stage.work.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "好的。我会从工作中清除你的名字。",
+      "便条收起来了。你可以稍后再问。"
+    ],
+    "quest.village_supply.leather_repairs.stage.work.scene.abandon_quest.action.abandon.lines.abandoned_cooldown": [
+      "我会把这张纸条先搁置一段时间，然后再重新发布。",
+      "在你再次提出要求之前，先让工作休息一下。"
+    ],
+    "quest.village_supply.leather_repairs.stage.work.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "皮革维修目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_supply.leather_repairs.stage.work.scene.decline.lines": [
+      "好的。空架子会以自己的方式不断询问。",
+      "另一双手可能会接住它，或者您可以稍后再问。"
+    ],
+    "quest.village_supply.leather_repairs.stage.work.scene.leave.lines": [
+      "携带 8 块皮革用于制作围裙、肩带和书皮",
+      "当工作准备好时再回来。"
+    ],
+    "quest.village_supply.leather_repairs.stage.work.scene.reminder_details.action.remind.lines.reminder": [
+      "携带 8 块皮革用于制作围裙、肩带和书皮",
+      "带 8 块皮革来制作围裙、肩带和书皮。",
+      "带上 8 块皮革来制作围裙、背带和书籍封面，书架看起来就不那么担心了。"
+    ],
+    "quest.village_supply.leather_repairs.stage.work.scene.reminder_details.action.remind.lines.unavailable": [
+      "皮革维修目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_supply.leather_repairs.stage.work.scene.start_quest.action.start.lines.already_completed": [
+      "皮革修补现在已经解决了。",
+      "这项工作已经被计算在内。"
+    ],
+    "quest.village_supply.leather_repairs.stage.work.scene.start_quest.action.start.lines.locate_failed": [
+      "我在这里找不到值得信赖的标记。等道路畅通后再询问。",
+      "今天地图不会确定安全目的地。"
+    ],
+    "quest.village_supply.leather_repairs.stage.work.scene.start_quest.action.start.lines.started": [
+      "带 8 块皮革来制作围裙、肩带和书皮。在返回的路上将完整的计数放在一起。",
+      "带 8 块皮革来制作围裙、肩带和书皮。",
+      "好的。我会为你带回来的东西保留一个地方。"
+    ],
+    "quest.village_supply.leather_repairs.stage.work.scene.start_quest.action.start.lines.unavailable": [
+      "皮革维修目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_supply.leather_repairs.stage.work.ui.tracker_text": "带 8 块皮革来制作围裙、肩带和书皮。",
+    "quest.village_supply.leather_repairs.title": {
+      "lines": [
+        "皮革修补"
+      ]
+    },
+    "quest.village_supply.leather_repairs.tracker.proof.text": {
+      "lines": [
+        "带8块皮革用于修复带。"
+      ]
+    },
+    "quest.village_supply.leather_repairs.tracker.return.text": {
+      "lines": [
+        "返回带有皮革的 任务 给予者。"
+      ]
+    },
+    "quest.village_supply.leather_repairs.tracker.title": {
+      "lines": [
+        "皮革修补"
+      ]
+    }
+  }
+}

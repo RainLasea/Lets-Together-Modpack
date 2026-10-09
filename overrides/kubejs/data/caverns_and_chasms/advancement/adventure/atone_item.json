@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "atoned_item": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "atoned_item"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

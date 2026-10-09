@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "thunderstruck": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "thunderstruck"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

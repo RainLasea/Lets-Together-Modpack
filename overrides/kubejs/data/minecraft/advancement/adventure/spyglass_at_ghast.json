@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "spyglass_at_ghast": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "spyglass_at_ghast"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

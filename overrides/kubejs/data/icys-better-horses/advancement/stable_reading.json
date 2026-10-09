@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "has_handbook": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "has_handbook"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

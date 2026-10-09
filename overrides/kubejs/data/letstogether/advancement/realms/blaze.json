@@ -1,0 +1,38 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:blaze_rod"
+    },
+    "title": {
+      "translate": "advancements.letstogether.realms.blaze.title",
+      "fallback": "Hot to Handle"
+    },
+    "description": {
+      "translate": "advancements.letstogether.realms.blaze.description",
+      "fallback": "Obtain a blaze rod."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "blaze_rod": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:blaze_rod"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "blaze_rod"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:realms/fortress"
+}

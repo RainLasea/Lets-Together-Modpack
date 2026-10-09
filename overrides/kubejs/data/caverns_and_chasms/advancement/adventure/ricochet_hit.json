@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "ricochet_hit": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "ricochet_hit"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

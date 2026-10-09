@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "silk_touch_nest": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "silk_touch_nest"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

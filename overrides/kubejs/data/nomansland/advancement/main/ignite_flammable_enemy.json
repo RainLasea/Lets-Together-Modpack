@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "ignite_flammable_entity": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "ignite_flammable_entity"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

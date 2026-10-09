@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "id": "create:andesite_casing"
+    },
+    "title": {
+      "translate": "advancements.letstogether.workshop.casing.title",
+      "fallback": "Case Closed"
+    },
+    "description": {
+      "translate": "advancements.letstogether.workshop.casing.description",
+      "fallback": "Make an andesite casing."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "0": {
+      "trigger": "create:andesite_casing_builtin"
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:workshop/alloy"
+}

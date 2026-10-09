@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "froglights": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "froglights"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

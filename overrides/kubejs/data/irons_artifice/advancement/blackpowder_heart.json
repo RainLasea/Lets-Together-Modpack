@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "blackpowder": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "blackpowder"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

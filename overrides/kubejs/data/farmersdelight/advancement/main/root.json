@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "seeds": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "seeds"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

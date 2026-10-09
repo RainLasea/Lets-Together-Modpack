@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "consumed_item": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "consumed_item"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

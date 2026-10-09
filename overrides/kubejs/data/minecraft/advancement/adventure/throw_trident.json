@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "shot_trident": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "shot_trident"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

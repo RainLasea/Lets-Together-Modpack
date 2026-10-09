@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "repair_wolf_armor": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "repair_wolf_armor"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

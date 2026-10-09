@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "obtain_livid_flame": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "obtain_livid_flame"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

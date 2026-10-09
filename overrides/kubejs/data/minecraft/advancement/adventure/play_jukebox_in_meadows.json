@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "play_jukebox_in_meadows": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "play_jukebox_in_meadows"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

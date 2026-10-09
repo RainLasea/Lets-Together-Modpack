@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "fall_from_world_height": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "fall_from_world_height"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

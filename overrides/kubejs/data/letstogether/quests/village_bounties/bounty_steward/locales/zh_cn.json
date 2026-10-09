@@ -1,0 +1,145 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "letstogether.quest.bounty_steward.title": {
+      "lines": [
+        "村庄事务管家"
+      ]
+    },
+    "letstogether.quest.bounty_steward.description": {
+      "lines": [
+        "接受委托后，在赏金板成功交付 5 份赏金，再向委托人复命。需要先完成“村庄的可靠帮手”。此委托可重复接取，完成后冷却 2 个游戏日。"
+      ]
+    },
+    "letstogether.quest.bounty_steward.objective.text": {
+      "lines": [
+        "在赏金板成功交付 5 份赏金"
+      ]
+    },
+    "letstogether.quest.bounty_steward.objective.complete": {
+      "lines": [
+        "赏金已结清，回到委托人处复命。"
+      ]
+    },
+    "letstogether.quest.bounty_steward.dialogue.offer.label": {
+      "lines": [
+        "村庄事务管家"
+      ]
+    },
+    "letstogether.quest.bounty_steward.dialogue.offer.lines": {
+      "lines": [
+        "村里愿意把一批事务交给你了。这次请办妥五份赏金。你也可以先领取王国委托赏金，再去帮村民完成他们自己的任务，让赏金板统一结算。"
+      ]
+    },
+    "letstogether.quest.bounty_steward.dialogue.offer.accept": {
+      "lines": [
+        "交给我吧。"
+      ]
+    },
+    "letstogether.quest.bounty_steward.dialogue.offer.decline": {
+      "lines": [
+        "稍后再来。"
+      ]
+    },
+    "letstogether.quest.bounty_steward.dialogue.reminder.label": {
+      "lines": [
+        "村庄事务管家"
+      ]
+    },
+    "letstogether.quest.bounty_steward.dialogue.reminder.lines": {
+      "lines": [
+        "委托还没全部结算。凑齐物品或打败目标以后，记得拿着赏金纸到赏金板交付。按 J 查看日志，按 K 追踪进度。"
+      ]
+    },
+    "letstogether.quest.bounty_steward.dialogue.reminder.abandon": {
+      "lines": [
+        "我暂时做不了了。"
+      ]
+    },
+    "letstogether.quest.bounty_steward.dialogue.reminder.leave": {
+      "lines": [
+        "我继续去办。"
+      ]
+    },
+    "letstogether.quest.bounty_steward.dialogue.turn_in.label": {
+      "lines": [
+        "村庄事务管家"
+      ]
+    },
+    "letstogether.quest.bounty_steward.dialogue.turn_in.lines": {
+      "lines": [
+        "赏金板已经收到了你的结算记录。现在可以正式复命。"
+      ]
+    },
+    "letstogether.quest.bounty_steward.dialogue.turn_in.complete": {
+      "lines": [
+        "委托都结清了。"
+      ]
+    },
+    "letstogether.quest.bounty_steward.dialogue.turn_in.leave": {
+      "lines": [
+        "稍后再来复命。"
+      ]
+    },
+    "letstogether.quest.bounty_steward.scene.start.started": {
+      "lines": [
+        "那就拜托你了。接取之后完成的赏金才会记入这次委托。"
+      ]
+    },
+    "letstogether.quest.bounty_steward.scene.start.unavailable": {
+      "lines": [
+        "现在还不能接取这份委托，可能需要先完成前置任务，或等冷却结束。"
+      ]
+    },
+    "letstogether.quest.bounty_steward.scene.complete.completed": {
+      "lines": [
+        "五份委托都办妥了。你已经是村里值得依靠的人，这是大家为你准备的报酬。"
+      ]
+    },
+    "letstogether.quest.bounty_steward.scene.complete.missing": {
+      "lines": [
+        "结算记录还没有凑齐。请查看任务日志里的数量。"
+      ]
+    },
+    "letstogether.quest.bounty_steward.scene.complete.unavailable": {
+      "lines": [
+        "这份委托现在无法结算。"
+      ]
+    },
+    "letstogether.quest.bounty_steward.scene.abandon_confirm": {
+      "lines": [
+        "要撤回这份委托吗？已经获得的赏金报酬会保留，下次接取时重新统计委托进度。"
+      ]
+    },
+    "letstogether.quest.bounty_steward.scene.abandon_confirm.yes": {
+      "lines": [
+        "是的，撤回委托。"
+      ]
+    },
+    "letstogether.quest.bounty_steward.scene.abandon_confirm.no": {
+      "lines": [
+        "我再试试。"
+      ]
+    },
+    "letstogether.quest.bounty_steward.scene.abandon.done": {
+      "lines": [
+        "那就先搁置吧，准备好了再来。"
+      ]
+    },
+    "letstogether.quest.bounty_steward.scene.abandon.unavailable": {
+      "lines": [
+        "你现在没有这份委托。"
+      ]
+    },
+    "letstogether.quest.bounty_steward.scene.leave": {
+      "lines": [
+        "赏金板和村民的委托都需要有人去办。准备好了再来。"
+      ]
+    },
+    "letstogether.quest.bounty_steward.ui.tracker": {
+      "lines": [
+        "交付 5 份赏金，然后向委托人复命。"
+      ]
+    }
+  }
+}

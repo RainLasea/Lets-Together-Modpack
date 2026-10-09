@@ -1,0 +1,38 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:soul_sand"
+    },
+    "title": {
+      "translate": "advancements.letstogether.realms.soul_valley.title",
+      "fallback": "Not Great under Foot"
+    },
+    "description": {
+      "translate": "advancements.letstogether.realms.soul_valley.description",
+      "fallback": "Enter a soul sand valley."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "condition": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biomes": "minecraft:soul_sand_valley"
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "condition"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:realms/nether"
+}

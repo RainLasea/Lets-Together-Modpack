@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "netherite_armor": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "netherite_armor"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

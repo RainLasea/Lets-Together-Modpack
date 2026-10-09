@@ -1,0 +1,8 @@
+{
+  "condition": {
+    "type": "nomansland:item_conditional",
+    "items": "minecraft:dragon_egg"
+  },
+  "weight": 1,
+  "text": "One,/ becoming many.///\nSo you have brought me/ a beginning.// Thank you."
+}

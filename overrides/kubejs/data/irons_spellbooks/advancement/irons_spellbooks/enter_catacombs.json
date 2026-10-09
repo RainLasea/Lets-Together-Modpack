@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "in_catacombs": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "in_catacombs"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

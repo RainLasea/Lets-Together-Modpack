@@ -1,0 +1,117 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.village_commissions.ender_freight.description": "调查末地城并回收安全村庄 仓储 的炮弹。",
+    "quest.village_commissions.ender_freight.stage.return.dialogue.turn_in.label": "关于便携仓储",
+    "quest.village_commissions.ender_freight.stage.return.dialogue.turn_in.lines": [
+      "两枚炮弹，一枚真正的 路线，并且没有货物丢失到虚空中。出色的。",
+      "这些将成为村里见过的最好的旅行箱。",
+      "在我关闭笔记之前让我看看完整的作品。"
+    ],
+    "quest.village_commissions.ender_freight.stage.return.dialogue.turn_in.response.complete.label": "交出工作。",
+    "quest.village_commissions.ender_freight.stage.return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.village_commissions.ender_freight.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "两枚炮弹，一枚真正的 路线，并且没有货物丢失到虚空中。出色的。",
+      "这些将成为村里见过的最好的旅行箱。",
+      "这样就解决了。村里一定会好好利用这一点。"
+    ],
+    "quest.village_commissions.ender_freight.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "仍然缺少一些东西。在我关闭笔记之前检查日记。",
+      "完整的工作尚未准备好进行计算。"
+    ],
+    "quest.village_commissions.ender_freight.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "在我们解决这个问题之前，请带上证据。",
+      "我需要在这里提交完整的内容，而不仅仅是故事。"
+    ],
+    "quest.village_commissions.ender_freight.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "原料 背后需要一个真正的目的地。",
+      "在我们称之为完成之前到达标记的地方。"
+    ],
+    "quest.village_commissions.ender_freight.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "便携式 仓储 目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_commissions.ender_freight.stage.return.scene.turn_in_wait.lines": [
+      "末地城标记、四个潜影贝和两个货运箱外壳。",
+      "当工作准备好时再回来。"
+    ],
+    "quest.village_commissions.ender_freight.stage.return.ui.tracker_text": "返回任务给予者。",
+    "quest.village_commissions.ender_freight.stage.work.dialogue.offer.label": "便携仓储",
+    "quest.village_commissions.ender_freight.stage.work.dialogue.offer.lines": [
+      "村庄仓储停留在原地，这正是村庄旅行时的问题。",
+      "绘制末地城地图并带回可以容纳箱子而不需要固定位置的贝壳。",
+      "到达标记的末地城，击败 4 个潜影贝，并带上 2 个潜影贝壳。我会让回报值得付出的努力。"
+    ],
+    "quest.village_commissions.ender_freight.stage.work.dialogue.offer.response.accept.label": "我能做到。",
+    "quest.village_commissions.ender_freight.stage.work.dialogue.offer.response.decline.label": "现在不行。",
+    "quest.village_commissions.ender_freight.stage.work.dialogue.reminder.label": "关于便携仓储",
+    "quest.village_commissions.ender_freight.stage.work.dialogue.reminder.lines": [
+      "末地城标记、四个潜影贝和两个货运箱外壳。",
+      "到达标记的末地城，击败 4 个潜影贝，并带上 2 个潜影贝壳。",
+      "绘制末地城地图并带回可以容纳箱子而不需要固定位置的贝壳。"
+    ],
+    "quest.village_commissions.ender_freight.stage.work.dialogue.reminder.response.abandon.label": "把这个放在一边。",
+    "quest.village_commissions.ender_freight.stage.work.dialogue.reminder.response.details.label": "重复该工作。",
+    "quest.village_commissions.ender_freight.stage.work.dialogue.reminder.response.leave.label": "我有。",
+    "quest.village_commissions.ender_freight.stage.work.objective.bring_shells.tracker.complete_text": "潜影贝壳已准备就绪。",
+    "quest.village_commissions.ender_freight.stage.work.objective.bring_shells.tracker.text": "带上 2 个潜影贝壳。",
+    "quest.village_commissions.ender_freight.stage.work.objective.clear_shulkers.tracker.complete_text": "四个潜影贝已被清除。",
+    "quest.village_commissions.ender_freight.stage.work.objective.clear_shulkers.tracker.text": "击败 4 个潜影贝。",
+    "quest.village_commissions.ender_freight.stage.work.objective.visit_city.tracker.complete_text": "末地城 路线 已确认。",
+    "quest.village_commissions.ender_freight.stage.work.objective.visit_city.tracker.text": "到达标记的末地城。",
+    "quest.village_commissions.ender_freight.stage.work.scene.abandon_confirm.lines": [
+      "把便携仓储放在一边？",
+      "如果你确定的话我可以把你的名字从工作中删除。"
+    ],
+    "quest.village_commissions.ender_freight.stage.work.scene.abandon_confirm.response.cancel.label": "保持打开状态。",
+    "quest.village_commissions.ender_freight.stage.work.scene.abandon_confirm.response.confirm.label": "把它放在一边。",
+    "quest.village_commissions.ender_freight.stage.work.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "好的。我会从工作中清除你的名字。",
+      "便条收起来了。你可以稍后再问。"
+    ],
+    "quest.village_commissions.ender_freight.stage.work.scene.abandon_quest.action.abandon.lines.abandoned_cooldown": [
+      "我会把这张纸条先搁置一段时间，然后再重新发布。",
+      "在你再次提出要求之前，先让工作休息一下。"
+    ],
+    "quest.village_commissions.ender_freight.stage.work.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "便携式 仓储 目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_commissions.ender_freight.stage.work.scene.decline.lines": [
+      "末日仍然会带来不便。就是这样练习的。",
+      "另一双手可能会接住它，或者您可以稍后再问。"
+    ],
+    "quest.village_commissions.ender_freight.stage.work.scene.leave.lines": [
+      "末地城标记、四个潜影贝和两个货运箱外壳。",
+      "当工作准备好时再回来。"
+    ],
+    "quest.village_commissions.ender_freight.stage.work.scene.reminder_details.action.remind.lines.reminder": [
+      "末地城标记、四个潜影贝和两个货运箱外壳。",
+      "到达标记的末地城，击败 4 个潜影贝，并带上 2 个潜影贝壳。",
+      "绘制末地城地图并带回可以容纳箱子而不需要固定位置的贝壳。"
+    ],
+    "quest.village_commissions.ender_freight.stage.work.scene.reminder_details.action.remind.lines.unavailable": [
+      "便携式 仓储 目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_commissions.ender_freight.stage.work.scene.start_quest.action.start.lines.already_completed": [
+      "便携仓储目前已经确定。",
+      "这项工作已经被计算在内。"
+    ],
+    "quest.village_commissions.ender_freight.stage.work.scene.start_quest.action.start.lines.locate_failed": [
+      "我在这里找不到值得信赖的标记。等道路畅通后再询问。",
+      "今天地图不会确定安全目的地。"
+    ],
+    "quest.village_commissions.ender_freight.stage.work.scene.start_quest.action.start.lines.started": [
+      "准备好一颗珍珠。潜影贝喜欢通过夺走重力来教授重力。",
+      "到达标记的末地城，击败 4 个潜影贝，并带上 2 个潜影贝壳。",
+      "好的。我会为你带回来的东西保留一个地方。"
+    ],
+    "quest.village_commissions.ender_freight.stage.work.scene.start_quest.action.start.lines.unavailable": [
+      "便携式 仓储 目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_commissions.ender_freight.stage.work.ui.tracker_text": "到达标记的末地城，击败 4 个潜影贝，并带上 2 个潜影贝壳。",
+    "quest.village_commissions.ender_freight.title": "便携仓储"
+  }
+}

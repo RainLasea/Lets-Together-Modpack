@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "ricochet_hit_yourself": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "ricochet_hit_yourself"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

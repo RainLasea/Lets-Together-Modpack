@@ -1,0 +1,40 @@
+{
+  "display": {
+    "icon": {
+      "id": "quark:smithing_template_rune"
+    },
+    "title": {
+      "translate": "advancements.letstogether.memories.rainbow.title",
+      "fallback": "Wearing the Rainbow"
+    },
+    "description": {
+      "translate": "advancements.letstogether.memories.rainbow.description",
+      "fallback": "Wear a full set of rainbow-rune armor."
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "wear_full_rainbow": {
+      "trigger": "quark:full_rainbow"
+    }
+  },
+  "requirements": [
+    [
+      "wear_full_rainbow"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:memories/rune",
+  "neoforge:conditions": [
+    {
+      "type": "zeta:flag",
+      "flag": "color_runes"
+    }
+  ],
+  "rewards": {
+    "experience": 50
+  }
+}

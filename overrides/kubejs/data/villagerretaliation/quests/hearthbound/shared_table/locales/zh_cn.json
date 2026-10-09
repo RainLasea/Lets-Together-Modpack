@@ -1,0 +1,72 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.hearthbound.shared_table.description": "将新壁炉变成村里可靠的餐桌。",
+    "quest.hearthbound.shared_table.stage.return.dialogue.turn_in.label": "关于大家的晚餐",
+    "quest.hearthbound.shared_table.stage.return.dialogue.turn_in.lines": [
+      "这足以让人们坐下来，而不用想知道谁可以留下来。"
+    ],
+    "quest.hearthbound.shared_table.stage.return.dialogue.turn_in.response.complete.label": "布置桌面。",
+    "quest.hearthbound.shared_table.stage.return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.hearthbound.shared_table.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "好的。共享餐桌并不能解决所有麻烦，但它可以让更少的人面临饥肠辘辘的麻烦。"
+    ],
+    "quest.hearthbound.shared_table.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "在我们叫人进来之前，桌子上还需要面包、土豆、饼干或牛奶。"
+    ],
+    "quest.hearthbound.shared_table.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "在我们摆桌子之前把食物带到这里。"
+    ],
+    "quest.hearthbound.shared_table.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "我现在无法关闭表格注释。"
+    ],
+    "quest.hearthbound.shared_table.stage.return.scene.leave.lines": [
+      "半摆的桌子让人们在门口徘徊。可以的时候带上剩下的。"
+    ],
+    "quest.hearthbound.shared_table.stage.return.ui.tracker_text": "返回表 原料。",
+    "quest.hearthbound.shared_table.stage.stock_table.dialogue.offer.label": "大家的晚餐",
+    "quest.hearthbound.shared_table.stage.stock_table.dialogue.offer.lines": [
+      "壁炉工作了。现在人们假装他们只是为了抽烟而停下来的。",
+      "帮我把它变成一张桌子而不是一个新奇的东西。带12个面包、12个烤土豆、8块饼干和一个牛奶桶。这就是整个晚餐清单。"
+    ],
+    "quest.hearthbound.shared_table.stage.stock_table.dialogue.offer.response.accept.label": "我会帮忙收拾桌子。",
+    "quest.hearthbound.shared_table.stage.stock_table.dialogue.offer.response.decline.label": "不是今天。",
+    "quest.hearthbound.shared_table.stage.stock_table.dialogue.reminder.label": "关于大家的晚餐",
+    "quest.hearthbound.shared_table.stage.stock_table.dialogue.reminder.lines": [
+      "共用的桌子还需要面包、烤土豆、饼干和牛奶桶。晚餐名单不会改变。"
+    ],
+    "quest.hearthbound.shared_table.stage.stock_table.dialogue.reminder.response.details.label": "重复晚餐清单。",
+    "quest.hearthbound.shared_table.stage.stock_table.dialogue.reminder.response.leave.label": "我会带来它。",
+    "quest.hearthbound.shared_table.stage.stock_table.objective.bring_baked_potatoes.tracker.complete_text": "土豆准备好了。",
+    "quest.hearthbound.shared_table.stage.stock_table.objective.bring_baked_potatoes.tracker.text": "带 12 个烤土豆作为一顿保存完好的饭菜。",
+    "quest.hearthbound.shared_table.stage.stock_table.objective.bring_bread.tracker.complete_text": "面包准备好了。",
+    "quest.hearthbound.shared_table.stage.stock_table.objective.bring_bread.tracker.text": "为共享餐桌带来 12 个面包。",
+    "quest.hearthbound.shared_table.stage.stock_table.objective.bring_cookies.tracker.complete_text": "甜蜜的结局已经准备好了。",
+    "quest.hearthbound.shared_table.stage.stock_table.objective.bring_cookies.tracker.text": "带上 8 块饼干，让这顿饭温暖地结束。",
+    "quest.hearthbound.shared_table.stage.stock_table.objective.bring_milk.tracker.complete_text": "牛奶桶准备好了。",
+    "quest.hearthbound.shared_table.stage.stock_table.objective.bring_milk.tracker.text": "携带 1 个牛奶桶用于烹饪锅。",
+    "quest.hearthbound.shared_table.stage.stock_table.scene.decline.lines": [
+      "那么改天吧。好习惯是有耐心的，直到它们被忽视太久为止。"
+    ],
+    "quest.hearthbound.shared_table.stage.stock_table.scene.leave.lines": [
+      "保存下来的食物是可以原谅不合时宜的食物。"
+    ],
+    "quest.hearthbound.shared_table.stage.stock_table.scene.reminder_details.action.remind.lines.reminder": [
+      "带12个面包、12个烤土豆、8块饼干、1个牛奶桶供共用餐桌使用。"
+    ],
+    "quest.hearthbound.shared_table.stage.stock_table.scene.reminder_details.action.remind.lines.unavailable": [
+      "晚餐桌现在还没有准备好进行这项工作。"
+    ],
+    "quest.hearthbound.shared_table.stage.stock_table.scene.start_quest.action.start.lines.already_completed": [
+      "共享表已设置。"
+    ],
+    "quest.hearthbound.shared_table.stage.stock_table.scene.start_quest.action.start.lines.started": [
+      "带12个面包，12个烤土豆，8块饼干，带1个牛奶桶。这就是这顿晚餐的完整清单。"
+    ],
+    "quest.hearthbound.shared_table.stage.stock_table.scene.start_quest.action.start.lines.unavailable": [
+      "该表现在还没有准备好寻求更多帮助。"
+    ],
+    "quest.hearthbound.shared_table.stage.stock_table.ui.tracker_text": "带12个面包，12个烤土豆，8块饼干，带1个牛奶桶。",
+    "quest.hearthbound.shared_table.title": "大家的晚餐"
+  }
+}

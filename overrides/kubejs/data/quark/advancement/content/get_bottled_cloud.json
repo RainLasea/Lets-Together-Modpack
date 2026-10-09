@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "get_bottled_cloud": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "get_bottled_cloud"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

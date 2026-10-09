@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "open_large_storage_duct": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "open_large_storage_duct"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

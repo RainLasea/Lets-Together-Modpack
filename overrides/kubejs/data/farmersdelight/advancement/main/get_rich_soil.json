@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "get_rich_soil": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "get_rich_soil"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

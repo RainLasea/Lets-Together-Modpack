@@ -1,0 +1,43 @@
+{
+  "display": {
+    "icon": {
+      "id": "handcrafted:oak_chair"
+    },
+    "title": {
+      "translate": "advancements.letstogether.home.chair.title",
+      "fallback": "Take a Seat"
+    },
+    "description": {
+      "translate": "advancements.letstogether.home.chair.description",
+      "fallback": "Place a Handcrafted oak chair."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "place": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "block": {
+                "blocks": "handcrafted:oak_chair"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "place"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:home/sleep"
+}

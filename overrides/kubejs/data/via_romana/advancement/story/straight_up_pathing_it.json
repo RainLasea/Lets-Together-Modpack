@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "straight_up_pathing_it": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "straight_up_pathing_it"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

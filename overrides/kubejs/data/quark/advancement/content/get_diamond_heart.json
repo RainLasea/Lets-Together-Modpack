@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "get_diamond_heart": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "get_diamond_heart"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "gift_enadrake": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "gift_enadrake"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

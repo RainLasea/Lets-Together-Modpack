@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "tags": [
+      "content.dialogue",
+      "dialogue.ambient",
+      "scope.profession.mason",
+      "section.messages"
+    ],
+    "topic": "professions.mason.messages"
+  },
+  "messages": [
+    {
+      "id": "mason_gift_given_variants",
+      "key": "gift_given",
+      "lines": [
+        "在这里，{gift_item}。强大的村庄是一次建立一个公平的交易所。",
+        "以{gift_item}为例。稳定的手值得稳定的感谢。",
+        "以{gift_item}为例。稳定的双手比言语更值得。",
+        "以{gift_item}为例。我帮你清除了石头灰尘。",
+        "这是{gift_item}。良好的帮助应该得到坚实的回报。",
+        "在工作日埋葬 {gift_item} 之前，我把它放在一边。",
+        "保留 {gift_item}。它属于有用的人。",
+        "这台 {gift_item} 是你的了。无需言语。",
+        "我选择 {gift_item} 因为你知道如何让事情持久。",
+        "以{gift_item}为例。你赢得的不仅仅是石匠的点头。",
+        "我在灰尘进入 {gift_item} 之前将其包裹起来。",
+        "这里。 {gift_item} 应该比我的架子更好地为您服务。",
+        "村里靠的是回报。我的是{gift_item}。",
+        "我记得你在整理 原料 时提供的帮助并保存了 {gift_item}。",
+        "好好利用{gift_item}。这对我来说已经足够感谢了。",
+        "一句普通的感谢感觉太轻松了，所以我带了{gift_item}。",
+        "当工作繁重时，你出现了。以{gift_item}为例。",
+        "我相信您知道 {gift_item} 何时会变得重要。",
+        "保持 {gift_item} 靠近。有用的东西不应该浪费。",
+        "这不是交易。我只是想让你拥有 {gift_item}。"
+      ],
+      "weight": 48
+    },
+    {
+      "id": "mason_gift_advice_followup_liked_variants",
+      "key": "gift_advice_followup.liked",
+      "lines": [
+        "好的。 {gift_item} 与 {tested_villager} 呈方形。",
+        "然后建议是水平的。 {tested_villager} 喜欢 {gift_item}。",
+        "这个建议是正确的。 {tested_villager} 喜欢 {gift_item}。",
+        "{tested_villager}保留了{gift_item}。你的选择依然有效。",
+        "我在{tested_villager}上看到了这个样子。 {gift_item}落地顺利。",
+        "判断力好。 {gift_item} 适合 {tested_villager}。",
+        "这份礼物在 {tested_villager} 中找到了合适的位置。",
+        "你可以不用再担心了。 {tested_villager}真的很喜欢{gift_item}。",
+        "如果您再次选择 {tested_villager}，请记住该反应。",
+        "{tested_villager} 在这一天结束之前发现了 {gift_item} 的用途。",
+        "您将 {gift_item} 与人匹配，而不是与价格匹配。",
+        "在感谢之前先是微笑。这是诚实的部分。",
+        "之后我听到{tested_villager}两次提到{gift_item}。",
+        "这一选择是建立在比大多数礼物更好的判断力之上的。",
+        "当我上次看时，{gift_item} 仍然接近 {tested_villager}。",
+        "你用 {gift_item} 让 {tested_villager} 感到受到关注。",
+        "这种反应看起来一点也不礼貌或强迫。",
+        "时机很有帮助，但 {gift_item} 也是正确的选择。",
+        "您选择了一些有用且个性化的东西。这是一个强大的组合。",
+        "{tested_villager}对待{gift_item}就像对待它一样重要。"
+      ],
+      "weight": 44
+    },
+    {
+      "id": "mason_gift_advice_followup_disliked_variants",
+      "key": "gift_advice_followup.disliked",
+      "lines": [
+        "那个根基破裂了。对于 {gift_subject}，请设置 {alternative_gift}。",
+        "{gift_item}没有承受重量吗？尝试 {alternative_gift}。更坚定的选择。",
+        "那件礼物解决了错误。将 {alternative_gift} 设置为 {gift_subject} 的位置。",
+        "{gift_item} 未达到 {gift_subject} 的目标。尝试 {alternative_gift}。",
+        "对于 {gift_subject}，请留下 {gift_item}，并带上 {alternative_gift}。",
+        "{gift_subject} 对 {gift_item} 没有用处。",
+        "将 {gift_item} 从 {gift_subject} 列表中删除。",
+        "为需要的人保存 {gift_item}。",
+        "{gift_subject} 的外观解决了这个问题。",
+        "下次带上{alternative_gift}，并保持简短的解释。",
+        "这个选择从一开始就基础薄弱。",
+        "{gift_subject}需要不同的想法。从 {alternative_gift} 开始。",
+        "在第二次尝试之前将 {gift_item} 放在一边。",
+        "{gift_item} 你猜错了。下次先问一下。",
+        "{gift_subject}很客气，但答案仍然是否定的。",
+        "至少这个错误将我们引向了 {alternative_gift}。",
+        "不要用较长的演讲来修补第一个礼物。",
+        "{gift_subject} 的更好选择是 {alternative_gift}。",
+        "这份礼物在第一次诚实的反应下就破裂了。",
+        "保留{gift_item}并围绕{alternative_gift}重建计划。"
+      ],
+      "weight": 44
+    },
+    {
+      "key": "gift_advice_followup.disliked",
+      "lines": [
+        "我这个建议是歪曲的。请尝试使用 {alternative_gift}。",
+        "那是一个很糟糕的选择。 {alternative_gift} 有更好的机会。",
+        "我误读了路标，让你走上了错误的道路。",
+        "让尘埃落定后再重试。",
+        "他们的表情已经清楚地表明了答案。",
+        "把第一个想法放在一边。",
+        "如果他们欢迎再次尝试，请带上 {alternative_gift} 并保持简单。",
+        "当他们拒绝时，他们表现得很友善。",
+        "一次拒绝就够了。不要再要求他们解释。",
+        "在为他们选择之前询问他们想要什么。",
+        "我的建议是 <shake>错误的</shake>。我拥有那个。",
+        "一件糟糕的礼物比伤害自尊更容易修复。",
+        "如果他们想要空间，另一个物体将无济于事。",
+        "请稍等片刻，然后再提供 {alternative_gift}。",
+        "我给了建议，但你还是需要听听他们的意见。",
+        "不同的人想要不同的东西。猜测造成了这个混乱。",
+        "干净利落地接受“不”，然后退后一步。",
+        "现在先把第一份礼物放在一边。",
+        "道歉不需要丝带。",
+        "如果他们要求再次尝试，请谨慎选择 {alternative_gift}。"
+      ],
+      "dispositions": [
+        "cautious",
+        "rude",
+        "hostile",
+        "fearful"
+      ],
+      "weight": 20,
+      "id": "professions.mason.messages.00_messages.messages.gift_advice_followup.disliked.003"
+    },
+    {
+      "key": "gift_advice_followup.disliked",
+      "lines": [
+        "你听从了我的建议，却没有观察他们的反应。现在解决这个问题。",
+        "这个选择是错误的，而你却一直在推动它。",
+        "除非他们要求，否则不再有礼物。",
+        "在整个想法变得更沉重之前先把它放下。",
+        "我提供了一种可能性。您将其视为 蓝图。",
+        "如果您再次忽略它们，{alternative_gift}也会失败。",
+        "人不是一堵墙，你要不停地敲打它，直到它移动。",
+        "你没有击中目标，并一直坚持 <shake>锤击</shake>。",
+        "别再把道歉变成表演了。",
+        "感恩不是因为你继承了一些东西而欠下的。",
+        "你应该问他们，而不是我。",
+        "我不会帮你用{alternative_gift}作为压力。",
+        "一错就尴尬。拒绝倾听就显得很残忍。",
+        "他们说不。停在那里。",
+        "我的建议并不能成为你选择做什么的借口。",
+        "如果他们想要 {alternative_gift}，他们可以自己说。",
+        "道歉一次，然后给他们空间。",
+        "让他们一个人待着，直到他们回来。",
+        "在购买另一件东西之前要学会倾听拒绝的声音。",
+        "礼物只是问题的一半。剩下的就是你如何处理答案。"
+      ],
+      "dispositions": [
+        "rude",
+        "hostile"
+      ],
+      "weight": 20,
+      "id": "professions.mason.messages.00_messages.messages.gift_advice_followup.disliked.004"
+    }
+  ]
+}

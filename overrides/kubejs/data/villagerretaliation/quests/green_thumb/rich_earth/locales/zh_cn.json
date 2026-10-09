@@ -1,0 +1,113 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.green_thumb.rich_earth.description": "用工作堆和深厚的肥沃床完成堆肥 路线。",
+    "quest.green_thumb.rich_earth.stage.return.dialogue.turn_in.label": "关于富地",
+    "quest.green_thumb.rich_earth.stage.return.dialogue.turn_in.lines": [
+      "每张床都已准备就绪。堆肥场已完成。",
+      "没有浪费，每一行都吃饱了。这是一个值得保留的领域。",
+      "在我关闭笔记之前让我看看完整的作品。"
+    ],
+    "quest.green_thumb.rich_earth.stage.return.dialogue.turn_in.response.complete.label": "交出工作。",
+    "quest.green_thumb.rich_earth.stage.return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.green_thumb.rich_earth.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "每张床都已准备就绪。堆肥场已完成。",
+      "没有浪费，每一行都吃饱了。这是一个值得保留的领域。"
+    ],
+    "quest.green_thumb.rich_earth.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "完整的工作尚未准备好进行计算。"
+    ],
+    "quest.green_thumb.rich_earth.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "在我们解决这个问题之前，请带上证据。",
+      "我需要在这里提交完整的内容，而不仅仅是故事。"
+    ],
+    "quest.green_thumb.rich_earth.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "原料 背后需要一个真正的目的地。",
+      "在我们称之为完成之前到达标记的地方。"
+    ],
+    "quest.green_thumb.rich_earth.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "肥沃土地目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.green_thumb.rich_earth.stage.return.scene.turn_in_wait.lines": [
+      "堆肥机转八圈，三十二块泥土，二十四块骨粉。",
+      "当工作准备好时再回来。"
+    ],
+    "quest.green_thumb.rich_earth.stage.return.ui.tracker_text": "返回任务给予者。",
+    "quest.green_thumb.rich_earth.stage.work.dialogue.offer.label": "肥沃土地",
+    "quest.green_thumb.rich_earth.stage.work.dialogue.offer.lines": [
+      "第一张床很丰富。现在，该领域的其他领域也需要同样的耐心。",
+      "翻堆，抬高床，并给第一口种植井施肥。",
+      "堆肥 8 次，然后带来 32 块泥土和 24 块骨粉。"
+    ],
+    "quest.green_thumb.rich_earth.stage.work.dialogue.offer.response.accept.label": "我能做到。",
+    "quest.green_thumb.rich_earth.stage.work.dialogue.offer.response.decline.label": "现在不行。",
+    "quest.green_thumb.rich_earth.stage.work.dialogue.reminder.label": "关于富地",
+    "quest.green_thumb.rich_earth.stage.work.dialogue.reminder.lines": [
+      "堆肥机转八圈，三十二块泥土，二十四块骨粉。",
+      "堆肥 8 次，然后带来 32 块泥土和 24 块骨粉。",
+      "翻堆，抬高床，并给第一口种植井施肥。"
+    ],
+    "quest.green_thumb.rich_earth.stage.work.dialogue.reminder.response.abandon.label": "把这个放在一边。",
+    "quest.green_thumb.rich_earth.stage.work.dialogue.reminder.response.details.label": "重复该工作。",
+    "quest.green_thumb.rich_earth.stage.work.dialogue.reminder.response.leave.label": "我有。",
+    "quest.green_thumb.rich_earth.stage.work.objective.bring_bone_meal.tracker.complete_text": "骨粉就做好了。",
+    "quest.green_thumb.rich_earth.stage.work.objective.bring_bone_meal.tracker.text": "第一次种植时带24骨粉。",
+    "quest.green_thumb.rich_earth.stage.work.objective.bring_dirt.tracker.complete_text": "床土准备好了。",
+    "quest.green_thumb.rich_earth.stage.work.objective.bring_dirt.tracker.text": "为高架床带来 32 块泥土。",
+    "quest.green_thumb.rich_earth.stage.work.objective.turn_heaps.tracker.complete_text": "堆肥堆已充分发挥作用。",
+    "quest.green_thumb.rich_earth.stage.work.objective.turn_heaps.tracker.text": "堆肥机工作 8 次。",
+    "quest.green_thumb.rich_earth.stage.work.scene.abandon_confirm.lines": [
+      "把富裕的地球放在一边？",
+      "如果你确定的话我可以把你的名字从工作中删除。"
+    ],
+    "quest.green_thumb.rich_earth.stage.work.scene.abandon_confirm.response.cancel.label": "保持打开状态。",
+    "quest.green_thumb.rich_earth.stage.work.scene.abandon_confirm.response.confirm.label": "把它放在一边。",
+    "quest.green_thumb.rich_earth.stage.work.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "好的。我会从工作中清除你的名字。",
+      "便条收起来了。你可以稍后再问。"
+    ],
+    "quest.green_thumb.rich_earth.stage.work.scene.abandon_quest.action.abandon.lines.abandoned_cooldown": [
+      "我会把这张纸条先搁置一段时间，然后再重新发布。",
+      "在你再次提出要求之前，先让工作休息一下。"
+    ],
+    "quest.green_thumb.rich_earth.stage.work.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "肥沃土地目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.green_thumb.rich_earth.stage.work.scene.decline.lines": [
+      "无论我们是否观看，这些堆都会继续烹饪。"
+    ],
+    "quest.green_thumb.rich_earth.stage.work.scene.leave.lines": [
+      "堆肥机转八圈，三十二块泥土，二十四块骨粉。",
+      "当工作准备好时再回来。"
+    ],
+    "quest.green_thumb.rich_earth.stage.work.scene.reminder_details.action.remind.lines.reminder": [
+      "堆肥机转八圈，三十二块泥土，二十四块骨粉。",
+      "堆肥 8 次，然后带来 32 块泥土和 24 块骨粉。",
+      "翻堆，抬高床，并给第一口种植井施肥。"
+    ],
+    "quest.green_thumb.rich_earth.stage.work.scene.reminder_details.action.remind.lines.unavailable": [
+      "肥沃土地目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.green_thumb.rich_earth.stage.work.scene.start_quest.action.start.lines.already_completed": [
+      "肥沃土地现在已经解决了。",
+      "这项工作已经被计算在内。"
+    ],
+    "quest.green_thumb.rich_earth.stage.work.scene.start_quest.action.start.lines.locate_failed": [
+      "我在这里找不到值得信赖的标记。等道路畅通后再询问。",
+      "今天地图不会确定安全目的地。"
+    ],
+    "quest.green_thumb.rich_earth.stage.work.scene.start_quest.action.start.lines.started": [
+      "一个好的田地需要两次建造：一次是用泥土建造的，一次是用我们返回的东西建造的。",
+      "堆肥 8 次，然后带来 32 块泥土和 24 块骨粉。"
+    ],
+    "quest.green_thumb.rich_earth.stage.work.scene.start_quest.action.start.lines.unavailable": [
+      "肥沃土地目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.green_thumb.rich_earth.stage.work.ui.tracker_text": "堆肥 8 次，然后带来 32 块泥土和 24 块骨粉。",
+    "quest.green_thumb.rich_earth.title": "肥沃土地"
+  }
+}

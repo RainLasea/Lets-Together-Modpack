@@ -1,0 +1,40 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:filled_map"
+    },
+    "title": {
+      "translate": "advancements.letstogether.travel.map.title",
+      "fallback": "On the Map"
+    },
+    "description": {
+      "translate": "advancements.letstogether.travel.map.description",
+      "fallback": "Obtain a filled map."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "item_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:filled_map"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "item_0"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:travel/root"
+}

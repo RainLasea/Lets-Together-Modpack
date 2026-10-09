@@ -1,0 +1,25 @@
+{
+  "criteria": {
+    "tame_grizzly": {
+      "trigger": "minecraft:impossible"
+    },
+    "tame_grolar": {
+      "trigger": "minecraft:impossible"
+    },
+    "tame_warm": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "tame_grizzly"
+    ],
+    [
+      "tame_grolar"
+    ],
+    [
+      "tame_warm"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

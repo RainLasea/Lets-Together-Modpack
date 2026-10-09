@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "buddy_ascension": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "buddy_ascension"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

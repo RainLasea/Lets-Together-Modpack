@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "killed_dragon": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "killed_dragon"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

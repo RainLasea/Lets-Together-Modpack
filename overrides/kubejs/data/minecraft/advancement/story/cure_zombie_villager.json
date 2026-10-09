@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "cured_zombie": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "cured_zombie"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

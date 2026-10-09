@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "redirect_beacon": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "redirect_beacon"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

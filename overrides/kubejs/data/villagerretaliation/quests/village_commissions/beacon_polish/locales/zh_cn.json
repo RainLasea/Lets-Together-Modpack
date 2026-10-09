@@ -1,0 +1,115 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.village_commissions.beacon_polish.description": "击败凋灵并交出其下界之星以换取另一个村庄信标。",
+    "quest.village_commissions.beacon_polish.stage.return.dialogue.turn_in.label": "关于照亮归途的星",
+    "quest.village_commissions.beacon_polish.stage.return.dialogue.turn_in.lines": [
+      "这颗星星将把村庄的光芒延伸到另一片田野。",
+      "凋灵消失了。另一个村区得到了光明，你得到了荣誉和报酬。",
+      "在我关闭笔记之前让我看看完整的作品。"
+    ],
+    "quest.village_commissions.beacon_polish.stage.return.dialogue.turn_in.response.complete.label": "交出工作。",
+    "quest.village_commissions.beacon_polish.stage.return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.village_commissions.beacon_polish.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "这颗星星将把村庄的光芒延伸到另一片田野。",
+      "凋灵消失了。另一个村区得到了光明，你得到了荣誉和报酬。",
+      "这样就解决了。村里一定会好好利用这一点。"
+    ],
+    "quest.village_commissions.beacon_polish.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "仍然缺少一些东西。在我关闭笔记之前检查日记。",
+      "完整的工作尚未准备好进行计算。"
+    ],
+    "quest.village_commissions.beacon_polish.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "在我们解决这个问题之前，请带上证据。",
+      "我需要在这里提交完整的内容，而不仅仅是故事。"
+    ],
+    "quest.village_commissions.beacon_polish.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "原料 背后需要一个真正的目的地。",
+      "在我们称之为完成之前到达标记的地方。"
+    ],
+    "quest.village_commissions.beacon_polish.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "家庭之星目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_commissions.beacon_polish.stage.return.scene.turn_in_wait.lines": [
+      "一颗凋灵，一颗虚空之星。没有比这更小的说法了。",
+      "当工作准备好时再回来。"
+    ],
+    "quest.village_commissions.beacon_polish.stage.return.ui.tracker_text": "返回任务给予者。",
+    "quest.village_commissions.beacon_polish.stage.work.dialogue.offer.label": "照亮归途的星",
+    "quest.village_commissions.beacon_polish.stage.work.dialogue.offer.lines": [
+      "村里可以再建一个灯塔基地。外部领域仍然位于光线之外。",
+      "打倒凋灵并交出它的下界之星。另一个村区将站在这一点上。",
+      "击败凋灵并带回其下界之星。我会让回报值得付出的努力。"
+    ],
+    "quest.village_commissions.beacon_polish.stage.work.dialogue.offer.response.accept.label": "我能做到。",
+    "quest.village_commissions.beacon_polish.stage.work.dialogue.offer.response.decline.label": "现在不行。",
+    "quest.village_commissions.beacon_polish.stage.work.dialogue.reminder.label": "关于照亮归途的星",
+    "quest.village_commissions.beacon_polish.stage.work.dialogue.reminder.lines": [
+      "一颗凋灵，一颗虚空之星。没有比这更小的说法了。",
+      "击败凋灵并带回其下界之星。",
+      "打倒凋灵并交出它的下界之星。另一个村区将站在这一点上。"
+    ],
+    "quest.village_commissions.beacon_polish.stage.work.dialogue.reminder.response.abandon.label": "把这个放在一边。",
+    "quest.village_commissions.beacon_polish.stage.work.dialogue.reminder.response.details.label": "重复该工作。",
+    "quest.village_commissions.beacon_polish.stage.work.dialogue.reminder.response.leave.label": "我有。",
+    "quest.village_commissions.beacon_polish.stage.work.objective.bring_star.tracker.complete_text": "下界之星已经准备好了。",
+    "quest.village_commissions.beacon_polish.stage.work.objective.bring_star.tracker.text": "带 1 颗下界之星。",
+    "quest.village_commissions.beacon_polish.stage.work.objective.defeat_wither.tracker.complete_text": "凋灵已被击败。",
+    "quest.village_commissions.beacon_polish.stage.work.objective.defeat_wither.tracker.text": "击败 1 名凋灵。",
+    "quest.village_commissions.beacon_polish.stage.work.scene.abandon_confirm.lines": [
+      "把“家之星”放在一边？",
+      "如果你确定的话我可以把你的名字从工作中删除。"
+    ],
+    "quest.village_commissions.beacon_polish.stage.work.scene.abandon_confirm.response.cancel.label": "保持打开状态。",
+    "quest.village_commissions.beacon_polish.stage.work.scene.abandon_confirm.response.confirm.label": "把它放在一边。",
+    "quest.village_commissions.beacon_polish.stage.work.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "好的。我会从工作中清除你的名字。",
+      "便条收起来了。你可以稍后再问。"
+    ],
+    "quest.village_commissions.beacon_polish.stage.work.scene.abandon_quest.action.abandon.lines.abandoned_cooldown": [
+      "我会把这张纸条先搁置一段时间，然后再重新发布。",
+      "在你再次提出要求之前，先让工作休息一下。"
+    ],
+    "quest.village_commissions.beacon_polish.stage.work.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "家庭之星目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_commissions.beacon_polish.stage.work.scene.decline.lines": [
+      "这不是懦弱。凋灵值得精心选择一天。",
+      "另一双手可能会接住它，或者您可以稍后再问。"
+    ],
+    "quest.village_commissions.beacon_polish.stage.work.scene.leave.lines": [
+      "一颗凋灵，一颗虚空之星。没有比这更小的说法了。",
+      "当工作准备好时再回来。"
+    ],
+    "quest.village_commissions.beacon_polish.stage.work.scene.reminder_details.action.remind.lines.reminder": [
+      "一颗凋灵，一颗虚空之星。没有比这更小的说法了。",
+      "击败凋灵并带回其下界之星。",
+      "打倒凋灵并交出它的下界之星。另一个村区将站在这一点上。"
+    ],
+    "quest.village_commissions.beacon_polish.stage.work.scene.reminder_details.action.remind.lines.unavailable": [
+      "家庭之星目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_commissions.beacon_polish.stage.work.scene.start_quest.action.start.lines.already_completed": [
+      "居家之星目前已经确定。",
+      "这项工作已经被计算在内。"
+    ],
+    "quest.village_commissions.beacon_polish.stage.work.scene.start_quest.action.start.lines.locate_failed": [
+      "我在这里找不到值得信赖的标记。等道路畅通后再询问。",
+      "今天地图不会确定安全目的地。"
+    ],
+    "quest.village_commissions.beacon_polish.stage.work.scene.start_quest.action.start.lines.started": [
+      "远离每一个屋顶、钟声、床铺、动物和你可能会错过的东西，与它战斗。",
+      "击败凋灵并带回其下界之星。",
+      "好的。我会为你带回来的东西保留一个地方。"
+    ],
+    "quest.village_commissions.beacon_polish.stage.work.scene.start_quest.action.start.lines.unavailable": [
+      "家庭之星目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_commissions.beacon_polish.stage.work.ui.tracker_text": "击败凋灵并带回其下界之星。",
+    "quest.village_commissions.beacon_polish.title": "照亮归途的星"
+  }
+}

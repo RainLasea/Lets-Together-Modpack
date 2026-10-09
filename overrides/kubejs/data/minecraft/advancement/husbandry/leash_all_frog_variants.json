@@ -1,0 +1,25 @@
+{
+  "criteria": {
+    "minecraft:cold": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:temperate": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:warm": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "minecraft:temperate"
+    ],
+    [
+      "minecraft:warm"
+    ],
+    [
+      "minecraft:cold"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

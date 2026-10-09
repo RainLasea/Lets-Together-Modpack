@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "id": "the_beyond:ring_remembrance"
+    },
+    "title": {
+      "translate": "advancements.letstogether.realms.remembrance.title",
+      "fallback": "This One's for You"
+    },
+    "description": {
+      "translate": "advancements.letstogether.realms.remembrance.description",
+      "fallback": "Give a remembrance to an Abyssal Nomad."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "give_remembrance": {
+      "trigger": "the_beyond:give_remembrance"
+    }
+  },
+  "requirements": [
+    [
+      "give_remembrance"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:realms/nomad"
+}

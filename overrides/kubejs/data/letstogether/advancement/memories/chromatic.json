@@ -1,0 +1,44 @@
+{
+  "display": {
+    "icon": {
+      "id": "exposure:chromatic_sheet"
+    },
+    "title": {
+      "translate": "advancements.letstogether.memories.chromatic.title",
+      "fallback": "Three Colors, One Print"
+    },
+    "description": {
+      "translate": "advancements.letstogether.memories.chromatic.description",
+      "fallback": "Print a chromatic photograph."
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "print_chromatic_photograph": {
+      "conditions": {
+        "item": {
+          "items": [
+            "exposure:photograph",
+            "exposure:aged_photograph"
+          ],
+          "predicates": {
+            "exposure:frame": {
+              "extra_data": "{chromatic:1b}"
+            }
+          }
+        }
+      },
+      "trigger": "exposure:frame_printed"
+    }
+  },
+  "requirements": [
+    [
+      "print_chromatic_photograph"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:memories/print"
+}

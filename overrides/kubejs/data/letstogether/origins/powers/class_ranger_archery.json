@@ -1,0 +1,6 @@
+{
+  "type": "neoorigins:modify_damage",
+  "direction": "out",
+  "multiplier": 1.08,
+  "damage_type": "#minecraft:is_projectile"
+}

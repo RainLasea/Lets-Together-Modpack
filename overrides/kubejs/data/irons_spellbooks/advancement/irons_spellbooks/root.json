@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "inscription_table": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "inscription_table"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

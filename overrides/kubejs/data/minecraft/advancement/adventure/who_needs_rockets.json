@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "who_needs_rockets": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "who_needs_rockets"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

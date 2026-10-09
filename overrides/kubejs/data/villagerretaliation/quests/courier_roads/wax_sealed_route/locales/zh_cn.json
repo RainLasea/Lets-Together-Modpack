@@ -1,0 +1,88 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.courier_roads.wax_sealed_route.description": "准备好 搬运工 村庄所需的纸张、皮革和蜡，然后信息才能安全传送。",
+    "quest.courier_roads.wax_sealed_route.stage.make_satchel.dialogue.offer.label": "搬运工的包裹",
+    "quest.courier_roads.wax_sealed_route.stage.make_satchel.dialogue.offer.lines": [
+      "消息在无法到达之前很小。然后它就会变成谣言、恐慌或争斗。",
+      "帮我准备一个 搬运工 路线：皮质的书包，纸质的干净复印件，蜂窝状的密封条，可以显示是否有人爱管闲事。"
+    ],
+    "quest.courier_roads.wax_sealed_route.stage.make_satchel.dialogue.offer.response.accept.label": "我会准备路线。",
+    "quest.courier_roads.wax_sealed_route.stage.make_satchel.dialogue.offer.response.decline.label": "现在不要。",
+    "quest.courier_roads.wax_sealed_route.stage.make_satchel.dialogue.reminder.label": "关于搬运工数据包",
+    "quest.courier_roads.wax_sealed_route.stage.make_satchel.dialogue.reminder.lines": [
+      "在密封件发挥作用之前，搬运工 需要一个书包和纸张。"
+    ],
+    "quest.courier_roads.wax_sealed_route.stage.make_satchel.dialogue.reminder.response.details.label": "重复书包清单。",
+    "quest.courier_roads.wax_sealed_route.stage.make_satchel.dialogue.reminder.response.leave.label": "我会带来它。",
+    "quest.courier_roads.wax_sealed_route.stage.make_satchel.objective.bring_leather.tracker.complete_text": "挎包皮革就准备好了。",
+    "quest.courier_roads.wax_sealed_route.stage.make_satchel.objective.bring_leather.tracker.text": "为 搬运工 挎包携带 4 块皮革。",
+    "quest.courier_roads.wax_sealed_route.stage.make_satchel.objective.bring_paper.tracker.complete_text": "路线论文已准备就绪。",
+    "quest.courier_roads.wax_sealed_route.stage.make_satchel.objective.bring_paper.tracker.text": "带 12 张纸用于 路线 笔记和复印件。",
+    "quest.courier_roads.wax_sealed_route.stage.make_satchel.scene.decline.lines": [
+      "然后消息就被折叠起来，每个人都假装等待是一个计划。"
+    ],
+    "quest.courier_roads.wax_sealed_route.stage.make_satchel.scene.leave.lines": [
+      "保持纸张干燥。坏消息传播得足够快，无需墨水帮助它模糊。"
+    ],
+    "quest.courier_roads.wax_sealed_route.stage.make_satchel.scene.reminder_details.action.remind.lines.reminder": [
+      "为搬运工 路线携带4张皮革和12张纸。"
+    ],
+    "quest.courier_roads.wax_sealed_route.stage.make_satchel.scene.reminder_details.action.remind.lines.unavailable": [
+      "搬运工的包裹目前尚未准备好进行该工作。"
+    ],
+    "quest.courier_roads.wax_sealed_route.stage.make_satchel.scene.start_quest.action.start.lines.already_completed": [
+      "蜡封的 路线 已经准备好。"
+    ],
+    "quest.courier_roads.wax_sealed_route.stage.make_satchel.scene.start_quest.action.start.lines.started": [
+      "先带4张皮革和12张纸。带有松散页面的 搬运工 只要有腿就轻而易举。"
+    ],
+    "quest.courier_roads.wax_sealed_route.stage.make_satchel.scene.start_quest.action.start.lines.unavailable": [
+      "搬运工 路线 目前尚未准备好寻求帮助。"
+    ],
+    "quest.courier_roads.wax_sealed_route.stage.make_satchel.ui.tracker_text": "带4张皮革和12张纸。",
+    "quest.courier_roads.wax_sealed_route.stage.return.dialogue.turn_in.label": "关于搬运工数据包",
+    "quest.courier_roads.wax_sealed_route.stage.return.dialogue.turn_in.lines": [
+      "这将使新闻作为新闻到达，而不是跛行的流言。"
+    ],
+    "quest.courier_roads.wax_sealed_route.stage.return.dialogue.turn_in.response.complete.label": "密封 路线。",
+    "quest.courier_roads.wax_sealed_route.stage.return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.courier_roads.wax_sealed_route.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "好的。合适的 路线 是一座安静的桥。你帮助建造了一个。"
+    ],
+    "quest.courier_roads.wax_sealed_route.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "搬运工包仍然需要皮革、纸、蜂窝或其指南针。"
+    ],
+    "quest.courier_roads.wax_sealed_route.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "在我密封包装之前，将 路线 原料 带到这里。"
+    ],
+    "quest.courier_roads.wax_sealed_route.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "我现在无法关闭 搬运工 路线。"
+    ],
+    "quest.courier_roads.wax_sealed_route.stage.return.scene.leave.lines": [
+      "数据包保持打开状态，直到 路线 准备就绪。"
+    ],
+    "quest.courier_roads.wax_sealed_route.stage.return.ui.tracker_text": "带着 搬运工 路线 原料 返回。",
+    "quest.courier_roads.wax_sealed_route.stage.seal_letters.dialogue.reminder.label": "关于搬运工数据包",
+    "quest.courier_roads.wax_sealed_route.stage.seal_letters.dialogue.reminder.lines": [
+      "挎包现在可以了。带上蜂窝，带上指南针，让路线既有隐私又有方向。"
+    ],
+    "quest.courier_roads.wax_sealed_route.stage.seal_letters.dialogue.reminder.response.details.label": "重复密封列表。",
+    "quest.courier_roads.wax_sealed_route.stage.seal_letters.dialogue.reminder.response.leave.label": "我会带来它。",
+    "quest.courier_roads.wax_sealed_route.stage.seal_letters.objective.bring_compass.tracker.complete_text": "路线指南针已准备就绪。",
+    "quest.courier_roads.wax_sealed_route.stage.seal_letters.objective.bring_compass.tracker.text": "携带 1 个指南针来设置 搬运工 路线。",
+    "quest.courier_roads.wax_sealed_route.stage.seal_letters.objective.bring_honeycomb.tracker.complete_text": "蜡封已准备就绪。",
+    "quest.courier_roads.wax_sealed_route.stage.seal_letters.objective.bring_honeycomb.tracker.text": "带 3 个蜂窝用于蜡封。",
+    "quest.courier_roads.wax_sealed_route.stage.seal_letters.scene.leave.lines": [
+      "密封的信息比喊叫更能让信任传播得更远。"
+    ],
+    "quest.courier_roads.wax_sealed_route.stage.seal_letters.scene.reminder_details.action.remind.lines.reminder": [
+      "为 搬运工 路线 携带 3 个蜂窝和 1 个指南针。"
+    ],
+    "quest.courier_roads.wax_sealed_route.stage.seal_letters.scene.reminder_details.action.remind.lines.unavailable": [
+      "在书包完成之前，信件无法密封。"
+    ],
+    "quest.courier_roads.wax_sealed_route.stage.seal_letters.ui.tracker_text": "带上3个蜂窝和1个指南针。",
+    "quest.courier_roads.wax_sealed_route.title": "搬运工的包裹"
+  }
+}

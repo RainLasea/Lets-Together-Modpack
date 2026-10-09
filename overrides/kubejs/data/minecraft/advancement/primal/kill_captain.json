@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "kill_captain": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "kill_captain"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

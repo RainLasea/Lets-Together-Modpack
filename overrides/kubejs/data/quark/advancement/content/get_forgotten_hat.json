@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "get_forgotten_hat": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "get_forgotten_hat"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

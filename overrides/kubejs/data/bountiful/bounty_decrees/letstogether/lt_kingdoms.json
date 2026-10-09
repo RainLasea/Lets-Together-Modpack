@@ -1,0 +1,15 @@
+{
+  "name": "王国委托",
+  "linkedProfessions": [
+    "farmer",
+    "librarian",
+    "cartographer",
+    "cleric"
+  ],
+  "objectives": [
+    "lt_kingdoms_objs"
+  ],
+  "rewards": [
+    "lt_kingdoms_rews"
+  ]
+}

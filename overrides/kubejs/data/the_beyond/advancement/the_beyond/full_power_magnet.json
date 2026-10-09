@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "full_power_magnet": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "full_power_magnet"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

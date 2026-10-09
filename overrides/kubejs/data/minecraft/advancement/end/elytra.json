@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "elytra": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "elytra"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "bone_flute": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "bone_flute"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

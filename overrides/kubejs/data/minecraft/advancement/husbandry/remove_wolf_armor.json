@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "remove_wolf_armor": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "remove_wolf_armor"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

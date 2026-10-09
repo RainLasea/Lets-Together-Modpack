@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "lava_bucket": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "lava_bucket"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "tags": [
+      "content.dialogue",
+      "dialogue.ambient",
+      "scope.profession.leatherworker",
+      "section.pacify"
+    ],
+    "topic": "professions.leatherworker.pacify"
+  },
+  "pacify": [
+    {
+      "id": "leatherworker_pacify_success",
+      "lines": [
+        "美好的。我现在会把它缝合起来。",
+        "好的。我们可以在没有其他威胁的情况下结束这一切。",
+        "我相信你指的是道歉。",
+        "放下你的手，我也会这样做。",
+        "我们不再是朋友了，但我们可以停止争斗了。",
+        "这足以让我退后一步。",
+        "我接受。在此之后给我一些空间。",
+        "让我们把愤怒留在这里，走开吧。",
+        "你回来是为了纠正错误。我尊重这一点。",
+        "我会相信你的话一次。",
+        "不再喊叫了。事情已经解决了。",
+        "如果不再发生的话我可以过去。",
+        "这对你的帮助可能超出你的想象。",
+        "随着时间的推移，我们可以开始修复其余部分。",
+        "我正在放松警惕。不要让我后悔。",
+        "当我告诉你损失的代价时，你听了。",
+        "事情到这里就结束了，我们都回家了。",
+        "我会记住你今天选择了和平。",
+        "就目前而言，道歉已经足够恰当了。",
+        "平静地走吧。我不想再继续下去了。"
+      ],
+      "outcomes": [
+        "success"
+      ],
+      "weight": 26
+    },
+    {
+      "id": "leatherworker_pacify_short",
+      "lines": [
+        "这还不足以弥补它。带上 {emerald_cost} {emeralds}。",
+        "再算一下。该协议为 {emerald_cost} {emeralds}。",
+        "您缺少完整的 {emerald_cost} {emeralds}。",
+        "当你拥有所有 {emerald_cost} {emeralds} 时我会听。",
+        "这不包括损坏。我要的是 {emerald_cost} {emeralds}。",
+        "暂时保留这些，然后带着 {emerald_cost} {emeralds} 返回。",
+        "道歉是一个开始，但代价仍然是{emerald_cost} {emeralds}。",
+        "直到您带来 {emerald_cost} {emeralds} 后我们才算解决。",
+        "我仔细数了一下。应该有 {emerald_cost} {emeralds}。",
+        "全额付款是{emerald_cost} {emeralds}，不方便。",
+        "别跟我讨价还价。带上 {emerald_cost} {emeralds}。",
+        "那少数人达不到 {emerald_cost} {emeralds}。",
+        "少于 {emerald_cost} {emeralds} 无法解决一半的伤害。",
+        "村里听到了这个条款。它们是 {emerald_cost} {emeralds}。",
+        "当整个 {emerald_cost} {emeralds} 到手后返回。",
+        "我不会更改 {emerald_cost} {emeralds} 的计数。",
+        "维修在您支付 {emerald_cost} {emeralds} 后开始。",
+        "我要求提供 {emerald_cost} {emeralds} 因为这就是解决问题所需要的。",
+        "您的报价仍低于 {emerald_cost} {emeralds}。",
+        "把 {emerald_cost} {emeralds} 缺失的部分带来，然后我们就可以说话了。"
+      ],
+      "outcomes": [
+        "not_enough_emeralds"
+      ],
+      "weight": 26
+    },
+    {
+      "id": "leatherworker_pacify_blocked",
+      "lines": [
+        "不。对于 {payment_items} 来说，这种分歧太深了。",
+        "保留 {payment_items}。我还没准备好解决这个问题。",
+        "{payment_items}无法修复我们之间发生的事情。",
+        "把 {payment_items} 收起来。这不再是付款的问题了。",
+        "我需要时间才能考虑 {payment_items}。",
+        "当我这么生气的时候，任何 {payment_items} 的报价都无济于事。",
+        "您无法通过一次对话就用 {payment_items} 买回信任。",
+        "别管我了，带上 {payment_items} 吧。",
+        "{payment_items} 的伤害还太新鲜，无法讨价还价。",
+        "我不想要 {payment_items}。我想要距离。",
+        "有些事情需要诚实的改变，而不是{payment_items}。",
+        "我听到了{payment_items}的报价。我的答案仍然是否定的。",
+        "不是今天。{payment_items} 不会让我忽略你所做的事情。",
+        "村里人都记得这件事。为其他人保存 {payment_items}。",
+        "当我准备好讨论 {payment_items} 时我会决定。",
+        "带着 {payment_items} 走进去并不能抹去你欠他们的原因。",
+        "退后吧。把 {payment_items} 推向我只会让事情变得更糟。",
+        "如果您确实后悔，请在不使用 {payment_items} 的情况下证明这一点。",
+        "我无法拿着 {payment_items} 假装恐惧消失了。",
+        "将 {payment_items} 带回家。我们暂时谈完了。"
+      ],
+      "outcomes": [
+        "blocked_by_reputation"
+      ],
+      "weight": 26
+    }
+  ]
+}

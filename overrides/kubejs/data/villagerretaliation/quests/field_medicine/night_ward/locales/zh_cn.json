@@ -1,0 +1,91 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.field_medicine.night_ward.description": "帮助村庄准备药物和防护措施，以防止日落后出现的伤口。",
+    "quest.field_medicine.night_ward.scene.night_ward_attack.metadata.title": "夜巡遭袭",
+    "quest.field_medicine.night_ward.scene.night_ward_attack.step.samples_reminder.data.text": "病房里又恢复了安静。在证据失效之前收集死者的六个样本。",
+    "quest.field_medicine.night_ward.scene.night_ward_attack.step.ward_warning.data.text": "病房的门是关着的。三名死者从黑暗中冲了进来——在外面与他们会面。",
+    "quest.field_medicine.night_ward.stage.clear_sickroom.dialogue.offer.label": "夜间守卫",
+    "quest.field_medicine.night_ward.stage.clear_sickroom.dialogue.offer.lines": [
+      "受伤后绷带很有用。一个好的病房会尽力在门被打破之前解决麻烦。",
+      "清除离得太近的死者并带上样本。然后我们会制作更烈的药，没有人礼貌地询问。"
+    ],
+    "quest.field_medicine.night_ward.stage.clear_sickroom.dialogue.offer.response.accept.label": "我会保持病房安静。",
+    "quest.field_medicine.night_ward.stage.clear_sickroom.dialogue.offer.response.decline.label": "今晚不行。",
+    "quest.field_medicine.night_ward.stage.clear_sickroom.dialogue.reminder.label": "关于夜间守卫",
+    "quest.field_medicine.night_ward.stage.clear_sickroom.dialogue.reminder.lines": [
+      "僵尸不会等待干净的房间。将它们稀释并带来样品。"
+    ],
+    "quest.field_medicine.night_ward.stage.clear_sickroom.dialogue.reminder.response.details.label": "重复病房工作。",
+    "quest.field_medicine.night_ward.stage.clear_sickroom.dialogue.reminder.response.leave.label": "我会处理的。",
+    "quest.field_medicine.night_ward.stage.clear_sickroom.objective.bring_rotten_flesh.tracker.complete_text": "样品已经准备好了。",
+    "quest.field_medicine.night_ward.stage.clear_sickroom.objective.bring_rotten_flesh.tracker.text": "带 6 个腐烂的肉样本，以便病房知道首先咬的是哪一块。",
+    "quest.field_medicine.night_ward.stage.clear_sickroom.objective.defeat_zombies.tracker.complete_text": "夜间压力有所缓解。",
+    "quest.field_medicine.night_ward.stage.clear_sickroom.objective.defeat_zombies.tracker.text": "在 3 名僵尸成为病人或记忆之前将其击败。",
+    "quest.field_medicine.night_ward.stage.clear_sickroom.scene.decline.lines": [
+      "如果您经过一扇窗户，请点亮一扇窗户。这并不是什么都没有。"
+    ],
+    "quest.field_medicine.night_ward.stage.clear_sickroom.scene.leave.lines": [
+      "在你自己的手需要包扎之前回来。"
+    ],
+    "quest.field_medicine.night_ward.stage.clear_sickroom.scene.reminder_details.action.remind.lines.reminder": [
+      "击败 3 只僵尸并为夜间守卫带来 6 个腐肉样本。"
+    ],
+    "quest.field_medicine.night_ward.stage.clear_sickroom.scene.reminder_details.action.remind.lines.unavailable": [
+      "病房目前还没有准备好进行这项工作。"
+    ],
+    "quest.field_medicine.night_ward.stage.clear_sickroom.scene.start_quest.action.start.lines.already_completed": [
+      "夜间守卫已经备货并记录下来。"
+    ],
+    "quest.field_medicine.night_ward.stage.clear_sickroom.scene.start_quest.action.start.lines.started": [
+      "击败 3 个僵尸并带来 6 个腐肉。计数虽然残酷，但计数很有用。"
+    ],
+    "quest.field_medicine.night_ward.stage.clear_sickroom.scene.start_quest.action.start.lines.unavailable": [
+      "病房现在还没有准备好问你这个问题。"
+    ],
+    "quest.field_medicine.night_ward.stage.clear_sickroom.ui.tracker_text": "击败 3 个僵尸并带来 6 个腐肉。",
+    "quest.field_medicine.night_ward.stage.return.dialogue.turn_in.label": "关于夜间守卫",
+    "quest.field_medicine.night_ward.stage.return.dialogue.turn_in.lines": [
+      "这足以让一个糟糕的夜晚成为一个故事而不是一个坟墓。"
+    ],
+    "quest.field_medicine.night_ward.stage.return.dialogue.turn_in.response.complete.label": "储备夜间守卫。",
+    "quest.field_medicine.night_ward.stage.return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.field_medicine.night_ward.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "好的。我希望病房积满灰尘。为痛苦做好准备并不意味着邀请它进来。"
+    ],
+    "quest.field_medicine.night_ward.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "在我们锁上箱子之前，病房还需要清理巡逻队或者苹果和糖。"
+    ],
+    "quest.field_medicine.night_ward.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "把病房 原料 带到这里，我可以把它们放在一边。"
+    ],
+    "quest.field_medicine.night_ward.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "我现在无法关闭夜间守卫。"
+    ],
+    "quest.field_medicine.night_ward.stage.return.scene.leave.lines": [
+      "箱子会一直打开，直到列表完成为止。"
+    ],
+    "quest.field_medicine.night_ward.stage.return.ui.tracker_text": "带着夜间守卫 原料 返回。",
+    "quest.field_medicine.night_ward.stage.strong_medicine.dialogue.reminder.label": "关于夜间守卫",
+    "quest.field_medicine.night_ward.stage.strong_medicine.dialogue.reminder.lines": [
+      "现在病房需要药物，还有一点希望。带一个金苹果和糖。"
+    ],
+    "quest.field_medicine.night_ward.stage.strong_medicine.dialogue.reminder.response.details.label": "重复用药。",
+    "quest.field_medicine.night_ward.stage.strong_medicine.dialogue.reminder.response.leave.label": "我会带来它。",
+    "quest.field_medicine.night_ward.stage.strong_medicine.objective.bring_golden_apple.tracker.complete_text": "金苹果就准备好了。",
+    "quest.field_medicine.night_ward.stage.strong_medicine.objective.bring_golden_apple.tracker.text": "为病房箱子携带 1 个金苹果。",
+    "quest.field_medicine.night_ward.stage.strong_medicine.objective.bring_sugar.tracker.complete_text": "糖准备好了。",
+    "quest.field_medicine.night_ward.stage.strong_medicine.objective.bring_sugar.tracker.text": "带8块糖来吃比较容易服用的烈性药物。",
+    "quest.field_medicine.night_ward.stage.strong_medicine.scene.leave.lines": [
+      "最好的治疗方法是今天没有人需要的。"
+    ],
+    "quest.field_medicine.night_ward.stage.strong_medicine.scene.reminder_details.action.remind.lines.reminder": [
+      "为夜间守卫宝箱携带 1 个金苹果和 8 个糖。"
+    ],
+    "quest.field_medicine.night_ward.stage.strong_medicine.scene.reminder_details.action.remind.lines.unavailable": [
+      "药力更强的药可以等病房清干净后再用。"
+    ],
+    "quest.field_medicine.night_ward.stage.strong_medicine.ui.tracker_text": "带1个金苹果和8个糖。",
+    "quest.field_medicine.night_ward.title": "夜间守卫"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "kill_bat": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "kill_bat"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

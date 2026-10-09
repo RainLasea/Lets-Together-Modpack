@@ -1,0 +1,25 @@
+{
+  "block.ribbits.brown_toadstool.description": "A solid fungal building block. Large swamp Toadstools are built from these and Toadstool Stems.",
+  "block.ribbits.red_toadstool.description": "A solid fungal building block. Large swamp Toadstools are built from these and Toadstool Stems.",
+  "block.ribbits.toadstool_stem.description": "The stem of a large Toadstool.",
+  "block.ribbits.toadstool.description": "A swamp plant that can be spread into a patch with Bone Meal.",
+  "block.ribbits.swamp_lantern.description": "A waterloggable light source that can be hung from the ceiling or placed on the ground.",
+  "block.ribbits.giant_lilypad.description": "A wide lily pad that floats on water and is sturdy enough to walk on. Bone Meal grows a larger patch.",
+  "block.ribbits.swamp_daisy.description": "A swamp flower that can be spread into a patch with Bone Meal.",
+  "block.ribbits.umbrella_leaf.description": "A broad-leaved swamp plant that can be spread into a patch with Bone Meal.",
+  "block.ribbits.mossy_oak_planks.description": "A mossy variant of Oak Planks, crafted from Oak Planks and Moss Block or Vines.",
+  "block.ribbits.mossy_oak_planks_stairs.description": "Mossy Oak Stairs, crafted from Mossy Oak Planks.",
+  "block.ribbits.mossy_oak_planks_slab.description": "Mossy Oak Slab, crafted from Mossy Oak Planks.",
+  "block.ribbits.mossy_oak_planks_fence.description": "Mossy Oak Fence, crafted from Mossy Oak Planks.",
+  "block.ribbits.mossy_oak_planks_fence_gate.description": "A Mossy Oak gate that connects to fences, but can be opened like a door.",
+  "block.ribbits.mossy_oak_door.description": "A Mossy Oak door that can be opened and closed, by hand or with Redstone Power.",
+
+  "item.ribbits.maraca.description": "A percussion instrument. Hold it to shake it, and join in when Ribbits play music.",
+  "item.ribbits.ribbit_nitwit_spawn_egg.description": "A Ribbit with no trade and no job. It still joins in when the band plays.",
+  "item.ribbits.ribbit_fisherman_spawn_egg.description": "A Ribbit that fishes in the swamp and trades in swamp plants and Maracas.",
+  "item.ribbits.ribbit_gardener_spawn_egg.description": "A Ribbit that waters nearby crops.",
+  "item.ribbits.ribbit_merchant_spawn_egg.description": "A Ribbit that trades in swamp plants and Maracas.",
+  "item.ribbits.ribbit_sorcerer_spawn_egg.description": "A Ribbit that occasionally casts a spell to buff nearby players.",
+
+  "entity.ribbits.ribbit.description": "A passive mob found in swamp villages that plays music in groups and trades in Amethyst. Right-click with Amethyst to set its new home."
+}

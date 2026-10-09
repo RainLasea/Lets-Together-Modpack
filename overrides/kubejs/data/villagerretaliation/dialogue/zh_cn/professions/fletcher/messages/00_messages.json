@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "tags": [
+      "content.dialogue",
+      "dialogue.ambient",
+      "scope.profession.fletcher",
+      "section.messages"
+    ],
+    "topic": "professions.fletcher.messages"
+  },
+  "messages": [
+    {
+      "id": "fletcher_gift_given_variants",
+      "key": "gift_given",
+      "lines": [
+        "在这里，{gift_item}。拉弓之前就开始直线瞄准。",
+        "以{gift_item}为例。如果麻烦来了，我希望你做好准备。",
+        "我选择 {gift_item} 是因为有用的礼物比精美的礼物更持久。",
+        "这台 {gift_item} 是你的了。没有讨价还价。",
+        "我在把{gift_item}带过来之前检查了两遍。",
+        "将 {gift_item} 放在您伸手可及的地方。",
+        "你帮助了这个村庄，所以请带上{gift_item}来表达我们的谢意。",
+        "我有一个备用的 {gift_item}，并且有充分的理由分享它。",
+        "不要大惊小怪。就拿{gift_item}来说吧。",
+        "希望 {gift_item} 能为您省去一些麻烦。",
+        "您看起来可以使用 {gift_item}。",
+        "考虑到您的需求，我选择了 {gift_item}。",
+        "用好{gift_item}，我们就算了。",
+        "我宁愿看到你背着{gift_item}比没有。",
+        "即使不花哨，这款 {gift_item} 也充满关怀。",
+        "以 {gift_item} 为例。你已经赚到了一些实用的东西。",
+        "我在其他人认领 {gift_item} 之前将其放在一边。",
+        "这款 {gift_item} 应该比花更能撑得住。",
+        "我带了{gift_item}来好好感谢你。",
+        "如果 {gift_item} 被证明有用，那就足够了。"
+      ],
+      "weight": 48
+    },
+    {
+      "id": "fletcher_gift_advice_followup_liked_variants",
+      "key": "gift_advice_followup.liked",
+      "lines": [
+        "好的。 {gift_item} 非常适合 {tested_villager}。",
+        "那么 {gift_item} 就是 {tested_villager} 的正确选择。",
+        "我很高兴 {tested_villager} 找到了 {gift_item} 的用途。",
+        "当您推荐{gift_item}时，您已经很好地阅读了{tested_villager}。",
+        "后来我听到{tested_villager}谈论{gift_item}。",
+        "{gift_item} 与 {tested_villager} 的配合比我预期的要好。",
+        "看到{tested_villager}享受{gift_item}是值得猜测的。",
+        "你让我免于给 {tested_villager} 一些无用的东西。",
+        "我会记得{tested_villager}喜欢{gift_item}。",
+        "{tested_villager} 上的微笑足以说明 {gift_item} 的情况。",
+        "您对 {gift_item} 的建议与 {tested_villager} 相符。",
+        "我怀疑{gift_item}，但{tested_villager}证明我错了。",
+        "实用的 {gift_item} 正是 {tested_villager} 所需要的。",
+        "您将 {gift_item} 与 {tested_villager} 进行了匹配，这是最困难的部分。",
+        "在购买 {tested_villager} 之前我可能会再次询问您。",
+        "进展顺利。 {tested_villager} 已使用 {gift_item}。",
+        "合适的礼物让 {tested_villager} 度过平凡的一天。",
+        "您知道 {tested_villager} 会欣赏 {gift_item}。",
+        "下次{tested_villager}需要欢呼时，我会记住{gift_item}。",
+        "这次你的判断力直线上升。 {tested_villager} 喜欢 {gift_item}。"
+      ],
+      "weight": 44
+    },
+    {
+      "id": "fletcher_gift_advice_followup_disliked_variants",
+      "key": "gift_advice_followup.disliked",
+      "lines": [
+        "那一枪飘了。对于 {gift_subject}，请尝试使用 {alternative_gift}。",
+        "{gift_item} 未达到 {gift_subject} 的目标。也许{alternative_gift}不会。",
+        "将 {gift_item} 放在一边。 {alternative_gift}更适合{gift_subject}。",
+        "在选择 {gift_item} 之前我应该​​多了解一下 {gift_subject}。",
+        "我们对 {gift_item} 的猜测很糟糕，但 {alternative_gift} 给了我们另一个机会。",
+        "对于{gift_subject}来说，实用性比{gift_item}的光泽更重要。",
+        "{gift_item} 觉得很贴心，直到 {gift_subject} 真正收到为止。",
+        "在有人发言之前，我注意到 {gift_item} 周围的失望情绪。",
+        "让我们停止捍卫 {gift_item}，并为 {gift_subject} 找到合适的东西。",
+        "{alternative_gift} 可能会起作用，因为它适合 {gift_subject} 的方式不同。",
+        "问题在于匹配，而不一定是 {gift_item} 本身。",
+        "下次我会先听听再购买另一个{gift_item}。",
+        "精细的 {gift_item} 对于 {gift_subject} 来说仍然可能是错误的。",
+        "我们需要一份让 {gift_subject} 感觉个性化的礼物。",
+        "我宁愿用{alternative_gift}纠正这个选择，也不愿争论它。",
+        "{gift_subject}的下一份礼物应该更简单。",
+        "{gift_item}可以交给真正会使用它的人。",
+        "你的第一个建议错过了。告诉我为什么 {alternative_gift} 更好。",
+        "我现在知道一件事了。 {gift_subject} 不想要 {gift_item}。",
+        "让我们尝试一下 {alternative_gift}，把失败的 {gift_item} 抛在脑后。"
+      ],
+      "weight": 44
+    },
+    {
+      "key": "gift_advice_followup.disliked",
+      "lines": [
+        "这个建议完全是错误的。下次试试{alternative_gift}。",
+        "将 {gift_item} 放在一边，并带上 {alternative_gift}。",
+        "我不是责怪你，但 {gift_item} 是一个糟糕的猜测。",
+        "{alternative_gift} 听起来比另一个 {gift_item} 更安全。",
+        "我们可以在不保护 {gift_item} 的情况下纠正这个问题。",
+        "下次选择{gift_item}之前先询问一下。",
+        "我应该早点质疑 {gift_item} 的想法。",
+        "{gift_item} 的失望是不容忽视的。",
+        "让我们用{alternative_gift}进行第二次尝试。",
+        "一个有用的 {alternative_gift} 可能会弥补这种尴尬。",
+        "为需要的人保留 {gift_item}。",
+        "当我看到反应时，我会相信{alternative_gift}。",
+        "你的建议有一次错过了。不必错过两次。",
+        "我们从 {gift_item} 中学到了足够多的知识来做出更好的选择。",
+        "不要花更多钱购买另一个 {gift_item}。",
+        "如果我们纠正它，我可以忍受错误的猜测。",
+        "{alternative_gift}应该更容易欣赏。",
+        "第一个选择是错误的，但并非不可原谅。",
+        "带上 {alternative_gift} 并保持简短的解释。",
+        "我宁愿重试，也不愿假装 {gift_item} 有效。"
+      ],
+      "dispositions": [
+        "cautious",
+        "rude",
+        "hostile",
+        "fearful"
+      ],
+      "weight": 20,
+      "id": "professions.fletcher.messages.00_messages.messages.gift_advice_followup.disliked.003"
+    },
+    {
+      "key": "gift_advice_followup.disliked",
+      "lines": [
+        "在检查羽毛之前先松开。带上{alternative_gift}。",
+        "{gift_item} 是个粗心的建议。",
+        "未经我同意，请勿交出另一台 {gift_item}。",
+        "您可以通过 {alternative_gift} 和一些诚实来解决这个问题。",
+        "我看到了 {gift_item} 的反应。其他人也是如此。",
+        "你的猜测比 {gift_item} 本身还要糟糕。",
+        "在让事情变得更尴尬之前尝试一下 {alternative_gift}。",
+        "我告诉过你 {gift_item} 是有风险的。",
+        "让 {gift_item} 远离下一次尝试。",
+        "接下来的选择需要深思熟虑，而不是信心。",
+        "如果 {alternative_gift} 也失败，请停止向我提供建议。",
+        "{gift_item} 你完全错过了那个人。",
+        "不要因为你的错误判断而责怪礼物。",
+        "带上 {alternative_gift}，让道歉来完成剩下的事情。",
+        "在我相信另一个{gift_item}建议之前我会单独选择。",
+        "失望是显而易见的。下次注意点。",
+        "我们正在使用 {alternative_gift} 纠正这个问题。",
+        "你的建议让一份简单的礼物变得困难。",
+        "使用 {gift_item} 不再需要猜测。",
+        "获取 {alternative_gift}，然后远离。"
+      ],
+      "dispositions": [
+        "rude",
+        "hostile"
+      ],
+      "weight": 20,
+      "id": "professions.fletcher.messages.00_messages.messages.gift_advice_followup.disliked.004"
+    }
+  ]
+}

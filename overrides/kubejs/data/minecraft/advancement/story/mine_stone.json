@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "get_stone": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "get_stone"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

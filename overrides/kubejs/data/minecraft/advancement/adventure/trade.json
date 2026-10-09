@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "traded": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "traded"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

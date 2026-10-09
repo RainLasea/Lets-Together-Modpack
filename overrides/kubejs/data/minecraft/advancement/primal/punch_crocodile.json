@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "punch_crocodile": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "punch_crocodile"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

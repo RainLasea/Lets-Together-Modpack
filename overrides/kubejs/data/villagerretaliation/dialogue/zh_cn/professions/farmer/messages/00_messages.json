@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "tags": [
+      "content.dialogue",
+      "dialogue.ambient",
+      "scope.profession.farmer",
+      "section.messages"
+    ],
+    "topic": "professions.farmer.messages"
+  },
+  "messages": [
+    {
+      "id": "farmer_gift_given_variants",
+      "key": "gift_given",
+      "lines": [
+        "在这里，{gift_item}。美好的事物在分享时会变得更好。",
+        "以{gift_item}为例。算是你种下的善良的一个小小的收获吧。",
+        "以{gift_item}为例。虽然不多，但都是用心给予的。",
+        "在有人发现 {gift_item} 的其他用途之前，我已将其放在一边。",
+        "这是{gift_item}。没有债务，没有讨价还价，只是一份礼物。",
+        "你所提供的帮助比你意识到的要多。请携带{gift_item}。",
+        "当我看到{gift_item}时我就想到了你，所以继续走下去感觉不对劲。",
+        "我看到 {gift_item} 并认为你可以使用它。",
+        "以{gift_item}为例。您已经赢得了一点 善良。",
+        "我有一个闲置的，我宁愿分享它也不愿储存它。",
+        "保留 {gift_item}，以备下次运气不佳时使用。",
+        "这不是付款。我只是想让你拥有它。",
+        "{gift_item} 在你手里似乎比在我的架子上更有用。",
+        "你帮助了这个村庄。让我回报这个恩惠的一小部分。",
+        "在我找到保留它的实际理由之前先把它拿走。",
+        "我希望{gift_item}能让前面的路变得更轻松一些。",
+        "考虑一下这个证据，当有人做好事时我确实会注意到。",
+        "我选择 {gift_item} 因为不经意的礼物只会变得混乱。",
+        "今天没有发言。请带上 {gift_item} 表达我的谢意。",
+        "您看起来需要一些好消息，所以就在这里。"
+      ],
+      "weight": 48
+    },
+    {
+      "id": "farmer_gift_advice_followup_liked_variants",
+      "key": "gift_advice_followup.liked",
+      "lines": [
+        "好的。 {gift_item} 与 {tested_villager} 一起扎根。这是一个健康的迹象。",
+        "然后这个建议就萌芽了。如果 {tested_villager} 喜欢 {gift_item}，那就是公平的 <green><wavy>收获</wavy></green>。",
+        "好的。 {gift_item} 适合 {tested_villager}。我喜欢有效的建议。",
+        "我很高兴{tested_villager}喜欢{gift_item}。这是一个不错的选择。",
+        "所以 {gift_item} 起作用了。我会记住关于 {tested_villager} 的事情。",
+        "你读《{tested_villager}》的程度比我预想的要好。",
+        "在 {tested_villager} 说话之前，那个笑容就已经告诉了你一切。",
+        "如果您需要为 {tested_villager} 加油，请记住这一点。",
+        "一份欢迎礼物可以弥补糟糕的一天。你选对了。",
+        "{gift_item} 终于找到了合适的家。",
+        "如果建议能在与实际的人见面后得以保留，那就太好了。",
+        "现在您知道 {tested_villager} 首先要达到什么目的了吧。",
+        "那件礼物表明你正在注意。",
+        "我希望 {gift_item} 适合 {tested_villager}。",
+        "你可以再次相信这个选择，尽管不是每天都如此。",
+        "一个有用的答案值得记住。 {tested_villager} 喜欢它。",
+        "干得好。你给予了一些感觉很个人化的东西。",
+        "最棒的是看到 {tested_villager} 尽量不表现出高兴的样子。",
+        "一份好的礼物会让接下来的谈话变得更加容易。",
+        "我认为这是一个成功的建议。"
+      ],
+      "weight": 44
+    },
+    {
+      "id": "farmer_gift_advice_followup_disliked_variants",
+      "key": "gift_advice_followup.disliked",
+      "lines": [
+        "那颗种子的土壤不对。对于 {gift_subject}，请尝试使用 {alternative_gift}。",
+        "{gift_item} 没有达到目标。 {alternative_gift}可能更适合{gift_subject}。",
+        "并不是每件像样的礼物都适合每个人。下次试试{alternative_gift}。",
+        "至少{gift_subject}在你重蹈覆辙之前已经把答案说清楚了。",
+        "将 {gift_item} 留给喜欢它的人。",
+        "一旦尴尬过去，我会选择{alternative_gift}。",
+        "即使选择是错误的，这个想法也是善意的。",
+        "在做出另一个猜测之前，先问 {gift_subject} 一个安静的问题。",
+        "一份糟糕的礼物仍然可以告诉你某人的价值观。",
+        "观看 {gift_subject} 附近有什么。答案可能已经存在。",
+        "你不需要一份更宏伟的礼物，只需要一份合适的礼物。",
+        "{alternative_gift} 听起来更接近 {gift_subject} 所欢迎的。",
+        "不要将 {gift_item} 推给已经拒绝的人。",
+        "一个错误的猜测并不是一场灾难，除非你忽视了它所教给你的东西。",
+        "选择 {gift_subject}，不是为了价格或光泽。",
+        "当没有人提供任何东西时，尝试倾听他们提到的内容。",
+        "保留 善良 并更改项目。",
+        "{gift_item}可以找到另一个家了。这一点是不对的。",
+        "下次就让 {alternative_gift} 来说话吧。",
+        "您现在对 {gift_subject} 的了解比以前更多了。"
+      ],
+      "weight": 44
+    },
+    {
+      "key": "gift_advice_followup.disliked",
+      "lines": [
+        "我的建议落空了。下次将 {gift_item} 排除在外。",
+        "在向他们提出任何建议之前我应该​​多问一些。",
+        "尝试 {alternative_gift}，但不要假装我可以保证结果。",
+        "这种反应表明我们的猜测信息太少。",
+        "保留 {gift_item}，直到您知道谁真正想要它。",
+        "我会等待再给他们带来另一件礼物。",
+        "第二次匆忙的礼物只会让第一次的错误更加严重。",
+        "如果您尝试 {alternative_gift}，请提供它，不要期望得到好评。",
+        "{gift_item} 的某些内容显然让他们感到困扰。找出什么。",
+        "我并不是责怪你相信我的答案。我正在纠正它。",
+        "在决定下一步做什么之前观察他们的反应。",
+        "现在安全的选择是耐心，而不是更昂贵的礼物。",
+        "询问比我们更了解他们的人。",
+        "不要把这变成他们必须通过的测试。",
+        "等大家冷静下来之后，{alternative_gift}还是值得考虑的。",
+        "也许该项目是错误的。也许时机更糟。",
+        "我宁愿承认不确定性，也不愿给你另一个糟糕的答案。",
+        "让 {gift_item} 去关注那个人。",
+        "我们学到了这么多。其余的需要采取更温和的方法。",
+        "当你知道他们为什么不喜欢它时再回来。"
+      ],
+      "dispositions": [
+        "cautious",
+        "rude",
+        "hostile",
+        "fearful"
+      ],
+      "weight": 20,
+      "id": "professions.farmer.messages.00_messages.messages.gift_advice_followup.disliked.003"
+    },
+    {
+      "key": "gift_advice_followup.disliked",
+      "lines": [
+        "你从{gift_item}那里收获了皱眉。同样的错误不要播两次。",
+        "不要试图给他们留下深刻印象，而是选择他们真正想要的东西。",
+        "如果您坚持再次尝试，请带上 {alternative_gift}。",
+        "{gift_item} 是一个糟糕的选择，而顽固的​​选择会更糟。",
+        "不要责怪他们拒绝了错误选择的东西。",
+        "在你花更多 绿宝石 进行另一个猜测之前先听听。",
+        "放下 {gift_item}，让尴尬过去。",
+        "闪亮的礼物并不能成为忽视收礼人的理由。",
+        "仅当您可以在不制作场景的情况下提供它时才尝试 {alternative_gift}。",
+        "你寻求建议，然后冲到你应该思考的部分。",
+        "下次，在礼物离开你的手之前注意答案。",
+        "他们不欠你一个尝试的微笑。",
+        "选择 {alternative_gift} 并保持演讲简短。",
+        "你不能更努力地推动 {gift_item} 并称其为慷慨。",
+        "在你的骄傲毁掉另一项奉献之前吸取教训。",
+        "一份贴心的礼物始于思想。从那里开始。",
+        "不要让他们两次解释拒绝的原因。",
+        "为对此感兴趣的人保存 {gift_item}。",
+        "带上{alternative_gift}，或者什么都不带，直到你明白问题所在。",
+        "纠正选择，把受伤的自尊留在家里。"
+      ],
+      "dispositions": [
+        "rude",
+        "hostile"
+      ],
+      "weight": 20,
+      "id": "professions.farmer.messages.00_messages.messages.gift_advice_followup.disliked.004"
+    }
+  ]
+}

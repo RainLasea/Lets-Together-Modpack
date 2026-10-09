@@ -1,0 +1,121 @@
+{
+  "criteria": {
+    "minecraft:axolotl": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:bat": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:camel": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:frog": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:glow_squid": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:squid": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:ocelot": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:parrot": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:rabbit": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:sniffer": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:turtle": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:bee": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:dolphin": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:fox": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:goat": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:llama": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:panda": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:polar_bear": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:wolf": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "minecraft:axolotl"
+    ],
+    [
+      "minecraft:bat"
+    ],
+    [
+      "minecraft:camel"
+    ],
+    [
+      "minecraft:frog"
+    ],
+    [
+      "minecraft:glow_squid"
+    ],
+    [
+      "minecraft:squid"
+    ],
+    [
+      "minecraft:ocelot"
+    ],
+    [
+      "minecraft:parrot"
+    ],
+    [
+      "minecraft:rabbit"
+    ],
+    [
+      "minecraft:sniffer"
+    ],
+    [
+      "minecraft:turtle"
+    ],
+    [
+      "minecraft:bee"
+    ],
+    [
+      "minecraft:dolphin"
+    ],
+    [
+      "minecraft:fox"
+    ],
+    [
+      "minecraft:goat"
+    ],
+    [
+      "minecraft:llama"
+    ],
+    [
+      "minecraft:panda"
+    ],
+    [
+      "minecraft:polar_bear"
+    ],
+    [
+      "minecraft:wolf"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

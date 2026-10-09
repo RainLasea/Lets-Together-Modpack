@@ -1,0 +1,137 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.redstone_works.power_the_gate.description": "选择白昼或恶棍来控制村门。",
+    "quest.redstone_works.power_the_gate.stage.choose.dialogue.offer.label": "为大门供能",
+    "quest.redstone_works.power_the_gate.stage.choose.dialogue.offer.lines": [
+      "大门可以跟随白昼，或者通过浮潜聆听脚步声。两者都有效，但失败的方式不同。",
+      "此选择结束了其他设计。当地的白昼充足且费用低廉； 恶棍 将下一份工作委托给了一座古城，拥有更高的 声望 和稀有的 恶棍 奖励。"
+    ],
+    "quest.redstone_works.power_the_gate.stage.choose.dialogue.offer.response.decline.label": "还没有。",
+    "quest.redstone_works.power_the_gate.stage.choose.dialogue.offer.response.sunlight.action.notification.text": "您为村门选择了日间电路。",
+    "quest.redstone_works.power_the_gate.stage.choose.dialogue.offer.response.sunlight.label": "追随太阳",
+    "quest.redstone_works.power_the_gate.stage.choose.dialogue.offer.response.sunlight.text": "那么，阳光。大门将保持诚实的营业时间并使其运作简单明了。",
+    "quest.redstone_works.power_the_gate.stage.choose.dialogue.offer.response.whisper.action.notification.text": "您为村门选择了一条恶棍电路。",
+    "quest.redstone_works.power_the_gate.stage.choose.dialogue.offer.response.whisper.label": "通过浮雕聆听",
+    "quest.redstone_works.power_the_gate.stage.choose.dialogue.offer.response.whisper.text": "那么，斯卡克。大门会倾听，但羊毛必须教会它忽略什么。",
+    "quest.redstone_works.power_the_gate.stage.choose.dialogue.reminder.label": "关于 为大门供能",
+    "quest.redstone_works.power_the_gate.stage.choose.dialogue.reminder.lines": [
+      "大门可以跟随白昼，或者通过浮潜聆听脚步声。两者都有效，但失败的方式不同。",
+      "此选择结束了其他设计。当地的白昼充足且费用低廉； 恶棍 将下一份工作委托给了一座古城，拥有更高的 声望 和稀有的 恶棍 奖励。"
+    ],
+    "quest.redstone_works.power_the_gate.stage.choose.dialogue.reminder.response.decline.label": "还没有。",
+    "quest.redstone_works.power_the_gate.stage.choose.dialogue.reminder.response.details.label": "重复选择。",
+    "quest.redstone_works.power_the_gate.stage.choose.dialogue.reminder.response.sunlight.action.notification.text": "您为村门选择了日间电路。",
+    "quest.redstone_works.power_the_gate.stage.choose.dialogue.reminder.response.sunlight.label": "追随太阳",
+    "quest.redstone_works.power_the_gate.stage.choose.dialogue.reminder.response.sunlight.text": "那么，阳光。大门将保持诚实的营业时间并使其运作简单明了。",
+    "quest.redstone_works.power_the_gate.stage.choose.dialogue.reminder.response.whisper.action.notification.text": "您为村门选择了一条恶棍电路。",
+    "quest.redstone_works.power_the_gate.stage.choose.dialogue.reminder.response.whisper.label": "通过浮雕聆听",
+    "quest.redstone_works.power_the_gate.stage.choose.dialogue.reminder.response.whisper.text": "那么，斯卡克。大门会倾听，但羊毛必须教会它忽略什么。",
+    "quest.redstone_works.power_the_gate.stage.choose.objective.choose_route.tracker.complete_text": "路线 选择：{objective_choice_value}。",
+    "quest.redstone_works.power_the_gate.stage.choose.objective.choose_route.tracker.text": "选择带有 任务 给予器的 路线。",
+    "quest.redstone_works.power_the_gate.stage.choose.scene.decline.lines": [
+      "然后，门就保留了一个可靠的部分：站在门旁边的村民。"
+    ],
+    "quest.redstone_works.power_the_gate.stage.choose.scene.reminder_details.action.remind.lines.reminder": [
+      "大门可以跟随白昼，或者通过浮潜聆听脚步声。两者都有效，但失败的方式不同。",
+      "此选择结束了其他设计。当地的白昼充足且费用低廉； 恶棍 将下一份工作委托给了一座古城，拥有更高的 声望 和稀有的 恶棍 奖励。"
+    ],
+    "quest.redstone_works.power_the_gate.stage.choose.scene.reminder_details.action.remind.lines.unavailable": [
+      "该选择目前尚未开放。"
+    ],
+    "quest.redstone_works.power_the_gate.stage.choose.ui.tracker_text": "选择 路线。",
+    "quest.redstone_works.power_the_gate.stage.sunlight_return.dialogue.turn_in.label": "关于 为大门供能",
+    "quest.redstone_works.power_the_gate.stage.sunlight_return.dialogue.turn_in.lines": [
+      "灯光干净地跟随天空。每个人都可以看到大门何时认为是夜晚。",
+      "白昼电路工作正常。大门的下一个教训将来自太阳。"
+    ],
+    "quest.redstone_works.power_the_gate.stage.sunlight_return.dialogue.turn_in.response.complete.label": "完成这个路线。",
+    "quest.redstone_works.power_the_gate.stage.sunlight_return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.redstone_works.power_the_gate.stage.sunlight_return.scene.complete_route.action.turn_in.lines.completed": [
+      "白昼电路工作正常。大门的下一个教训将来自太阳。",
+      "灯光干净地跟随天空。每个人都可以看到大门何时认为是夜晚。"
+    ],
+    "quest.redstone_works.power_the_gate.stage.sunlight_return.scene.complete_route.action.turn_in.lines.missing_objectives": [
+      "用于门电路的两个白昼探测器和四个红石灯。"
+    ],
+    "quest.redstone_works.power_the_gate.stage.sunlight_return.scene.complete_route.action.turn_in.lines.missing_proof": [
+      "在我们关闭地图之前，将 路线 证据带到这里。"
+    ],
+    "quest.redstone_works.power_the_gate.stage.sunlight_return.scene.complete_route.action.turn_in.lines.unavailable": [
+      "路线 现在无法关闭。"
+    ],
+    "quest.redstone_works.power_the_gate.stage.sunlight_return.scene.leave.lines": [
+      "路线 保持打开状态，直到您准备好为止。"
+    ],
+    "quest.redstone_works.power_the_gate.stage.sunlight_return.ui.tracker_text": "返回任务给予者。",
+    "quest.redstone_works.power_the_gate.stage.sunlight_work.dialogue.reminder.label": "关于 为大门供能",
+    "quest.redstone_works.power_the_gate.stage.sunlight_work.dialogue.reminder.lines": [
+      "用于门电路的两个白昼探测器和四个红石灯。",
+      "那么，阳光。大门将保持诚实的营业时间并使其运作简单明了。"
+    ],
+    "quest.redstone_works.power_the_gate.stage.sunlight_work.dialogue.reminder.response.details.label": "重复 路线。",
+    "quest.redstone_works.power_the_gate.stage.sunlight_work.dialogue.reminder.response.leave.label": "我有。",
+    "quest.redstone_works.power_the_gate.stage.sunlight_work.objective.bring_detectors.tracker.complete_text": "白昼探测器已准备就绪。",
+    "quest.redstone_works.power_the_gate.stage.sunlight_work.objective.bring_detectors.tracker.text": "带 2 个白昼探测器。",
+    "quest.redstone_works.power_the_gate.stage.sunlight_work.objective.bring_lamps.tracker.complete_text": "红石灯已准备就绪。",
+    "quest.redstone_works.power_the_gate.stage.sunlight_work.objective.bring_lamps.tracker.text": "带4个红石灯。",
+    "quest.redstone_works.power_the_gate.stage.sunlight_work.scene.leave.lines": [
+      "保留您选择的 路线。"
+    ],
+    "quest.redstone_works.power_the_gate.stage.sunlight_work.scene.reminder_details.action.remind.lines.reminder": [
+      "用于门电路的两个白昼探测器和四个红石灯。",
+      "那么，阳光。大门将保持诚实的营业时间并使其运作简单明了。"
+    ],
+    "quest.redstone_works.power_the_gate.stage.sunlight_work.scene.reminder_details.action.remind.lines.unavailable": [
+      "路线 目前未处于活动状态。"
+    ],
+    "quest.redstone_works.power_the_gate.stage.sunlight_work.ui.tracker_text": "用于门电路的两个白昼探测器和四个红石灯。",
+    "quest.redstone_works.power_the_gate.stage.whisper_return.dialogue.turn_in.label": "关于 为大门供能",
+    "quest.redstone_works.power_the_gate.stage.whisper_return.dialogue.turn_in.lines": [
+      "传感器听到路径并忽略车间。聪明，又有点令人不安。",
+      "监听电路工作。大门的下一个教训将来自耳语。"
+    ],
+    "quest.redstone_works.power_the_gate.stage.whisper_return.dialogue.turn_in.response.complete.label": "完成这个路线。",
+    "quest.redstone_works.power_the_gate.stage.whisper_return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.redstone_works.power_the_gate.stage.whisper_return.scene.complete_route.action.turn_in.lines.completed": [
+      "监听电路工作。大门的下一个教训将来自耳语。",
+      "传感器听到路径并忽略车间。聪明，又有点令人不安。"
+    ],
+    "quest.redstone_works.power_the_gate.stage.whisper_return.scene.complete_route.action.turn_in.lines.missing_objectives": [
+      "两个浮潜传感器和十六个白色羊毛可以消除错误的脚步声。"
+    ],
+    "quest.redstone_works.power_the_gate.stage.whisper_return.scene.complete_route.action.turn_in.lines.missing_proof": [
+      "在我们关闭地图之前，将 路线 证据带到这里。"
+    ],
+    "quest.redstone_works.power_the_gate.stage.whisper_return.scene.complete_route.action.turn_in.lines.unavailable": [
+      "路线 现在无法关闭。"
+    ],
+    "quest.redstone_works.power_the_gate.stage.whisper_return.scene.leave.lines": [
+      "路线 保持打开状态，直到您准备好为止。"
+    ],
+    "quest.redstone_works.power_the_gate.stage.whisper_return.ui.tracker_text": "返回任务给予者。",
+    "quest.redstone_works.power_the_gate.stage.whisper_work.dialogue.reminder.label": "关于 为大门供能",
+    "quest.redstone_works.power_the_gate.stage.whisper_work.dialogue.reminder.lines": [
+      "两个浮潜传感器和十六个白色羊毛可以消除错误的脚步声。",
+      "那么，斯卡克。大门会倾听，但羊毛必须教会它忽略什么。"
+    ],
+    "quest.redstone_works.power_the_gate.stage.whisper_work.dialogue.reminder.response.details.label": "重复 路线。",
+    "quest.redstone_works.power_the_gate.stage.whisper_work.dialogue.reminder.response.leave.label": "我有。",
+    "quest.redstone_works.power_the_gate.stage.whisper_work.objective.bring_sensors.tracker.complete_text": "浮潜传感器已准备就绪。",
+    "quest.redstone_works.power_the_gate.stage.whisper_work.objective.bring_sensors.tracker.text": "带 2 个浮潜传感器。",
+    "quest.redstone_works.power_the_gate.stage.whisper_work.objective.bring_wool.tracker.complete_text": "羊毛屏蔽已准备就绪。",
+    "quest.redstone_works.power_the_gate.stage.whisper_work.objective.bring_wool.tracker.text": "带 16 块白羊毛用于防振。",
+    "quest.redstone_works.power_the_gate.stage.whisper_work.scene.leave.lines": [
+      "保留您选择的 路线。"
+    ],
+    "quest.redstone_works.power_the_gate.stage.whisper_work.scene.reminder_details.action.remind.lines.reminder": [
+      "两个浮潜传感器和十六个白色羊毛可以消除错误的脚步声。",
+      "那么，斯卡克。大门会倾听，但羊毛必须教会它忽略什么。"
+    ],
+    "quest.redstone_works.power_the_gate.stage.whisper_work.scene.reminder_details.action.remind.lines.unavailable": [
+      "路线 目前未处于活动状态。"
+    ],
+    "quest.redstone_works.power_the_gate.stage.whisper_work.ui.tracker_text": "两个浮潜传感器和十六个白色羊毛可以消除错误的脚步声。",
+    "quest.redstone_works.power_the_gate.title": "为大门供能"
+  }
+}

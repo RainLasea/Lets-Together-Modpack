@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "pat_potato": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "pat_potato"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

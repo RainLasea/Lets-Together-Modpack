@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "mixed_foal": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "mixed_foal"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,92 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.cartographers_atlas.end_city_margin.description": {
+      "lines": [
+        "将末地城 路线 添加到地图集中，并带着潜影贝证据返回。"
+      ]
+    },
+    "quest.cartographers_atlas.end_city_margin.event.atlas_finished.action.notification.text": "制图师的地图集页边距已完成。",
+    "quest.cartographers_atlas.end_city_margin.stage.return.dialogue.turn_in.label": "关于末地城利润",
+    "quest.cartographers_atlas.end_city_margin.stage.return.dialogue.turn_in.lines": [
+      "你把外岛带回了你的靴子上。让我绑定最后的边距。"
+    ],
+    "quest.cartographers_atlas.end_city_margin.stage.return.dialogue.turn_in.response.complete.label": "绑定末地城边缘",
+    "quest.cartographers_atlas.end_city_margin.stage.return.dialogue.turn_in.response.leave.label": "还没有",
+    "quest.cartographers_atlas.end_city_margin.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "那里是：乡村路、废墟路、选择的地平线、火路、最后的房间、外岛。一整本地图集，你将它带入了真理。"
+    ],
+    "quest.cartographers_atlas.end_city_margin.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "末地边缘仍然需要城市轴承、潜影贝、贝壳和紫颂果。"
+    ],
+    "quest.cartographers_atlas.end_city_margin.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "在我绑定最后的边缘之前，带上潜影贝壳。"
+    ],
+    "quest.cartographers_atlas.end_city_margin.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "炮弹背后需要末地城的支撑。"
+    ],
+    "quest.cartographers_atlas.end_city_margin.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "在我关闭之前，最终保证金仍需要其证明。"
+    ],
+    "quest.cartographers_atlas.end_city_margin.stage.return.scene.leave.lines": [
+      "防止外壳在页面边缘附近发出嘎嘎声。"
+    ],
+    "quest.cartographers_atlas.end_city_margin.stage.return.ui.tracker_text": "将完成的地图集边距返回给制图师。",
+    "quest.cartographers_atlas.end_city_margin.stage.survey.dialogue.offer.label": "末地城边缘",
+    "quest.cartographers_atlas.end_city_margin.stage.survey.dialogue.offer.lines": [
+      "末地城并不是一个新地方，仅仅因为这本地图集没有它。它的外部边缘仍然需要一条距离不再有意义的道路。",
+      "找到这座城市，记录它的潜影贝，并带上装有紫颂果的贝壳。这就是外缘学习保持的方式。"
+    ],
+    "quest.cartographers_atlas.end_city_margin.stage.survey.dialogue.offer.response.accept.label": "绘制结束边距图表",
+    "quest.cartographers_atlas.end_city_margin.stage.survey.dialogue.offer.response.decline.label": "另一次",
+    "quest.cartographers_atlas.end_city_margin.stage.survey.dialogue.reminder.label": "关于末地城利润",
+    "quest.cartographers_atlas.end_city_margin.stage.survey.dialogue.reminder.lines": [
+      "末地边缘仍然需要城市轴承、潜影贝证明、贝壳和紫颂果。"
+    ],
+    "quest.cartographers_atlas.end_city_margin.stage.survey.dialogue.reminder.response.details.label": "提醒我在哪里",
+    "quest.cartographers_atlas.end_city_margin.stage.survey.dialogue.reminder.response.leave.label": "算了",
+    "quest.cartographers_atlas.end_city_margin.stage.survey.objective.bring_chorus_fruit.tracker.complete_text": "紫颂果证明了外路。",
+    "quest.cartographers_atlas.end_city_margin.stage.survey.objective.bring_chorus_fruit.tracker.text": "从外岛带来 16 个紫颂果。",
+    "quest.cartographers_atlas.end_city_margin.stage.survey.objective.bring_shulker_shells.tracker.complete_text": "潜影贝壳已准备好用于地图册封面。",
+    "quest.cartographers_atlas.end_city_margin.stage.survey.objective.bring_shulker_shells.tracker.text": "从末地城带回 2 个潜影贝壳。",
+    "quest.cartographers_atlas.end_city_margin.stage.survey.objective.defeat_shulkers.tracker.complete_text": "潜影贝巡逻被记录下来。",
+    "quest.cartographers_atlas.end_city_margin.stage.survey.objective.defeat_shulkers.tracker.text": "在末地城边缘击败 2 个潜影贝。",
+    "quest.cartographers_atlas.end_city_margin.stage.survey.objective.visit_end_city.tracker.complete_text": "末地城的边际已被绘制出来。",
+    "quest.cartographers_atlas.end_city_margin.stage.survey.objective.visit_end_city.tracker.text": "到达 {target_x}、{target_z} 附近的末地城。",
+    "quest.cartographers_atlas.end_city_margin.stage.survey.scene.decline.lines": [
+      "外岛哪儿也去不了。这是他们为数不多的礼貌之一。"
+    ],
+    "quest.cartographers_atlas.end_city_margin.stage.survey.scene.leave.lines": [
+      "在门户附近打开页面之前，先将其捆绑起来。"
+    ],
+    "quest.cartographers_atlas.end_city_margin.stage.survey.scene.reminder_details.action.remind.lines.reminder": [
+      "{target_x}、{target_z}附近的末地城，大约{distance}在{target_dimension}中封锁了{direction}。击败 2 个潜影贝并带来 2 个潜影贝壳和 16 个紫颂果。"
+    ],
+    "quest.cartographers_atlas.end_city_margin.stage.survey.scene.reminder_details.action.remind.lines.unavailable": [
+      "我现在没有打开您的最终保证金。"
+    ],
+    "quest.cartographers_atlas.end_city_margin.stage.survey.scene.start_quest.action.start.lines.already_completed": [
+      "末地城边缘已经完成。"
+    ],
+    "quest.cartographers_atlas.end_city_margin.stage.survey.scene.start_quest.action.start.lines.locate_failed": [
+      "末地城标记太远，地图集无法从这里捕捉到。"
+    ],
+    "quest.cartographers_atlas.end_city_margin.stage.survey.scene.start_quest.action.start.lines.started": [
+      "城市标记在{target_x}、{target_z}附近，大约{distance}在{target_dimension}中遮挡{direction}。绘制地图后，带上潜影贝壳和紫颂果。"
+    ],
+    "quest.cartographers_atlas.end_city_margin.stage.survey.scene.start_quest.action.start.lines.unavailable": [
+      "在绘制末端边距之前，地图集需要要塞方位角。"
+    ],
+    "quest.cartographers_atlas.end_city_margin.stage.survey.ui.tracker_text": "到达 {target_dimension} 中 {target_x}、{target_z} 附近的末地城。",
+    "quest.cartographers_atlas.end_city_margin.title": {
+      "lines": [
+        "末地城边缘"
+      ]
+    },
+    "quest.cartographers_atlas.end_city_margin.tracker.title": {
+      "lines": [
+        "末地城边缘"
+      ]
+    }
+  }
+}

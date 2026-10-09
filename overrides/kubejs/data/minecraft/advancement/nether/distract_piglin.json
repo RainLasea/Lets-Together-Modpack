@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "distract_piglin": {
+      "trigger": "minecraft:impossible"
+    },
+    "distract_piglin_directly": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "distract_piglin",
+      "distract_piglin_directly"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

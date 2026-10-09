@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "struck_villager": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "struck_villager"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

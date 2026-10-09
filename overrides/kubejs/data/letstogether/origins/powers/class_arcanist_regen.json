@@ -1,0 +1,9 @@
+{
+  "type": "neoorigins:attribute_modifier",
+  "attribute": "irons_spellbooks:mana_regen",
+  "amount": 0.05,
+  "operation": "add_multiplied_total",
+  "required_mods": [
+    "irons_spellbooks"
+  ]
+}

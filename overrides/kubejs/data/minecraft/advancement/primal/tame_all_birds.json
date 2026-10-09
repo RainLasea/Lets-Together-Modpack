@@ -1,0 +1,61 @@
+{
+  "criteria": {
+    "tame_bald": {
+      "trigger": "minecraft:impossible"
+    },
+    "tame_blue": {
+      "trigger": "minecraft:impossible"
+    },
+    "tame_golden": {
+      "trigger": "minecraft:impossible"
+    },
+    "tame_gray": {
+      "trigger": "minecraft:impossible"
+    },
+    "tame_green": {
+      "trigger": "minecraft:impossible"
+    },
+    "tame_harpy": {
+      "trigger": "minecraft:impossible"
+    },
+    "tame_philippine": {
+      "trigger": "minecraft:impossible"
+    },
+    "tame_red_blue": {
+      "trigger": "minecraft:impossible"
+    },
+    "tame_yellow_blue": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "tame_bald"
+    ],
+    [
+      "tame_harpy"
+    ],
+    [
+      "tame_philippine"
+    ],
+    [
+      "tame_golden"
+    ],
+    [
+      "tame_blue"
+    ],
+    [
+      "tame_gray"
+    ],
+    [
+      "tame_green"
+    ],
+    [
+      "tame_red_blue"
+    ],
+    [
+      "tame_yellow_blue"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

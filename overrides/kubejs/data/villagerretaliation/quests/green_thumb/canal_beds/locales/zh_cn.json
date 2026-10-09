@@ -1,0 +1,111 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.green_thumb.canal_beds.description": "用石头、芦苇和遮蔽的水边完成运河 路线。",
+    "quest.green_thumb.canal_beds.stage.return.dialogue.turn_in.label": "关于灌溉",
+    "quest.green_thumb.canal_beds.stage.return.dialogue.turn_in.lines": [
+      "水到达每张床并远离道路。那是一条真正的运河。",
+      "下面是石头，上面是绿荫。运河田已经完工。",
+      "在我关闭笔记之前让我看看完整的作品。"
+    ],
+    "quest.green_thumb.canal_beds.stage.return.dialogue.turn_in.response.complete.label": "交出工作。",
+    "quest.green_thumb.canal_beds.stage.return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.green_thumb.canal_beds.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "水到达每张床并远离道路。那是一条真正的运河。",
+      "下面是石头，上面是绿荫。运河田已经完工。"
+    ],
+    "quest.green_thumb.canal_beds.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "完整的工作尚未准备好进行计算。"
+    ],
+    "quest.green_thumb.canal_beds.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "在我们解决这个问题之前，请带上证据。",
+      "我需要在这里提交完整的内容，而不仅仅是故事。"
+    ],
+    "quest.green_thumb.canal_beds.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "原料 背后需要一个真正的目的地。",
+      "在我们称之为完成之前到达标记的地方。"
+    ],
+    "quest.green_thumb.canal_beds.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "目前灌溉尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.green_thumb.canal_beds.stage.return.scene.turn_in_wait.lines": [
+      "沟渠沿线有二十四块石砖，八片睡莲作盖。",
+      "当工作准备好时再回来。"
+    ],
+    "quest.green_thumb.canal_beds.stage.return.ui.tracker_text": "返回任务给予者。",
+    "quest.green_thumb.canal_beds.stage.work.dialogue.offer.label": "灌溉",
+    "quest.green_thumb.canal_beds.stage.work.dialogue.offer.lines": [
+      "第一个通道有效。现在它需要能够抵御靴子、雨水和好奇的羊的墙壁。",
+      "完成石头边缘，并用睡莲来遮蔽静止的角落。",
+      "放置 24 块石砖并带上 8 片睡莲。"
+    ],
+    "quest.green_thumb.canal_beds.stage.work.dialogue.offer.response.accept.label": "我能做到。",
+    "quest.green_thumb.canal_beds.stage.work.dialogue.offer.response.decline.label": "现在不行。",
+    "quest.green_thumb.canal_beds.stage.work.dialogue.reminder.label": "关于灌溉",
+    "quest.green_thumb.canal_beds.stage.work.dialogue.reminder.lines": [
+      "沟渠沿线有二十四块石砖，八片睡莲作盖。",
+      "放置 24 块石砖并带上 8 片睡莲。",
+      "完成石头边缘，并用睡莲来遮蔽静止的角落。"
+    ],
+    "quest.green_thumb.canal_beds.stage.work.dialogue.reminder.response.abandon.label": "把这个放在一边。",
+    "quest.green_thumb.canal_beds.stage.work.dialogue.reminder.response.details.label": "重复该工作。",
+    "quest.green_thumb.canal_beds.stage.work.dialogue.reminder.response.leave.label": "我有。",
+    "quest.green_thumb.canal_beds.stage.work.objective.bring_lilies.tracker.complete_text": "睡莲已经准备好了。",
+    "quest.green_thumb.canal_beds.stage.work.objective.bring_lilies.tracker.text": "带8片睡莲来遮荫。",
+    "quest.green_thumb.canal_beds.stage.work.objective.finish_walls.tracker.complete_text": "运河城墙已完工。",
+    "quest.green_thumb.canal_beds.stage.work.objective.finish_walls.tracker.text": "沿田间运河放置 24 块石砖。",
+    "quest.green_thumb.canal_beds.stage.work.scene.abandon_confirm.lines": [
+      "把灌溉放在一边？",
+      "如果你确定的话我可以把你的名字从工作中删除。"
+    ],
+    "quest.green_thumb.canal_beds.stage.work.scene.abandon_confirm.response.cancel.label": "保持打开状态。",
+    "quest.green_thumb.canal_beds.stage.work.scene.abandon_confirm.response.confirm.label": "把它放在一边。",
+    "quest.green_thumb.canal_beds.stage.work.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "好的。我会从工作中清除你的名字。",
+      "便条收起来了。你可以稍后再问。"
+    ],
+    "quest.green_thumb.canal_beds.stage.work.scene.abandon_quest.action.abandon.lines.abandoned_cooldown": [
+      "我会把这张纸条先搁置一段时间，然后再重新发布。",
+      "在你再次提出要求之前，先让工作休息一下。"
+    ],
+    "quest.green_thumb.canal_beds.stage.work.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "目前灌溉尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.green_thumb.canal_beds.stage.work.scene.decline.lines": [
+      "然后让羊远离潮湿的边缘。"
+    ],
+    "quest.green_thumb.canal_beds.stage.work.scene.leave.lines": [
+      "沟渠沿线有二十四块石砖，八片睡莲作盖。",
+      "当工作准备好时再回来。"
+    ],
+    "quest.green_thumb.canal_beds.stage.work.scene.reminder_details.action.remind.lines.reminder": [
+      "沟渠沿线有二十四块石砖，八片睡莲作盖。",
+      "放置 24 块石砖并带上 8 片睡莲。",
+      "完成石头边缘，并用睡莲来遮蔽静止的角落。"
+    ],
+    "quest.green_thumb.canal_beds.stage.work.scene.reminder_details.action.remind.lines.unavailable": [
+      "目前灌溉尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.green_thumb.canal_beds.stage.work.scene.start_quest.action.start.lines.already_completed": [
+      "目前灌溉已经解决。",
+      "这项工作已经被计算在内。"
+    ],
+    "quest.green_thumb.canal_beds.stage.work.scene.start_quest.action.start.lines.locate_failed": [
+      "我在这里找不到值得信赖的标记。等道路畅通后再询问。",
+      "今天地图不会确定安全目的地。"
+    ],
+    "quest.green_thumb.canal_beds.stage.work.scene.start_quest.action.start.lines.started": [
+      "保持角方。水会找到每一个懒惰的缝隙。",
+      "放置 24 块石砖并带上 8 片睡莲。"
+    ],
+    "quest.green_thumb.canal_beds.stage.work.scene.start_quest.action.start.lines.unavailable": [
+      "目前灌溉尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.green_thumb.canal_beds.stage.work.ui.tracker_text": "放置 24 块石砖并带上 8 片睡莲。",
+    "quest.green_thumb.canal_beds.title": "灌溉"
+  }
+}

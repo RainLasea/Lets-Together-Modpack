@@ -1,0 +1,145 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "letstogether.quest.bounty_introduction.title": {
+      "lines": [
+        "赏金板上的第一份委托"
+      ]
+    },
+    "letstogether.quest.bounty_introduction.description": {
+      "lines": [
+        "村庄把日常委托交给赏金板统一结算。接受委托后，在任意赏金板成功交付 1 份赏金，再回到这位村民处复命，领取王国委托赏金令。"
+      ]
+    },
+    "letstogether.quest.bounty_introduction.objective.text": {
+      "lines": [
+        "在赏金板成功交付 1 份赏金"
+      ]
+    },
+    "letstogether.quest.bounty_introduction.objective.complete": {
+      "lines": [
+        "赏金已结清，回到委托人处复命。"
+      ]
+    },
+    "letstogether.quest.bounty_introduction.dialogue.offer.label": {
+      "lines": [
+        "赏金板上的第一份委托"
+      ]
+    },
+    "letstogether.quest.bounty_introduction.dialogue.offer.lines": {
+      "lines": [
+        "村里有些事情适合写在赏金板上。先去完成一份赏金，记得在赏金板交付；材料凑齐还不算结案。回来以后，我会给你一份王国委托赏金令。"
+      ]
+    },
+    "letstogether.quest.bounty_introduction.dialogue.offer.accept": {
+      "lines": [
+        "交给我吧。"
+      ]
+    },
+    "letstogether.quest.bounty_introduction.dialogue.offer.decline": {
+      "lines": [
+        "稍后再来。"
+      ]
+    },
+    "letstogether.quest.bounty_introduction.dialogue.reminder.label": {
+      "lines": [
+        "赏金板上的第一份委托"
+      ]
+    },
+    "letstogether.quest.bounty_introduction.dialogue.reminder.lines": {
+      "lines": [
+        "委托还没全部结算。凑齐物品或打败目标以后，记得拿着赏金纸到赏金板交付。按 J 查看日志，按 K 追踪进度。"
+      ]
+    },
+    "letstogether.quest.bounty_introduction.dialogue.reminder.abandon": {
+      "lines": [
+        "我暂时做不了了。"
+      ]
+    },
+    "letstogether.quest.bounty_introduction.dialogue.reminder.leave": {
+      "lines": [
+        "我继续去办。"
+      ]
+    },
+    "letstogether.quest.bounty_introduction.dialogue.turn_in.label": {
+      "lines": [
+        "赏金板上的第一份委托"
+      ]
+    },
+    "letstogether.quest.bounty_introduction.dialogue.turn_in.lines": {
+      "lines": [
+        "赏金板已经收到了你的结算记录。现在可以正式复命。"
+      ]
+    },
+    "letstogether.quest.bounty_introduction.dialogue.turn_in.complete": {
+      "lines": [
+        "委托都结清了。"
+      ]
+    },
+    "letstogether.quest.bounty_introduction.dialogue.turn_in.leave": {
+      "lines": [
+        "稍后再来复命。"
+      ]
+    },
+    "letstogether.quest.bounty_introduction.scene.start.started": {
+      "lines": [
+        "那就拜托你了。接取之后完成的赏金才会记入这次委托。"
+      ]
+    },
+    "letstogether.quest.bounty_introduction.scene.start.unavailable": {
+      "lines": [
+        "现在还不能接取这份委托，可能需要先完成前置任务，或等冷却结束。"
+      ]
+    },
+    "letstogether.quest.bounty_introduction.scene.complete.completed": {
+      "lines": [
+        "这份委托办得不错。这是王国委托赏金令，把它放进赏金板，就能领取帮助村民的赏金。记得先把赏金纸带在身上，再去完成村民的任务。"
+      ]
+    },
+    "letstogether.quest.bounty_introduction.scene.complete.missing": {
+      "lines": [
+        "结算记录还没有凑齐。请查看任务日志里的数量。"
+      ]
+    },
+    "letstogether.quest.bounty_introduction.scene.complete.unavailable": {
+      "lines": [
+        "这份委托现在无法结算。"
+      ]
+    },
+    "letstogether.quest.bounty_introduction.scene.abandon_confirm": {
+      "lines": [
+        "要撤回这份委托吗？已经获得的赏金报酬会保留，下次接取时重新统计委托进度。"
+      ]
+    },
+    "letstogether.quest.bounty_introduction.scene.abandon_confirm.yes": {
+      "lines": [
+        "是的，撤回委托。"
+      ]
+    },
+    "letstogether.quest.bounty_introduction.scene.abandon_confirm.no": {
+      "lines": [
+        "我再试试。"
+      ]
+    },
+    "letstogether.quest.bounty_introduction.scene.abandon.done": {
+      "lines": [
+        "那就先搁置吧，准备好了再来。"
+      ]
+    },
+    "letstogether.quest.bounty_introduction.scene.abandon.unavailable": {
+      "lines": [
+        "你现在没有这份委托。"
+      ]
+    },
+    "letstogether.quest.bounty_introduction.scene.leave": {
+      "lines": [
+        "赏金板和村民的委托都需要有人去办。准备好了再来。"
+      ]
+    },
+    "letstogether.quest.bounty_introduction.ui.tracker": {
+      "lines": [
+        "交付 1 份赏金，然后向委托人复命。"
+      ]
+    }
+  }
+}

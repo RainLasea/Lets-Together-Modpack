@@ -1,0 +1,25 @@
+{
+  "criteria": {
+    "diamond_boots": {
+      "trigger": "minecraft:impossible"
+    },
+    "diamond_chestplate": {
+      "trigger": "minecraft:impossible"
+    },
+    "diamond_helmet": {
+      "trigger": "minecraft:impossible"
+    },
+    "diamond_leggings": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "diamond_helmet",
+      "diamond_chestplate",
+      "diamond_leggings",
+      "diamond_boots"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

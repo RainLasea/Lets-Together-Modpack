@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "use_interplanar_projector": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "use_interplanar_projector"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

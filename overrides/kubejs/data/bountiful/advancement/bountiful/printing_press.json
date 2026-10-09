@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "combined_decrees": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "combined_decrees"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

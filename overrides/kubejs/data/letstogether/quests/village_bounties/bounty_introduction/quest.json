@@ -1,0 +1,242 @@
+{
+  "schema": "villagerretaliation:quest/v2",
+  "id": "letstogether:bounty_introduction",
+  "localization_prefix": "letstogether.quest.bounty_introduction",
+  "metadata": {
+    "title": {
+      "key": "#title"
+    },
+    "description": {
+      "key": "#description"
+    },
+    "questline": "village_bounties",
+    "tags": [
+      "group.village_bounties",
+      "role.request",
+      "activity.bounty",
+      "theme.community",
+      "difficulty.easy"
+    ]
+  },
+  "provider": {
+    "type": "villagerretaliation:villager",
+    "filters": {
+      "min_villager_level": "novice"
+    }
+  },
+  "availability": {
+    "repeatable": false,
+    "locked_to_villager": true,
+    "cross_villager_compatible": false,
+    "abandonment": "allow_repickup",
+    "consume_on_completion": true
+  },
+  "entry_stage": "commissions",
+  "stages": [
+    {
+      "id": "commissions",
+      "objectives": [
+        {
+          "id": "deliver_bounties",
+          "type": "criterion",
+          "criterion": "letstogether:bounty_completed",
+          "match": {
+            "source": "bountiful"
+          },
+          "count": 1,
+          "tracker": {
+            "text": {
+              "key": "#objective.text"
+            },
+            "complete_text": {
+              "key": "#objective.complete"
+            },
+            "show_progress": true,
+            "progress": 0.9
+          }
+        }
+      ],
+      "dialogue": {
+        "offer": {
+          "label": {
+            "key": "#dialogue.offer.label"
+          },
+          "request": "question",
+          "order": -35,
+          "show_for_babies": false,
+          "lines": {
+            "key": "#dialogue.offer.lines"
+          },
+          "responses": [
+            {
+              "id": "accept",
+              "label": {
+                "key": "#dialogue.offer.accept"
+              },
+              "scene": "start_quest"
+            },
+            {
+              "id": "decline",
+              "label": {
+                "key": "#dialogue.offer.decline"
+              },
+              "scene": "leave"
+            }
+          ]
+        },
+        "reminder": {
+          "label": {
+            "key": "#dialogue.reminder.label"
+          },
+          "request": "question",
+          "order": -35,
+          "show_for_babies": false,
+          "lines": {
+            "key": "#dialogue.reminder.lines"
+          },
+          "responses": [
+            {
+              "id": "abandon",
+              "label": {
+                "key": "#dialogue.reminder.abandon"
+              },
+              "scene": "abandon_confirm"
+            },
+            {
+              "id": "leave",
+              "label": {
+                "key": "#dialogue.reminder.leave"
+              },
+              "scene": "leave"
+            }
+          ]
+        },
+        "turn_in": {
+          "label": {
+            "key": "#dialogue.turn_in.label"
+          },
+          "request": "question",
+          "order": -35,
+          "show_for_babies": false,
+          "lines": {
+            "key": "#dialogue.turn_in.lines"
+          },
+          "responses": [
+            {
+              "id": "complete",
+              "label": {
+                "key": "#dialogue.turn_in.complete"
+              },
+              "scene": "complete_quest"
+            },
+            {
+              "id": "leave",
+              "label": {
+                "key": "#dialogue.turn_in.leave"
+              },
+              "scene": "leave"
+            }
+          ]
+        }
+      },
+      "scenes": [
+        {
+          "id": "start_quest",
+          "actions": [
+            {
+              "type": "quest",
+              "action": "start",
+              "lines": {
+                "started": {
+                  "key": "#scene.start.started"
+                },
+                "unavailable": {
+                  "key": "#scene.start.unavailable"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "complete_quest",
+          "actions": [
+            {
+              "type": "quest",
+              "action": "turn_in",
+              "lines": {
+                "completed": {
+                  "key": "#scene.complete.completed"
+                },
+                "missing_objectives": {
+                  "key": "#scene.complete.missing"
+                },
+                "unavailable": {
+                  "key": "#scene.complete.unavailable"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "abandon_confirm",
+          "lines": {
+            "key": "#scene.abandon_confirm"
+          },
+          "responses": [
+            {
+              "id": "confirm",
+              "label": {
+                "key": "#scene.abandon_confirm.yes"
+              },
+              "scene": "abandon_quest"
+            },
+            {
+              "id": "cancel",
+              "label": {
+                "key": "#scene.abandon_confirm.no"
+              },
+              "scene": "leave"
+            }
+          ]
+        },
+        {
+          "id": "abandon_quest",
+          "actions": [
+            {
+              "type": "quest",
+              "action": "abandon",
+              "lines": {
+                "abandoned": {
+                  "key": "#scene.abandon.done"
+                },
+                "unavailable": {
+                  "key": "#scene.abandon.unavailable"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "leave",
+          "text": {
+            "key": "#scene.leave"
+          }
+        }
+      ]
+    }
+  ],
+  "rewards": {
+    "experience": 40,
+    "reputation": 3,
+    "gossip_reputation": 1,
+    "loot_table": "letstogether:quest/bounty_introduction",
+    "memory_event": "player_completed_quest"
+  },
+  "ui": {
+    "icon": "bountiful:bounty",
+    "color": "#E0B767",
+    "tracker_text": {
+      "key": "#ui.tracker"
+    }
+  }
+}

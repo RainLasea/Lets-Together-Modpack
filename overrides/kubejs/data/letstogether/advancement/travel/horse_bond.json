@@ -1,0 +1,34 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:name_tag"
+    },
+    "title": {
+      "translate": "advancements.letstogether.travel.horse_bond.title",
+      "fallback": "Old Friend"
+    },
+    "description": {
+      "translate": "advancements.letstogether.travel.horse_bond.description",
+      "fallback": "Reach 100 bond with a horse."
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "bond_max": {
+      "conditions": {
+        "key": "bond_max"
+      },
+      "trigger": "icys-better-horses:milestone"
+    }
+  },
+  "requirements": [
+    [
+      "bond_max"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:travel/horse_home"
+}

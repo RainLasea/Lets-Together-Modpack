@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "tags": [
+      "content.dialogue",
+      "dialogue.ambient",
+      "scope.profession.nitwit",
+      "section.messages"
+    ],
+    "topic": "professions.nitwit.messages"
+  },
+  "messages": [
+    {
+      "id": "nitwit_gift_given_variants",
+      "key": "gift_given",
+      "lines": [
+        "以{gift_item}为例。我保存它是有一个很好的理由，但我忘记了。",
+        "在这里，{gift_item}。这感觉就像是朋友应该拥有的东西。",
+        "以{gift_item}为例。虽然不多，但都是用心给予的。",
+        "这是{gift_item}。您获得的不仅仅是一句简短的感谢。",
+        "保持 {gift_item} 靠近。有用的礼物不应该需要演讲。",
+        "我为真正会使用它的人保留了 {gift_item}。",
+        "这台 {gift_item} 是你的了。公平的帮助应该得到公平的感谢。",
+        "在我为它找其他苦差事之前，先拿 {gift_item} 吧。",
+        "我希望 {gift_item} 让接下来艰难的一天变得更轻松。",
+        "村里记得谁帮忙。今天，它记住了 {gift_item}。",
+        "在工作再次分散我的注意力之前，我把 {gift_item} 搬了过来。",
+        "用好{gift_item}，我们就叫交换广场。",
+        "{gift_item} 在你的背包里应该比在我的架子上更有帮助。",
+        "我选择{gift_item}，因为你有把有用的东西放在最后的习惯。",
+        "这里。 {gift_item} 属于那些离开村庄比刚来时更好的人。",
+        "以{gift_item}为例。在我想起它的其他用途之前，我就想起了你的帮助。",
+        "这不是付款。 {gift_item} 现在完全属于您了。",
+        "我妥善保管了 {gift_item}，直到我能够妥善移交它。",
+        "关键时刻你出现了。以{gift_item}为例。",
+        "一句普通的感谢感觉太少了，所以我带了{gift_item}。"
+      ],
+      "weight": 48
+    },
+    {
+      "id": "nitwit_gift_advice_followup_liked_variants",
+      "key": "gift_advice_followup.liked",
+      "lines": [
+        "看？ {tested_villager} 喜欢 {gift_item}。我偶尔也会因意外而变得聪明。",
+        "哈! {gift_item} 有效。我至少有一分钟会对此感到难以忍受。",
+        "好的。 {gift_item} 适合 {tested_villager}。我喜欢有效的建议。",
+        "我看到{tested_villager}对{gift_item}微笑。这就回答了问题。",
+        "良好的直觉。 {gift_item} 适合 {tested_villager}。",
+        "{gift_item} 找到了合适的人手。",
+        "你可以不用再担心了。 {tested_villager} 喜欢 {gift_item}。",
+        "下次购买 {tested_villager} 时请记住这种反应。",
+        "这个时机和 {gift_item} 本身一样有帮助。",
+        "{tested_villager} 立即发现了 {gift_item} 的用途。",
+        "你用 {gift_item} 让 {tested_villager} 感到受到关注。",
+        "如果您再次选择 {tested_villager}，请相信这种直觉。",
+        "上次我看的时候，{gift_item} 还和 {tested_villager} 在一起。",
+        "你选择了 {tested_villager} 想要的东西，而没有让他们询问。",
+        "这份礼物的作用超出了我们的预期。",
+        "{tested_villager}立即为{gift_item}找到了位置。",
+        "之后我听到{tested_villager}两次提到{gift_item}。",
+        "在道谢之前先是微笑。这通常是诚实的部分。",
+        "您将礼物与人匹配，而不是与价格匹配。",
+        "{tested_villager}对待{gift_item}就像对待它一样重要。"
+      ],
+      "weight": 44
+    },
+    {
+      "id": "nitwit_gift_advice_followup_disliked_variants",
+      "key": "gift_advice_followup.disliked",
+      "lines": [
+        "哦。然后假装我说{alternative_gift}。对于 {gift_subject} 来说，这听起来更明智。",
+        "{gift_item}失败？奇怪的。尝试 {alternative_gift}。我的第二次猜测对我来说很出名。",
+        "{gift_item} 未达到 {gift_subject} 的目标。请尝试使用 {alternative_gift}。",
+        "{gift_subject}，下次带上{alternative_gift}，让我们静静地退休我的第一个想法。",
+        "{gift_item} 握在他们手中，就像走错了家一样。",
+        "我猜错了。当我充满信心地猜测时，这种情况会发生得更多。",
+        "为其他人保留 {gift_item}。 {alternative_gift}在这里有更好的机会。",
+        "那件礼物落地时发出轻微的撞击声。尝试 {alternative_gift}。",
+        "我以为 {gift_subject} 会喜欢 {gift_item}。我的想法已经道歉了。",
+        "{gift_item}之后的礼貌微笑并没有达到很远。",
+        "在我将其改进为另一个错误之前，让我们先写下 {alternative_gift}。",
+        "好消息是我们现在知道一件事不要给 {gift_subject}。",
+        "{gift_item} 不太合适。我应该问而不是欣赏我自己的想法。",
+        "尝试 {alternative_gift}。似乎不太可能让房间变得安静。",
+        "我看到了 {gift_item} 的结局。让我们不要讨论那些不想要的东西的架子。",
+        "下一次尝试，选择 {alternative_gift} 和较小的受众。",
+        "{gift_subject}值得更好的猜测。 {alternative_gift} 是我的。",
+        "我又把自己的热情误认为是学识了。",
+        "在 {gift_item} 成为家具的一部分之前将其带回。",
+        "礼物没有落地，但至少这个错误温柔地教会了我们。"
+      ],
+      "weight": 44
+    },
+    {
+      "key": "gift_advice_followup.disliked",
+      "lines": [
+        "那是建议吗？我以为我们在猜测。接下来猜{alternative_gift}。",
+        "将 {gift_item} 放在一边并尝试 {alternative_gift}。这个建议应该会更好。",
+        "他们并没有对 {gift_item} 说太多，但不知何故却说了很多。",
+        "尝试 {alternative_gift}，但也许可以先在门口询问。",
+        "保留 {gift_item}。我认为没有人愿意第二次相遇。",
+        "我将退出下一个礼物决定。您可以随身携带{alternative_gift}。",
+        "那件事以一种非常安静的方式进行得很糟糕。",
+        "他们看看{gift_item}，然后看看我们，然后看向出口。",
+        "如果您必须重试，请带上 {alternative_gift}。我会去一个不太显眼的地方。",
+        "我告诉过你我的建议是不稳定的。现在已经倒塌了。",
+        "他们不喜欢 {gift_item}。请不要告诉他们这个想法是我开始的。",
+        "将 {gift_item} 放在一边。房间里似乎变得更冷了。",
+        "我认为{alternative_gift}更安全，但我的信心隐藏起来。",
+        "你可以道歉。我会在你身后点头。",
+        "我们学到了一些东西。我希望我们在送礼物之前就知道了。",
+        "{gift_item} 应该在有人问问题之前放回包装中。",
+        "如果您携带 {alternative_gift}，请在天气平静的日子进行。",
+        "房间里静悄悄的，足以让我记起另一个约会。",
+        "让他们静一静，然后询问 {alternative_gift} 的情况。",
+        "下一个想法需要更少的猜测和更多的倾听。"
+      ],
+      "dispositions": [
+        "cautious",
+        "rude",
+        "hostile",
+        "fearful"
+      ],
+      "weight": 20,
+      "id": "professions.nitwit.messages.00_messages.messages.gift_advice_followup.disliked.003"
+    },
+    {
+      "key": "gift_advice_followup.disliked",
+      "lines": [
+        "你还是尝试过吗？大胆的。我尊重这一点，几乎足以推荐 {alternative_gift}。",
+        "然后我们纠正猜测。 {alternative_gift} 下次。",
+        "他们讨厌{gift_item}。就连我也看懂了那张脸。",
+        "下次带上{alternative_gift}，把你的聪明演讲留在家里。",
+        "没有人要 {gift_item}。你的信心做到了。",
+        "请勿再次递给 {gift_item}，除非您希望同样的答案更大声。",
+        "那运气还不错。佩戴丝带是一个错误的选择。",
+        "他们一看，我也觉得自己被骂了。",
+        "尝试 {alternative_gift}。更好的是，先询问。",
+        "保留 {gift_item}。它已经在其他人手中造成了足够多的麻烦。",
+        "你无法通过站在那里更长时间来强行表达感激之情。",
+        "人不是一个装满随机物品的箱子。",
+        "接受提示。它不可能再大了。",
+        "如果 {alternative_gift} 也失败了，请停止猜测并开始聆听。",
+        "{gift_item} 没有达到目标，因为你闭着眼睛就提出了这个想法。",
+        "我给出了不确定的建议。你把它变成了一个坚定的错误。",
+        "别管他们，直到他们不再寻找放置 {gift_item} 的地方。",
+        "道歉比解释为什么这份礼物应该有效更有帮助。",
+        "努力并不能成为忽视某人真正喜欢的东西的借口。",
+        "仅当您自第一次尝试以来学到了一些东西时才携带 {alternative_gift}。"
+      ],
+      "dispositions": [
+        "rude",
+        "hostile"
+      ],
+      "weight": 20,
+      "id": "professions.nitwit.messages.00_messages.messages.gift_advice_followup.disliked.004"
+    }
+  ]
+}

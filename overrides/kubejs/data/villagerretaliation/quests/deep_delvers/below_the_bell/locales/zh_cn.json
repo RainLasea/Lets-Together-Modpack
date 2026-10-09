@@ -1,0 +1,111 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.deep_delvers.below_the_bell.description": "开设一个村庄矿井并回收第一批有用的铁。",
+    "quest.deep_delvers.below_the_bell.stage.return.dialogue.turn_in.label": "关于钟声之下",
+    "quest.deep_delvers.below_the_bell.stage.return.dialogue.turn_in.lines": [
+      "杆身敞开，第一铁诚实。我们可以以此为基础。",
+      "钟下的石头终于付了租金。",
+      "在我关闭笔记之前让我看看完整的作品。"
+    ],
+    "quest.deep_delvers.below_the_bell.stage.return.dialogue.turn_in.response.complete.label": "交出工作。",
+    "quest.deep_delvers.below_the_bell.stage.return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.deep_delvers.below_the_bell.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "杆身敞开，第一铁诚实。我们可以以此为基础。",
+      "钟下的石头终于付了租金。"
+    ],
+    "quest.deep_delvers.below_the_bell.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "完整的工作尚未准备好进行计算。"
+    ],
+    "quest.deep_delvers.below_the_bell.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "在我们解决这个问题之前，请带上证据。",
+      "我需要在这里提交完整的内容，而不仅仅是故事。"
+    ],
+    "quest.deep_delvers.below_the_bell.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "原料 背后需要一个真正的目的地。",
+      "在我们称之为完成之前到达标记的地方。"
+    ],
+    "quest.deep_delvers.below_the_bell.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "钟楼下方目前未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.deep_delvers.below_the_bell.stage.return.scene.turn_in_wait.lines": [
+      "六十四块石头被打碎，十六块生铁被带到铁匠铺。",
+      "当工作准备好时再回来。"
+    ],
+    "quest.deep_delvers.below_the_bell.stage.return.ui.tracker_text": "返回任务给予者。",
+    "quest.deep_delvers.below_the_bell.stage.work.dialogue.offer.label": "钟声之下",
+    "quest.deep_delvers.below_the_bell.stage.work.dialogue.offer.lines": [
+      "村庄矗立在石头上，我们从未问过任何有用的问题。",
+      "打开钟下方的适当竖井，取出第一块生铁。",
+      "开采 64 块石头或深板岩并带来 16 块生铁。"
+    ],
+    "quest.deep_delvers.below_the_bell.stage.work.dialogue.offer.response.accept.label": "我能做到。",
+    "quest.deep_delvers.below_the_bell.stage.work.dialogue.offer.response.decline.label": "现在不行。",
+    "quest.deep_delvers.below_the_bell.stage.work.dialogue.reminder.label": "关于钟声之下",
+    "quest.deep_delvers.below_the_bell.stage.work.dialogue.reminder.lines": [
+      "六十四块石头被打碎，十六块生铁被带到铁匠铺。",
+      "开采 64 块石头或深板岩并带来 16 块生铁。",
+      "打开钟下方的适当竖井，取出第一块生铁。"
+    ],
+    "quest.deep_delvers.below_the_bell.stage.work.dialogue.reminder.response.abandon.label": "把这个放在一边。",
+    "quest.deep_delvers.below_the_bell.stage.work.dialogue.reminder.response.details.label": "重复该工作。",
+    "quest.deep_delvers.below_the_bell.stage.work.dialogue.reminder.response.leave.label": "我有。",
+    "quest.deep_delvers.below_the_bell.stage.work.objective.bring_iron.tracker.complete_text": "生铁准备好了。",
+    "quest.deep_delvers.below_the_bell.stage.work.objective.bring_iron.tracker.text": "从新竖井中取出 16 个生铁。",
+    "quest.deep_delvers.below_the_bell.stage.work.objective.open_shaft.tracker.complete_text": "第一竖井是开放的。",
+    "quest.deep_delvers.below_the_bell.stage.work.objective.open_shaft.tracker.text": "开采 64 块石头或深板岩。",
+    "quest.deep_delvers.below_the_bell.stage.work.scene.abandon_confirm.lines": [
+      "把钟下方放在一边？",
+      "如果你确定的话我可以把你的名字从工作中删除。"
+    ],
+    "quest.deep_delvers.below_the_bell.stage.work.scene.abandon_confirm.response.cancel.label": "保持打开状态。",
+    "quest.deep_delvers.below_the_bell.stage.work.scene.abandon_confirm.response.confirm.label": "把它放在一边。",
+    "quest.deep_delvers.below_the_bell.stage.work.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "好的。我会从工作中清除你的名字。",
+      "便条收起来了。你可以稍后再问。"
+    ],
+    "quest.deep_delvers.below_the_bell.stage.work.scene.abandon_quest.action.abandon.lines.abandoned_cooldown": [
+      "我会把这张纸条先搁置一段时间，然后再重新发布。",
+      "在你再次提出要求之前，先让工作休息一下。"
+    ],
+    "quest.deep_delvers.below_the_bell.stage.work.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "钟楼下方目前未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.deep_delvers.below_the_bell.stage.work.scene.decline.lines": [
+      "石头等的时间比我们还要久。它可以等待。"
+    ],
+    "quest.deep_delvers.below_the_bell.stage.work.scene.leave.lines": [
+      "六十四块石头被打碎，十六块生铁被带到铁匠铺。",
+      "当工作准备好时再回来。"
+    ],
+    "quest.deep_delvers.below_the_bell.stage.work.scene.reminder_details.action.remind.lines.reminder": [
+      "六十四块石头被打碎，十六块生铁被带到铁匠铺。",
+      "开采 64 块石头或深板岩并带来 16 块生铁。",
+      "打开钟下方的适当竖井，取出第一块生铁。"
+    ],
+    "quest.deep_delvers.below_the_bell.stage.work.scene.reminder_details.action.remind.lines.unavailable": [
+      "钟楼下方目前未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.deep_delvers.below_the_bell.stage.work.scene.start_quest.action.start.lines.already_completed": [
+      "钟楼下现在已经安定下来了。",
+      "这项工作已经被计算在内。"
+    ],
+    "quest.deep_delvers.below_the_bell.stage.work.scene.start_quest.action.start.lines.locate_failed": [
+      "我在这里找不到值得信赖的标记。等道路畅通后再询问。",
+      "今天地图不会确定安全目的地。"
+    ],
+    "quest.deep_delvers.below_the_bell.stage.work.scene.start_quest.action.start.lines.started": [
+      "走的时候要撑住入口。地雷不应从救援开始。",
+      "开采 64 块石头或深板岩并带来 16 块生铁。"
+    ],
+    "quest.deep_delvers.below_the_bell.stage.work.scene.start_quest.action.start.lines.unavailable": [
+      "钟楼下方目前未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.deep_delvers.below_the_bell.stage.work.ui.tracker_text": "开采 64 块石头或深板岩并带来 16 块生铁。",
+    "quest.deep_delvers.below_the_bell.title": "钟声之下"
+  }
+}

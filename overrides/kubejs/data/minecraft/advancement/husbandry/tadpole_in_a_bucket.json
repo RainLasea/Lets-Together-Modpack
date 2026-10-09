@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "tadpole_bucket": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "tadpole_bucket"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

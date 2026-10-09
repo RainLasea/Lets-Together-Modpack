@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "copper": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "copper"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

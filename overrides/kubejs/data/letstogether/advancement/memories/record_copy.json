@@ -1,0 +1,38 @@
+{
+  "display": {
+    "icon": {
+      "id": "caverns_and_chasms:music_disc_copy"
+    },
+    "title": {
+      "translate": "advancements.letstogether.memories.record_copy.title",
+      "fallback": "Make Me a Copy"
+    },
+    "description": {
+      "translate": "advancements.letstogether.memories.record_copy.description",
+      "fallback": "Obtain a copied music disc."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "copy_music_disc": {
+      "conditions": {
+        "items": [
+          {
+            "items": "caverns_and_chasms:music_disc_copy"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "copy_music_disc"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:memories/repair"
+}

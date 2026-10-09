@@ -1,0 +1,40 @@
+{
+  "display": {
+    "icon": {
+      "id": "irons_spellbooks:diamond_spell_book"
+    },
+    "title": {
+      "translate": "advancements.letstogether.magic.diamond_book.title",
+      "fallback": "An Enchanting Read"
+    },
+    "description": {
+      "translate": "advancements.letstogether.magic.diamond_book.description",
+      "fallback": "Obtain an Enchanted Spell Book."
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "requirement": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "irons_spellbooks:diamond_spell_book"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "requirement"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:magic/gold_book"
+}

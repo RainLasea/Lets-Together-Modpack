@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "iron_pickaxe": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "iron_pickaxe"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

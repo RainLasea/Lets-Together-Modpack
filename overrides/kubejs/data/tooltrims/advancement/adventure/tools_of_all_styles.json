@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "has_trimmed_tool_with_linear": {
+      "trigger": "minecraft:impossible"
+    },
+    "has_trimmed_tool_with_tracks": {
+      "trigger": "minecraft:impossible"
+    },
+    "has_trimmed_tool_with_charge": {
+      "trigger": "minecraft:impossible"
+    },
+    "has_trimmed_tool_with_frost": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "has_trimmed_tool_with_linear"
+    ],
+    [
+      "has_trimmed_tool_with_tracks"
+    ],
+    [
+      "has_trimmed_tool_with_charge"
+    ],
+    [
+      "has_trimmed_tool_with_frost"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

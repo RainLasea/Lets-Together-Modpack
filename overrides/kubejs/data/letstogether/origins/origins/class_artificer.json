@@ -1,0 +1,13 @@
+{
+  "name": "origins.letstogether.class_artificer.name",
+  "description": "origins.letstogether.class_artificer.description",
+  "icon": "minecraft:iron_pickaxe",
+  "impact": "low",
+  "order": 4,
+  "powers": [
+    "letstogether:class_artificer_mining",
+    "letstogether:class_artificer_repairs",
+    "letstogether:class_artificer_reach"
+  ],
+  "upgrades": []
+}

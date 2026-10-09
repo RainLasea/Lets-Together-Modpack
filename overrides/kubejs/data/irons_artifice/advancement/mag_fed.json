@@ -1,0 +1,21 @@
+{
+  "criteria": {
+    "clockwork_rifle": {
+      "trigger": "minecraft:impossible"
+    },
+    "revolver": {
+      "trigger": "minecraft:impossible"
+    },
+    "six_shooter": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "six_shooter",
+      "revolver",
+      "clockwork_rifle"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

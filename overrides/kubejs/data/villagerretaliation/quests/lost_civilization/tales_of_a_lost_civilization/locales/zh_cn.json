@@ -1,0 +1,198 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.lost_civilization.tales_of_a_lost_civilization.description": {
+      "lines": [
+        "跟随制图师的谣言前往一座古城，并带着回响碎片返回。"
+      ]
+    },
+    "quest.lost_civilization.tales_of_a_lost_civilization.objective.recover_echo_shard.complete_text": {
+      "lines": [
+        "恢复 {objective_item}。"
+      ]
+    },
+    "quest.lost_civilization.tales_of_a_lost_civilization.objective.recover_echo_shard.text": {
+      "lines": [
+        "恢复 {objective_item} 作为旅程的证明。"
+      ]
+    },
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.return.dialogue.reminder.label": "关于失落的文明",
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.return.dialogue.reminder.lines": [
+      "关于老城区？我可以再次标记道路，或者如果你拿完地图，可以将其折叠起来。",
+      "地图仍然由您来遵循。再次索要标记，否则我可以把 路线 收起来。"
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.return.dialogue.reminder.response.abandon.label": "放弃任务",
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.return.dialogue.reminder.response.directions.label": "提醒我要去哪里",
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.return.dialogue.reminder.response.never_mind.label": "算了",
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.return.dialogue.turn_in.label": "关于失落的文明",
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.return.dialogue.turn_in.lines": [
+      "你回来了，带着安静。告诉我你站在中心，而不仅仅是这个地方的影子。",
+      "那眼神不是来自山洞。那是来自更古老的地方。你带证据了吗？"
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.return.dialogue.turn_in.response.abandon.label": "放弃任务",
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.return.dialogue.turn_in.response.complete.label": "显示回响碎片",
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.return.dialogue.turn_in.response.never_mind.label": "算了",
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.return.scene.abandon_cancel.lines": [
+      "很好。一张折叠的地图比随身携带的地图记忆力要差。",
+      "然后保留标记。有些故事惩罚犹豫，但这个故事奖励谨慎。"
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.return.scene.abandon_confirm.lines": [
+      "折叠这张地图意味着这条路会暂时变冷。你确定吗？",
+      "我可以把旧的标记收起来，但我不会假装这个地方停止等待。"
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.return.scene.abandon_confirm.response.cancel.label": "保留任务",
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.return.scene.abandon_confirm.response.confirm.label": "把地图收起来",
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.return.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "然后我会把 路线 折叠起来。如果老城一直在召唤，就回来，我们可以再次标记。",
+      "完毕。地图暂时静止。"
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.return.scene.abandon_quest.action.abandon.lines.abandoned_cooldown": [
+      "然后我会把 路线 收起来一天。让墨水有时间干燥，然后再让我再次标记。",
+      "完毕。地图确定后，我可以稍后重新访问该标记。"
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.return.scene.abandon_quest.action.abandon.lines.abandoned_forever": [
+      "然后我会关闭这个账本。",
+      "完毕。我不会再提供这条线索了。"
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.return.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "那张地图现在不在你手里。",
+      "这里没有可供我折叠的活动路径。"
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.return.scene.active_cancel.lines": [
+      "然后将地图靠近，直到道路再次开始说话。",
+      "公平的。有些地图最好安静地携带。"
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "所以这些故事毕竟不仅仅是墨水。随身携带您所学到的知识，让村庄知道您曾走过沉默记录的地方。",
+      "你找到了中心并带来了证据。这超出了地图的能力。这个村庄会在那个失落的地方旁边记住你的名字。",
+      "来自 {target} 核心的回响碎片。我相信你。有些故事在重复之前应该付费。"
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "那么你看到了那个地方。给我 {proof_item}，我就可以说故事完整了。",
+      "旅程需要令牌。在那些深处找到 {proof_item} 并将其带回来。"
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "光有这个碎片是不够的。您需要站在 {target} 的中心，而不仅仅是大厅。",
+      "证据只是故事的一半。另一半是地方本身：{target_x}、{target_z} 附近的市中心。"
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "这个故事仍然有一个缺失的部分。",
+      "故事中缺少了一些东西。"
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.return.scene.reminder_details.action.remind.lines.reminder": [
+      "这个地方是{direction}，大约距离{distance}几个街区，靠近{target_x}、{target_z}。到达{target}的中心，然后给我带来{proof_item}。",
+      "不要被外面的大厅所迷惑。我需要市中心本身。我的标记就在这里的{target_x}、{target_z}、{direction}附近，而{proof_item}就是我需要的证明。",
+      "旧标记没有改变：{target_x}、{target_z}、关于{distance}块{direction}。首先是中心，其次是 {proof_item}，然后再回来。"
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.return.scene.reminder_details.action.remind.lines.unavailable": [
+      "地图现在没有给我相同的答案。",
+      "如果标记滑落，请在墨水沉淀后返回。"
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.return.scene.turn_in_wait.lines": [
+      "然后保管好它，直到你准备好让村庄和你一起记住。",
+      "无需强求言语。等他们安定下来之后再把他们带回来。"
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.dialogue.offer.label": "失落的文明",
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.dialogue.offer.lines": [
+      "有些旧地图拒绝保持静止。其中一只在墨水下不断爬回原来的形状。",
+      "我发现了一个不属于我所知道的任何道路的标记。它指向世界下方，指向一座人们不再命名的城市。"
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.dialogue.offer.response.accept.label": "告诉我该去哪里",
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.dialogue.offer.response.decline.label": "另一次",
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.dialogue.reminder.label": "关于失落的文明",
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.dialogue.reminder.lines": [
+      "关于老城区？我可以再次标记道路，或者如果你拿完地图，可以将其折叠起来。",
+      "地图仍然由您来遵循。再次索要标记，否则我可以把 路线 收起来。"
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.dialogue.reminder.response.abandon.label": "放弃任务",
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.dialogue.reminder.response.directions.label": "提醒我要去哪里",
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.dialogue.reminder.response.never_mind.label": "算了",
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.objective.visit_city_center.tracker.complete_text": "您到达了老城区的中心。",
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.objective.visit_city_center.tracker.text": "到达 {target_x}、{target_z} 附近的古城中心。",
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.scene.abandon_cancel.lines": [
+      "很好。一张折叠的地图比随身携带的地图记忆力要差。",
+      "然后保留标记。有些故事惩罚犹豫，但这个故事奖励谨慎。"
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.scene.abandon_confirm.lines": [
+      "折叠这张地图意味着这条路会暂时变冷。你确定吗？",
+      "我可以把旧的标记收起来，但我不会假装这个地方停止等待。"
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.scene.abandon_confirm.response.cancel.label": "保留任务",
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.scene.abandon_confirm.response.confirm.label": "把地图收起来",
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "然后我会把 路线 折叠起来。如果老城一直在召唤，就回来，我们可以再次标记。",
+      "完毕。地图暂时静止。"
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.scene.abandon_quest.action.abandon.lines.abandoned_cooldown": [
+      "然后我会把 路线 收起来一天。让墨水有时间干燥，然后再让我再次标记。",
+      "完毕。地图确定后，我可以稍后重新访问该标记。"
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.scene.abandon_quest.action.abandon.lines.abandoned_forever": [
+      "然后我会关闭这个账本。",
+      "完毕。我不会再提供这条线索了。"
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "那张地图现在不在你手里。",
+      "这里没有可供我折叠的活动路径。"
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.scene.active_cancel.lines": [
+      "然后将地图靠近，直到道路再次开始说话。",
+      "公平的。有些地图最好安静地携带。"
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.scene.decline.lines": [
+      "然后将地图折叠起来。有些地方的耐心却是人们所没有的。",
+      "公平的。一个学会保持沉默的城市可以再等一会儿。"
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.scene.reminder_details.action.remind.lines.reminder": [
+      "这个地方是{direction}，大约距离{distance}几个街区，靠近{target_x}、{target_z}。到达{target}的中心，然后给我带来{proof_item}。",
+      "不要被外面的大厅所迷惑。我需要市中心本身。我的标记就在这里的{target_x}、{target_z}、{direction}附近，而{proof_item}就是我需要的证明。",
+      "旧标记没有改变：{target_x}、{target_z}、关于{distance}块{direction}。首先是中心，其次是 {proof_item}，然后再回来。"
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.scene.reminder_details.action.remind.lines.unavailable": [
+      "地图现在没有给我相同的答案。",
+      "如果标记滑落，请在墨水沉淀后返回。"
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.scene.start_quest.action.start.lines.already_completed": [
+      "这座失落的城市已经给了我们答案。",
+      "我们现在就有了这个故事。我仍在决定应该大声说出多少内容。"
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.scene.start_quest.action.start.lines.locate_failed": [
+      "今天的地图不会定在那个城市。我宁愿等待，也不愿给你带来不好的印象。",
+      "我能感觉到墨水下的旧路，但还不够清晰，无法带你去那里。"
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.scene.start_quest.action.start.lines.started": [
+      "一个标记指向{direction}，距这里大约{distance}一个街区，靠近{target_x}、{target_z}。如果你真的想要这个故事，找到{target}的核心并带回{proof_item}。",
+      "我已经把这个标记复制了三遍，每次复制都会爬回同一个地方：我们的{target_x}、{target_z}、{direction}。小心点。 {target} 的中心是重要的部分，{proof_item} 将证明您已经达到了这一点。",
+      "然后仔细听：行驶{direction}，大约{distance}块，走向{target_x}，{target_z}。站在市中心，而不仅仅是郊区，带着 {proof_item} 返回。"
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.stage.survey.scene.start_quest.action.start.lines.unavailable": [
+      "还没有。这个故事需要更稳定的地图处理能力。",
+      "除非我相信阅读内容和读者，否则我不会展示某些标记。"
+    ],
+    "quest.lost_civilization.tales_of_a_lost_civilization.title": {
+      "lines": [
+        "失落的文明"
+      ]
+    },
+    "quest.lost_civilization.tales_of_a_lost_civilization.tracker.proof.text": {
+      "lines": [
+        "恢复 {proof_item} 作为旅程的证明。"
+      ]
+    },
+    "quest.lost_civilization.tales_of_a_lost_civilization.tracker.return.text": {
+      "lines": [
+        "使用 {proof_item} 返回制图师。"
+      ]
+    },
+    "quest.lost_civilization.tales_of_a_lost_civilization.tracker.title": {
+      "lines": [
+        "失落的文明"
+      ]
+    },
+    "quest.lost_civilization.tales_of_a_lost_civilization.tracker.travel.text": {
+      "lines": [
+        "到达 {target_x}、{target_z} 附近的古城中心。"
+      ]
+    }
+  }
+}

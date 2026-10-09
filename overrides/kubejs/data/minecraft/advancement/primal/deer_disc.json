@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "deer_disc": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "deer_disc"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

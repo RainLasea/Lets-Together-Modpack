@@ -1,0 +1,379 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.dangerous_commissions.trial_chamber_recall.description": {
+      "lines": [
+        "调查审判室并带着审判钥匙和微风棒返回。"
+      ]
+    },
+    "quest.dangerous_commissions.trial_chamber_recall.dialogue.already_completed": {
+      "lines": [
+        "没有人需要这样做两次。我们已经解决了重返试炼密室问题。",
+        "我问的你都说完了。你已经带着我们需要的东西从审判分庭回来了。",
+        "这件事我们已经解决了。重返试炼密室已结束。我不会让你两次经历微风和试验生成器。",
+        "事情结束得还算顺利。您向审判分庭提交的 路线 已在调查记录中。",
+        "这里没有第二次付款。我记得你带着试用钥匙回来的那天。",
+        "从此一无所获。您赢得了重返试炼密室的奖励，并且已支付。",
+        "这件事我们已经解决了。我们已经得到了分庭的答复，因为您已经完成了前往审判分庭的旅程。",
+        "事情结束得还算顺利。房间里没有任何东西有待回收。",
+        "我记得你第一次回来。你从审判分庭带来的东西仍在帮助这个村庄。",
+        "这件事我们已经解决了。您已经验证过 路线 密室一次。这就够了。",
+        "这里没有第二次付款。调查笔记的已完成标记旁边有您的名字。",
+        "所欠的已经还清了。将审判分庭回忆留在过去属于它的地方。",
+        "我记得你第一次回来。你在第一次返回时就解决了重返试炼密室的所有部分。",
+        "所欠的已经还清了。已到达审判分庭并提交了审判关键证据。",
+        "我记得你第一次回来。在把你送回审判分庭之前，我会为你找到一条路。",
+        "从此一无所获。没有人忘记前往审判分庭的旅程花费了多少费用。",
+        "你早期的作品仍然有效。审判分庭 审判分庭的召回不需要您第二次来访。",
+        "这里没有第二次付款。你给了我们试用钥匙，而不是另一个谣言。",
+        "这件事我们已经解决了。重返试炼密室正常结束，并且仍然结束。",
+        "我不会重新打开已完成的帐户。我们现在可以展望未来。重返试炼密室已完成。"
+      ]
+    },
+    "quest.dangerous_commissions.trial_chamber_recall.dialogue.inactive": {
+      "lines": [
+        "不是今天。目前撤回审判分庭的条件尚不成熟。",
+        "等店铺换了再问我。审判分庭的标志今天没有开放。",
+        "暂时先别管那项工作。我现在没有理由让你冒微风和试验产卵者的风险。",
+        "今天没有什么需要做这项工作。村庄还没有准备好使用试用钥匙和一根微风棒。",
+        "当重要的时候我会发布它。等到调查记录要求前往审判分庭时。",
+        "现在，就让这件事平息吧。毫无必要地前往审判分庭只会带来危险。",
+        "还没有开始的理由。 路线 室可以保持折叠状态，直到时间改善。",
+        "我不会把这个问题列入考虑范围。我暂时不考虑重返试炼密室。",
+        "现在，就让这件事平息吧。今天审判分庭没有什么需要我们回答的。",
+        "村里可以等这一件事。准备好前往审判分庭的装备，但先不要离开。",
+        "我们还不需要它。重返试炼密室是真实的。现在还不是。",
+        "董事会可以等待。我不会为了满足旧的音符而送你去微风和试验生成器。",
+        "暂时先别管那项工作。审判分庭可以等到我们有需要时才返回。",
+        "我不会把这个问题列入考虑范围。村里审核完调查记录后再询问。",
+        "我们还不需要它。今天没有人主动索要试用密钥。",
+        "村里可以等这一件事。通往审判分庭的道路很安静，我打算就这样走下去。",
+        "还没有开始的理由。现在开始召回审判分庭需要勇气，但不会产生任何有用的结果。",
+        "暂时先别管那项工作。重返试炼密室尚未发布给任何旅行者。",
+        "时间不对。给重返试炼密室时间以备必要。",
+        "今天没有什么需要做这项工作。目前，请留在前往审判分庭的旅程的这一侧。"
+      ]
+    },
+    "quest.dangerous_commissions.trial_chamber_recall.dialogue.locate_failed": {
+      "lines": [
+        "我不会猜测 路线。今天，没有任何一个议院能回答地图的问题。或许这就是慈悲吧。",
+        "旧的指示不再一致。我无法给审判分庭留下值得信赖的印记。",
+        "我不能盲目地送你出去。我检查过的每个 路线 在腔室前都会发生故障。",
+        "旧的指示不再一致。审判室的地图不一致，微风和审判生成器没有留下任何猜测的空间。",
+        "在我认路之前，你就待在这里。我发现了审判分庭的传闻，但我不会给你任何道路。",
+        "我们首先需要一个值得信赖的路线。审判分庭已经超出了我的审判分庭图表。",
+        "小路已经冷了。如果没有坚定的方向，审判分庭回忆就会徘徊。",
+        "我不能盲目地送你出去。我最好的地图在房间应该在的地方是空白的。",
+        "我找不到可以给你的安全支撑。我追踪到三架 路线 前往审判分庭，但没有追踪到 信任。",
+        "搜索没有发现任何可靠的结果。旧的审判分庭指示在危险开始之前就结束了。",
+        "图表有问题。我不会假装猜测可以给审判分庭留下痕迹。",
+        "我找不到可以给你的安全支撑。没有侦察员确认审判分庭的标记。",
+        "我们首先需要一个值得信赖的路线。我还没来得及标记，通向审判分庭的小路就变冷了。",
+        "旧的指示不再一致。我需要审判分庭坐标，而不是篝火故事。",
+        "可疑的地图风险太大。审判分庭可能在那里，但我无法证明在哪里。",
+        "我不能盲目地送你出去。审判分庭的方位没有一个指向同一个地面。",
+        "小路已经冷了。在你准备离开之前，让我找到一个诚实的密室路线。",
+        "在我认路之前，你就待在这里。调查报告今天提出的是警告，而不是方向。",
+        "小路已经冷了。当我需要确定性时，审判分庭地图却让我产生怀疑。",
+        "我找不到可以给你的安全支撑。回来后审判分庭之路给了我们答案。"
+      ]
+    },
+    "quest.dangerous_commissions.trial_chamber_recall.dialogue.missing_proof": {
+      "lines": [
+        "故事无法关闭账本。带上试用钥匙。这是承认你在那里的房间。",
+        "你带回家的东西决定了这一点。您返回时仍缺少试用密钥。",
+        "你的话并不是缺失的部分。如果没有商定的试用关键证据，我无法关闭调查笔记。",
+        "最后一个要求仍然缺失。你面对审判分庭，但村庄仍然需要审判钥匙。",
+        "我无法在空的退货单上签字。在我们解决审判室召回问题之前，带回审判钥匙和一根微风棒。",
+        "证据必须到达我的手中。你的故事可能是真的。我仍然需要试用密钥。",
+        "我相信你去了，但这还不够。当审判钥匙易手时，通往审判分庭的旅程就结束了。",
+        "我无法在空的退货单上签字。不要到达审判分庭并忘记验证它的审判钥匙。",
+        "故事无法关闭账本。我知道你旅行过。我需要审判分庭的结果。",
+        "你的话并不是缺失的部分。重返试炼密室奖励等待的是审判关键证据，而不是线索。",
+        "最后一个要求仍然缺失。出示审判钥匙，重返试炼密室即可结束。",
+        "故事无法关闭账本。调查笔记中的空白处等待您恢复的内容。",
+        "你的话并不是缺失的部分。言语无法代替商会的答案。",
+        "故事无法关闭账本。在两次前往审判分庭之前检查您的包裹。",
+        "让我看看你带回来了什么。审判分庭回忆录从一开始就命名了它的证据。",
+        "你回来时却没有带我要的一件东西。将审判关键证据带到此处，而不是将其留在 仓储 中。",
+        "我无法在空的退货单上签字。村庄要求提供一把试用钥匙和一根微风棒，但仍未完成。",
+        "我相信你去了，但这还不够。当我看到 路线 房间里的东西后，我可以记录它。",
+        "你带回家的东西决定了这一点。一次审判钥匙交接将重返试炼密室与完成分开。",
+        "我相信你去了，但这还不够。当试用钥匙在你手中时返回。"
+      ]
+    },
+    "quest.dangerous_commissions.trial_chamber_recall.dialogue.missing_target": {
+      "lines": [
+        "达到目标是承诺的一部分。当你踏入房间后，这些物品就很重要了。",
+        "旅程结束得太早了。你还没有确认审判分庭本身。",
+        "你还没有走得足够远。如果从未到达审判分庭，那么这些货物就毫无意义。",
+        "旅程结束得太早了。重返试炼密室包括路上和返回。",
+        "你还没有走得足够远。在你给我带来证据之前先踏入密室。",
+        "你还没有走得足够远。我要求审判分庭提供证据，而不是其他地方。",
+        "地图上仍然显示着未完成的旅程。调查记录中并未涉及审判分庭。",
+        "达到目标是承诺的一部分。在领取重返试炼密室奖励之前完成外出旅程。",
+        "这项任务不仅仅与货物有关。借用的审判钥匙不能代替到达审判分庭。",
+        "达到目标是承诺的一部分。审判分庭地图仍然显示你突然停止了。",
+        "你还没有走得足够远。前往标记的地方并通过那里查看重返试炼密室。",
+        "你还没有走得足够远。 路线 分庭的终点必须是审判分庭，而不是靠近它。",
+        "你还欠道路最后一英里。在我相信这份报告之前，我需要你们关注审判分庭。",
+        "必须到达该地点本身。不要跳过将微风和试验生成器置于您面前的部分。",
+        "你还没有走得足够远。村里要求你确认这个房间的存在。",
+        "你不能跳过任务的核心。你回来的还早。审判分庭仍在等待。",
+        "你还没有走得足够远。到达审判室，然后取回审判钥匙和一根微风棒。",
+        "必须到达该地点本身。通往审判分庭的旅程尚未结束，而最后的终点尚未抵达。",
+        "必须到达该地点本身。调查笔记需要一个确认的地点，而不仅仅是一个项目。",
+        "旅程结束得太早了。返回审判分庭并完成你开始的事情。"
+      ]
+    },
+    "quest.dangerous_commissions.trial_chamber_recall.dialogue.reminder": {
+      "lines": [
+        "现在不要丢失线。 {target_x}、{target_z} 附近的审判分庭。关键，微风罗德，活着回来足以解释这两件事。",
+        "现在不要丢失线。审判分庭仍在 {target_x}、{target_z} 附近。",
+        "记住村庄在等待什么。该标记仍靠近 {target_x}、{target_z}，因此请保留计划的室 路线。",
+        "记住村庄在等待什么。再次查看地图。审判分庭仍在 {target_x}、{target_z} 附近。",
+        "遵守我给你的指示。审判分庭回忆仍然需要一把审判钥匙和一根微风棒。",
+        "使这一切得到适当的完成。途中注意微风和试验产卵者。",
+        "离开之前，请再听一遍。没有审判钥匙，请勿离开审判分庭。",
+        "遵守我给你的指示。你的回来应该会给我们商会的答案。",
+        "下一步仍然很重要。在地标模糊之前检查 {target_x}、{target_z} 处的审判室方位。",
+        "牢记整个任务。恢复试用密钥后，请妥善保管它。",
+        "使这一切得到适当的完成。调查记录在您回家之前一直保持开放状态。",
+        "下一步仍然很重要。不要盲目冲向审判分庭。按照标记并完整返回。",
+        "记住村庄在等待什么。审判分庭尚未从 {target_x}、{target_z} 移出。",
+        "遵守我给你的指示。记住你为什么要去。我们需要衡量下面等待的是什么。",
+        "牢记整个任务。如果 路线 室感觉不对，请对照 {target_x}、{target_z} 检查您的位置。",
+        "遵守我给你的指示。困难的部分是到达密室并带着证据离开。",
+        "继续你接受的工作。审判分庭仍在 {target_x}、{target_z} 附近等待。",
+        "不要让已完成的一步分散您的注意力。将试用钥匙和一根微风棒的每个部分重新组装在一起。",
+        "下一步仍然很重要。我宁愿等待也不愿收到约定的试用密钥的一半。",
+        "不要让已完成的一步分散您的注意力。找到审判分庭，在那里进行重返试炼密室，然后返回给我。"
+      ]
+    },
+    "quest.dangerous_commissions.trial_chamber_recall.dialogue.start": {
+      "lines": [
+        "让我们清楚地了解这项工作。密室是 {direction}，距离这里大约是 {distance} 个街区，靠近 {target_x}、{target_z}。带上一把试用钥匙和一根微风棒。",
+        "我把一些重要的事情托付给你。我在 {target_x}、{target_z} 附近的审判分庭做了标记。",
+        "仅当您准备好时才接受任务。向 {direction} 移动约 {distance} 方块并寻找密室。",
+        "在你同意之前，先听听所有的内容。这项工作是测量下面等待的内容。",
+        "这是工作。带上一把试用钥匙和一根微风棒回家，这样村子里的谣言就不再是谣言了。",
+        "让我们清楚地了解这项工作。这条路穿过微风和试验生成器，所以在出发前做好准备。",
+        "我需要你来看看这件事。我需要有人愿意前往审判分庭并带回证据。",
+        "这需要小心谨慎。根据我的地图，审判分庭位于 {target_x}、{target_z} 附近。",
+        "我有一个困难的请求。跟随 {direction} 轴承并保持测量记录干燥。",
+        "村里有工作给你。重返试炼密室从审判分庭开始，到我收到审判钥匙时结束。",
+        "我把一些重要的事情托付给你。审判分庭的标记距离 {distance} 左右。不要将速度误认为是谨慎。",
+        "认真对待这件事。带上一把试用钥匙和一根微风棒，我就能把这个风险变成有用的东西。",
+        "村里有工作给你。村庄需要会议厅的答复，而不是在火灾中吹嘘。",
+        "让我们清楚地了解这项工作。我把 路线 室交给你，因为它并不友善。",
+        "仔细听。前往{target_x}、{target_z}并亲自确认审判室。",
+        "让我们清楚地了解这项工作。在穿过最后一个安全地带之前，请做好应对微风和试验产卵者的准备。",
+        "让我们清楚地了解这项工作。向外的旅程证明了审判分庭的地图。回报证明了你。",
+        "仔细听。不要从房间空着回来。",
+        "这是工作。仅当您打算完成旅行和恢复时才采取重返试炼密室。",
+        "这是工作。当你有试用钥匙和一根微风棒时，直接把它带到这里。"
+      ]
+    },
+    "quest.dangerous_commissions.trial_chamber_recall.dialogue.turn_in": {
+      "lines": [
+        "这将会带来真正的改变。一把钥匙和一根微风棒。好的。那个房间可以保持神秘，但也不是无法测量的。",
+        "很好，你回来了。您到达审判分庭并将审判钥匙带回家。",
+        "现在我可以关闭账本了。调查笔记终于有了一个真正的结局。",
+        "这解决了我对你的要求。这就是议事厅的答案，足够可靠。",
+        "这次回归值得等待。因为你承担了风险，所以村庄可以测量下面等待的东西。",
+        "很好，你回来了。我要了一把试用钥匙和一根微风棒，你把所有零件都回来了。",
+        "我很高兴见到你回家。你经历了微风和试验生成器并保持头脑清醒。",
+        "很好，你回来了。 路线 密室现已确认，而不仅仅是绘制出来的。",
+        "这就是我需要的结果。毫无疑问，我可以支付重返试炼密室费用。",
+        "这将会带来真正的改变。 《审判钥匙》比任何吹嘘都更能讲述故事。",
+        "这将会带来真正的改变。你们让通往审判分庭的危险道路对这里的每个人都有用。",
+        "村里可以用这个。审判分庭不再只是地图上的警告。",
+        "您准确地交付了所需的内容。我会将审判分庭的调查结果放在村里可以研究的地方。",
+        "这解决了我对你的要求。审判分庭回忆是干净的，即使前往审判分庭的旅程并非如此。",
+        "村里可以用这个。这就是我希望看到的审判关键证据。",
+        "你已经看透了。你从审判分庭回来时，得到的不仅仅是生存。你带来了答案。",
+        "你已经看透了。随着村庄做好更好的准备，重返试炼密室结束。",
+        "这次回归值得等待。下一位前往审判分庭的旅客将获得您的 路线。",
+        "这次回归值得等待。领取重返试炼密室奖励。你在安全道路之外赢得了它。",
+        "这将会带来真正的改变。我很高兴看到试用钥匙和携带它的人。"
+      ]
+    },
+    "quest.dangerous_commissions.trial_chamber_recall.dialogue.unavailable": {
+      "lines": [
+        "我首先需要证明你的判断力。这个要求需要一个装备更好的盟友。",
+        "我不会把这个负担加在你身上。重返试炼密室要求我对你还没有信任。",
+        "目前答案是否定的。今天我无法通过微风和试用生成器向您提供 路线。",
+        "这需要我们更了解的人。审判分庭不是未经考验的盟友的立足之地。",
+        "我首先需要证明你的判断力。在索取审判分庭地图之前，先在这里进行更稳定的工作。",
+        "我首先需要证明你的判断力。我需要一个我可以信任的人从审判分庭回来。",
+        "不，风险太高了。调查笔记目前对您不开放。",
+        "有些工作必须等到信任赶上来才可以。重返试炼密室的风险不仅仅是旅行者的生命。",
+        "今天这项工作不是你的。赢得我们的信任，然后再次询问商会的情况。",
+        "这需要我们更了解的人。会议厅答复后我不会派陌生人去。",
+        "在再次询问之前先赢得我们的信任。毫无疑问，审判分庭对我们来说已经足够危险了。",
+        "我不会把这个负担加在你身上。您的名字尚未到达调查笔记的 信任 页面。",
+        "这需要我们更了解的人。有比重返试炼密室更安全的任务可以向我展示您的工作方式。",
+        "我现在还不能相信你。在前往审判分庭之前，我需要判断证据。",
+        "您还没有准备好接受此请求。目前，审判分庭地图仍处于折叠状态。",
+        "我现在还不能相信你。村庄还没有准备好测量下面等待着你的东西。",
+        "在再次询问之前先赢得我们的信任。等你和我们站在一起更长时间之后再询问审判分庭的情况。",
+        "这个村庄需要更稳定的手。勇气可能会到达审判分庭。可靠性让试用钥匙带回家。",
+        "我首先需要证明你的判断力。审判分庭的召回仍由经过验证的人员负责。",
+        "我首先需要证明你的判断力。当我们信任你通往审判分庭的道路时，我会告诉你。"
+      ]
+    },
+    "quest.dangerous_commissions.trial_chamber_recall.objective.bring_breeze_rod.complete_text": {
+      "lines": [
+        "密室危险已被证实。"
+      ]
+    },
+    "quest.dangerous_commissions.trial_chamber_recall.objective.bring_breeze_rod.text": {
+      "lines": [
+        "从房间里拿出一根微风棒。"
+      ]
+    },
+    "quest.dangerous_commissions.trial_chamber_recall.scene.trial_chamber_briefing.metadata.title": "试炼密室简报",
+    "quest.dangerous_commissions.trial_chamber_recall.scene.trial_chamber_briefing.step.name_the_proof.data.text": "带着试用钥匙和微风棒返回。当调查结束时，两者都会被消耗。",
+    "quest.dangerous_commissions.trial_chamber_recall.scene.trial_chamber_briefing.step.read_the_mark.data.text": "铜和凝灰岩标志着这个房间，但里面的风是吹回来的部分。",
+    "quest.dangerous_commissions.trial_chamber_recall.stage.return.dialogue.turn_in.label": "关于重返试炼密室",
+    "quest.dangerous_commissions.trial_chamber_recall.stage.return.dialogue.turn_in.lines": [
+      "钥匙、杆和真正的房间标记。这是一份我可以信赖的报告。",
+      "你回来时背包里带着密室自己的风。接受我们所承诺的。",
+      "在我关闭笔记之前让我看看完整的作品。"
+    ],
+    "quest.dangerous_commissions.trial_chamber_recall.stage.return.dialogue.turn_in.response.complete.label": "交出工作。",
+    "quest.dangerous_commissions.trial_chamber_recall.stage.return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.dangerous_commissions.trial_chamber_recall.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "钥匙、杆和真正的房间标记。这是一份我可以信赖的报告。",
+      "你回来时背包里带着密室自己的风。接受我们所承诺的。",
+      "这样就解决了。村里一定会好好利用这一点。"
+    ],
+    "quest.dangerous_commissions.trial_chamber_recall.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "仍然缺少一些东西。在我关闭笔记之前检查日记。",
+      "完整的工作尚未准备好进行计算。"
+    ],
+    "quest.dangerous_commissions.trial_chamber_recall.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "在我们解决这个问题之前，请带上证据。",
+      "我需要在这里提交完整的内容，而不仅仅是故事。"
+    ],
+    "quest.dangerous_commissions.trial_chamber_recall.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "原料 背后需要一个真正的目的地。",
+      "在我们称之为完成之前到达标记的地方。"
+    ],
+    "quest.dangerous_commissions.trial_chamber_recall.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "重返试炼密室目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.dangerous_commissions.trial_chamber_recall.stage.return.scene.turn_in_wait.lines": [
+      "密室本身和证据一样重要。转身之前先进去。",
+      "当工作准备好时再回来。"
+    ],
+    "quest.dangerous_commissions.trial_chamber_recall.stage.return.ui.tracker_text": "返回任务给予者。",
+    "quest.dangerous_commissions.trial_chamber_recall.stage.work.dialogue.offer.label": "重返试炼密室",
+    "quest.dangerous_commissions.trial_chamber_recall.stage.work.dialogue.offer.lines": [
+      "审判室又开始在石头下嗡嗡作响。我需要有人来了解下面发生了什么。",
+      "带回试用钥匙和微风棒，这样我们就知道金库和风陷阱是真实的。",
+      "进入标记的审判室，然后带着审判钥匙和微风棒返回。我会让回报值得付出的努力。"
+    ],
+    "quest.dangerous_commissions.trial_chamber_recall.stage.work.dialogue.offer.response.accept.label": "我能做到。",
+    "quest.dangerous_commissions.trial_chamber_recall.stage.work.dialogue.offer.response.decline.label": "现在不行。",
+    "quest.dangerous_commissions.trial_chamber_recall.stage.work.dialogue.reminder.label": "关于重返试炼密室",
+    "quest.dangerous_commissions.trial_chamber_recall.stage.work.dialogue.reminder.lines": [
+      "密室本身和证据一样重要。转身之前先进去。",
+      "进入标记的审判室，然后带着审判钥匙和微风棒返回。",
+      "带回试用钥匙和微风棒，这样我们就知道金库和风陷阱是真实的。"
+    ],
+    "quest.dangerous_commissions.trial_chamber_recall.stage.work.dialogue.reminder.response.abandon.label": "把这个放在一边。",
+    "quest.dangerous_commissions.trial_chamber_recall.stage.work.dialogue.reminder.response.details.label": "重复该工作。",
+    "quest.dangerous_commissions.trial_chamber_recall.stage.work.dialogue.reminder.response.leave.label": "我有。",
+    "quest.dangerous_commissions.trial_chamber_recall.stage.work.objective.bring_breeze_rod.tracker.complete_text": "微风棒已准备就绪。",
+    "quest.dangerous_commissions.trial_chamber_recall.stage.work.objective.bring_breeze_rod.tracker.text": "带回 1 根微风棒。",
+    "quest.dangerous_commissions.trial_chamber_recall.stage.work.objective.bring_trial_key.tracker.complete_text": "试用密钥已准备就绪。",
+    "quest.dangerous_commissions.trial_chamber_recall.stage.work.objective.bring_trial_key.tracker.text": "带回 1 个试用密钥。",
+    "quest.dangerous_commissions.trial_chamber_recall.stage.work.objective.enter_chamber.tracker.complete_text": "该室已被勘察。",
+    "quest.dangerous_commissions.trial_chamber_recall.stage.work.objective.enter_chamber.tracker.text": "进入标记的审判室。",
+    "quest.dangerous_commissions.trial_chamber_recall.stage.work.scene.abandon_confirm.lines": [
+      "把重返试炼密室放在一边？",
+      "如果你确定的话我可以把你的名字从工作中删除。"
+    ],
+    "quest.dangerous_commissions.trial_chamber_recall.stage.work.scene.abandon_confirm.response.cancel.label": "保持打开状态。",
+    "quest.dangerous_commissions.trial_chamber_recall.stage.work.scene.abandon_confirm.response.confirm.label": "把它放在一边。",
+    "quest.dangerous_commissions.trial_chamber_recall.stage.work.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "好的。我会从工作中清除你的名字。",
+      "便条收起来了。你可以稍后再问。"
+    ],
+    "quest.dangerous_commissions.trial_chamber_recall.stage.work.scene.abandon_quest.action.abandon.lines.abandoned_cooldown": [
+      "我会把这张纸条先搁置一段时间，然后再重新发布。",
+      "在你再次提出要求之前，先让工作休息一下。"
+    ],
+    "quest.dangerous_commissions.trial_chamber_recall.stage.work.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "重返试炼密室目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.dangerous_commissions.trial_chamber_recall.stage.work.scene.decline.lines": [
+      "足够明智。审判生成者并不关心故事听起来有多勇敢。",
+      "另一双手可能会接住它，或者您可以稍后再问。"
+    ],
+    "quest.dangerous_commissions.trial_chamber_recall.stage.work.scene.leave.lines": [
+      "密室本身和证据一样重要。转身之前先进去。",
+      "当工作准备好时再回来。"
+    ],
+    "quest.dangerous_commissions.trial_chamber_recall.stage.work.scene.reminder_details.action.remind.lines.reminder": [
+      "密室本身和证据一样重要。转身之前先进去。",
+      "进入标记的审判室，然后带着审判钥匙和微风棒返回。",
+      "带回试用钥匙和微风棒，这样我们就知道金库和风陷阱是真实的。"
+    ],
+    "quest.dangerous_commissions.trial_chamber_recall.stage.work.scene.reminder_details.action.remind.lines.unavailable": [
+      "重返试炼密室目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.dangerous_commissions.trial_chamber_recall.stage.work.scene.start_quest.action.start.lines.already_completed": [
+      "重返试炼密室目前已经解决。",
+      "这项工作已经被计算在内。"
+    ],
+    "quest.dangerous_commissions.trial_chamber_recall.stage.work.scene.start_quest.action.start.lines.locate_failed": [
+      "我在这里找不到值得信赖的标记。等道路畅通后再询问。",
+      "今天地图不会确定安全目的地。"
+    ],
+    "quest.dangerous_commissions.trial_chamber_recall.stage.work.scene.start_quest.action.start.lines.started": [
+      "标记已设定。聆听铜声、凝灰岩声以及任何听起来像风的声音，而不是风的声音。",
+      "进入标记的审判室，然后带着审判钥匙和微风棒返回。",
+      "好的。我会为你带回来的东西保留一个地方。"
+    ],
+    "quest.dangerous_commissions.trial_chamber_recall.stage.work.scene.start_quest.action.start.lines.unavailable": [
+      "重返试炼密室目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.dangerous_commissions.trial_chamber_recall.stage.work.ui.tracker_text": "调查审判室并带着审判钥匙和微风棒返回。",
+    "quest.dangerous_commissions.trial_chamber_recall.title": {
+      "lines": [
+        "重返试炼密室"
+      ]
+    },
+    "quest.dangerous_commissions.trial_chamber_recall.tracker.bring_breeze_rod.text": {
+      "lines": [
+        "从房间中取回 1 根微风棒。"
+      ]
+    },
+    "quest.dangerous_commissions.trial_chamber_recall.tracker.proof.text": {
+      "lines": [
+        "带回试用钥匙和微风棒。"
+      ]
+    },
+    "quest.dangerous_commissions.trial_chamber_recall.tracker.return.text": {
+      "lines": [
+        "带着审判分庭的证据返回给 任务 提供者。"
+      ]
+    },
+    "quest.dangerous_commissions.trial_chamber_recall.tracker.title": {
+      "lines": [
+        "重返试炼密室"
+      ]
+    },
+    "quest.dangerous_commissions.trial_chamber_recall.tracker.travel.text": {
+      "lines": [
+        "进入 {target_x}、{target_z} 附近的审判室。"
+      ]
+    }
+  }
+}

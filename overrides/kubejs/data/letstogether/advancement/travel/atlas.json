@@ -1,0 +1,40 @@
+{
+  "display": {
+    "icon": {
+      "id": "map_atlases:atlas"
+    },
+    "title": {
+      "translate": "advancements.letstogether.travel.atlas.title",
+      "fallback": "Bound for Anywhere"
+    },
+    "description": {
+      "translate": "advancements.letstogether.travel.atlas.description",
+      "fallback": "Obtain an Overworld atlas."
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "item_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "map_atlases:atlas"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "item_0"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:travel/map"
+}

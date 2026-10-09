@@ -1,0 +1,23 @@
+{
+  "criteria": {
+    "harvests_from_cauldron": {
+      "trigger": "minecraft:impossible"
+    },
+    "acquired_resin": {
+      "trigger": "minecraft:impossible"
+    },
+    "acquired_maple": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "harvests_from_cauldron"
+    ],
+    [
+      "acquired_maple",
+      "acquired_resin"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

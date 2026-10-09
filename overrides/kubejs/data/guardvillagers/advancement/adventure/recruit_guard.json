@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "recruit_guard": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "recruit_guard"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

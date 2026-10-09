@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "walk_auroracite": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "walk_auroracite"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

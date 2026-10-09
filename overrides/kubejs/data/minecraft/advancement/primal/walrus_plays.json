@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "walrus_plays": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "walrus_plays"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

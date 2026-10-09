@@ -1,0 +1,71 @@
+{
+  "display": {
+    "icon": {
+      "id": "farmersdelight:wild_onions"
+    },
+    "title": {
+      "translate": "advancements.letstogether.farm.seeds.title",
+      "fallback": "Worth Planting"
+    },
+    "description": {
+      "translate": "advancements.letstogether.farm.seeds.description",
+      "fallback": "Obtain tomato seeds, cabbage seeds, an onion, or rice."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "cabbage_seeds": {
+      "conditions": {
+        "items": [
+          {
+            "items": "farmersdelight:cabbage_seeds"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "onion": {
+      "conditions": {
+        "items": [
+          {
+            "items": "farmersdelight:onion"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "rice": {
+      "conditions": {
+        "items": [
+          {
+            "items": "farmersdelight:rice"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "tomato_seeds": {
+      "conditions": {
+        "items": [
+          {
+            "items": "farmersdelight:tomato_seeds"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "cabbage_seeds",
+      "tomato_seeds",
+      "onion",
+      "rice"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:farm/root"
+}

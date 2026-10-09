@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "scroll_forge": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "scroll_forge"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

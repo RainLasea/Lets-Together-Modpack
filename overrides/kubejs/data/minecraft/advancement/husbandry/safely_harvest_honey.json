@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "safely_harvest_honey": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "safely_harvest_honey"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

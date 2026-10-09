@@ -1,0 +1,38 @@
+{
+  "display": {
+    "icon": {
+      "id": "farmersdelight:straw"
+    },
+    "title": {
+      "translate": "advancements.letstogether.farm.straw.title",
+      "fallback": "Waste Not"
+    },
+    "description": {
+      "translate": "advancements.letstogether.farm.straw.description",
+      "fallback": "Obtain straw. Try cutting grass, wheat, or rice with a knife."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "harvest_straw": {
+      "conditions": {
+        "items": [
+          {
+            "items": "farmersdelight:straw"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "harvest_straw"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:farm/knife"
+}

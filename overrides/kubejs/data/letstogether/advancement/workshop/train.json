@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "id": "create:track_station"
+    },
+    "title": {
+      "translate": "advancements.letstogether.workshop.train.title",
+      "fallback": "All Aboard"
+    },
+    "description": {
+      "translate": "advancements.letstogether.workshop.train.description",
+      "fallback": "Assemble a train."
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "0": {
+      "trigger": "create:train_builtin"
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:workshop/brass"
+}

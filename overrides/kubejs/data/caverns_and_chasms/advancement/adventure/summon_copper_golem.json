@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "summoned_golem": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "summoned_golem"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

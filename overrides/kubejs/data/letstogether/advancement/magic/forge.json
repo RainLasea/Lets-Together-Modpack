@@ -1,0 +1,40 @@
+{
+  "display": {
+    "icon": {
+      "id": "irons_spellbooks:scroll_forge"
+    },
+    "title": {
+      "translate": "advancements.letstogether.magic.forge.title",
+      "fallback": "Fresh from the Forge"
+    },
+    "description": {
+      "translate": "advancements.letstogether.magic.forge.description",
+      "fallback": "Obtain a scroll forge."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "scroll_forge": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "irons_spellbooks:scroll_forge"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "scroll_forge"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:magic/ink"
+}

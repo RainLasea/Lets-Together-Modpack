@@ -1,0 +1,372 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.dangerous_commissions.gilded_debt.description": {
+      "lines": [
+        "到达堡垒遗迹并带回镀金黑石以进行危险的解决。"
+      ]
+    },
+    "quest.dangerous_commissions.gilded_debt.dialogue.already_completed": {
+      "lines": [
+        "这里没有第二次付款。我们已经解决了镀金的债务。",
+        "我不会重新打开已完成的帐户。你已经带着我们需要的东西从堡垒遗迹回来了。",
+        "没有人需要这样做两次。镀金的债务已关闭。我不会让你两次穿过猪灵和熔岩。",
+        "这件事我们已经解决了。您前往堡垒遗迹的 路线 已在账本中。",
+        "保留旧的计数。我记得你带着镀金黑石回来的那天。",
+        "没有人需要这样做两次。你赢得了镀金的债务的奖励，并且它已被支付。",
+        "这里没有第二次付款。我们有一个代价高昂的承诺，因为你完成了前往堡垒遗迹的旅程。",
+        "这里没有第二次付款。堡垒中没有任何东西有待恢复。",
+        "没有人需要这样做两次。你从堡垒遗迹带来的东西仍在帮助村庄。",
+        "该章已关闭。你曾经证明过堡垒路线一次。这就够了。",
+        "我问的你都说完了。分类帐在已完成的标记旁边有您的名字。",
+        "我不会重新打开已完成的帐户。将镀金的债务留在过去，留在它所属的地方。",
+        "这里没有第二次付款。您在第一次返回时就清偿了镀金的债务的所有部分。",
+        "事情结束得还算顺利。到达了堡垒遗迹并交付了镀金黑石证据。",
+        "我记得你第一次回来。在送你回去之前，我会为你找到一条超越堡垒遗迹的路。",
+        "该章已关闭。没有人忘记前往堡垒遗迹的旅程花费了多少钱。",
+        "我记得你第一次回来。堡垒遗迹的镀金的债务不需要您第二次访问。",
+        "保留旧的计数。你给了我们镀金黑石，而不是另一个谣言。",
+        "你早期的作品仍然有效。镀金的债务正确地结束了，而且仍然结束了。",
+        "没有人需要这样做两次。我们现在可以展望未来。镀金的债务完成了。"
+      ]
+    },
+    "quest.dangerous_commissions.gilded_debt.dialogue.inactive": {
+      "lines": [
+        "村里可以等这一件事。目前镀金的债务的条件并不合适。",
+        "当重要的时候我会发布它。堡垒遗迹的标记今天未开放。",
+        "等店铺换了再问我。我现在没有理由让你去冒险对抗猪灵和熔岩。",
+        "现在，就让这件事平息吧。村庄还没有准备好使用镀金黑石和一块金块。",
+        "时间不对。等待账本要求前往堡垒遗迹。",
+        "还没有开始的理由。毫无必要地前往堡垒遗迹只会带来危险。",
+        "当重要的时候我会发布它。堡垒 路线 可以保持折叠状态，直到时机改善。",
+        "董事会可以等待。我暂时将镀金的债务排除在董事会之外。",
+        "等店铺换了再问我。今天，堡垒遗迹中没有什么需要我们回答的。",
+        "今天没有什么需要做这项工作。准备好装备前往堡垒遗迹，但先不要离开。",
+        "村里可以等这一件事。镀金的债务是真实存在的。现在还不是。",
+        "今天没有什么需要做这项工作。我不会为了满足旧的要求而派你去猪灵和熔岩。",
+        "村里可以等这一件事。堡垒遗迹可以等到我们有需要时再返回。",
+        "我们还不需要它。村里审核账本后再询问。",
+        "董事会可以等待。今天没有对镀金黑石的主动认领。",
+        "还没有开始的理由。通往堡垒遗迹的道路很安静，我打算就这样走下去。",
+        "当重要的时候我会发布它。现在开始镀金的债务会花费勇气，但不会产生任何有用的结果。",
+        "暂时先别管那项工作。镀金的债务尚未发布给任何旅行者。",
+        "我们还不需要它。给镀金的债务一些时间，让它变得必要。",
+        "我们还不需要它。目前，请留在通往堡垒遗迹的旅程的这一侧。"
+      ]
+    },
+    "quest.dangerous_commissions.gilded_debt.dialogue.locate_failed": {
+      "lines": [
+        "图表有问题。堡垒不会出现。我拒绝盲目追债。",
+        "我的地图让我们失望了。我无法在堡垒遗迹上留下值得信赖的标记。",
+        "我找不到可以给你的安全支撑。我检查过的每台 路线 都在堡垒前发生故障。",
+        "旧的指示不再一致。堡垒遗迹地图不一致，猪灵和熔岩没有留下猜测的空间。",
+        "我不能盲目地送你出去。我发现了有关堡垒遗迹的传闻，但我不会给你任何道路。",
+        "没有标记比假标记好。 《堡垒遗迹》已经超出了我的《堡垒遗迹》排行榜。",
+        "可疑的地图风险太大。如果没有坚定的承受力，金债就会四处漂泊。",
+        "我找不到可以给你的安全支撑。我最好的地图在堡垒应该在的地方是空白的。",
+        "图表有问题。我追踪到了三个 路线 前往堡垒遗迹，而 信任 没有追踪到。",
+        "旧的指示不再一致。旧的堡垒遗迹指示在危险开始之前就结束了。",
+        "图表有问题。我不会假装猜测可以标记堡垒遗迹。",
+        "我找不到可以给你的安全支撑。尚无侦察兵确认堡垒遗迹的标记。",
+        "小路已经冷了。在我标记之前，通往堡垒遗迹的小路就已经冷了。",
+        "图表有问题。我需要堡垒遗迹坐标，而不是篝火故事。",
+        "我的地图让我们失望了。堡垒遗迹可能在那里，但我无法证明在哪里。",
+        "图表有问题。堡垒遗迹轴承没有通向同一地面。",
+        "搜索没有发现任何可靠的结果。在你准备离开之前，让我找到一个诚实的堡垒路线。",
+        "我不会猜测 路线。今天的账本提供的是警告，而不是方向。",
+        "没有标记比假标记好。当我需要确定性时，《堡垒遗迹》地图却让我产生怀疑。",
+        "没有标记比假标记好。通向堡垒遗迹的道路会给我们答案后回来。"
+      ]
+    },
+    "quest.dangerous_commissions.gilded_debt.dialogue.missing_proof": {
+      "lines": [
+        "我无法在空的退货单上签字。镀金黑石就是证明。没有它，这只是一个昂贵的道歉。",
+        "你带回家的东西决定了这一点。你回来时镀金黑石仍然不见踪影。",
+        "你带回家的东西决定了这一点。如果没有商定的镀金黑石证据，我无法关闭账本。",
+        "证据仍然很重要。你面对了堡垒遗迹，但村庄仍然需要镀金黑石。",
+        "故事无法关闭账本。在我们解决镀金的债务之前，带回镀金黑石和一块金块。",
+        "你回来时却没有带我要的一件东西。你的故事可能是真的。我还需要镀金黑石。",
+        "证据仍然很重要。当镀金黑石易手时，前往堡垒遗迹的旅程就结束了。",
+        "我需要一些我能握住的东西。不要到达堡垒遗迹并忘记验证它的镀金黑石。",
+        "带回来一些村里可以核实的东西。我知道你旅行过。我需要堡垒遗迹的结果。",
+        "我无法在空的退货单上签字。镀金的债务的奖励等待的是镀金黑石的证据，而不是讲述。",
+        "我无法在空的退货单上签字。让我看看镀金黑石，镀金的债务就可以结束了。",
+        "最后一个要求仍然缺失。账本中的空位置等待您恢复的内容。",
+        "你带回家的东西决定了这一点。言语无法代替代价高昂的承诺。",
+        "证据必须到达我的手中。在前往堡垒遗迹两次之前检查一下你的背包。",
+        "证据必须到达我的手中。镀金的债务从一开始就命名了它的证明。",
+        "最后一个要求仍然缺失。将镀金黑石证据带到这里，而不是将其留在 仓储 中。",
+        "最后一个要求仍然缺失。村庄要求镀金黑石和一块金块，但仍未完成。",
+        "让我看看你带回来了什么。在看到堡垒 路线 的内容后，我可以记录它。",
+        "你回来时却没有带我要的一件东西。一次镀金黑石交接将镀金的债务与完成分开。",
+        "带回来一些村里可以核实的东西。当镀金黑石在你手中时返回。"
+      ]
+    },
+    "quest.dangerous_commissions.gilded_debt.dialogue.missing_target": {
+      "lines": [
+        "靠近它不算数。不要给我金子并称之为勇气。首先到达堡垒。",
+        "你不能跳过任务的核心。您尚未确认堡垒遗迹本身。",
+        "你还欠道路最后一英里。如果永远无法到达堡垒遗迹，那么这些货物就毫无意义。",
+        "你不能跳过任务的核心。镀金的债务包括道路和回报。",
+        "我需要确认该网站。在你给我带来证据之前先踏入堡垒。",
+        "靠近它不算数。我向堡垒遗迹索要证据，而不是其他地方。",
+        "你不能跳过任务的核心。堡垒遗迹在账本中保持不变。",
+        "我需要确认该网站。在领取镀金的债务奖励之前完成外出旅程。",
+        "必须到达该地点本身。借来的镀金黑石不能代替到达堡垒遗迹。",
+        "必须到达该地点本身。堡垒遗迹地图仍然显示你停了下来。",
+        "你还欠道路最后一英里。前往标记的地方并通过那里看到镀金的债务。",
+        "地图上仍然显示着未完成的旅程。堡垒 路线 必须在堡垒遗迹处结束，而不是靠近它。",
+        "我需要确认该网站。在我相信这份报告之前，我需要你先看看堡垒遗迹。",
+        "旅程结束得太早了。不要跳过将猪灵和熔岩放在你面前的部分。",
+        "你还没有走得足够远。村庄要求你确认堡垒的存在。",
+        "路一定会在我送你去的地方结束。你回来的还早。堡垒遗迹仍在等待。",
+        "先完成外出的旅程。到达堡垒遗迹，然后找回镀金黑石和一块金块。",
+        "你还没有走得足够远。通往堡垒遗迹的旅程尚未完成，而最终标记尚未到达。",
+        "先完成外出的旅程。账本需要一个确认的地方，而不仅仅是一个项目。",
+        "必须到达该地点本身。返回堡垒遗迹并完成你开始的事情。"
+      ]
+    },
+    "quest.dangerous_commissions.gilded_debt.dialogue.reminder": {
+      "lines": [
+        "遵守我给你的指示。 {target_x}、{target_z} 附近的堡垒。镀金黑石为证，一金块为结算。没有第二个分类账。",
+        "你还没有完成。堡垒遗迹仍在 {target_x}、{target_z} 附近。",
+        "牢记整个任务。该标记仍位于 {target_x}、{target_z} 附近，因此请保留计划的堡垒 路线。",
+        "继续你接受的工作。再次查看地图。堡垒遗迹仍在 {target_x}、{target_z} 附近。",
+        "记住村庄在等待什么。镀金的债务仍然需要镀金黑石和一块金块。",
+        "继续你接受的工作。在进来的路上留意猪灵和熔岩。",
+        "这项工作仍有未完成的任务。不要在没有镀金黑石的情况下离开堡垒遗迹。",
+        "不要让已完成的一步分散您的注意力。您的回报应该给我们一个代价高昂的承诺。",
+        "记住村庄在等待什么。在地标模糊之前检查 {target_x}、{target_z} 处的堡垒遗迹方位。",
+        "使这一切得到适当的完成。收回镀金黑石后，请妥善保管它。",
+        "记住村庄在等待什么。账本一直保持打开状态，直到您回家为止。",
+        "牢记整个任务。不要盲目冲向堡垒遗迹。按照标记并完整返回。",
+        "下一步仍然很重要。堡垒遗迹尚未从 {target_x}、{target_z} 移出。",
+        "将回程行程保留在您的计划中。记住你为什么要去。我们需要偿还旧债。",
+        "现在不要丢失线。如果堡垒 路线 感觉不对，请对照 {target_x}、{target_z} 检查您的位置。",
+        "将回程行程保留在您的计划中。困难的部分是到达堡垒并带着证据离开。",
+        "你还没有完成。堡垒遗迹仍在 {target_x}、{target_z} 附近等待。",
+        "现在不要丢失线。将镀金黑石的每一部分和一块金块重新组合在一起。",
+        "遵守我给你的指示。我宁愿等待，也不愿收到约定的一半镀金黑石。",
+        "使这一切得到适当的完成。找到堡垒遗迹，在那里办理镀金的债务，然后回到我身边。"
+      ]
+    },
+    "quest.dangerous_commissions.gilded_debt.dialogue.start": {
+      "lines": [
+        "我选择你是有原因的。堡垒是{direction}，大约{distance}几个街区远，靠近{target_x}、{target_z}。带上镀金黑石和一块金块。如果你放弃这个，我就永远结束这件事。",
+        "仔细听。我在 {target_x}、{target_z} 附近标记了堡垒遗迹。",
+        "我有一个困难的请求。向 {direction} 行驶约 {distance} 方块并寻找堡垒。",
+        "我需要你来看看这件事。这项工作是偿还旧债。",
+        "在你同意之前，先听听所有的内容。带上镀金黑石和一块金块回家，这样村里就不再有谣言了。",
+        "这是工作。这条路穿过猪灵和熔岩，所以在出发前做好准备。",
+        "仔细听。我需要有人愿意到达堡垒遗迹并带着证据回来。",
+        "村里有工作给你。根据我的地图，堡垒遗迹位于 {target_x}、{target_z} 附近。",
+        "我有一个困难的请求。跟随{direction}轴承并保持台账干燥。",
+        "仔细听。镀金的债务从堡垒遗迹开始，到镀金黑石到达我手中时结束。",
+        "仅当您准备好时才接受任务。堡垒遗迹标记距离 {distance} 街区左右。不要将速度误认为是谨慎。",
+        "我有一个困难的请求。带上镀金黑石和一块金块，我就能把这个风险变成有用的东西。",
+        "认真对待这件事。村庄需要一个代价高昂的承诺，而不是在火灾中吹嘘。",
+        "让我们清楚地了解这项工作。我信任你堡垒 路线，因为它并不友善。",
+        "这是工作。前往 {target_x}、{target_z} 并亲自确认堡垒遗迹。",
+        "我选择你是有原因的。在穿过最后一个安全地带之前，请做好应对猪灵和熔岩的准备。",
+        "村里有工作给你。向外的旅程证明了堡垒遗迹地图。回报证明了你。",
+        "在你同意之前，先听听所有的内容。不要从堡垒空手而归。",
+        "仔细听。仅当您打算完成旅行和恢复时才使用镀金的债务。",
+        "认真对待这件事。当你有了镀金黑石和一块金块后，直接把它带到这里。"
+      ]
+    },
+    "quest.dangerous_commissions.gilded_debt.dialogue.turn_in": {
+      "lines": [
+        "现在我可以关闭账本了。解决了。村庄得到了缓解，也得到了一些值得的窃窃私语。有些奖励很复杂。",
+        "这解决了我对你的要求。您到达了堡垒遗迹并将镀金黑石带回家。",
+        "你已经看透了。账本终于有了真正的结局。",
+        "这就是我需要的结果。这是一个代价高昂但又足够坚定的承诺。",
+        "很好，你回来了。因为你承担了风险，所以村庄可以偿还旧债。",
+        "你使工作得到了圆满的结束。我要了镀金黑石和一块金块，你却把所有零件都回来了。",
+        "这将会带来真正的改变。你穿过猪灵和熔岩并保持头脑清醒。",
+        "这将会带来真正的改变。 路线堡垒现已确认，而不仅仅是绘制出来的。",
+        "您准确地交付了所需的内容。我毫无疑问可以偿还镀金的债务。",
+        "这次回归值得等待。镀金黑石比任何吹嘘都更能讲述这个故事。",
+        "这次回归值得等待。你让通往堡垒遗迹的危险道路对这里的每个人都有用。",
+        "你使工作得到了圆满的结束。堡垒遗迹不再只是地图上的警告。",
+        "困难的部分已经过去了。我会将你在堡垒遗迹中的发现放在村庄可以研究的地方。",
+        "这将会带来真正的改变。镀金的债务是干净的，即使前往堡垒遗迹的旅程并非如此。",
+        "这次回归值得等待。这就是我希望看到的镀金黑石证据。",
+        "这将会带来真正的改变。你从堡垒遗迹中回来，不仅仅只是为了生存。你带来了答案。",
+        "这次回归值得等待。随着村庄做好更好的准备，镀金的债务结束了。",
+        "很好，你回来了。下一位前往堡垒遗迹的旅行者将拥有您的 路线。",
+        "这将会带来真正的改变。领取镀金的债务奖励。你在安全道路之外赢得了它。",
+        "很好，你回来了。我很高兴看到镀金黑石和携带它的人。"
+      ]
+    },
+    "quest.dangerous_commissions.gilded_debt.dialogue.unavailable": {
+      "lines": [
+        "今天这项工作不是你的。不可以。这个账本只对已经 信任 且结局尖锐的人开放。",
+        "我不会把这个负担加在你身上。镀金的债务需要信任，但我对你还没有信任。",
+        "有些工作必须等到信任赶上来才可以。今天我不能通过猪灵和熔岩给你一个 路线。",
+        "我首先需要证明你的判断力。堡垒遗迹不是未经考验的盟友的立足之地。",
+        "我首先需要证明你的判断力。在索要堡垒遗迹地图之前，请先在这里进行更稳定的工作。",
+        "您还没有准备好接受此请求。我需要一个可以信任的人从堡垒遗迹中回来。",
+        "这个村庄需要更稳定的手。账本目前对您保持关闭状态。",
+        "我首先需要证明你的判断力。镀金的债务的风险比旅行者的生命还要大。",
+        "我不会把这个负担加在你身上。赢得我们的信任，然后再次询问堡垒的情况。",
+        "今天这项工作不是你的。我不会在做出昂贵的承诺后派一个陌生人去。",
+        "我不会把这个负担加在你身上。毫无疑问，堡垒遗迹对我们来说已经足够危险了。",
+        "今天这项工作不是你的。您的名字尚未到达账本的 信任 页面。",
+        "今天这项工作不是你的。有比镀金的债务更安全的任务可以向我展示您的工作方式。",
+        "今天这项工作不是你的。在提供前往堡垒遗迹的旅程之前，我需要判断的证据。",
+        "您还没有准备好接受此请求。目前，堡垒遗迹地图仍处于折叠状态。",
+        "这个村庄需要更稳定的手。村庄还没有准备好偿还你的旧债。",
+        "我首先需要证明你的判断力。当你和我们在一起的时间更长之后，再询问有关堡垒遗迹的事情。",
+        "有些工作必须等到信任赶上来才可以。勇气可能会到达堡垒遗迹。可靠性将镀金黑石带回家。",
+        "在再次询问之前先赢得我们的信任。镀金的债务由经过验证的人持有。",
+        "有些工作必须等到信任赶上来才可以。当我们信任你通往堡垒遗迹的道路时我会告诉你。"
+      ]
+    },
+    "quest.dangerous_commissions.gilded_debt.objective.bring_gold_block.complete_text": {
+      "lines": [
+        "结算金已经准备好了。"
+      ]
+    },
+    "quest.dangerous_commissions.gilded_debt.objective.bring_gold_block.text": {
+      "lines": [
+        "带上1块金币，可以干净地还清债务。"
+      ]
+    },
+    "quest.dangerous_commissions.gilded_debt.stage.return.dialogue.turn_in.label": "关于镀金的债务",
+    "quest.dangerous_commissions.gilded_debt.stage.return.dialogue.turn_in.lines": [
+      "路线 已经过验证，并且已为举报人密封付款。现在没有承诺正在追赶村庄。",
+      "按时储备的黄金比商品更能买到。一旦线人收到信息，道路就保持畅通。",
+      "在我关闭笔记之前让我看看完整的作品。"
+    ],
+    "quest.dangerous_commissions.gilded_debt.stage.return.dialogue.turn_in.response.complete.label": "交出工作。",
+    "quest.dangerous_commissions.gilded_debt.stage.return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.dangerous_commissions.gilded_debt.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "路线 已经过验证，并且已为举报人密封付款。现在没有承诺正在追赶村庄。",
+      "按时储备的黄金比商品更能买到。一旦线人收到信息，道路就保持畅通。"
+    ],
+    "quest.dangerous_commissions.gilded_debt.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "完整的工作尚未准备好进行计算。"
+    ],
+    "quest.dangerous_commissions.gilded_debt.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "在我们解决这个问题之前，请带上证据。",
+      "我需要在这里提交完整的内容，而不仅仅是故事。"
+    ],
+    "quest.dangerous_commissions.gilded_debt.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "原料 背后需要一个真正的目的地。",
+      "在我们称之为完成之前到达标记的地方。"
+    ],
+    "quest.dangerous_commissions.gilded_debt.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "镀金的债务目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.dangerous_commissions.gilded_debt.stage.return.scene.turn_in_wait.lines": [
+      "堡垒标记、一块镀金黑石和一块用于偿还债务的金块。",
+      "当工作准备好时再回来。"
+    ],
+    "quest.dangerous_commissions.gilded_debt.stage.return.ui.tracker_text": "返回任务给予者。",
+    "quest.dangerous_commissions.gilded_debt.stage.work.dialogue.offer.label": "镀金的债务",
+    "quest.dangerous_commissions.gilded_debt.stage.work.dialogue.offer.lines": [
+      "豪宅的线人信守诺言。现在，他们为 下界 路线 承诺的黄金已经到了。",
+      "带着一块金块和镀金黑石返回；一旦 路线 得到验证，村庄将发送付款。",
+      "到达标记的堡垒遗迹并带上 1 个镀金黑石和 1 个金块。"
+    ],
+    "quest.dangerous_commissions.gilded_debt.stage.work.dialogue.offer.response.accept.label": "我能做到。",
+    "quest.dangerous_commissions.gilded_debt.stage.work.dialogue.offer.response.decline.label": "现在不行。",
+    "quest.dangerous_commissions.gilded_debt.stage.work.dialogue.reminder.label": "关于镀金的债务",
+    "quest.dangerous_commissions.gilded_debt.stage.work.dialogue.reminder.lines": [
+      "堡垒标记、一块镀金黑石和一块用于偿还债务的金块。",
+      "到达标记的堡垒遗迹并带上 1 个镀金黑石和 1 个金块。",
+      "带着一块金块和镀金黑石返回；一旦 路线 得到验证，村庄将发送付款。"
+    ],
+    "quest.dangerous_commissions.gilded_debt.stage.work.dialogue.reminder.response.abandon.label": "把这个放在一边。",
+    "quest.dangerous_commissions.gilded_debt.stage.work.dialogue.reminder.response.details.label": "重复该工作。",
+    "quest.dangerous_commissions.gilded_debt.stage.work.dialogue.reminder.response.leave.label": "我有。",
+    "quest.dangerous_commissions.gilded_debt.stage.work.objective.bring_gilded_stone.tracker.complete_text": "镀金的黑石就准备好了。",
+    "quest.dangerous_commissions.gilded_debt.stage.work.objective.bring_gilded_stone.tracker.text": "带1块镀金黑石作为证据。",
+    "quest.dangerous_commissions.gilded_debt.stage.work.objective.bring_gold.tracker.complete_text": "结算付款已准备就绪。",
+    "quest.dangerous_commissions.gilded_debt.stage.work.objective.bring_gold.tracker.text": "请携带1块金块用于结算支付。",
+    "quest.dangerous_commissions.gilded_debt.stage.work.objective.visit_bastion.tracker.complete_text": "堡垒债务 路线 已确认。",
+    "quest.dangerous_commissions.gilded_debt.stage.work.objective.visit_bastion.tracker.text": "到达标记的堡垒遗迹。",
+    "quest.dangerous_commissions.gilded_debt.stage.work.scene.abandon_confirm.lines": [
+      "把镀金的债务放在一边？",
+      "如果你确定的话我可以把你的名字从工作中删除。"
+    ],
+    "quest.dangerous_commissions.gilded_debt.stage.work.scene.abandon_confirm.response.cancel.label": "保持打开状态。",
+    "quest.dangerous_commissions.gilded_debt.stage.work.scene.abandon_confirm.response.confirm.label": "把它放在一边。",
+    "quest.dangerous_commissions.gilded_debt.stage.work.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "好的。我会从工作中清除你的名字。",
+      "便条收起来了。你可以稍后再问。"
+    ],
+    "quest.dangerous_commissions.gilded_debt.stage.work.scene.abandon_quest.action.abandon.lines.abandoned_cooldown": [
+      "我会把这张纸条先搁置一段时间，然后再重新发布。",
+      "在你再次提出要求之前，先让工作休息一下。"
+    ],
+    "quest.dangerous_commissions.gilded_debt.stage.work.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "镀金的债务目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.dangerous_commissions.gilded_debt.stage.work.scene.decline.lines": [
+      "然后债务就会等待，但如果被忽视，下界债务就会变得危险。"
+    ],
+    "quest.dangerous_commissions.gilded_debt.stage.work.scene.leave.lines": [
+      "堡垒标记、一块镀金黑石和一块用于偿还债务的金块。",
+      "当工作准备好时再回来。"
+    ],
+    "quest.dangerous_commissions.gilded_debt.stage.work.scene.reminder_details.action.remind.lines.reminder": [
+      "堡垒标记、一块镀金黑石和一块用于偿还债务的金块。",
+      "到达标记的堡垒遗迹并带上 1 个镀金黑石和 1 个金块。",
+      "带着一块金块和镀金黑石返回；一旦 路线 得到验证，村庄将发送付款。"
+    ],
+    "quest.dangerous_commissions.gilded_debt.stage.work.scene.reminder_details.action.remind.lines.unavailable": [
+      "镀金的债务目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.dangerous_commissions.gilded_debt.stage.work.scene.start_quest.action.start.lines.already_completed": [
+      "镀金的债务目前已经解决。",
+      "这项工作已经被计算在内。"
+    ],
+    "quest.dangerous_commissions.gilded_debt.stage.work.scene.start_quest.action.start.lines.locate_failed": [
+      "我在这里找不到值得信赖的标记。等道路畅通后再询问。",
+      "今天地图不会确定安全目的地。"
+    ],
+    "quest.dangerous_commissions.gilded_debt.stage.work.scene.start_quest.action.start.lines.started": [
+      "在猪灵看得见的地方戴上黄金，在畜生看不到的地方把钱藏起来。",
+      "到达标记的堡垒遗迹并带上 1 个镀金黑石和 1 个金块。"
+    ],
+    "quest.dangerous_commissions.gilded_debt.stage.work.scene.start_quest.action.start.lines.unavailable": [
+      "镀金的债务目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.dangerous_commissions.gilded_debt.stage.work.ui.tracker_text": "到达堡垒遗迹并带着镀金黑石和金块返回。",
+    "quest.dangerous_commissions.gilded_debt.title": {
+      "lines": [
+        "镀金的债务"
+      ]
+    },
+    "quest.dangerous_commissions.gilded_debt.tracker.bring_gold_block.text": {
+      "lines": [
+        "添加 1 个金块来还清旧债。"
+      ]
+    },
+    "quest.dangerous_commissions.gilded_debt.tracker.proof.text": {
+      "lines": [
+        "带上镀金黑石和 1 个金块。"
+      ]
+    },
+    "quest.dangerous_commissions.gilded_debt.tracker.return.text": {
+      "lines": [
+        "带着镀金的证明返回给 任务 给予者。"
+      ]
+    },
+    "quest.dangerous_commissions.gilded_debt.tracker.title": {
+      "lines": [
+        "镀金的债务"
+      ]
+    },
+    "quest.dangerous_commissions.gilded_debt.tracker.travel.text": {
+      "lines": [
+        "找到 {target_x}、{target_z} 附近的堡垒遗迹。"
+      ]
+    }
+  }
+}

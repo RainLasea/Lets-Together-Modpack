@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "top_speed": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "top_speed"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

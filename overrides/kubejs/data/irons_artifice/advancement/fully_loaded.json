@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "fully_loaded": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "fully_loaded"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

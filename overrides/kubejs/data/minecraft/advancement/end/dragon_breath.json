@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "dragon_breath": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "dragon_breath"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

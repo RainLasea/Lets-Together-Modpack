@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "throw_pickarang": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "throw_pickarang"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

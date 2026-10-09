@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "i_just_felt_like_running": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "i_just_felt_like_running"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

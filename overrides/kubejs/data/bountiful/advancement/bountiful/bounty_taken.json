@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "take_a_bounty": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "take_a_bounty"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

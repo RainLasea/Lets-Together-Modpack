@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "id": "create:steam_engine"
+    },
+    "title": {
+      "translate": "advancements.letstogether.workshop.steam.title",
+      "fallback": "A Head of Steam"
+    },
+    "description": {
+      "translate": "advancements.letstogether.workshop.steam.description",
+      "fallback": "Build and power a steam engine."
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "0": {
+      "trigger": "create:steam_engine_builtin"
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:workshop/wheel"
+}

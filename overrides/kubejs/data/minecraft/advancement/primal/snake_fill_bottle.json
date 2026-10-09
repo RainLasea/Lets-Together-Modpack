@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "snake_fill_bottle": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "snake_fill_bottle"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

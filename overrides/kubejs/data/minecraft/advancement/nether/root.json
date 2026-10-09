@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "entered_nether": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "entered_nether"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

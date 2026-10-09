@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "overkill": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "overkill"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

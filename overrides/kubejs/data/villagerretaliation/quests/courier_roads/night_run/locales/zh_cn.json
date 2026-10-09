@@ -1,0 +1,91 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.courier_roads.night_run.description": "证明快递道路能够经受住房屋和村庄之间的危险。",
+    "quest.courier_roads.night_run.scene.night_run_attack.metadata.title": "夜间运送遭袭",
+    "quest.courier_roads.night_run.scene.night_run_attack.step.mark_the_road.data.text": "危险的延伸是显而易见的。带上灯笼和标牌，这样下一个搬运工就不需要那么大的勇气。",
+    "quest.courier_roads.night_run.scene.night_run_attack.step.route_warning.data.text": "我标记了路灯之外的封锁路段：树篱上有网，骷髅在注视着道路。",
+    "quest.courier_roads.night_run.stage.clear_road.dialogue.offer.label": "夜间运送",
+    "quest.courier_roads.night_run.stage.clear_road.dialogue.offer.lines": [
+      "除非有人能在太阳落山时走完这条路线，否则这条路线并不真实。",
+      "清理最糟糕的夜间道路，然后带上灯笼和标志。勇敢的信使是有用的；看得见的路更友善。"
+    ],
+    "quest.courier_roads.night_run.stage.clear_road.dialogue.offer.response.accept.label": "我会测试夜间道路。",
+    "quest.courier_roads.night_run.stage.clear_road.dialogue.offer.response.decline.label": "今晚不行。",
+    "quest.courier_roads.night_run.stage.clear_road.dialogue.reminder.label": "关于夜间运送",
+    "quest.courier_roads.night_run.stage.clear_road.dialogue.reminder.lines": [
+      "清除路线上的蜘蛛和骷髅。消息不应该需要装甲才能到达。"
+    ],
+    "quest.courier_roads.night_run.stage.clear_road.dialogue.reminder.response.details.label": "重复危险。",
+    "quest.courier_roads.night_run.stage.clear_road.dialogue.reminder.response.leave.label": "我会处理的。",
+    "quest.courier_roads.night_run.stage.clear_road.objective.defeat_skeletons.tracker.complete_text": "箭头线更安全。",
+    "quest.courier_roads.night_run.stage.clear_road.objective.defeat_skeletons.tracker.text": "在信使必须穿过目标之前击败 2 个骷髅。",
+    "quest.courier_roads.night_run.stage.clear_road.objective.defeat_spiders.tracker.complete_text": "蹼状拉伸更安全。",
+    "quest.courier_roads.night_run.stage.clear_road.objective.defeat_spiders.tracker.text": "沿夜间路线击败 3 只蜘蛛。",
+    "quest.courier_roads.night_run.stage.clear_road.scene.decline.lines": [
+      "然后密封的包装在白昼下停留一段时间。"
+    ],
+    "quest.courier_roads.night_run.stage.clear_road.scene.leave.lines": [
+      "不要为了给黑暗留下深刻印象而与黑暗赛跑。"
+    ],
+    "quest.courier_roads.night_run.stage.clear_road.scene.reminder_details.action.remind.lines.reminder": [
+      "沿夜间路线击败 3 只蜘蛛和 2 只骷髅。"
+    ],
+    "quest.courier_roads.night_run.stage.clear_road.scene.reminder_details.action.remind.lines.unavailable": [
+      "夜间道路目前还没有准备好进行这项工作。"
+    ],
+    "quest.courier_roads.night_run.stage.clear_road.scene.start_quest.action.start.lines.already_completed": [
+      "夜间运送已经被证明了。"
+    ],
+    "quest.courier_roads.night_run.stage.clear_road.scene.start_quest.action.start.lines.started": [
+      "击败 3 只蜘蛛和 2 只骷髅。带回一条感觉不那么饥饿的道路。"
+    ],
+    "quest.courier_roads.night_run.stage.clear_road.scene.start_quest.action.start.lines.unavailable": [
+      "夜航现在还没有准备好寻求帮助。"
+    ],
+    "quest.courier_roads.night_run.stage.clear_road.ui.tracker_text": "击败 3 只蜘蛛和 2 只骷髅。",
+    "quest.courier_roads.night_run.stage.mark_way.dialogue.reminder.label": "关于夜间运送",
+    "quest.courier_roads.night_run.stage.mark_way.dialogue.reminder.lines": [
+      "危险的路段比较安静。现在标记它，这样下一个人就不需要你的运气了。"
+    ],
+    "quest.courier_roads.night_run.stage.mark_way.dialogue.reminder.response.details.label": "重复标记。",
+    "quest.courier_roads.night_run.stage.mark_way.dialogue.reminder.response.leave.label": "我会把它们带来。",
+    "quest.courier_roads.night_run.stage.mark_way.objective.bring_lanterns.tracker.complete_text": "路灯已准备就绪。",
+    "quest.courier_roads.night_run.stage.mark_way.objective.bring_lanterns.tracker.text": "带上 3 个灯笼来标记夜间道路。",
+    "quest.courier_roads.night_run.stage.mark_way.objective.bring_oak_signs.tracker.complete_text": "路线指示牌已经准备好。",
+    "quest.courier_roads.night_run.stage.mark_way.objective.bring_oak_signs.tracker.text": "带上 3 个橡木标志，这样疲惫的搬运工就不会轮流猜测。",
+    "quest.courier_roads.night_run.stage.mark_way.scene.leave.lines": [
+      "一条有标记的路是对陌生人的承诺。"
+    ],
+    "quest.courier_roads.night_run.stage.mark_way.scene.reminder_details.action.remind.lines.reminder": [
+      "带上 3 个灯笼和 3 个橡木标志前往夜间道路。"
+    ],
+    "quest.courier_roads.night_run.stage.mark_way.scene.reminder_details.action.remind.lines.unavailable": [
+      "路标可以等到危险路段被清除后再设置。"
+    ],
+    "quest.courier_roads.night_run.stage.mark_way.ui.tracker_text": "带上 3 个灯笼和 3 个橡木标牌。",
+    "quest.courier_roads.night_run.stage.return.dialogue.turn_in.label": "关于夜间运送",
+    "quest.courier_roads.night_run.stage.return.dialogue.turn_in.lines": [
+      "你带回了证据和标记。这就是特技和公路的区别。"
+    ],
+    "quest.courier_roads.night_run.stage.return.dialogue.turn_in.response.complete.label": "标记夜晚路线。",
+    "quest.courier_roads.night_run.stage.return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.courier_roads.night_run.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "好的。第一晚搬运工还是会紧张，不过现在紧张已经有灯笼跟着了。"
+    ],
+    "quest.courier_roads.night_run.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "夜间道路仍需要清理巡逻人员，并放置灯笼和标志。"
+    ],
+    "quest.courier_roads.night_run.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "将路标带到这里，以便记下 路线。"
+    ],
+    "quest.courier_roads.night_run.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "我现在无法关闭夜间路线。"
+    ],
+    "quest.courier_roads.night_run.stage.return.scene.leave.lines": [
+      "一条有一半标记的路可能比根本没有路更糟糕。"
+    ],
+    "quest.courier_roads.night_run.stage.return.ui.tracker_text": "带上证据和路标返回。",
+    "quest.courier_roads.night_run.title": "夜间运送"
+  }
+}

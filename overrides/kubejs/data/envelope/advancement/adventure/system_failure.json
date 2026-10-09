@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "discover_collapsed_mail_hub": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "discover_collapsed_mail_hub"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

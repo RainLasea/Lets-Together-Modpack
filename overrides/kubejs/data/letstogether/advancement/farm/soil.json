@@ -1,0 +1,38 @@
+{
+  "display": {
+    "icon": {
+      "id": "farmersdelight:rich_soil"
+    },
+    "title": {
+      "translate": "advancements.letstogether.farm.soil.title",
+      "fallback": "Good Dirt"
+    },
+    "description": {
+      "translate": "advancements.letstogether.farm.soil.description",
+      "fallback": "Obtain rich soil."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "get_rich_soil": {
+      "conditions": {
+        "items": [
+          {
+            "items": "farmersdelight:rich_soil"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "get_rich_soil"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:farm/compost"
+}

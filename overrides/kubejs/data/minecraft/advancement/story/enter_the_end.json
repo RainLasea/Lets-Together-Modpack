@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "entered_end": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "entered_end"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

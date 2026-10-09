@@ -1,0 +1,37 @@
+{
+  "criteria": {
+    "beetroots": {
+      "trigger": "minecraft:impossible"
+    },
+    "melon_stem": {
+      "trigger": "minecraft:impossible"
+    },
+    "nether_wart": {
+      "trigger": "minecraft:impossible"
+    },
+    "pitcher_pod": {
+      "trigger": "minecraft:impossible"
+    },
+    "pumpkin_stem": {
+      "trigger": "minecraft:impossible"
+    },
+    "torchflower": {
+      "trigger": "minecraft:impossible"
+    },
+    "wheat": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "wheat",
+      "pumpkin_stem",
+      "melon_stem",
+      "beetroots",
+      "nether_wart",
+      "torchflower",
+      "pitcher_pod"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

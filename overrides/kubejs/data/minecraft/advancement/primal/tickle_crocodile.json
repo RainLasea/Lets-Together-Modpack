@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "tickle_crocodile": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "tickle_crocodile"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

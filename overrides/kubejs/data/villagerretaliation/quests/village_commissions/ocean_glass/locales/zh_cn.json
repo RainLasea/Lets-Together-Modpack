@@ -1,0 +1,117 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.village_commissions.ocean_glass.description": "调查海洋纪念碑并回收发光的海晶石。",
+    "quest.village_commissions.ocean_glass.stage.return.dialogue.turn_in.label": "关于地下的光",
+    "quest.village_commissions.ocean_glass.stage.return.dialogue.turn_in.lines": [
+      "来自深水的冷光。制图桌从未如此明亮。",
+      "大海保留了它的纪念碑，但我们有它的方位和它的光芒。",
+      "在我关闭笔记之前让我看看完整的作品。"
+    ],
+    "quest.village_commissions.ocean_glass.stage.return.dialogue.turn_in.response.complete.label": "交出工作。",
+    "quest.village_commissions.ocean_glass.stage.return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.village_commissions.ocean_glass.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "来自深水的冷光。制图桌从未如此明亮。",
+      "大海保留了它的纪念碑，但我们有它的方位和它的光芒。",
+      "这样就解决了。村里一定会好好利用这一点。"
+    ],
+    "quest.village_commissions.ocean_glass.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "仍然缺少一些东西。在我关闭笔记之前检查日记。",
+      "完整的工作尚未准备好进行计算。"
+    ],
+    "quest.village_commissions.ocean_glass.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "在我们解决这个问题之前，请带上证据。",
+      "我需要在这里提交完整的内容，而不仅仅是故事。"
+    ],
+    "quest.village_commissions.ocean_glass.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "原料 背后需要一个真正的目的地。",
+      "在我们称之为完成之前到达标记的地方。"
+    ],
+    "quest.village_commissions.ocean_glass.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "下方之光目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_commissions.ocean_glass.stage.return.scene.turn_in_wait.lines": [
+      "纪念碑标记、十二颗水晶和一盏海灯。注意守护者的眼睛。",
+      "当工作准备好时再回来。"
+    ],
+    "quest.village_commissions.ocean_glass.stage.return.ui.tracker_text": "返回任务给予者。",
+    "quest.village_commissions.ocean_glass.stage.work.dialogue.offer.label": "地下的光",
+    "quest.village_commissions.ocean_glass.stage.work.dialogue.offer.lines": [
+      "海上有一座纪念碑，在村道无法到达的地方闪闪发光。",
+      "标记它的位置并带回守护者放在下面的明亮玻璃。",
+      "调查标记的海洋纪念碑，然后带上 12 个海晶石晶体和 1 个海灯笼。我会让回报值得付出的努力。"
+    ],
+    "quest.village_commissions.ocean_glass.stage.work.dialogue.offer.response.accept.label": "我能做到。",
+    "quest.village_commissions.ocean_glass.stage.work.dialogue.offer.response.decline.label": "现在不行。",
+    "quest.village_commissions.ocean_glass.stage.work.dialogue.reminder.label": "关于地下的光",
+    "quest.village_commissions.ocean_glass.stage.work.dialogue.reminder.lines": [
+      "纪念碑标记、十二颗水晶和一盏海灯。注意守护者的眼睛。",
+      "调查标记的海洋纪念碑，然后带上 12 个海晶石晶体和 1 个海灯笼。",
+      "标记它的位置并带回守护者放在下面的明亮玻璃。"
+    ],
+    "quest.village_commissions.ocean_glass.stage.work.dialogue.reminder.response.abandon.label": "把这个放在一边。",
+    "quest.village_commissions.ocean_glass.stage.work.dialogue.reminder.response.details.label": "重复该工作。",
+    "quest.village_commissions.ocean_glass.stage.work.dialogue.reminder.response.leave.label": "我有。",
+    "quest.village_commissions.ocean_glass.stage.work.objective.bring_crystals.tracker.complete_text": "海晶石晶体已准备就绪。",
+    "quest.village_commissions.ocean_glass.stage.work.objective.bring_crystals.tracker.text": "带上 12 颗海晶石晶体。",
+    "quest.village_commissions.ocean_glass.stage.work.objective.bring_lantern.tracker.complete_text": "海灯就准备好了。",
+    "quest.village_commissions.ocean_glass.stage.work.objective.bring_lantern.tracker.text": "带1个海灯。",
+    "quest.village_commissions.ocean_glass.stage.work.objective.visit_monument.tracker.complete_text": "该纪念碑已被勘察。",
+    "quest.village_commissions.ocean_glass.stage.work.objective.visit_monument.tracker.text": "到达标记的海洋纪念碑。",
+    "quest.village_commissions.ocean_glass.stage.work.scene.abandon_confirm.lines": [
+      "把地下的光放在一边？",
+      "如果你确定的话我可以把你的名字从工作中删除。"
+    ],
+    "quest.village_commissions.ocean_glass.stage.work.scene.abandon_confirm.response.cancel.label": "保持打开状态。",
+    "quest.village_commissions.ocean_glass.stage.work.scene.abandon_confirm.response.confirm.label": "把它放在一边。",
+    "quest.village_commissions.ocean_glass.stage.work.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "好的。我会从工作中清除你的名字。",
+      "便条收起来了。你可以稍后再问。"
+    ],
+    "quest.village_commissions.ocean_glass.stage.work.scene.abandon_quest.action.abandon.lines.abandoned_cooldown": [
+      "我会把这张纸条先搁置一段时间，然后再重新发布。",
+      "在你再次提出要求之前，先让工作休息一下。"
+    ],
+    "quest.village_commissions.ocean_glass.stage.work.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "下方之光目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_commissions.ocean_glass.stage.work.scene.decline.lines": [
+      "明智的。深水区不利于重新思考。",
+      "另一双手可能会接住它，或者您可以稍后再问。"
+    ],
+    "quest.village_commissions.ocean_glass.stage.work.scene.leave.lines": [
+      "纪念碑标记、十二颗水晶和一盏海灯。注意守护者的眼睛。",
+      "当工作准备好时再回来。"
+    ],
+    "quest.village_commissions.ocean_glass.stage.work.scene.reminder_details.action.remind.lines.reminder": [
+      "纪念碑标记、十二颗水晶和一盏海灯。注意守护者的眼睛。",
+      "调查标记的海洋纪念碑，然后带上 12 个海晶石晶体和 1 个海灯笼。",
+      "标记它的位置并带回守护者放在下面的明亮玻璃。"
+    ],
+    "quest.village_commissions.ocean_glass.stage.work.scene.reminder_details.action.remind.lines.unavailable": [
+      "下方之光目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_commissions.ocean_glass.stage.work.scene.start_quest.action.start.lines.already_completed": [
+      "地下的光现在已经解决了。",
+      "这项工作已经被计算在内。"
+    ],
+    "quest.village_commissions.ocean_glass.stage.work.scene.start_quest.action.start.lines.locate_failed": [
+      "我在这里找不到值得信赖的标记。等道路畅通后再询问。",
+      "今天地图不会确定安全目的地。"
+    ],
+    "quest.village_commissions.ocean_glass.stage.work.scene.start_quest.action.start.lines.started": [
+      "带上门、药剂或一个非常好的呼吸计划。",
+      "调查标记的海洋纪念碑，然后带上 12 个海晶石晶体和 1 个海灯笼。",
+      "好的。我会为你带回来的东西保留一个地方。"
+    ],
+    "quest.village_commissions.ocean_glass.stage.work.scene.start_quest.action.start.lines.unavailable": [
+      "下方之光目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_commissions.ocean_glass.stage.work.ui.tracker_text": "调查标记的海洋纪念碑，然后带上 12 个海晶石晶体和 1 个海灯笼。",
+    "quest.village_commissions.ocean_glass.title": "地下的光"
+  }
+}

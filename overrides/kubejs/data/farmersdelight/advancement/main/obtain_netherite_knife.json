@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "obtain_netherite_knife": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "obtain_netherite_knife"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

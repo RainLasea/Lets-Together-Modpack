@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "pharaoh_killed": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "pharaoh_killed"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

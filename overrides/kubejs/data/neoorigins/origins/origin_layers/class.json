@@ -1,0 +1,17 @@
+{
+  "replace": true,
+  "order": 2,
+  "name": "origins.letstogether.layer.class",
+  "origins": [
+    "letstogether:class_warrior",
+    "letstogether:class_ranger",
+    "letstogether:class_arcanist",
+    "letstogether:class_artificer",
+    "letstogether:class_explorer"
+  ],
+  "allow_random": true,
+  "exclude_random": [],
+  "auto_choose": false,
+  "hidden": false,
+  "enabled": true
+}

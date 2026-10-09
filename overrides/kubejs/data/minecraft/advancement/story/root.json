@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "crafting_table": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "crafting_table"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

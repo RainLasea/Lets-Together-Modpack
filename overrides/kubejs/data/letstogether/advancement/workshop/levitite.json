@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "id": "aeronautics:levitite"
+    },
+    "title": {
+      "translate": "advancements.letstogether.workshop.levitite.title",
+      "fallback": "This Rock Won't Drop"
+    },
+    "description": {
+      "translate": "advancements.letstogether.workshop.levitite.description",
+      "fallback": "Crystallize levitite blend into levitite."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "0": {
+      "conditions": "aeronautics:unidentified_floating_object_builtin",
+      "trigger": "aeronautics:unidentified_floating_object_builtin"
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:workshop/hot_air"
+}

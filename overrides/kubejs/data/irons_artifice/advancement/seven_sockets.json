@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "seven_sockets": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "seven_sockets"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

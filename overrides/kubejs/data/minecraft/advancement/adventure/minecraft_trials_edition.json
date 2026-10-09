@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "minecraft_trials_edition": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "minecraft_trials_edition"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

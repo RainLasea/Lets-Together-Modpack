@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "tame_foxhound": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "tame_foxhound"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

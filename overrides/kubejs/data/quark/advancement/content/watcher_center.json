@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "watcher_center": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "watcher_center"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

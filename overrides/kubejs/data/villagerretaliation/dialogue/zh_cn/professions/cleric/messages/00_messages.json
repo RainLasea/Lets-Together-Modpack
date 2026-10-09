@@ -1,0 +1,159 @@
+{
+  "metadata": {
+    "tags": [
+      "content.dialogue",
+      "dialogue.ambient",
+      "scope.profession.cleric",
+      "section.messages"
+    ],
+    "topic": "professions.cleric.messages"
+  },
+  "messages": [
+    {
+      "id": "cleric_gift_given_variants",
+      "key": "gift_given",
+      "lines": [
+        "以{gift_item}为例。我是用心选择的。",
+        "这是{gift_item}。我希望它能很好地为您服务。",
+        "我给你带来了{gift_item}。不需要任何场合。",
+        "请接受{gift_item}。这似乎适合你。",
+        "如果您想要的话，这个 {gift_item} 就是您的了。",
+        "我保存了 {gift_item} 因为我认为你可能会使用它。",
+        "在这里，以 {gift_item} 为例。实用的礼物仍然是温暖的。",
+        "我想让你拥有 {gift_item}。",
+        "你为别人做的已经够多了。 {gift_item} 为您所用。",
+        "我发现{gift_item}，立刻就想到了你。",
+        "保持 {gift_item} 靠近。这可能会让明天变得更容易。",
+        "{gift_item} 没有任何债务。",
+        "希望{gift_item}能给您带来一点安慰。",
+        "这只是{gift_item}，但其背后的思想更大。",
+        "在我重新考虑包装之前，让我给你 {gift_item}。",
+        "你看起来像是会使用{gift_item}的人。",
+        "带上 {gift_item} 表达我的谢意。",
+        "我无法装瓶好运，所以 {gift_item} 就必须做。",
+        "我的背包里有空间可以容纳 {gift_item}，一天中有空间可以容纳 善良。",
+        "愿 {gift_item} 在正确的时间到达您身边。"
+      ],
+      "weight": 48
+    },
+    {
+      "id": "cleric_gift_advice_followup_liked_variants",
+      "key": "gift_advice_followup.liked",
+      "lines": [
+        "我很高兴{tested_villager}喜欢{gift_item}。",
+        "那么 {gift_item} 就是 {tested_villager} 的正确选择。",
+        "好的。您关注{tested_villager}享受什么了吗？",
+        "听起来 {gift_item} 为 {tested_villager} 带来了光明。",
+        "感谢您告诉我 {tested_villager} 如何收到 {gift_item}。",
+        "我认为 {gift_item} 可能适合 {tested_villager}。",
+        "一份欢迎礼物可以说出人们难以大声说出的话。",
+        "{tested_villager} 你选得很好。",
+        "那么我们就知道{gift_item}值得记住。",
+        "我希望 {tested_villager} 能得到 {gift_item} 的充分利用。",
+        "{tested_villager}的微笑已经足够回答了。",
+        "赠送{gift_item}表明您很了解{tested_villager}。",
+        "我对 {gift_item} 的建议被搁置了，这让我松了一口气。",
+        "一份贴心的礼物能够以最好的方式让村庄感觉更小。",
+        "您为 {tested_villager} 带来了他们真正想要的东西。",
+        "下次当有人感到被遗忘时，请记住 善良。",
+        "很高兴听到 {gift_item} 找到了合适的人选。",
+        "那么选择和时机都是正确的。",
+        "我怀疑 {tested_villager} 会欣赏 {gift_item}。",
+        "一份好礼物可以弥补尴尬的一周。"
+      ],
+      "weight": 44
+    },
+    {
+      "id": "cleric_gift_advice_followup_disliked_variants",
+      "key": "gift_advice_followup.disliked",
+      "lines": [
+        "那么{gift_item}对于{gift_subject}来说是错误的选择。下次试试{alternative_gift}。",
+        "{gift_subject}我读得不好。 {alternative_gift}可能接收效果更好。",
+        "将 {gift_item} 放在一边并提供 {alternative_gift}。",
+        "对不起。我对 {gift_item} 的建议没有达到目的。",
+        "带上 {gift_subject} {alternative_gift} 并保持手势简单。",
+        "并不是所有贴心的礼物都能顺利送达。尝试 {alternative_gift}。",
+        "我们从 {gift_subject} 中学到了一些有用的东西，尽管它很尴尬。",
+        "请勿再次按 {gift_item}。",
+        "如果你想再尝试一次，我会选择{alternative_gift}。",
+        "善良 仍然有效，但 {gift_item} 则不然。",
+        "在提供 {alternative_gift} 之前先给 {gift_subject} 一些空间。",
+        "我的猜测是错误的，我承认这一点。",
+        "下次，在选择礼物之前问一个安静的问题。",
+        "{alternative_gift}符合我现在对{gift_subject}的理解。",
+        "道歉的长度要短于解释的长度。",
+        "你的本意是好的。让下一份礼物表明你倾听了。",
+        "一个糟糕的选择可以在不吵闹的情况下得到修复。",
+        "收回 {gift_item}，不要争论他们的反应。",
+        "等一天，然后考虑{alternative_gift}。",
+        "谢谢你告诉我真相，而不是假装一切顺利。"
+      ],
+      "weight": 44
+    },
+    {
+      "key": "gift_advice_followup.disliked",
+      "lines": [
+        "下次试试{alternative_gift}。 {gift_item}显然没有帮助。",
+        "暂时别管他们。",
+        "你忽略了我提到的风险，他们为此付出了代价。",
+        "不要再提供{gift_item}。",
+        "如果你坚持要修复这个问题，请从道歉开始。",
+        "一旦淬炼冷静下来，{alternative_gift} 可能会更安全。",
+        "如果送礼者拒绝倾听，礼物就不是善意的。",
+        "停止解释为什么他们应该喜欢它。",
+        "把{gift_item}带回来并给他们空间。",
+        "我的建议是不确定的。你的自信让事情变得更糟。",
+        "你无法强迫某人表达感激之情。",
+        "携带 {alternative_gift} 之前先询问。",
+        "下一个手势应该更小、更尊重。",
+        "不要将失败的礼物变成争论。",
+        "他们已经给了你答案。",
+        "在尝试解决这个问题之前我会等待。",
+        "记住{alternative_gift}，但不要急于过去。",
+        "伤害来自于忽视不适，而不仅仅是来自于物体。",
+        "如果你道歉，就不要请求原谅。",
+        "向{gift_item}学习，下次温柔点。"
+      ],
+      "dispositions": [
+        "cautious",
+        "rude",
+        "hostile",
+        "fearful"
+      ],
+      "weight": 20,
+      "id": "professions.cleric.messages.00_messages.messages.gift_advice_followup.disliked.003"
+    },
+    {
+      "key": "gift_advice_followup.disliked",
+      "lines": [
+        "你知道 {gift_item} 可能会让他们不高兴。",
+        "不要用我的建议作为你选择的借口。",
+        "把 {gift_item} 收起来，让他们安静。",
+        "在您的行为改变之前，{alternative_gift} 不会提供任何帮助。",
+        "你无法通过立即提供其他东西来解决这个问题。",
+        "首先承认为什么 {gift_item} 会造成伤害。",
+        "尊重他们的拒绝。",
+        "用来挑衅的礼物不是礼物。",
+        "我不会帮你向他们施压。",
+        "当他们还在生气时，不要带{alternative_gift}。",
+        "看到他们的反应后，你让情况变得更糟。",
+        "仅当他们邀请您时才返回。",
+        "当蓄意的残忍开始时，我的耐心就结束了。",
+        "承担责任而不装饰它。",
+        "没有任何预兆迫使你出手。你选择了这个。",
+        "{gift_item} 是一个糟糕的选择，你的意图更重要。",
+        "将 {alternative_gift} 留在这里，直到可以诚实地提供为止。",
+        "在选择另一件礼物之前，您需要修复信任。",
+        "我对所发生的事情没有更温和的解读。",
+        "做得更好，并且不要因此而要求功劳。"
+      ],
+      "dispositions": [
+        "rude",
+        "hostile",
+        "fearful"
+      ],
+      "weight": 20,
+      "id": "professions.cleric.messages.00_messages.messages.gift_advice_followup.disliked.004"
+    }
+  ]
+}

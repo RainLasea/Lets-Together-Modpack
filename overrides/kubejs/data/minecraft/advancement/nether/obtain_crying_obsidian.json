@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "crying_obsidian": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "crying_obsidian"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "tags": [
+      "content.dialogue",
+      "dialogue.ambient",
+      "scope.profession.weaponsmith",
+      "section.messages"
+    ],
+    "topic": "professions.weaponsmith.messages"
+  },
+  "messages": [
+    {
+      "id": "weaponsmith_gift_given_variants",
+      "key": "gift_given",
+      "lines": [
+        "以{gift_item}为例。在你需要钢铁之前，最好先带上感谢。",
+        "在这里，{gift_item}。我相信你会比大多数人更冷静地使用它。",
+        "以{gift_item}为例。虽然不多，但都是用心给予的。",
+        "你帮助保护了村庄。我想归还一些有用的东西。",
+        "我选择{gift_item}是因为功能，而不是光泽。",
+        "没有附加贸易。这只是感谢。",
+        "礼物应该像一个好的刀柄一样适合手型。",
+        "在我开始判断包装之前先拿走它。",
+        "我仔细地做出了选择。希望{gift_item}为您服务。",
+        "你赢得了真诚的感谢，这感觉比言语更坚实。",
+        "如果 {gift_item} 有用，请将其保持在附近。",
+        "我宁愿做一些实际的事情，也不愿发表演讲。",
+        "这是来自熔炉的，背后没有任何债务。",
+        "你与村庄站在一起。我记得。",
+        "以{gift_item}为例。公平的行为应该得到公平的答复。",
+        "在给你之前我检查了两次。习惯。",
+        "好好利用它，或者把它传递给愿意的人。",
+        "最好的礼物在不发出噪音的情况下发挥作用。",
+        "这没有什么隐藏的优势。我的意思是谢谢你。",
+        "这里。在此之后，锤子可以为我说话。"
+      ],
+      "weight": 48
+    },
+    {
+      "id": "weaponsmith_gift_advice_followup_liked_variants",
+      "key": "gift_advice_followup.liked",
+      "lines": [
+        "好的。 {gift_item} 与 {tested_villager} 实现了完美。",
+        "然后这个建议就保持了优势。 {tested_villager} 喜欢 {gift_item}。",
+        "好的。 {gift_item} 适合 {tested_villager}。我喜欢有效的建议。",
+        "他们的反应告诉我平衡是正确的。",
+        "我看着他们的手。他们立即伸手去拿。",
+        "当礼物与使用它的人相匹配时，它就是最合适的。",
+        "在选择下一款之前，请记住 {gift_item} 为何有效。",
+        "这是比我预想的更干净的选择。",
+        "{tested_villager}看起来很高兴，而不仅仅是礼貌。",
+        "有用、精心挑选、掌握在正确的人手中。好的。",
+        "我们先判断人，再判断价格。这就产生了不同。",
+        "我喜欢与现实接触后仍然存在的建议。",
+        "这份礼物的重量对他们来说恰到好处。",
+        "他们的感谢是真诚的。",
+        "一件精美的物品在有人需要之前毫无意义。他们想要这个。",
+        "我们不需要打扮自己的选择。它本身就适合。",
+        "{gift_item} 解决了需求而不是创造了义务。",
+        "整个事情就像锤子敲击一样干净利落。",
+        "记住这个教训。在选择礼物之前先了解这个人。",
+        "选得好。 {tested_villager}实际会使用它。"
+      ],
+      "weight": 44
+    },
+    {
+      "id": "weaponsmith_gift_advice_followup_disliked_variants",
+      "key": "gift_advice_followup.disliked",
+      "lines": [
+        "这个选择很不平衡。对于 {gift_subject}，请尝试 {alternative_gift}。",
+        "{gift_item} 不太合适。请携带 {alternative_gift} 来代替。",
+        "{gift_item} 未达到 {gift_subject} 的目标。请尝试使用 {alternative_gift}。",
+        "这个选择很不平衡。让我们纠正它。",
+        "将 {gift_item} 放在一边并带上 {alternative_gift}。",
+        "我称了物品的重量，却忘了称人的重量。",
+        "一份精美的礼物在错误的人手中仍然是错误的礼物。",
+        "他们的反应比锤子敲击更清晰。",
+        "下次我会先询问他们需要什么，然后再选择看起来有用的东西。",
+        "{alternative_gift} 应该更适合 {gift_subject}。",
+        "我不会对一个糟糕的选择进行打磨并称其为合理。",
+        "礼物错过了。我们学习、调整并再次尝试。",
+        "请将 {gift_item} 留给可以使用的人。",
+        "良好的意愿并不能修复不合适的情况。",
+        "他们一拿走我就注意到了失望。",
+        "礼物就像刀片一样需要平衡。",
+        "我们根据重量和价值来选择，而不是了解这个人。",
+        "我宁愿重新做出选择，也不愿捍卫它。",
+        "下次带上{alternative_gift}，看看他们的反应。",
+        "这个建议的优势很弱。我可以承认。"
+      ],
+      "weight": 44
+    },
+    {
+      "key": "gift_advice_followup.disliked",
+      "lines": [
+        "这个建议有些乏味。尝试 {alternative_gift}。应该会咬得更好。",
+        "将 {gift_item} 放在一边并尝试 {alternative_gift}。这个建议应该会更好。",
+        "然后我们纠正猜测。 {alternative_gift} 下次。",
+        "这个建议回来了，但其中有一个缺口。我也这么期望。",
+        "尝试 {alternative_gift}。与他们相处可能会更好。",
+        "在我们思考这个问题时，将 {gift_item} 放在一边。",
+        "我应该像检查物品一样仔细检查这个人。",
+        "他们的失望虽然平静，但却很沉重。",
+        "在我们知道他们实际使用什么之前，无需再猜测。",
+        "谨慎的第二选择击败了另一个自信的 <shake>错误</shake>。",
+        "{alternative_gift}对此有更好的平衡。",
+        "我不怪他们拒绝不合身的衣服。",
+        "让我们保持下一份礼物简单而诚实。",
+        "这个结果让我不再相信我的第一个猜测，这很有用。",
+        "我宁愿测试另一个想法也不愿再次推{gift_item}。",
+        "错误的礼物可能比劣质钢材还重。",
+        "在再次尝试之前，我们有时间做出正确的选择。",
+        "我注意到建议中的弱点为时已晚。",
+        "下次我会在做出承诺之前倾听怀疑。",
+        "熔炉经常教导这一点。当不合适时重新开始。"
+      ],
+      "dispositions": [
+        "cautious",
+        "rude",
+        "hostile",
+        "fearful"
+      ],
+      "weight": 20,
+      "id": "professions.weaponsmith.messages.00_messages.messages.gift_advice_followup.disliked.003"
+    },
+    {
+      "key": "gift_advice_followup.disliked",
+      "lines": [
+        "你用我递给你的东西摇摆。下次选择{alternative_gift}。",
+        "将 {gift_item} 放在一边并尝试 {alternative_gift}。这个建议应该会更好。",
+        "然后我们纠正猜测。 {alternative_gift} 下次。",
+        "你采纳了我的建议，但没有成功。不要摆动两次。",
+        "将 {gift_item} 替换为 {alternative_gift}，这样我们就不用争论了。",
+        "他们的表情说不。这应该足够清楚了。",
+        "一个沉闷的选择不会因为你捍卫它而变得尖锐。",
+        "把礼物放下，下次用更好的判断力。",
+        "我给出了建议，但你仍然选择如何传达。",
+        "如果你停止强迫这一刻，{alternative_gift} 可能会干净地着陆。",
+        "不要责怪收件人发现不合适。",
+        "第一个 <shake>错误</shake> 是礼物。第二个就是坚持。",
+        "我已经因为比这更小的缺陷而放弃了更好的工作。",
+        "除非他们要求，否则请将 {gift_item} 远离他们。",
+        "你想要确定性，而我们只是猜测。",
+        "武器可以重铸。尴尬的记忆更难。",
+        "尝试 {alternative_gift}，然后让他们的答案成立。",
+        "我会接受这个糟糕的建议。接下来要做的事你自己做主。",
+        "平衡从一开始就是错误的。",
+        "对同样的错误进行足够的锤击。选择不同。"
+      ],
+      "dispositions": [
+        "rude",
+        "hostile"
+      ],
+      "weight": 20,
+      "id": "professions.weaponsmith.messages.00_messages.messages.gift_advice_followup.disliked.004"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:campfire"
+    },
+    "title": {
+      "translate": "advancements.letstogether.farm.campfire.title",
+      "fallback": "Dinner Outdoors"
+    },
+    "description": {
+      "translate": "advancements.letstogether.farm.campfire.description",
+      "fallback": "Place a campfire."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "campfire": {
+      "conditions": {
+        "location": [
+          {
+            "block": "minecraft:campfire",
+            "condition": "minecraft:block_state_property"
+          }
+        ]
+      },
+      "trigger": "minecraft:placed_block"
+    },
+    "soul_campfire": {
+      "conditions": {
+        "location": [
+          {
+            "block": "minecraft:soul_campfire",
+            "condition": "minecraft:block_state_property"
+          }
+        ]
+      },
+      "trigger": "minecraft:placed_block"
+    }
+  },
+  "requirements": [
+    [
+      "campfire",
+      "soul_campfire"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:farm/root"
+}

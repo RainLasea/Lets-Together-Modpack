@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "eagle_attacks_snake": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "eagle_attacks_snake"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,89 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.cartographers_atlas.eye_of_the_last_room.description": {
+      "lines": [
+        "跟随地图集前往要塞并带着末影之眼轴承返回。"
+      ]
+    },
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.return.dialogue.turn_in.label": "关于最后一个房间",
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.return.dialogue.turn_in.lines": [
+      "你找到了将末地隐藏在圆圈后面的房间。让我看看轴承。"
+    ],
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.return.dialogue.turn_in.response.complete.label": "交出最后一个房间轴承",
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.return.dialogue.turn_in.response.leave.label": "还没有",
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "绘制最后一个房间方位角。地图集现在可以指向一个阈值，而不会误认为它是一个结局。"
+    ],
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "该页面仍然需要要塞轴承、眼睛和末影珍珠。"
+    ],
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "在我相信最后一个房间标记之前携带末影之眼。"
+    ],
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "眼睛需要其背后的要塞支撑。"
+    ],
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "最后一个房间的方位还需要证明才能关闭。"
+    ],
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.return.scene.leave.lines": [
+      "圈子可以等到你准备好为止。"
+    ],
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.return.ui.tracker_text": "将最后一个房间方位返回给制图师。",
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.survey.dialogue.offer.label": "要塞之眼",
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.survey.dialogue.offer.lines": [
+      "幽冥线冷却成一支箭。它指向一个人们通常通过目光和希望找到的房间。",
+      "找到要塞，携带末影之眼并带上珍珠，这样地图册就可以在不迷失方向的情况下了解最后一个房间。"
+    ],
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.survey.dialogue.offer.response.accept.label": "找到最后一个房间",
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.survey.dialogue.offer.response.decline.label": "另一次",
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.survey.dialogue.reminder.label": "关于最后一个房间",
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.survey.dialogue.reminder.lines": [
+      "最后一个房间页面仍然需要要塞轴承、末影之眼和末影珍珠。"
+    ],
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.survey.dialogue.reminder.response.details.label": "提醒我在哪里",
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.survey.dialogue.reminder.response.leave.label": "算了",
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.survey.objective.bring_pearls.tracker.complete_text": "末影珍珠已准备就绪。",
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.survey.objective.bring_pearls.tracker.text": "带 4 颗末影珍珠来稳定方位。",
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.survey.objective.carry_eye.tracker.complete_text": "眼轴承已准备就绪。",
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.survey.objective.carry_eye.tracker.text": "携带一只末影之眼作为最后一个房间的证据。",
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.survey.objective.visit_stronghold.tracker.complete_text": "记录最后的房间方位角。",
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.survey.objective.visit_stronghold.tracker.text": "到达 {target_x}、{target_z} 附近的要塞。",
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.survey.scene.decline.lines": [
+      "最后一个房间很耐心，我不喜欢。"
+    ],
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.survey.scene.leave.lines": [
+      "不要同时投掷所有的眼睛。"
+    ],
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.survey.scene.reminder_details.action.remind.lines.reminder": [
+      "{target_x}、{target_z}、{distance}附近的据点封锁了{direction}。到达那里，携带末影之眼，并带上 4 颗末影珍珠。"
+    ],
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.survey.scene.reminder_details.action.remind.lines.unavailable": [
+      "我现在没有为您打开最后一个房间页面。"
+    ],
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.survey.scene.start_quest.action.start.lines.already_completed": [
+      "最后一个房间的方位角已经画好了。"
+    ],
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.survey.scene.start_quest.action.start.lines.locate_failed": [
+      "今天最后一个房间远离桌子。"
+    ],
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.survey.scene.start_quest.action.start.lines.started": [
+      "要塞标记位于 {target_x}、{target_z} 附近，大约 {distance} 遮挡 {direction}。携带末影之眼并携带 4 颗末影珍珠。"
+    ],
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.survey.scene.start_quest.action.start.lines.unavailable": [
+      "地图集需要下界经线才能读取最后一个房间。"
+    ],
+    "quest.cartographers_atlas.eye_of_the_last_room.stage.survey.ui.tracker_text": "到达 {target_x}、{target_z} 附近的要塞。",
+    "quest.cartographers_atlas.eye_of_the_last_room.title": {
+      "lines": [
+        "要塞之眼"
+      ]
+    },
+    "quest.cartographers_atlas.eye_of_the_last_room.tracker.title": {
+      "lines": [
+        "要塞之眼"
+      ]
+    }
+  }
+}

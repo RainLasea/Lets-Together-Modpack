@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "ancient_apple_overlevel": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "ancient_apple_overlevel"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

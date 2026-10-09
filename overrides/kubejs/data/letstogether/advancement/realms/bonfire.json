@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "id": "the_beyond:livid_flame"
+    },
+    "title": {
+      "translate": "advancements.letstogether.realms.bonfire.title",
+      "fallback": "Light This One Too"
+    },
+    "description": {
+      "translate": "advancements.letstogether.realms.bonfire.description",
+      "fallback": "Carry a live flame to an unlit bonfire and light it."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "light_bonfire": {
+      "trigger": "the_beyond:light_bonfire"
+    }
+  },
+  "requirements": [
+    [
+      "light_bonfire"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:realms/live_flame"
+}

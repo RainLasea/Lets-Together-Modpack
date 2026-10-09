@@ -1,0 +1,99 @@
+{
+  "display": {
+    "icon": {
+      "id": "farmersdelight:roast_chicken_block"
+    },
+    "title": {
+      "translate": "advancements.letstogether.farm.feast.title",
+      "fallback": "Room for One More"
+    },
+    "description": {
+      "translate": "advancements.letstogether.farm.feast.description",
+      "fallback": "Place a feast to share."
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "gleaming_salad": {
+      "conditions": {
+        "location": [
+          {
+            "block": "farmersdelight:gleaming_salad_block",
+            "condition": "minecraft:block_state_property"
+          }
+        ]
+      },
+      "trigger": "minecraft:placed_block"
+    },
+    "honey_glazed_ham": {
+      "conditions": {
+        "location": [
+          {
+            "block": "farmersdelight:honey_glazed_ham_block",
+            "condition": "minecraft:block_state_property"
+          }
+        ]
+      },
+      "trigger": "minecraft:placed_block"
+    },
+    "rice_roll_medley": {
+      "conditions": {
+        "location": [
+          {
+            "block": "farmersdelight:rice_roll_medley_block",
+            "condition": "minecraft:block_state_property"
+          }
+        ]
+      },
+      "trigger": "minecraft:placed_block"
+    },
+    "roast_chicken": {
+      "conditions": {
+        "location": [
+          {
+            "block": "farmersdelight:roast_chicken_block",
+            "condition": "minecraft:block_state_property"
+          }
+        ]
+      },
+      "trigger": "minecraft:placed_block"
+    },
+    "shepherds_pie": {
+      "conditions": {
+        "location": [
+          {
+            "block": "farmersdelight:shepherds_pie_block",
+            "condition": "minecraft:block_state_property"
+          }
+        ]
+      },
+      "trigger": "minecraft:placed_block"
+    },
+    "stuffed_pumpkin": {
+      "conditions": {
+        "location": [
+          {
+            "block": "farmersdelight:stuffed_pumpkin_block",
+            "condition": "minecraft:block_state_property"
+          }
+        ]
+      },
+      "trigger": "minecraft:placed_block"
+    }
+  },
+  "requirements": [
+    [
+      "roast_chicken",
+      "stuffed_pumpkin",
+      "honey_glazed_ham",
+      "shepherds_pie",
+      "gleaming_salad",
+      "rice_roll_medley"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:farm/pot"
+}

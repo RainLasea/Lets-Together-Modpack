@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "blowback": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "blowback"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

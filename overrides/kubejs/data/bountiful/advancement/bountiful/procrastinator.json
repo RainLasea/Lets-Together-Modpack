@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "turn_in_close_call": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "turn_in_close_call"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

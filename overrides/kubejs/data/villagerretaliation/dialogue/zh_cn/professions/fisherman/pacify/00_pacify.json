@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "tags": [
+      "content.dialogue",
+      "dialogue.ambient",
+      "scope.profession.fisherman",
+      "section.pacify"
+    ],
+    "topic": "professions.fisherman.pacify"
+  },
+  "pacify": [
+    {
+      "id": "fisherman_pacify_success",
+      "lines": [
+        "美好的。目前，线路变得松弛。",
+        "好的。我正在把钩子收起来。",
+        "我们可以把它留在岸上，然后分开走。",
+        "我已经受够了一次潮水的麻烦了。",
+        "当我提供平安时，请接受它。",
+        "我宁愿修补网，也不愿修补伤口。",
+        "这样就解决了。信守诺言，我们就完成了。",
+        "我退后一步。你也这样做。",
+        "不再有威胁。让水平静下来。",
+        "我们可以结束这一切，而无需任何人太过分。",
+        "我会放下它，但我不会忘记它为何开始。",
+        "好的。我的手还有更重要的工作要做。",
+        "争吵到这里就结束了。",
+        "我接受。不要让我后悔。",
+        "我们俩都说得够多了。",
+        "那是公平的。我们可以分手而不会造成更多伤害。",
+        "如果你是的话，我已经厌倦了战斗。",
+        "保持距离，和平就会持续。",
+        "让我们在事情变得更糟之前就结束吧。",
+        "好的。我们俩走开。"
+      ],
+      "outcomes": [
+        "success"
+      ],
+      "weight": 26
+    },
+    {
+      "id": "fisherman_pacify_short",
+      "lines": [
+        "该报价将不成立。我需要 {emerald_cost} {emeralds}。",
+        "你很矮。价格为{emerald_cost} {emeralds}。",
+        "再数一下。我要的是 {emerald_cost} {emeralds}。",
+        "这并不涵盖它。带上 {emerald_cost} {emeralds}。",
+        "承诺并不等于付款。我需要 {emerald_cost} {emeralds}。",
+        "您还没有达到金额。它是 {emerald_cost} {emeralds}。",
+        "特价为 {emerald_cost} {emeralds}。",
+        "当所有 {emerald_cost} {emeralds} 都在这里时我会听。",
+        "那堆太轻了。成本为{emerald_cost} {emeralds}。",
+        "不，我们同意 {emerald_cost} {emeralds}。",
+        "你不能用一半的收获来偿还全部的债务。我需要 {emerald_cost} {emeralds}。",
+        "我数了两遍。您还欠 {emerald_cost} {emeralds}。",
+        "带上完整的{emerald_cost} {emeralds}，然后我们就可以聊了。",
+        "号码没有改变。它是 {emerald_cost} {emeralds}。",
+        "这个提议让我很遗憾。我需要 {emerald_cost} {emeralds}。",
+        "放下{emerald_cost} {emeralds}，这件事就可以结束了。",
+        "我不会在这个问题上讨价还价。成本为{emerald_cost} {emeralds}。",
+        "您需要更多 绿宝石。总计为 {emerald_cost} {emeralds}。",
+        "天平尚未平衡。我需要 {emerald_cost} {emeralds}。",
+        "如果你想要和平，就带着 {emerald_cost} {emeralds} 回来吧。"
+      ],
+      "outcomes": [
+        "not_enough_emeralds"
+      ],
+      "weight": 26
+    },
+    {
+      "id": "fisherman_pacify_blocked",
+      "lines": [
+        "不，我知道什么时候该切断坏线。",
+        "你没有给我任何理由相信这个提议。",
+        "付款不会抹去您在这里所做的事情。",
+        "我不跟你讨价还价。",
+        "保留 {payment_items}。我要你走。",
+        "当你的名字带来这么多麻烦时，没有任何交易。",
+        "搅动了整个村庄之后，你就买不到平静了。",
+        "我已经从你那里听到了足够多的承诺。",
+        "这不是绿宝石可以还清的债务。",
+        "你的提议没有一个是可以安全接受的。",
+        "您在付款之前就已经越线了。",
+        "村庄的记忆比你的钱包所能容纳的还要多。",
+        "我宁愿相信深水中一艘破裂的船。",
+        "把它收起来。我们今天不是在缔造和平。",
+        "您的 声望 在您的优惠到达之前到达。",
+        "我不会让付款让这件事看上去就解决了。",
+        "有些渔获不值得带上船。这也不是讨价还价。",
+        "在跟我说话之前，你需要先把其他地方的事情弄好。",
+        "不，在事情变得更糟之前离开。",
+        "现在你无法给我任何东西来解决这个问题。"
+      ],
+      "outcomes": [
+        "blocked_by_reputation"
+      ],
+      "weight": 26
+    }
+  ]
+}

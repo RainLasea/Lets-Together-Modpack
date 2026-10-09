@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "stone_pickaxe": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "stone_pickaxe"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

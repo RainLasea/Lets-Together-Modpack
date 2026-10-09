@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "id": "the_beyond:abyssal_shroud"
+    },
+    "title": {
+      "translate": "advancements.letstogether.realms.nomad.title",
+      "fallback": "You Lead the Way"
+    },
+    "description": {
+      "translate": "advancements.letstogether.realms.nomad.description",
+      "fallback": "Mount a sitting Nomad and go along for the ride."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "ride_nomad": {
+      "trigger": "the_beyond:ride_nomad"
+    }
+  },
+  "requirements": [
+    [
+      "ride_nomad"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:realms/gift"
+}

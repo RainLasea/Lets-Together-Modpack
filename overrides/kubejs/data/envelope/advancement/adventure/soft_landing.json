@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "fall_on_paper_box_from_big_height": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "fall_on_paper_box_from_big_height"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

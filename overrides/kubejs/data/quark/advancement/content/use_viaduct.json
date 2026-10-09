@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "use_viaduct": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "use_viaduct"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

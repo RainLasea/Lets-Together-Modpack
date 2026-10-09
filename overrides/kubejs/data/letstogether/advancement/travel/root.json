@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "id": "map_atlases:atlas"
+    },
+    "title": {
+      "translate": "advancements.letstogether.travel.root.title",
+      "fallback": "Out and About"
+    },
+    "description": {
+      "translate": "advancements.letstogether.travel.root.description",
+      "fallback": "Explore the world."
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false,
+    "background": "minecraft:textures/block/mossy_stone_bricks.png"
+  },
+  "criteria": {
+    "welcome": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "requirements": [
+    [
+      "welcome"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

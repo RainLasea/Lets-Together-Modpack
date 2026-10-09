@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "tags": [
+      "content.dialogue",
+      "dialogue.ambient",
+      "scope.profession.unemployed",
+      "section.messages"
+    ],
+    "topic": "professions.unemployed.messages"
+  },
+  "messages": [
+    {
+      "id": "unemployed_gift_given_variants",
+      "key": "gift_given",
+      "lines": [
+        "以{gift_item}为例。我可能没有交易，但我知道如何说谢谢。",
+        "在这里，{gift_item}。也许我们中的一个人会找到它的完美用途。",
+        "以{gift_item}为例。虽然不多，但都是用心给予的。",
+        "你帮助了这个村庄，我希望你能有所贡献。",
+        "我选择 {gift_item} 因为它看起来很有用。我希望我猜对了。",
+        "没有讨价还价。不欠人情。这只是一份礼物。",
+        "我本可以保留 {gift_item}，但你会更好地利用它。",
+        "请在我失去勇气并过度解释之前接受它。",
+        "我记得你为我们所做的一切。这是我的表达方式。",
+        "即使没有华丽的包装，这里也有细心。",
+        "我问了一圈才选择{gift_item}。人们有意见。",
+        "这比另一次长篇大论的感谢更诚实。",
+        "保留它以备下一个遇到问题时使用。",
+        "我没有什么可以给予的，但 {gift_item} 是你的。",
+        "你赚的比这个多，但这就是我今天能提供的。",
+        "我选择了一些实用的东西，因为实用的东西往往会持久。",
+        "带上{gift_item}，让思想就足够了。",
+        "我希望这能让未来的一天变得更轻松一些。",
+        "村庄记得谁帮助了它。我也一样。",
+        "在这里。感谢不应该总是伴随着演讲。"
+      ],
+      "weight": 48
+    },
+    {
+      "id": "unemployed_gift_advice_followup_liked_variants",
+      "key": "gift_advice_followup.liked",
+      "lines": [
+        "很好，{gift_item} 成功了。看？没有工作站我也能发挥作用。",
+        "{tested_villager} 喜欢吗？出色的。我把它放在可能的人才之下。",
+        "好的。 {gift_item} 适合 {tested_villager}。我喜欢有效的建议。",
+        "当他们看到这一幕的时候，脸色都变了。这是一个好兆头。",
+        "我很担心，直到{tested_villager}笑了。",
+        "礼物适合这个人，而不仅仅是看起来令人印象深刻。",
+        "还记得 {gift_item} 的作用吗？这下次会有帮助。",
+        "我很高兴我们在选择之前听取了意见。",
+        "这种反应值得所有的猜测。",
+        "一份有用的礼物胜过一个代价高昂的错误。",
+        "我们做对了，因为我们考虑了他们的需求。",
+        "保持这个想法。 {tested_villager} 明确批准。",
+        "我知道{gift_item}有机会，但没想到它能落地得这么好。",
+        "他们的感谢听起来很真诚。你不能要求更多。",
+        "好的建议感觉很奇怪。我可以再试一次。",
+        "这个选择之所以有效，是因为它适合他们。",
+        "我注意到他们立即开始使用它。",
+        "对于这个村庄来说，这是一个不那么尴尬的礼物故事。",
+        "下次，相信同样的仔细猜测。",
+        "干得好。 {gift_item}找到了合适的人手。"
+      ],
+      "weight": 44
+    },
+    {
+      "id": "unemployed_gift_advice_followup_disliked_variants",
+      "key": "gift_advice_followup.disliked",
+      "lines": [
+        "啊。那么我的咨询生涯就到此为止了。尝试将 {alternative_gift} 替换为 {gift_subject}。",
+        "{gift_item} 错了？让我们称之为研究。 {alternative_gift}应该工作得更好。",
+        "{gift_item} 未达到 {gift_subject} 的目标。请尝试使用 {alternative_gift}。",
+        "我们猜错了，所以让我们停止为这个猜测辩护。",
+        "将 {gift_item} 放在一边。 {alternative_gift}值得一试。",
+        "在选择之前我应该​​多询问一下 {gift_subject}。",
+        "那件礼物之后的沉默已经告诉了我足够多的事情了。",
+        "一份贴心的礼物对于这个人来说仍然可能是错误的。",
+        "下次我会在寻求答案之前先听听。",
+        "我宁愿纠正这个错误，也不愿整晚都在解释它。",
+        "为真正想要的人保留 {gift_item}。",
+        "也许{alternative_gift}会感觉不那么强迫。",
+        "这个选择在广场上听起来比在他们手中看起来更好。",
+        "没有人需要假装自己喜欢一份糟糕的礼物。",
+        "我们学到了一些有用的东西，即使我们学得很笨拙。",
+        "我会记得 {gift_subject} 比价格更重要。",
+        "下一份礼物应该适合他们，而不是我们的骄傲。",
+        "在再次尝试之前，让我们先问一个好问题。",
+        "在有人说话之前我就注意到了他们的失望。",
+        "美好的。我的建议落空了。我们现在可以做出更好的选择。"
+      ],
+      "weight": 44
+    },
+    {
+      "key": "gift_advice_followup.disliked",
+      "lines": [
+        "这就是为什么没有人付钱给我寻求建议。尝试 {alternative_gift}。",
+        "将 {gift_item} 放在一边并尝试 {alternative_gift}。这个建议应该会更好。",
+        "然后我们纠正猜测。 {alternative_gift} 下次。",
+        "我知道我应该把这个猜测保密。",
+        "尝试 {alternative_gift}。我比上一个选择更相信这个选择。",
+        "在事情变得更尴尬之前把 {gift_item} 收起来。",
+        "我宁愿听真话，也不愿看别人假笑。",
+        "下次我推荐任何东西之前都会问两次。",
+        "那个可怜的礼物将会跟着我在广场上转一整周。",
+        "也许他们从一开始就需要一些更简单的东西。",
+        "我并不是责怪他们。我也不想要 <shake>错误的</shake> 礼物。",
+        "等大家都平静下来之后，我们再尝试一下。",
+        "{alternative_gift} 至少听起来像是属于同一个对话。",
+        "我应该注意这种犹豫。",
+        "错误的猜测并不会因为我们的本意是好的而得到改善。",
+        "我的下一条建议会更简短、更安全。",
+        "在我们真正了解他们喜欢什么之前，不会再有任何惊喜。",
+        "当我打错电话时我可以承认。这是其中之一。",
+        "请不要告诉整个广场我有多么自信地推荐{gift_item}。",
+        "我们可以从一份尴尬的礼物中恢复过来。我们只是需要一个更好的。"
+      ],
+      "dispositions": [
+        "cautious",
+        "rude",
+        "hostile",
+        "fearful"
+      ],
+      "weight": 20,
+      "id": "professions.unemployed.messages.00_messages.messages.gift_advice_followup.disliked.003"
+    },
+    {
+      "key": "gift_advice_followup.disliked",
+      "lines": [
+        "你回来了吗？公平的。我的下一个猜测是 {alternative_gift}。",
+        "将 {gift_item} 放在一边并尝试 {alternative_gift}。这个建议应该会更好。",
+        "然后我们纠正猜测。 {alternative_gift} 下次。",
+        "你问我的猜测，现在我们都知道这是一个糟糕的猜测。",
+        "不要再向他们挥动 {gift_item}。带上{alternative_gift}。",
+        "他们的脸先于嘴做出了回应。",
+        "美好的。下次我们要擦亮眼睛来选择。",
+        "我不会说服某人喜欢礼物。",
+        "无论你包装得多么好，糟糕的选择仍然是糟糕的。",
+        "尝试倾听他们的声音，而不是大声猜测。",
+        "将 {gift_item} 调低并停止让情况变得更糟。",
+        "{alternative_gift}有更好的机会，这并没有说明太多。",
+        "我们曾经让自己难堪过一次。这样练习就足够了。",
+        "如果他们不喜欢，请第一次就相信他们。",
+        "我可以为这个建议承担责任。你可以接受提示。",
+        "村里的流言蜚语已经够多了，再也没有失败的礼物了。",
+        "选择有用的东西，而不是让你看起来很聪明的东西。",
+        "我不会仅仅因为 {gift_item} 是我的想法就捍卫它。",
+        "带上 {alternative_gift} 并保持演讲简短。",
+        "<shake>错误的</shake>礼物，错误的时刻，错误的猜测。让我们继续前进。"
+      ],
+      "dispositions": [
+        "rude",
+        "hostile"
+      ],
+      "weight": 20,
+      "id": "professions.unemployed.messages.00_messages.messages.gift_advice_followup.disliked.004"
+    }
+  ]
+}

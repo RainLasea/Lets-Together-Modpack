@@ -1,0 +1,360 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.village_supply.beetroot_bundle.description": {
+      "lines": [
+        "带上甜菜根来炖菜、腌制罐子和简单的病房餐。"
+      ]
+    },
+    "quest.village_supply.beetroot_bundle.dialogue.already_completed": {
+      "lines": [
+        "没有人需要这样做两次。我们已经解决了甜菜根捆绑包。",
+        "事情结束得还算顺利。食品储藏室里有你带来的甜菜根。",
+        "保留旧的计数。我数了一下你的16个甜菜根。我们是方的。",
+        "从此一无所获。厨师们已经开始送货了。",
+        "我记得你第一次回来。您解决了空蔬菜箱的问题。",
+        "保留旧的计数。没有理由再次收集甜菜根。",
+        "该章已关闭。甜菜根捆绑包已从甜菜根工作清单中划掉。",
+        "从此一无所获。你帮助我们装满炖锅和腌渍罐的工作已经完成。",
+        "该章已关闭。最后一批甜菜根仍在为村里服务。",
+        "我记得你第一次回来。我记得谁填写了甜菜根订单，那就是你。",
+        "没有人需要这样做两次。当甜菜根送达时，奖励就支付了。",
+        "我不会重新打开已完成的帐户。第一次你就做得够多了。我将把旧条目保留在甜菜根捆绑包下。",
+        "保留旧的计数。我们可以延长病房膳食，因为您回答了甜菜根捆绑包。",
+        "没有人需要这样做两次。完整的甜菜根数量到达了食品储藏室。什么都没有丢失。",
+        "从此一无所获。如果我问你两次，厨师们就会反对。",
+        "事情结束得还算顺利。您的甜菜根交货已通过检验并投入使用。",
+        "我不会重新打开已完成的帐户。食品储藏室里的那个空位属于昨天。",
+        "所欠的已经还清了。记录显示从您那里收到了 16 个甜菜根。",
+        "所欠的已经还清了。你默默地做甜菜根工作，让每个人都继续前进。",
+        "该章已关闭。对于甜菜根捆绑包来说，第一个结局已经足够好了。"
+      ]
+    },
+    "quest.village_supply.beetroot_bundle.dialogue.inactive": {
+      "lines": [
+        "还没有开始的理由。目前食品储藏室清单尚未计算在内。",
+        "村里可以等这一件事。今天没有甜菜根的开放订单。",
+        "时间不对。在我要求更多之前，食品储藏室正在清点。",
+        "还没有开始的理由。厨师们还没有提出新的要求。",
+        "我们还不需要它。别吃甜菜根。我们没有地方可以放置它们。",
+        "不是今天。填充炖锅和腌渍罐的需求将会再次出现，但不是今天。",
+        "不是今天。我正在等待下一次计数，然后再打开甜菜根捆绑包。",
+        "我们还不需要它。现在带 16 个甜菜根就会挤满仓储。",
+        "我们还不需要它。最后一批甜菜根还没有用完。",
+        "等店铺换了再问我。厨师检查完剩下的东西后再询问。",
+        "我不会把这个问题列入考虑范围。我不会发明对甜菜根的迫切需求。",
+        "时间不对。食品储藏室很安静，所以这可以等。",
+        "我不会把这个问题列入考虑范围。我们正在处理甜菜根的工单。",
+        "我们还不需要它。食品储藏室里没有任何问题。时机根本不对。",
+        "董事会可以等待。省省力，直到我们真正需要甜菜根为止。",
+        "还没有开始的理由。该板上除了甜菜根捆绑包之外没有当前标记。",
+        "我不会把这个问题列入考虑范围。今天不是另一次甜菜根跑步的日子。",
+        "等店铺换了再问我。一旦空蔬菜箱成为问题，我将重新打开它。",
+        "我们还不需要它。我宁愿拖延也不愿浪费好甜菜根。",
+        "现在，就让这件事平息吧。等仓储有变化后再向我询问甜菜根捆绑包。"
+      ]
+    },
+    "quest.village_supply.beetroot_bundle.dialogue.locate_failed": {
+      "lines": [
+        "我无法确认当前的甜菜根订单。检查完村厨房后再询问。",
+        "村子里的厨房没有统计数据，所以我不会要求你去采集甜菜根。",
+        "没有人确定今天乡村厨房需要多少甜菜根。",
+        "工作笔记不完整。让我先算一下甜菜根的数量。",
+        "在村里确认订单之前，我不会给你送甜菜根。",
+        "村里的厨房没有公布可靠的甜菜根数量。",
+        "我检查了工作清单两次；甜菜根请求尚未准备好。",
+        "这个订单可以等到我有最新的甜菜根计数后。",
+        "在我把这份订单交给你之前，需要有人检查一下村里的厨房。",
+        "该村尚未就甜菜根数量达成一致。",
+        "我有一份旧的甜菜根计数，没有当前的。",
+        "村里的厨房可能需要甜菜根，但我不会把猜测变成工作。",
+        "等村里的厨房清点完再回来。",
+        "该订单缺少详细信息。我需要确认金额和收货地点。",
+        "在工作说明完成之前，我无法将此请求提交给董事会。",
+        "请求尚未准备好。我还在等待村里厨房的统计。",
+        "在你们开始收集之前，让我确认一下谁需要甜菜根。",
+        "还没有工作。该村尚未批准这一甜菜根请求。",
+        "在我提供这项工作之前，仓储需要再次清点。",
+        "再次询问甜菜根订单何时有明确的所有者和计数。"
+      ]
+    },
+    "quest.village_supply.beetroot_bundle.dialogue.missing_proof": {
+      "lines": [
+        "故事无法关闭账本。在我称包裹完成之前，先把甜菜根带来。",
+        "最后一个要求仍然缺失。在我签字之前我需要这里的甜菜根。",
+        "你回来时却没有带我要的一件东西。承诺并不能填满食品储藏室。带来甜菜根送货。",
+        "我需要一些我能握住的东西。你可能已经收集了它们，但厨师还没有收到它们。",
+        "带回来一些村里可以核实的东西。将 16 个甜菜根放在此处，我可以关闭甜菜根订单。",
+        "你带回家的东西决定了这一点。上交甜菜根就是这次供应工作的证明。",
+        "最后一个要求仍然缺失。当你的双手空空的时候，我无法检查不腐烂的牢固根部。",
+        "我需要一些我能握住的东西。你的报告听起来不错。我仍然需要真正的甜菜根。",
+        "证据仍然很重要。食品储藏室还没有收到任何东西。",
+        "最后一个要求仍然缺失。在我们讨论甜菜根捆绑包奖励之前，请带上您收集的东西。",
+        "带回来一些村里可以核实的东西。食品储藏室需要可用的甜菜根，而不是关于它们的故事。",
+        "带回来一些村里可以核实的东西。你一把甜菜根放在这里，我就会数数。",
+        "我需要一些我能握住的东西。不要将甜菜根放在另一个箱子中。",
+        "最后一个要求仍然缺失。厨师们正在等待甜菜根包本身。",
+        "我无法在空的退货单上签字。最后一步很简单。交出甜菜根。",
+        "最后一个要求仍然缺失。我不能用空柜台来装满炖锅和腌菜罐。",
+        "我相信你去了，但这还不够。带着甜菜根订单回来，我们就完成了。",
+        "带回来一些村里可以核实的东西。一旦食品储藏室收到甜菜根，甜菜根的工作就开始计算。",
+        "带回来一些村里可以核实的东西。您只需一交手即可完成甜菜根捆绑包。",
+        "你的话并不是缺失的部分。在我结束之前让我看看甜菜根。"
+      ]
+    },
+    "quest.village_supply.beetroot_bundle.dialogue.missing_target": {
+      "lines": [
+        "交货时间仍然很短。把剩下的甜菜根带来。",
+        "我数了两遍； 16 个甜菜根的完整订单尚未到货。",
+        "这有帮助，但村里的厨房仍然需要剩余的甜菜根。",
+        "上交不完整。我还无法关闭工作笔记。",
+        "我们商定了 16 个甜菜根；堆还是很短。",
+        "把丢失的甜菜根拿来，我就可以结单了。",
+        "村里的厨房有空间等待剩下的外卖。",
+        "部分交付无法满足该村的需求。",
+        "你带来了正确的货物，但不是全额。",
+        "再算一下。村里的厨房还很短。",
+        "工作开始后我无法降低约定的数量。",
+        "继续收集，直到收集完全部 16 个甜菜根。",
+        "村子可以用这么多，但还需要剩下的。",
+        "工作即将完成；剩下的就是缺少的金额。",
+        "理货和交货尚未匹配。",
+        "带上一份完整的外卖，而不是让乡村厨房短缺。",
+        "订单将持续开放，直到所有 16 颗甜菜根都到齐为止。",
+        "除了金额之外，你带来的东西没有任何问题。",
+        "乡村厨房指望的是全部订单，而不是部分订单。",
+        "带着剩下的回来，我会关闭笔记。"
+      ]
+    },
+    "quest.village_supply.beetroot_bundle.dialogue.reminder": {
+      "lines": [
+        "继续你接受的工作。十六根甜菜根用于汤和腌菜罐。不迷人，但魅力从来没有养活任何人。",
+        "你还没有完成。我还在等待 16 个甜菜根送到食品储藏室。",
+        "继续你接受的工作。寻找坚固且没有腐烂的根。 原料不好只有移动的问题。",
+        "这项工作仍有未完成的任务。厨师们需要这些甜菜根来填充炖锅和腌渍罐。",
+        "将回程行程保留在您的计划中。计数为 16 个甜菜根。回来之前检查一下。",
+        "下一步仍然很重要。这种甜菜根配送意味着我们可以延长病房膳食的时间。",
+        "离开之前，请再听一遍。如果您要在负载之间进行选择，请先带上甜菜根。",
+        "继续你接受的工作。将甜菜根订单放在一起，这样甜菜根计数就很容易。",
+        "将回程行程保留在您的计划中。食品储藏室有空间等待完整的包裹。",
+        "离开之前，请再听一遍。不要让一个简单的请求变成一个空菜箱。",
+        "继续你接受的工作。甜菜根捆绑包没有隐藏部分。带上商定的甜菜根数量。",
+        "将回程行程保留在您的计划中。小心处理它们。我想要牢固的根而不腐烂。",
+        "记住村庄在等待什么。如果你能做到的话，一次性把所有的甜菜根都带来。",
+        "牢记整个任务。厨师们正在计划围绕您回来的下一步工作。",
+        "记住村庄在等待什么。我在甜菜根石板上写下了 16 个甜菜根，所以我们都不必猜测。",
+        "牢记整个任务。这些越早到达，我们就能越早装满炖锅和腌菜罐。",
+        "不要让已完成的一步分散您的注意力。甜菜根订单中没有遗漏任何其他内容。",
+        "遵守我给你的指示。当甜菜根准备好交出时返回。",
+        "遵守我给你的指示。你知道食品储藏室需要多少甜菜根。其余的正在聚集。",
+        "离开之前，请再听一遍。完整的甜菜根包可以让每个人省去第二次旅行。"
+      ]
+    },
+    "quest.village_supply.beetroot_bundle.dialogue.start": {
+      "lines": [
+        "村里有工作给你。带16个甜菜根。炖锅看到颜色就更有希望了。",
+        "这需要小心谨慎。甜菜根订单需要 16 个甜菜根。你能处理吗？",
+        "让我们清楚地了解这项工作。厨师们正在努力装满炖锅和腌菜罐，原料 很薄。",
+        "我需要你来看看这件事。给我 16 个甜菜根。我想要牢固的根而不腐烂。",
+        "在你同意之前，先听听所有的内容。我有一份平淡的工作，却有一份有用的成果。找到 16 个甜菜根。",
+        "仅当您准备好时才接受任务。如果您满足甜菜根订单，我们可以延长病房膳食。",
+        "村里有工作给你。空蔬菜箱只是一个小问题，直到每个人都需要同样的东西。",
+        "这是工作。甜菜根石板上的计数为 16 个甜菜根。",
+        "仔细听。收集甜菜根并将整批货物运送到这里。",
+        "让我们清楚地了解这项工作。在食品储藏室里备货并不是荣耀，但很重要。",
+        "我选择你是有原因的。厨师们让我为这次跑步找一个可靠的人。",
+        "我把一些重要的事情托付给你。我需要为食品储藏室提供干净的送货服务。",
+        "我选择你是有原因的。如果你有时间的话，16颗甜菜根就可以解决甜菜根短缺的问题。",
+        "仅当您准备好时才接受任务。需求是真实的，这使得 一捆甜菜根 的说明变得简单。",
+        "这是工作。完成计数后，带上甜菜根。",
+        "这是工作。好的甜菜根可以让我们填满炖锅和腌渍罐。",
+        "仔细听。在我们采取行动之前，村里不应该出现空菜箱。",
+        "让我们清楚地了解这项工作。小心一捆甜菜根。我们需要牢固的根而不腐烂。",
+        "这是工作。当食品储藏室收到完整订单时我将付款。",
+        "这需要小心谨慎。找到 16 个甜菜根，我们就可以暂时不再担心这个问题了。"
+      ]
+    },
+    "quest.village_supply.beetroot_bundle.dialogue.turn_in": {
+      "lines": [
+        "我很高兴见到你回家。好的。锅里的一点红色让难吃的饭菜感觉有计划。",
+        "这就是我需要的结果。计数是对的。我会把这些拿到食品储藏室。",
+        "你已经看透了。厨师们现在可以装满炖锅和腌菜罐了。",
+        "我很高兴见到你回家。这些都是坚固的根，没有腐烂。你选得不错。",
+        "您准确地交付了所需的内容。这次送货让我们免遭空蔬菜箱的困扰。",
+        "这将会带来真正的改变。干得好。所有的甜菜根一起到达。",
+        "很好，你回来了。我有你的甜菜根，你获得了甜菜根捆绑包奖励。",
+        "这次回归值得等待。食品储藏室看起来已经不那么光秃秃了。",
+        "村里可以用这个。这将帮助我们延长病房膳食的时间。",
+        "这解决了我对你的要求。你让厨师们免于用残羹剩饭凑合。",
+        "很好，你回来了。甜菜根石板上的所有内容都在这里。",
+        "你已经看透了。一项有用的甜菜根工作，毫不费力地完成。谢谢。",
+        "村里可以用这个。在有人借用甜菜根之前我会把它们收起来。",
+        "这将会带来真正的改变。由于您完成了甜菜根捆绑包，村庄里的库存更加充足。",
+        "这次回归值得等待。你带来的正是我要的甜菜根。",
+        "村里可以用这个。甜菜根的输送从上到下都是良好的。",
+        "这将会带来真正的改变。食品储藏室少了一件等待我们惊喜的短缺。",
+        "这解决了我对你的要求。村庄可能不会为甜菜根欢呼，但会注意到它们的缺席。",
+        "很好，你回来了。接受你的付款。甜菜根的数量让我没有任何抱怨。",
+        "困难的部分已经过去了。我可以放心地将甜菜根订单交给厨师。"
+      ]
+    },
+    "quest.village_supply.beetroot_bundle.dialogue.unavailable": {
+      "lines": [
+        "您还没有准备好接受此请求。甜菜根请求暂时关闭。",
+        "赢得更多信任后再回来。我还无法将甜菜根捆绑包下提交的工作交给您。",
+        "我不会把这个负担加在你身上。甜菜根订单是为食品储藏室已经认识的人准备的。",
+        "今天这项工作不是你的。厨师们需要值得信赖的送货服务。",
+        "今天这项工作不是你的。在拿走甜菜根包之前，让村里的人更加稳定地工作。",
+        "有些工作必须等到信任赶上来才可以。甜菜根太重要了，不能把赌注押在陌生人身上。",
+        "我首先需要证明你的判断力。我今天不会向你打开甜菜根石板。",
+        "在再次询问之前先赢得我们的信任。建立一些信任，然后再次询问甜菜根捆绑包。",
+        "您还没有准备好接受此请求。我需要一个能带着全部 16 个甜菜根回来的人。",
+        "有些工作必须等到信任赶上来才可以。采集甜菜根很简单，但可靠性不是可有可无的。",
+        "这个村庄需要更稳定的手。目前，甜菜根订单仍由普通人手中。",
+        "我不会把这个负担加在你身上。我还不能向食品储藏室保证你会送货。",
+        "我不会把这个负担加在你身上。在我们将食品储藏室托付给您之前，还有其他工作要做。",
+        "在再次询问之前先赢得我们的信任。村里还没有允许你参加这次甜菜根跑步活动。",
+        "您还没有准备好接受此请求。我宁愿等待，也不愿冒空蔬菜箱的风险。",
+        "今天这项工作不是你的。这不是惩罚。在我打开甜菜根捆绑包之前表现出更好的判断力。",
+        "我不会把这个负担加在你身上。这次厨师们要了一个熟悉的跑步者。",
+        "我不会把这个负担加在你身上。等你的名字更有分量后再来点甜菜根吧。",
+        "有些工作必须等到信任赶上来才可以。我不会为甜菜根捆绑包提供新的帮助。",
+        "我首先需要证明你的判断力。在这里赢得一些信心，我们可以重新审视甜菜根捆绑包。"
+      ]
+    },
+    "quest.village_supply.beetroot_bundle.objective.bring_beetroot.complete_text": {
+      "lines": [
+        "甜菜根捆扎好并准备就绪。"
+      ]
+    },
+    "quest.village_supply.beetroot_bundle.objective.bring_beetroot.text": {
+      "lines": [
+        "为食品储藏室带来 16 个甜菜根。"
+      ]
+    },
+    "quest.village_supply.beetroot_bundle.stage.return.dialogue.turn_in.label": "关于甜菜根捆绑包",
+    "quest.village_supply.beetroot_bundle.stage.return.dialogue.turn_in.lines": [
+      "善根。厨师可以装满碗，而不是找借口。",
+      "计数是对的，没有一个会闲置太久。",
+      "在我关闭笔记之前让我看看完整的作品。"
+    ],
+    "quest.village_supply.beetroot_bundle.stage.return.dialogue.turn_in.response.complete.label": "交出工作。",
+    "quest.village_supply.beetroot_bundle.stage.return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.village_supply.beetroot_bundle.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "善根。厨师可以装满碗，而不是找借口。",
+      "计数是对的，没有一个会闲置太久。",
+      "这样就解决了。村里一定会好好利用这一点。"
+    ],
+    "quest.village_supply.beetroot_bundle.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "仍然缺少一些东西。在我关闭笔记之前检查日记。",
+      "完整的工作尚未准备好进行计算。"
+    ],
+    "quest.village_supply.beetroot_bundle.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "在我们解决这个问题之前，请带上证据。",
+      "我需要在这里提交完整的内容，而不仅仅是故事。"
+    ],
+    "quest.village_supply.beetroot_bundle.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "原料 背后需要一个真正的目的地。",
+      "在我们称之为完成之前到达标记的地方。"
+    ],
+    "quest.village_supply.beetroot_bundle.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "甜菜根捆绑包目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_supply.beetroot_bundle.stage.return.scene.turn_in_wait.lines": [
+      "为村里的厨房带来 16 个甜菜根",
+      "当工作准备好时再回来。"
+    ],
+    "quest.village_supply.beetroot_bundle.stage.return.ui.tracker_text": "返回任务给予者。",
+    "quest.village_supply.beetroot_bundle.stage.work.dialogue.offer.label": "一捆甜菜根",
+    "quest.village_supply.beetroot_bundle.stage.work.dialogue.offer.lines": [
+      "炖锅只有底部是红色的，这是一种很差的炖菜。",
+      "为村里的厨房带 16 个甜菜根，这样货架上的烦恼就会少一些。",
+      "为村里的厨房带 16 个甜菜根。我会让回报值得付出的努力。"
+    ],
+    "quest.village_supply.beetroot_bundle.stage.work.dialogue.offer.response.accept.label": "我能做到。",
+    "quest.village_supply.beetroot_bundle.stage.work.dialogue.offer.response.decline.label": "现在不行。",
+    "quest.village_supply.beetroot_bundle.stage.work.dialogue.reminder.label": "关于甜菜根捆绑包",
+    "quest.village_supply.beetroot_bundle.stage.work.dialogue.reminder.lines": [
+      "为村里的厨房带来 16 个甜菜根",
+      "为村里的厨房带 16 个甜菜根。",
+      "为村里的厨房带 16 个甜菜根，这样货架上的烦恼就会少一些。"
+    ],
+    "quest.village_supply.beetroot_bundle.stage.work.dialogue.reminder.response.abandon.label": "把这个放在一边。",
+    "quest.village_supply.beetroot_bundle.stage.work.dialogue.reminder.response.details.label": "重复该工作。",
+    "quest.village_supply.beetroot_bundle.stage.work.dialogue.reminder.response.leave.label": "我有。",
+    "quest.village_supply.beetroot_bundle.stage.work.scene.abandon_confirm.lines": [
+      "把一捆甜菜根放在一边？",
+      "如果你确定的话我可以把你的名字从工作中删除。"
+    ],
+    "quest.village_supply.beetroot_bundle.stage.work.scene.abandon_confirm.response.cancel.label": "保持打开状态。",
+    "quest.village_supply.beetroot_bundle.stage.work.scene.abandon_confirm.response.confirm.label": "把它放在一边。",
+    "quest.village_supply.beetroot_bundle.stage.work.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "好的。我会从工作中清除你的名字。",
+      "便条收起来了。你可以稍后再问。"
+    ],
+    "quest.village_supply.beetroot_bundle.stage.work.scene.abandon_quest.action.abandon.lines.abandoned_cooldown": [
+      "我会把这张纸条先搁置一段时间，然后再重新发布。",
+      "在你再次提出要求之前，先让工作休息一下。"
+    ],
+    "quest.village_supply.beetroot_bundle.stage.work.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "甜菜根捆绑包目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_supply.beetroot_bundle.stage.work.scene.decline.lines": [
+      "好的。空架子会以自己的方式不断询问。",
+      "另一双手可能会接住它，或者您可以稍后再问。"
+    ],
+    "quest.village_supply.beetroot_bundle.stage.work.scene.leave.lines": [
+      "为村里的厨房带来 16 个甜菜根",
+      "当工作准备好时再回来。"
+    ],
+    "quest.village_supply.beetroot_bundle.stage.work.scene.reminder_details.action.remind.lines.reminder": [
+      "为村里的厨房带来 16 个甜菜根",
+      "为村里的厨房带 16 个甜菜根。",
+      "为村里的厨房带 16 个甜菜根，这样货架上的烦恼就会少一些。"
+    ],
+    "quest.village_supply.beetroot_bundle.stage.work.scene.reminder_details.action.remind.lines.unavailable": [
+      "甜菜根捆绑包目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_supply.beetroot_bundle.stage.work.scene.start_quest.action.start.lines.already_completed": [
+      "甜菜根捆绑包目前已经确定。",
+      "这项工作已经被计算在内。"
+    ],
+    "quest.village_supply.beetroot_bundle.stage.work.scene.start_quest.action.start.lines.locate_failed": [
+      "我在这里找不到值得信赖的标记。等道路畅通后再询问。",
+      "今天地图不会确定安全目的地。"
+    ],
+    "quest.village_supply.beetroot_bundle.stage.work.scene.start_quest.action.start.lines.started": [
+      "为村里的厨房带 16 个甜菜根。在返回的路上将完整的计数放在一起。",
+      "为村里的厨房带 16 个甜菜根。",
+      "好的。我会为你带回来的东西保留一个地方。"
+    ],
+    "quest.village_supply.beetroot_bundle.stage.work.scene.start_quest.action.start.lines.unavailable": [
+      "甜菜根捆绑包目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_supply.beetroot_bundle.stage.work.ui.tracker_text": "为村里的厨房带 16 个甜菜根。",
+    "quest.village_supply.beetroot_bundle.title": {
+      "lines": [
+        "一捆甜菜根"
+      ]
+    },
+    "quest.village_supply.beetroot_bundle.tracker.proof.text": {
+      "lines": [
+        "为食品储藏室带来 16 个甜菜根。"
+      ]
+    },
+    "quest.village_supply.beetroot_bundle.tracker.return.text": {
+      "lines": [
+        "带着甜菜根回到 任务 给予者那里。"
+      ]
+    },
+    "quest.village_supply.beetroot_bundle.tracker.title": {
+      "lines": [
+        "一捆甜菜根"
+      ]
+    }
+  }
+}

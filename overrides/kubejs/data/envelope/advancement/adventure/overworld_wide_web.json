@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "place_mailbox": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "place_mailbox"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

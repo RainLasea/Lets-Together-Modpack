@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "pistols_at_dawn": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "pistols_at_dawn"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

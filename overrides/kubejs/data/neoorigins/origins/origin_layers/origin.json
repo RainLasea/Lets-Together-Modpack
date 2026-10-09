@@ -1,0 +1,11 @@
+{
+  "replace": true,
+  "order": 1,
+  "name": "origins.layer.origin",
+  "origins": [],
+  "allow_random": false,
+  "exclude_random": [],
+  "auto_choose": false,
+  "hidden": true,
+  "enabled": false
+}

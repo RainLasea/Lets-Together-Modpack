@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "broken_atonement": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "broken_atonement"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,38 @@
+{
+  "display": {
+    "icon": {
+      "id": "aeronautics:aviators_goggles"
+    },
+    "title": {
+      "translate": "advancements.letstogether.workshop.goggles.title",
+      "fallback": "Dressed for Takeoff"
+    },
+    "description": {
+      "translate": "advancements.letstogether.workshop.goggles.description",
+      "fallback": "Obtain aviator's goggles."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "0": {
+      "conditions": {
+        "items": [
+          {
+            "items": "aeronautics:aviators_goggles"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:workshop/root"
+}

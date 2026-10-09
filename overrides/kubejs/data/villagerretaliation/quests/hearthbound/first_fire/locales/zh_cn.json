@@ -1,0 +1,72 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.hearthbound.first_fire.description": "帮助厨师为村庄收集第一个共享炉灶 原料。",
+    "quest.hearthbound.first_fire.stage.kindle.dialogue.offer.label": "引火材料",
+    "quest.hearthbound.first_fire.stage.kindle.dialogue.offer.lines": [
+      "一个村庄不会因为一个人吃得好而变得稳定。当有一个人们信任的温暖地方时，它就会变得稳定。",
+      "带上篝火、6块木炭、6个碗和6条煮熟的鳕鱼。这将为第一场火灾提供一个地点和目的。"
+    ],
+    "quest.hearthbound.first_fire.stage.kindle.dialogue.offer.response.accept.label": "我会帮忙设置炉灶。",
+    "quest.hearthbound.first_fire.stage.kindle.dialogue.offer.response.decline.label": "下次吧。",
+    "quest.hearthbound.first_fire.stage.kindle.dialogue.reminder.label": "关于引火材料",
+    "quest.hearthbound.first_fire.stage.kindle.dialogue.reminder.lines": [
+      "第一堆火还需要篝火、木炭、碗和煮熟的鳕鱼。在炉床准备好之前，列表不会改变。"
+    ],
+    "quest.hearthbound.first_fire.stage.kindle.dialogue.reminder.response.details.label": "重复 原料。",
+    "quest.hearthbound.first_fire.stage.kindle.dialogue.reminder.response.leave.label": "我会把它们带来。",
+    "quest.hearthbound.first_fire.stage.kindle.objective.bring_bowls.tracker.complete_text": "碗准备好了。",
+    "quest.hearthbound.first_fire.stage.kindle.objective.bring_bowls.tracker.text": "第一顿共享餐带 6 个碗。",
+    "quest.hearthbound.first_fire.stage.kindle.objective.bring_campfire.tracker.complete_text": "炉灶可以设置。",
+    "quest.hearthbound.first_fire.stage.kindle.objective.bring_campfire.tracker.text": "为共用壁炉带 1 个篝火。",
+    "quest.hearthbound.first_fire.stage.kindle.objective.bring_charcoal.tracker.complete_text": "火有足够的清洁燃料。",
+    "quest.hearthbound.first_fire.stage.kindle.objective.bring_charcoal.tracker.text": "带 6 块木炭，以便第一堆火烧干净。",
+    "quest.hearthbound.first_fire.stage.kindle.objective.bring_cooked_cod.tracker.complete_text": "这顿饭有足够的鱼。",
+    "quest.hearthbound.first_fire.stage.kindle.objective.bring_cooked_cod.tracker.text": "带 6 条煮熟的鳕鱼来填满第一个锅。",
+    "quest.hearthbound.first_fire.stage.kindle.scene.decline.lines": [
+      "很公平。冷锅可以等待，但绝不会善待。"
+    ],
+    "quest.hearthbound.first_fire.stage.kindle.scene.leave.lines": [
+      "保持木炭干燥。潮湿的燃料让每个人都假装没有抱怨。"
+    ],
+    "quest.hearthbound.first_fire.stage.kindle.scene.reminder_details.action.remind.lines.reminder": [
+      "为共用炉灶准备 1 个篝火、6 个木炭、6 个碗和 6 条煮熟的鳕鱼。"
+    ],
+    "quest.hearthbound.first_fire.stage.kindle.scene.reminder_details.action.remind.lines.unavailable": [
+      "我现在没有打开那张炉边纸条。"
+    ],
+    "quest.hearthbound.first_fire.stage.kindle.scene.start_quest.action.start.lines.already_completed": [
+      "第一场大火已经让村庄变暖。"
+    ],
+    "quest.hearthbound.first_fire.stage.kindle.scene.start_quest.action.start.lines.started": [
+      "好的。带1个篝火、6个木炭、6个碗和6条煮熟的鳕鱼。这是这个壁炉的完整列表。"
+    ],
+    "quest.hearthbound.first_fire.stage.kindle.scene.start_quest.action.start.lines.unavailable": [
+      "壁炉现在还没有准备好寻求帮助。"
+    ],
+    "quest.hearthbound.first_fire.stage.kindle.ui.tracker_text": "带1个篝火、6个木炭、6个碗和6条煮熟的鳕鱼。",
+    "quest.hearthbound.first_fire.stage.return.dialogue.turn_in.label": "关于引火材料",
+    "quest.hearthbound.first_fire.stage.return.dialogue.turn_in.lines": [
+      "火、碗和食物。这足以让房间感觉不那么临时。"
+    ],
+    "quest.hearthbound.first_fire.stage.return.dialogue.turn_in.response.complete.label": "设置炉灶。",
+    "quest.hearthbound.first_fire.stage.return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.hearthbound.first_fire.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "那里。第一场火灾目前还不太引人注目，但人们会比他们承认的更接近它。"
+    ],
+    "quest.hearthbound.first_fire.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "在我们引火材料壁炉之前，壁炉还需要篝火、木炭、碗或煮熟的鱼。"
+    ],
+    "quest.hearthbound.first_fire.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "在我们放下任何东西之前，把壁炉 原料 带到这里。"
+    ],
+    "quest.hearthbound.first_fire.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "我现在无法关闭炉边音符。"
+    ],
+    "quest.hearthbound.first_fire.stage.return.scene.leave.lines": [
+      "将所有内容放在一起。散落的舒适依然散落。"
+    ],
+    "quest.hearthbound.first_fire.stage.return.ui.tracker_text": "带着壁炉 原料 返回。",
+    "quest.hearthbound.first_fire.title": "引火材料"
+  }
+}

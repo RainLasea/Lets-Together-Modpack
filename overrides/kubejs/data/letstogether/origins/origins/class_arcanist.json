@@ -1,0 +1,16 @@
+{
+  "name": "origins.letstogether.class_arcanist.name",
+  "description": "origins.letstogether.class_arcanist.description",
+  "icon": "minecraft:amethyst_shard",
+  "impact": "low",
+  "order": 3,
+  "powers": [
+    "letstogether:class_arcanist_mana",
+    "letstogether:class_arcanist_power",
+    "letstogether:class_arcanist_regen"
+  ],
+  "upgrades": [],
+  "required_mods": [
+    "irons_spellbooks"
+  ]
+}

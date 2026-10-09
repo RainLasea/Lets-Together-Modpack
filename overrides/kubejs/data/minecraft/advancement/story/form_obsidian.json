@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "obsidian": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "obsidian"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

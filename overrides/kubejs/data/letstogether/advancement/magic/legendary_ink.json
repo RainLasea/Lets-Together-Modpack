@@ -1,0 +1,40 @@
+{
+  "display": {
+    "icon": {
+      "id": "irons_spellbooks:legendary_ink"
+    },
+    "title": {
+      "translate": "advancements.letstogether.magic.legendary_ink.title",
+      "fallback": "Use It Sparingly"
+    },
+    "description": {
+      "translate": "advancements.letstogether.magic.legendary_ink.description",
+      "fallback": "Obtain legendary ink."
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "requirement": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "irons_spellbooks:legendary_ink"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "requirement"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:magic/ink"
+}

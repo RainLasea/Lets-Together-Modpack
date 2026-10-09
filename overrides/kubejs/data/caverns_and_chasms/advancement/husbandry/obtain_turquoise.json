@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "turquoise": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "turquoise"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

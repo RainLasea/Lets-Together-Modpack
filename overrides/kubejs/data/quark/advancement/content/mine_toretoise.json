@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "mine_toretoise": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "mine_toretoise"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,8 @@
+{
+  "entity_types": [
+    "minecraft:player"
+  ],
+  "powers": [
+    "letstogether:class_disable_parry"
+  ]
+}

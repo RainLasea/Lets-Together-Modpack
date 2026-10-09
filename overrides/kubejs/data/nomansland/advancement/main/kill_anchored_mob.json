@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "kill_mob_near_sculk_catalyst": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "kill_mob_near_sculk_catalyst"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

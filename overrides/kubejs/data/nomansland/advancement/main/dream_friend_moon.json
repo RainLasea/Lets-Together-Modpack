@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "dream_friend_moon_trigger": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "dream_friend_moon_trigger"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

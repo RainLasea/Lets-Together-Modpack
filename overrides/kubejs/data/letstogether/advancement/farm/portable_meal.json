@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "id": "farmersdelight:skillet"
+    },
+    "title": {
+      "translate": "advancements.letstogether.farm.portable_meal.title",
+      "fallback": "Meals on the Move"
+    },
+    "description": {
+      "translate": "advancements.letstogether.farm.portable_meal.description",
+      "fallback": "Eat food cooked with a handheld skillet."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "skillet": {
+      "conditions": {
+        "item": {
+          "items": "farmersdelight:skillet"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    }
+  },
+  "requirements": [
+    [
+      "skillet"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:farm/skillet"
+}

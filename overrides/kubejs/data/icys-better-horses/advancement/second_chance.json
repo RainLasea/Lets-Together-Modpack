@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "second_chance": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "second_chance"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

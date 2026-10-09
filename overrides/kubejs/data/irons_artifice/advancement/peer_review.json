@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "peer_review": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "peer_review"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,115 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.cartographers_atlas.first_far_marker.description": {
+      "lines": [
+        "沿着第一个地图集标记前往踪迹废墟，并为 路线 镀上铜。"
+      ]
+    },
+    "quest.cartographers_atlas.first_far_marker.event.roads_principle_kit.action.notification.text": "行车原理：第一次探险增加了指南针和铁路线套件。",
+    "quest.cartographers_atlas.first_far_marker.event.wonders_principle_kit.action.notification.text": "奇迹原理：第一次探险增加了望远镜和紫水晶调查套件。",
+    "quest.cartographers_atlas.first_far_marker.stage.return.dialogue.reminder.label": "关于第一远标记",
+    "quest.cartographers_atlas.first_far_marker.stage.return.dialogue.reminder.lines": [
+      "{target_x}、{target_z} 附近的小径遗迹。带上刷子和铜，这样地图集就可以停止猜测。"
+    ],
+    "quest.cartographers_atlas.first_far_marker.stage.return.dialogue.reminder.response.details.label": "提醒我在哪里",
+    "quest.cartographers_atlas.first_far_marker.stage.return.dialogue.reminder.response.leave.label": "算了",
+    "quest.cartographers_atlas.first_far_marker.stage.return.dialogue.turn_in.label": "关于第一远标记",
+    "quest.cartographers_atlas.first_far_marker.stage.return.dialogue.turn_in.lines": [
+      "你达到了旧的目标吗？然后告诉我道路留下了什么。"
+    ],
+    "quest.cartographers_atlas.first_far_marker.stage.return.dialogue.turn_in.response.complete.label": "交出现场笔记",
+    "quest.cartographers_atlas.first_far_marker.stage.return.dialogue.turn_in.response.leave.label": "还没有",
+    "quest.cartographers_atlas.first_far_marker.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "第一个远方路标已着墨。现在，地图集有证据表明其道路接触到了真正的灰尘。"
+    ],
+    "quest.cartographers_atlas.first_far_marker.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "路线 仍然需要参观过的废墟、准备好的画笔和铜标记板。"
+    ],
+    "quest.cartographers_atlas.first_far_marker.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "在我标记 路线 之前，请携带刷子并带上铜。"
+    ],
+    "quest.cartographers_atlas.first_far_marker.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "首先到达小道遗迹。没有灰尘的刷子只是一个工具。"
+    ],
+    "quest.cartographers_atlas.first_far_marker.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "在我关闭它之前，这个标记仍然需要它的现场证明。"
+    ],
+    "quest.cartographers_atlas.first_far_marker.stage.return.scene.leave.lines": [
+      "注意边距。"
+    ],
+    "quest.cartographers_atlas.first_far_marker.stage.return.scene.reminder_details.action.remind.lines.reminder": [
+      "{target_x}、{target_z} 附近的小径遗迹，大约 {distance} 区块 {direction}。到达废墟，携带刷子，并带来8个铜锭。"
+    ],
+    "quest.cartographers_atlas.first_far_marker.stage.return.scene.reminder_details.action.remind.lines.unavailable": [
+      "我现在没有为您打开该标记。"
+    ],
+    "quest.cartographers_atlas.first_far_marker.stage.return.ui.tracker_text": "将田野笔记和铜片返回给制图师。",
+    "quest.cartographers_atlas.first_far_marker.stage.survey.dialogue.offer.label": "第一个远方路标",
+    "quest.cartographers_atlas.first_far_marker.stage.survey.dialogue.offer.lines": [
+      "第一对开本在墨水下发现了一条古老的道路。如果表格内容正确，则为小径废墟。",
+      "到达废墟，携带刷子，并带上用于标记板的铜。地图集必须认识到旅行不仅仅是一条直线。"
+    ],
+    "quest.cartographers_atlas.first_far_marker.stage.survey.dialogue.offer.response.accept.label": "标记路线",
+    "quest.cartographers_atlas.first_far_marker.stage.survey.dialogue.offer.response.decline.label": "另一次",
+    "quest.cartographers_atlas.first_far_marker.stage.survey.dialogue.reminder.label": "关于第一远标记",
+    "quest.cartographers_atlas.first_far_marker.stage.survey.dialogue.reminder.lines": [
+      "第一个标记仍在田野中等待。"
+    ],
+    "quest.cartographers_atlas.first_far_marker.stage.survey.dialogue.reminder.response.abandon.label": "放弃任务",
+    "quest.cartographers_atlas.first_far_marker.stage.survey.dialogue.reminder.response.details.label": "提醒我在哪里",
+    "quest.cartographers_atlas.first_far_marker.stage.survey.dialogue.reminder.response.leave.label": "算了",
+    "quest.cartographers_atlas.first_far_marker.stage.survey.objective.bring_copper.tracker.complete_text": "铜标记板已准备就绪。",
+    "quest.cartographers_atlas.first_far_marker.stage.survey.objective.bring_copper.tracker.text": "带8块铜锭来制作标记板。",
+    "quest.cartographers_atlas.first_far_marker.stage.survey.objective.carry_brush.tracker.complete_text": "准备好一支笔，用于现场笔记。",
+    "quest.cartographers_atlas.first_far_marker.stage.survey.objective.carry_brush.tracker.text": "携带一把刷子，这样就可以在不破坏废墟的情况下阅读它们。",
+    "quest.cartographers_atlas.first_far_marker.stage.survey.objective.visit_ruins.tracker.complete_text": "第一个远方路标已被访问。",
+    "quest.cartographers_atlas.first_far_marker.stage.survey.objective.visit_ruins.tracker.text": "到达 {target_x}、{target_z} 附近的小径遗迹。",
+    "quest.cartographers_atlas.first_far_marker.stage.survey.scene.abandon_confirm.lines": [
+      "折叠第一个远方路标？"
+    ],
+    "quest.cartographers_atlas.first_far_marker.stage.survey.scene.abandon_confirm.response.cancel.label": "保留任务",
+    "quest.cartographers_atlas.first_far_marker.stage.survey.scene.abandon_confirm.response.confirm.label": "放弃任务",
+    "quest.cartographers_atlas.first_far_marker.stage.survey.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "我现在将把记号笔折叠起来。"
+    ],
+    "quest.cartographers_atlas.first_far_marker.stage.survey.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "路线 没有可折叠的标记。"
+    ],
+    "quest.cartographers_atlas.first_far_marker.stage.survey.scene.decline.lines": [
+      "老路有耐心。通常。"
+    ],
+    "quest.cartographers_atlas.first_far_marker.stage.survey.scene.leave.lines": [
+      "注意边距。"
+    ],
+    "quest.cartographers_atlas.first_far_marker.stage.survey.scene.reminder_details.action.remind.lines.reminder": [
+      "{target_x}、{target_z} 附近的小径遗迹，大约 {distance} 区块 {direction}。到达废墟，携带刷子，并带来8个铜锭。"
+    ],
+    "quest.cartographers_atlas.first_far_marker.stage.survey.scene.reminder_details.action.remind.lines.unavailable": [
+      "我现在没有为您打开该标记。"
+    ],
+    "quest.cartographers_atlas.first_far_marker.stage.survey.scene.start_quest.action.start.lines.already_completed": [
+      "第一个远方路标已经着墨。"
+    ],
+    "quest.cartographers_atlas.first_far_marker.stage.survey.scene.start_quest.action.start.lines.locate_failed": [
+      "今天，旧的道路不会再搁置在桌面上。"
+    ],
+    "quest.cartographers_atlas.first_far_marker.stage.survey.scene.start_quest.action.start.lines.started": [
+      "废墟位于 {distance} 区块 {direction} 附近，靠近 {target_x}、{target_z}。找到他们，拿起刷子，带回 8 个铜锭。"
+    ],
+    "quest.cartographers_atlas.first_far_marker.stage.survey.scene.start_quest.action.start.lines.unavailable": [
+      "在标记有意义之前，地图集需要纸张和方位。"
+    ],
+    "quest.cartographers_atlas.first_far_marker.stage.survey.ui.tracker_text": "到达 {target_x}、{target_z} 附近的小径遗迹。",
+    "quest.cartographers_atlas.first_far_marker.title": {
+      "lines": [
+        "第一个远方路标"
+      ]
+    },
+    "quest.cartographers_atlas.first_far_marker.tracker.title": {
+      "lines": [
+        "第一个远方路标"
+      ]
+    }
+  }
+}

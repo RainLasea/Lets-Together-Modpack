@@ -1,0 +1,134 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.cartographers_atlas.the_atlas_test.description": {
+      "lines": [
+        "选择更安全的补给路线或风险更高的战斗路线来证明地图集可以指导真正的决策。"
+      ]
+    },
+    "quest.cartographers_atlas.the_atlas_test.scene.atlas_risky_patrol.metadata.title": "地图册的危险巡查",
+    "quest.cartographers_atlas.the_atlas_test.scene.atlas_risky_patrol.step.patrol_cleared.data.text": "那是巡逻队。保留一把他们的十字弓，危险的 路线 就有证据了。",
+    "quest.cartographers_atlas.the_atlas_test.scene.atlas_risky_patrol.step.patrol_warning.data.text": "危险的道路已经给出了答案。一支掠夺者巡逻队正在这张地图上移动。",
+    "quest.cartographers_atlas.the_atlas_test.stage.choose_test.dialogue.offer.label": "地图册的考验",
+    "quest.cartographers_atlas.the_atlas_test.stage.choose_test.dialogue.offer.lines": [
+      "该地图集有页面、标记和内存。现在需要判断。",
+      "选择永久测试路线：安全要求四个灯笼和八个面包；冒险开始了三掠夺者伏击，并保证获得具有更大战斗加值的十字弓物品。"
+    ],
+    "quest.cartographers_atlas.the_atlas_test.stage.choose_test.dialogue.offer.response.decline.label": "另一次",
+    "quest.cartographers_atlas.the_atlas_test.stage.choose_test.dialogue.offer.response.risky.action.notification.text": "您选择了有风险的图集测试。击败巡逻队并带回十字弓。",
+    "quest.cartographers_atlas.the_atlas_test.stage.choose_test.dialogue.offer.response.risky.label": "走危险的路",
+    "quest.cartographers_atlas.the_atlas_test.stage.choose_test.dialogue.offer.response.risky.text": "这是一条危险的路。回来时要证明危险是真实存在的，而不仅仅是在温暖的房间里想象出来的。",
+    "quest.cartographers_atlas.the_atlas_test.stage.choose_test.dialogue.offer.response.safe.action.notification.text": "您选择了更安全的 地图册 测试。带上灯笼和面包作为公路装备。",
+    "quest.cartographers_atlas.the_atlas_test.stage.choose_test.dialogue.offer.response.safe.label": "走更安全的路",
+    "quest.cartographers_atlas.the_atlas_test.stage.choose_test.dialogue.offer.response.safe.text": "很好。更安全的道路并不是更弱的考验；而是更安全的道路。它只是问地图集能否让人们有饭吃和照明。",
+    "quest.cartographers_atlas.the_atlas_test.stage.choose_test.dialogue.reminder.label": "关于地图册测试",
+    "quest.cartographers_atlas.the_atlas_test.stage.choose_test.dialogue.reminder.lines": [
+      "该测试选择是永久性的。安全是供应交接；危险的是直接三掠夺者伏击，有保证的十字弓和更大的奖金。"
+    ],
+    "quest.cartographers_atlas.the_atlas_test.stage.choose_test.dialogue.reminder.response.details.label": "重复测试",
+    "quest.cartographers_atlas.the_atlas_test.stage.choose_test.dialogue.reminder.response.leave.label": "我会选择",
+    "quest.cartographers_atlas.the_atlas_test.stage.choose_test.objective.choose_test_route.tracker.complete_text": "您选择了 {objective_choice_value} 图集测试。",
+    "quest.cartographers_atlas.the_atlas_test.stage.choose_test.objective.choose_test_route.tracker.text": "与制图师一起选择地图集测试路线。",
+    "quest.cartographers_atlas.the_atlas_test.stage.choose_test.scene.decline.lines": [
+      "然后图集会继续研究而不是做出决定。"
+    ],
+    "quest.cartographers_atlas.the_atlas_test.stage.choose_test.scene.leave.lines": [
+      "仅当您诚实地选择时，测试才有用。"
+    ],
+    "quest.cartographers_atlas.the_atlas_test.stage.choose_test.scene.reminder_details.action.remind.lines.reminder": [
+      "这个选择是永久性的：保险箱需要四个灯笼和八个面包；冒险发射三名掠夺者，保证证明弩，并支付较大的奖金。"
+    ],
+    "quest.cartographers_atlas.the_atlas_test.stage.choose_test.scene.reminder_details.action.remind.lines.unavailable": [
+      "我们现在不进行该测试。"
+    ],
+    "quest.cartographers_atlas.the_atlas_test.stage.choose_test.ui.tracker_text": "选择更安全或风险更高的 地图册 测试路线。",
+    "quest.cartographers_atlas.the_atlas_test.stage.risky_patrol.dialogue.reminder.label": "关于地图册测试",
+    "quest.cartographers_atlas.the_atlas_test.stage.risky_patrol.dialogue.reminder.lines": [
+      "危险的道路需要证据证明危险不仅仅是从安全表上猜测出来的。"
+    ],
+    "quest.cartographers_atlas.the_atlas_test.stage.risky_patrol.dialogue.reminder.response.details.label": "重复巡逻",
+    "quest.cartographers_atlas.the_atlas_test.stage.risky_patrol.dialogue.reminder.response.leave.label": "算了",
+    "quest.cartographers_atlas.the_atlas_test.stage.risky_patrol.objective.bring_crossbow.tracker.complete_text": "巡逻证明已准备好。",
+    "quest.cartographers_atlas.the_atlas_test.stage.risky_patrol.objective.bring_crossbow.tracker.text": "携带 1 个十字弓作为危险巡逻的证明。",
+    "quest.cartographers_atlas.the_atlas_test.stage.risky_patrol.objective.kill_pillagers.tracker.complete_text": "危险的道路已被保卫。",
+    "quest.cartographers_atlas.the_atlas_test.stage.risky_patrol.objective.kill_pillagers.tracker.text": "击败 3 名掠夺者，证明危险的道路是可以防守的。",
+    "quest.cartographers_atlas.the_atlas_test.stage.risky_patrol.scene.leave.lines": [
+      "除非有人带着账户回来，否则风险就不是勇气。"
+    ],
+    "quest.cartographers_atlas.the_atlas_test.stage.risky_patrol.scene.reminder_details.action.remind.lines.reminder": [
+      "击败 3 名掠夺者并携带十字弓作为危险路线测试的证明。"
+    ],
+    "quest.cartographers_atlas.the_atlas_test.stage.risky_patrol.scene.reminder_details.action.remind.lines.unavailable": [
+      "我们现在不进行该测试。"
+    ],
+    "quest.cartographers_atlas.the_atlas_test.stage.risky_patrol.ui.tracker_text": "击败 3 名掠夺者并携带十字弓进行危险路线测试。",
+    "quest.cartographers_atlas.the_atlas_test.stage.risky_return.dialogue.turn_in.label": "关于地图册测试",
+    "quest.cartographers_atlas.the_atlas_test.stage.risky_return.dialogue.turn_in.lines": [
+      "你选择了更危险的道路，并带着证据回来了。这是地图集无法伪造的部分。"
+    ],
+    "quest.cartographers_atlas.the_atlas_test.stage.risky_return.dialogue.turn_in.response.complete.label": "完成危险测试",
+    "quest.cartographers_atlas.the_atlas_test.stage.risky_return.dialogue.turn_in.response.leave.label": "还没有",
+    "quest.cartographers_atlas.the_atlas_test.stage.risky_return.scene.complete_risky.action.turn_in.lines.completed": [
+      "通过了风险较高的测试。地图册现在知道危险可以在不被崇拜的情况下被衡量。"
+    ],
+    "quest.cartographers_atlas.the_atlas_test.stage.risky_return.scene.complete_risky.action.turn_in.lines.missing_objectives": [
+      "冒险巡逻还需要证据。"
+    ],
+    "quest.cartographers_atlas.the_atlas_test.stage.risky_return.scene.complete_risky.action.turn_in.lines.unavailable": [
+      "在我们通过之前我还需要巡逻证明。"
+    ],
+    "quest.cartographers_atlas.the_atlas_test.stage.risky_return.scene.leave.lines": [
+      "当道路准备就绪时，请携带证明。"
+    ],
+    "quest.cartographers_atlas.the_atlas_test.stage.risky_return.ui.tracker_text": "危险巡逻结束后返回制图师处。",
+    "quest.cartographers_atlas.the_atlas_test.stage.safe_return.dialogue.turn_in.label": "关于地图册测试",
+    "quest.cartographers_atlas.the_atlas_test.stage.safe_return.dialogue.turn_in.lines": [
+      "一条有光和食物的安全道路。这并不迷人，但这就是它有用的原因。"
+    ],
+    "quest.cartographers_atlas.the_atlas_test.stage.safe_return.dialogue.turn_in.response.complete.label": "完成更安全的测试",
+    "quest.cartographers_atlas.the_atlas_test.stage.safe_return.dialogue.turn_in.response.leave.label": "还没有",
+    "quest.cartographers_atlas.the_atlas_test.stage.safe_return.scene.complete_safe.action.turn_in.lines.completed": [
+      "通过了更安全的测试。地图册现在知道，怜悯也是一条路。"
+    ],
+    "quest.cartographers_atlas.the_atlas_test.stage.safe_return.scene.complete_safe.action.turn_in.lines.missing_objectives": [
+      "安全道路套件仍然缺失。"
+    ],
+    "quest.cartographers_atlas.the_atlas_test.stage.safe_return.scene.complete_safe.action.turn_in.lines.unavailable": [
+      "在我们通过之前，我仍然需要更安全的公路套件。"
+    ],
+    "quest.cartographers_atlas.the_atlas_test.stage.safe_return.scene.leave.lines": [
+      "当道路准备就绪时，带上该套件。"
+    ],
+    "quest.cartographers_atlas.the_atlas_test.stage.safe_return.ui.tracker_text": "带着更安全的道路套件返回制图师。",
+    "quest.cartographers_atlas.the_atlas_test.stage.safe_supplies.dialogue.reminder.label": "关于地图册测试",
+    "quest.cartographers_atlas.the_atlas_test.stage.safe_supplies.dialogue.reminder.lines": [
+      "安全的道路仍然需要证据。带上灯笼和面包，旅行者只有在丢失时才会注意到这些东西。"
+    ],
+    "quest.cartographers_atlas.the_atlas_test.stage.safe_supplies.dialogue.reminder.response.details.label": "重复套件",
+    "quest.cartographers_atlas.the_atlas_test.stage.safe_supplies.dialogue.reminder.response.leave.label": "算了",
+    "quest.cartographers_atlas.the_atlas_test.stage.safe_supplies.objective.bring_bread.tracker.complete_text": "食物包已经准备好了。",
+    "quest.cartographers_atlas.the_atlas_test.stage.safe_supplies.objective.bring_bread.tracker.text": "带 8 个面包作为更安全的公路装备。",
+    "quest.cartographers_atlas.the_atlas_test.stage.safe_supplies.objective.bring_lanterns.tracker.complete_text": "灯笼准备好了。",
+    "quest.cartographers_atlas.the_atlas_test.stage.safe_supplies.objective.bring_lanterns.tracker.text": "带 4 个灯笼来照亮可重复的道路。",
+    "quest.cartographers_atlas.the_atlas_test.stage.safe_supplies.scene.leave.lines": [
+      "更安全的道路仍然值得尊重。"
+    ],
+    "quest.cartographers_atlas.the_atlas_test.stage.safe_supplies.scene.reminder_details.action.remind.lines.reminder": [
+      "带上4个灯笼和8个面包，以便更安全的路线测试。"
+    ],
+    "quest.cartographers_atlas.the_atlas_test.stage.safe_supplies.scene.reminder_details.action.remind.lines.unavailable": [
+      "我们现在不进行该测试。"
+    ],
+    "quest.cartographers_atlas.the_atlas_test.stage.safe_supplies.ui.tracker_text": "带上4个灯笼和8个面包，以便更安全的路线测试。",
+    "quest.cartographers_atlas.the_atlas_test.title": {
+      "lines": [
+        "地图册的考验"
+      ]
+    },
+    "quest.cartographers_atlas.the_atlas_test.tracker.title": {
+      "lines": [
+        "地图册的考验"
+      ]
+    }
+  }
+}

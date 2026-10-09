@@ -1,0 +1,113 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.nether_routes.fortress_line.description": "确保要塞分支免受枯萎骷髅巡逻队的侵害。",
+    "quest.nether_routes.fortress_line.stage.return.dialogue.turn_in.label": "关于黑石桥梁酒店",
+    "quest.nether_routes.fortress_line.stage.return.dialogue.turn_in.lines": [
+      "堡垒线有标记，备有物资，而且比我们发现的要安静。",
+      "一条穿过火焰和黑色骸骨的道路现在通向村庄。",
+      "在我关闭笔记之前让我看看完整的作品。"
+    ],
+    "quest.nether_routes.fortress_line.stage.return.dialogue.turn_in.response.complete.label": "交出工作。",
+    "quest.nether_routes.fortress_line.stage.return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.nether_routes.fortress_line.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "堡垒线有标记，备有物资，而且比我们发现的要安静。",
+      "一条穿过火焰和黑色骸骨的道路现在通向村庄。"
+    ],
+    "quest.nether_routes.fortress_line.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "完整的工作尚未准备好进行计算。"
+    ],
+    "quest.nether_routes.fortress_line.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "在我们解决这个问题之前，请带上证据。",
+      "我需要在这里提交完整的内容，而不仅仅是故事。"
+    ],
+    "quest.nether_routes.fortress_line.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "原料 背后需要一个真正的目的地。",
+      "在我们称之为完成之前到达标记的地方。"
+    ],
+    "quest.nether_routes.fortress_line.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "黑石桥梁目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.nether_routes.fortress_line.stage.return.scene.turn_in_wait.lines": [
+      "五具凋灵骷髅，三十二块砖块，十六颗地狱疣。",
+      "当工作准备好时再回来。"
+    ],
+    "quest.nether_routes.fortress_line.stage.return.ui.tracker_text": "返回任务给予者。",
+    "quest.nether_routes.fortress_line.stage.work.dialogue.offer.label": "黑石桥梁",
+    "quest.nether_routes.fortress_line.stage.work.dialogue.offer.lines": [
+      "要塞的方位是真实的，但枯萎骷髅也发现了同样的桥梁。",
+      "清除巡逻队并用堡垒自己的黑砖建造标记。",
+      "击败 5 个凋零骷髅并带来 32 块下界砖和 16 颗下界疣。"
+    ],
+    "quest.nether_routes.fortress_line.stage.work.dialogue.offer.response.accept.label": "我能做到。",
+    "quest.nether_routes.fortress_line.stage.work.dialogue.offer.response.decline.label": "现在不行。",
+    "quest.nether_routes.fortress_line.stage.work.dialogue.reminder.label": "关于黑石桥梁酒店",
+    "quest.nether_routes.fortress_line.stage.work.dialogue.reminder.lines": [
+      "五具凋灵骷髅，三十二块砖块，十六颗地狱疣。",
+      "击败 5 个凋零骷髅并带来 32 块下界砖和 16 颗下界疣。",
+      "清除巡逻队并用堡垒自己的黑砖建造标记。"
+    ],
+    "quest.nether_routes.fortress_line.stage.work.dialogue.reminder.response.abandon.label": "把这个放在一边。",
+    "quest.nether_routes.fortress_line.stage.work.dialogue.reminder.response.details.label": "重复该工作。",
+    "quest.nether_routes.fortress_line.stage.work.dialogue.reminder.response.leave.label": "我有。",
+    "quest.nether_routes.fortress_line.stage.work.objective.bring_bricks.tracker.complete_text": "路线 积木已准备就绪。",
+    "quest.nether_routes.fortress_line.stage.work.objective.bring_bricks.tracker.text": "为 路线 标记带来 32 块下界砖。",
+    "quest.nether_routes.fortress_line.stage.work.objective.bring_wart.tracker.complete_text": "地狱疣已准备就绪。",
+    "quest.nether_routes.fortress_line.stage.work.objective.bring_wart.tracker.text": "为 路线 宝箱带来 16 个地狱疣。",
+    "quest.nether_routes.fortress_line.stage.work.objective.clear_wither_skeletons.tracker.complete_text": "要塞巡逻队已被清除。",
+    "quest.nether_routes.fortress_line.stage.work.objective.clear_wither_skeletons.tracker.text": "沿着 路线 击败 5 个凋零骷髅。",
+    "quest.nether_routes.fortress_line.stage.work.scene.abandon_confirm.lines": [
+      "把黑石桥梁放在一边？",
+      "如果你确定的话我可以把你的名字从工作中删除。"
+    ],
+    "quest.nether_routes.fortress_line.stage.work.scene.abandon_confirm.response.cancel.label": "保持打开状态。",
+    "quest.nether_routes.fortress_line.stage.work.scene.abandon_confirm.response.confirm.label": "把它放在一边。",
+    "quest.nether_routes.fortress_line.stage.work.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "好的。我会从工作中清除你的名字。",
+      "便条收起来了。你可以稍后再问。"
+    ],
+    "quest.nether_routes.fortress_line.stage.work.scene.abandon_quest.action.abandon.lines.abandoned_cooldown": [
+      "我会把这张纸条先搁置一段时间，然后再重新发布。",
+      "在你再次提出要求之前，先让工作休息一下。"
+    ],
+    "quest.nether_routes.fortress_line.stage.work.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "黑石桥梁目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.nether_routes.fortress_line.stage.work.scene.decline.lines": [
+      "然后黑石桥梁的巡逻时间会延长一些。"
+    ],
+    "quest.nether_routes.fortress_line.stage.work.scene.leave.lines": [
+      "五具凋灵骷髅，三十二块砖块，十六颗地狱疣。",
+      "当工作准备好时再回来。"
+    ],
+    "quest.nether_routes.fortress_line.stage.work.scene.reminder_details.action.remind.lines.reminder": [
+      "五具凋灵骷髅，三十二块砖块，十六颗地狱疣。",
+      "击败 5 个凋零骷髅并带来 32 块下界砖和 16 颗下界疣。",
+      "清除巡逻队并用堡垒自己的黑砖建造标记。"
+    ],
+    "quest.nether_routes.fortress_line.stage.work.scene.reminder_details.action.remind.lines.unavailable": [
+      "黑石桥梁目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.nether_routes.fortress_line.stage.work.scene.start_quest.action.start.lines.already_completed": [
+      "黑石桥梁目前已经解决。",
+      "这项工作已经被计算在内。"
+    ],
+    "quest.nether_routes.fortress_line.stage.work.scene.start_quest.action.start.lines.locate_failed": [
+      "我在这里找不到值得信赖的标记。等道路畅通后再询问。",
+      "今天地图不会确定安全目的地。"
+    ],
+    "quest.nether_routes.fortress_line.stage.work.scene.start_quest.action.start.lines.started": [
+      "将保险箱标记在墙上的低处。恶鬼喜欢编辑高大的标志。",
+      "击败 5 个凋零骷髅并带来 32 块下界砖和 16 颗下界疣。"
+    ],
+    "quest.nether_routes.fortress_line.stage.work.scene.start_quest.action.start.lines.unavailable": [
+      "黑石桥梁目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.nether_routes.fortress_line.stage.work.ui.tracker_text": "击败 5 个凋零骷髅并带来 32 块下界砖和 16 颗下界疣。",
+    "quest.nether_routes.fortress_line.title": "黑石桥梁"
+  }
+}

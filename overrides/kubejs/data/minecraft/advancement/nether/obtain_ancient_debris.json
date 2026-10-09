@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "ancient_debris": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "ancient_debris"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

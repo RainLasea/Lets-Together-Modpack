@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "has_upgraded_saddle": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "has_upgraded_saddle"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

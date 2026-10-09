@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "wear_full_rainbow": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "wear_full_rainbow"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

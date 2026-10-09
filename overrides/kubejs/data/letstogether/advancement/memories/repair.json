@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "id": "caverns_and_chasms:zirconia"
+    },
+    "title": {
+      "translate": "advancements.letstogether.memories.repair.title",
+      "fallback": "Good for Another Round"
+    },
+    "description": {
+      "translate": "advancements.letstogether.memories.repair.description",
+      "fallback": "Repair an item with zirconia from Caverns & Chasms."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "repair_with_zirconia": {
+      "conditions": {
+        "ingredient": {
+          "items": "caverns_and_chasms:zirconia"
+        }
+      },
+      "trigger": "caverns_and_chasms:repaired_item"
+    }
+  },
+  "requirements": [
+    [
+      "repair_with_zirconia"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:memories/diamond_heart"
+}

@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "get_cassowary_egg": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "get_cassowary_egg"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

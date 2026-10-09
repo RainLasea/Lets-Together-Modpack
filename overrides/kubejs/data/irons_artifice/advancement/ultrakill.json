@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "ultrakill": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "ultrakill"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

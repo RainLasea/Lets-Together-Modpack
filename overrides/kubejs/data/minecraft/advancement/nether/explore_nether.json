@@ -1,0 +1,37 @@
+{
+  "criteria": {
+    "minecraft:basalt_deltas": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:crimson_forest": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:nether_wastes": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:soul_sand_valley": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:warped_forest": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "minecraft:nether_wastes"
+    ],
+    [
+      "minecraft:soul_sand_valley"
+    ],
+    [
+      "minecraft:crimson_forest"
+    ],
+    [
+      "minecraft:warped_forest"
+    ],
+    [
+      "minecraft:basalt_deltas"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

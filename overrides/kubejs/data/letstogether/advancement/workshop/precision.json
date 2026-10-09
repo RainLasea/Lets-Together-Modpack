@@ -1,0 +1,38 @@
+{
+  "display": {
+    "icon": {
+      "id": "create:precision_mechanism"
+    },
+    "title": {
+      "translate": "advancements.letstogether.workshop.precision.title",
+      "fallback": "Some Assembly Required"
+    },
+    "description": {
+      "translate": "advancements.letstogether.workshop.precision.description",
+      "fallback": "Obtain a precision mechanism."
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "0": {
+      "conditions": {
+        "items": [
+          {
+            "items": "create:precision_mechanism"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:workshop/brass"
+}

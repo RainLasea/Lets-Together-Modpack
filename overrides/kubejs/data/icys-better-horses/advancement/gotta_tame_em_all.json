@@ -1,0 +1,97 @@
+{
+  "criteria": {
+    "american_paint": {
+      "trigger": "minecraft:impossible"
+    },
+    "andalusian": {
+      "trigger": "minecraft:impossible"
+    },
+    "appaloosa": {
+      "trigger": "minecraft:impossible"
+    },
+    "arabian": {
+      "trigger": "minecraft:impossible"
+    },
+    "belgian": {
+      "trigger": "minecraft:impossible"
+    },
+    "clydesdale": {
+      "trigger": "minecraft:impossible"
+    },
+    "friesian": {
+      "trigger": "minecraft:impossible"
+    },
+    "haflinger": {
+      "trigger": "minecraft:impossible"
+    },
+    "icelandic": {
+      "trigger": "minecraft:impossible"
+    },
+    "morgan": {
+      "trigger": "minecraft:impossible"
+    },
+    "mustang": {
+      "trigger": "minecraft:impossible"
+    },
+    "percheron": {
+      "trigger": "minecraft:impossible"
+    },
+    "quarter": {
+      "trigger": "minecraft:impossible"
+    },
+    "shire": {
+      "trigger": "minecraft:impossible"
+    },
+    "thoroughbred": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "thoroughbred"
+    ],
+    [
+      "arabian"
+    ],
+    [
+      "quarter"
+    ],
+    [
+      "friesian"
+    ],
+    [
+      "andalusian"
+    ],
+    [
+      "percheron"
+    ],
+    [
+      "clydesdale"
+    ],
+    [
+      "shire"
+    ],
+    [
+      "belgian"
+    ],
+    [
+      "icelandic"
+    ],
+    [
+      "mustang"
+    ],
+    [
+      "haflinger"
+    ],
+    [
+      "morgan"
+    ],
+    [
+      "american_paint"
+    ],
+    [
+      "appaloosa"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

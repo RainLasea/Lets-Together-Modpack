@@ -1,0 +1,37 @@
+{
+  "criteria": {
+    "blue": {
+      "trigger": "minecraft:impossible"
+    },
+    "lavender": {
+      "trigger": "minecraft:impossible"
+    },
+    "orange": {
+      "trigger": "minecraft:impossible"
+    },
+    "yellow": {
+      "trigger": "minecraft:impossible"
+    },
+    "red": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "blue"
+    ],
+    [
+      "lavender"
+    ],
+    [
+      "orange"
+    ],
+    [
+      "yellow"
+    ],
+    [
+      "red"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

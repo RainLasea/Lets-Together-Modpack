@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "axolotl_bucket": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "axolotl_bucket"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

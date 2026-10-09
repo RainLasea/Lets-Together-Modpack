@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "netherite_hoe": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "netherite_hoe"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

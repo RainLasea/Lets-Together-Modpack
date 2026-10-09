@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "captured_entities": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "captured_entities"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

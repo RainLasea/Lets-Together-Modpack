@@ -1,0 +1,8 @@
+{
+    "text.firstperson.option.firstperson.hideLeftArmArmor": "隐藏左臂护甲",
+    "text.firstperson.option.firstperson.hideLeftArmArmor.tooltip": "只隐藏第一人称模型左臂上的护甲，胸甲等其余部位照常显示",
+    "text.firstperson.option.firstperson.hideRightArmArmor": "隐藏右臂护甲",
+    "text.firstperson.option.firstperson.hideRightArmArmor.tooltip": "只隐藏第一人称模型右臂上的护甲，胸甲等其余部位照常显示",
+    "text.firstperson.option.firstperson.lockBodyToCamera": "身体朝向跟随视角",
+    "text.firstperson.option.firstperson.lockBodyToCamera.tooltip": "走路和潜行时身体始终正对镜头，左右转视角不会露出身体侧面"
+}

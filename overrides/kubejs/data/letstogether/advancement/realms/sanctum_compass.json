@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "id": "netherexp:sanctum_compass"
+    },
+    "title": {
+      "translate": "advancements.letstogether.realms.sanctum_compass.title",
+      "fallback": "Getting a Reading"
+    },
+    "description": {
+      "translate": "advancements.letstogether.realms.sanctum_compass.description",
+      "fallback": "Activate a sanctum compass."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "has_item": {
+      "trigger": "netherexp:activate_sanctum_compass"
+    }
+  },
+  "requirements": [
+    [
+      "has_item"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:realms/soul_valley"
+}

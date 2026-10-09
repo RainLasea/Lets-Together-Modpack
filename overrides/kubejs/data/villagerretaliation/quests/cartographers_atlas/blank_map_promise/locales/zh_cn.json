@@ -1,0 +1,123 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.cartographers_atlas.blank_map_promise.description": {
+      "lines": [
+        "用纸、墨水和罗盘方位装订第一张空白地图册。"
+      ]
+    },
+    "quest.cartographers_atlas.blank_map_promise.stage.bind_bearing.dialogue.reminder.label": "关于白纸上的约定",
+    "quest.cartographers_atlas.blank_map_promise.stage.bind_bearing.dialogue.reminder.lines": [
+      "纸就够了。现在，作品集需要指南针和墨水，以便空白页知道面向哪个方向。"
+    ],
+    "quest.cartographers_atlas.blank_map_promise.stage.bind_bearing.dialogue.reminder.response.abandon.label": "放弃任务",
+    "quest.cartographers_atlas.blank_map_promise.stage.bind_bearing.dialogue.reminder.response.details.label": "重复列表",
+    "quest.cartographers_atlas.blank_map_promise.stage.bind_bearing.dialogue.reminder.response.leave.label": "算了",
+    "quest.cartographers_atlas.blank_map_promise.stage.bind_bearing.objective.bring_compass.tracker.complete_text": "罗盘方位已准备就绪。",
+    "quest.cartographers_atlas.blank_map_promise.stage.bind_bearing.objective.bring_compass.tracker.text": "带 1 个指南针，为地图集指明北方。",
+    "quest.cartographers_atlas.blank_map_promise.stage.bind_bearing.objective.bring_ink.tracker.complete_text": "装订墨水已准备就绪。",
+    "quest.cartographers_atlas.blank_map_promise.stage.bind_bearing.objective.bring_ink.tracker.text": "带 3 个墨囊来装订第一页。",
+    "quest.cartographers_atlas.blank_map_promise.stage.bind_bearing.scene.abandon_confirm.lines": [
+      "现在把空白的对开页折叠起来吗？"
+    ],
+    "quest.cartographers_atlas.blank_map_promise.stage.bind_bearing.scene.abandon_confirm.response.cancel.label": "保留对开本",
+    "quest.cartographers_atlas.blank_map_promise.stage.bind_bearing.scene.abandon_confirm.response.confirm.label": "放弃任务",
+    "quest.cartographers_atlas.blank_map_promise.stage.bind_bearing.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "我会将盖子保持平整，直到您准备好重新开始。"
+    ],
+    "quest.cartographers_atlas.blank_map_promise.stage.bind_bearing.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "您现在手中没有地图集对开本。"
+    ],
+    "quest.cartographers_atlas.blank_map_promise.stage.bind_bearing.scene.leave.lines": [
+      "空白保持其耐心。"
+    ],
+    "quest.cartographers_atlas.blank_map_promise.stage.bind_bearing.scene.reminder_details.action.remind.lines.reminder": [
+      "该对开本还需要 1 个指南针和 3 个墨囊。"
+    ],
+    "quest.cartographers_atlas.blank_map_promise.stage.bind_bearing.scene.reminder_details.action.remind.lines.unavailable": [
+      "我现在没有打开您的空白作品集。"
+    ],
+    "quest.cartographers_atlas.blank_map_promise.stage.bind_bearing.ui.tracker_text": "带 1 个指南针和 3 个用于对开装订的墨囊。",
+    "quest.cartographers_atlas.blank_map_promise.stage.gather_paper.dialogue.offer.label": "白纸上的约定",
+    "quest.cartographers_atlas.blank_map_promise.stage.gather_paper.dialogue.offer.lines": [
+      "每本地图集都始于一个承诺：足够的纸张容纳世界，足够的墨水承认我们尚不知道的地方。",
+      "给我拿纸、指南针和墨囊。我会装订第一页，你可以决定空白是否成为道路。"
+    ],
+    "quest.cartographers_atlas.blank_map_promise.stage.gather_paper.dialogue.offer.response.accept.label": "启动图集",
+    "quest.cartographers_atlas.blank_map_promise.stage.gather_paper.dialogue.offer.response.decline.label": "另一次",
+    "quest.cartographers_atlas.blank_map_promise.stage.gather_paper.dialogue.reminder.label": "关于白纸上的约定",
+    "quest.cartographers_atlas.blank_map_promise.stage.gather_paper.dialogue.reminder.lines": [
+      "在指南针具有任何意义之前，空白的对开本仍然需要纸张。"
+    ],
+    "quest.cartographers_atlas.blank_map_promise.stage.gather_paper.dialogue.reminder.response.abandon.label": "放弃任务",
+    "quest.cartographers_atlas.blank_map_promise.stage.gather_paper.dialogue.reminder.response.details.label": "重复列表",
+    "quest.cartographers_atlas.blank_map_promise.stage.gather_paper.dialogue.reminder.response.leave.label": "算了",
+    "quest.cartographers_atlas.blank_map_promise.stage.gather_paper.objective.bring_paper.tracker.complete_text": "对开纸已准备好。",
+    "quest.cartographers_atlas.blank_map_promise.stage.gather_paper.objective.bring_paper.tracker.text": "为第一张地图册对开本携带 24 张纸张。",
+    "quest.cartographers_atlas.blank_map_promise.stage.gather_paper.scene.abandon_confirm.lines": [
+      "现在把空白的对开页折叠起来吗？"
+    ],
+    "quest.cartographers_atlas.blank_map_promise.stage.gather_paper.scene.abandon_confirm.response.cancel.label": "保留对开本",
+    "quest.cartographers_atlas.blank_map_promise.stage.gather_paper.scene.abandon_confirm.response.confirm.label": "放弃任务",
+    "quest.cartographers_atlas.blank_map_promise.stage.gather_paper.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "我会将盖子保持平整，直到您准备好重新开始。"
+    ],
+    "quest.cartographers_atlas.blank_map_promise.stage.gather_paper.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "您现在手中没有地图集对开本。"
+    ],
+    "quest.cartographers_atlas.blank_map_promise.stage.gather_paper.scene.decline.lines": [
+      "然后地图就保持空白，这更安全，但用处却少得多。"
+    ],
+    "quest.cartographers_atlas.blank_map_promise.stage.gather_paper.scene.leave.lines": [
+      "空白保持其耐心。"
+    ],
+    "quest.cartographers_atlas.blank_map_promise.stage.gather_paper.scene.reminder_details.action.remind.lines.reminder": [
+      "先带24张纸。之后，用1个圆规和3个墨囊绑住轴承。"
+    ],
+    "quest.cartographers_atlas.blank_map_promise.stage.gather_paper.scene.reminder_details.action.remind.lines.unavailable": [
+      "我现在没有打开您的空白作品集。"
+    ],
+    "quest.cartographers_atlas.blank_map_promise.stage.gather_paper.scene.start_quest.action.start.lines.already_completed": [
+      "第一对开本已装订。"
+    ],
+    "quest.cartographers_atlas.blank_map_promise.stage.gather_paper.scene.start_quest.action.start.lines.started": [
+      "好的。从24张纸开始；第一场雨前，有一本薄薄的地图集。"
+    ],
+    "quest.cartographers_atlas.blank_map_promise.stage.gather_paper.scene.start_quest.action.start.lines.unavailable": [
+      "映射表需要一点时间才能接受另一个承诺。"
+    ],
+    "quest.cartographers_atlas.blank_map_promise.stage.gather_paper.ui.tracker_text": "为第一张地图册对开本携带 24 张纸张。",
+    "quest.cartographers_atlas.blank_map_promise.stage.return.dialogue.turn_in.label": "关于白纸上的约定",
+    "quest.cartographers_atlas.blank_map_promise.stage.return.dialogue.turn_in.lines": [
+      "纸，指南针，墨水。这对于一个开始来说就足够了。"
+    ],
+    "quest.cartographers_atlas.blank_map_promise.stage.return.dialogue.turn_in.response.complete.label": "装订第一对开页",
+    "quest.cartographers_atlas.blank_map_promise.stage.return.dialogue.turn_in.response.leave.label": "还没有",
+    "quest.cartographers_atlas.blank_map_promise.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "在那里。第一对开本已装订。地图集仍然大部分是空的，但现在它知道如何开始。"
+    ],
+    "quest.cartographers_atlas.blank_map_promise.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "绑定仍然很短。在我缝合封面之前，请带上缺少的纸张、指南针或墨水。"
+    ],
+    "quest.cartographers_atlas.blank_map_promise.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "把材料拿过来，我可以把它们装订好。"
+    ],
+    "quest.cartographers_atlas.blank_map_promise.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "在我合上这本书之前，它还需要纸张、指南针和墨水。"
+    ],
+    "quest.cartographers_atlas.blank_map_promise.stage.return.scene.leave.lines": [
+      "在形成道路之前不要将纸张弄皱。"
+    ],
+    "quest.cartographers_atlas.blank_map_promise.stage.return.ui.tracker_text": "将作品集材料返回给制图师。",
+    "quest.cartographers_atlas.blank_map_promise.title": {
+      "lines": [
+        "白纸上的约定"
+      ]
+    },
+    "quest.cartographers_atlas.blank_map_promise.tracker.title": {
+      "lines": [
+        "白纸上的约定"
+      ]
+    }
+  }
+}

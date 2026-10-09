@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "find_monolith": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "find_monolith"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

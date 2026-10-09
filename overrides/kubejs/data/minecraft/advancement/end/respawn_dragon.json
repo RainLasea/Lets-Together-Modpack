@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "summoned_dragon": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "summoned_dragon"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

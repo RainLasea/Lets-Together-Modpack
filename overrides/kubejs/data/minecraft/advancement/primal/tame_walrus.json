@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "tame_walrus": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "tame_walrus"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

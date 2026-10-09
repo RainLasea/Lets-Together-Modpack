@@ -1,0 +1,50 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:honey_bottle"
+    },
+    "title": {
+      "translate": "advancements.letstogether.farm.honey.title",
+      "fallback": "Just a Little Honey"
+    },
+    "description": {
+      "translate": "advancements.letstogether.farm.honey.description",
+      "fallback": "Use a campfire to calm the bees, then collect honey."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "safely_harvest_honey": {
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "block": {
+                "blocks": "#minecraft:beehives"
+              },
+              "smokey": true
+            }
+          },
+          {
+            "condition": "minecraft:match_tool",
+            "predicate": {
+              "items": "minecraft:glass_bottle"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:item_used_on_block"
+    }
+  },
+  "requirements": [
+    [
+      "safely_harvest_honey"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:farm/breed"
+}

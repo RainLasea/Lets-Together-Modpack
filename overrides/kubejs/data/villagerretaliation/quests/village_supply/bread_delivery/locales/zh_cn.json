@@ -1,0 +1,360 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.village_supply.bread_delivery.description": {
+      "lines": [
+        "带上面包，这样村里就可以储备足够的物资来度过艰难的夜晚。"
+      ]
+    },
+    "quest.village_supply.bread_delivery.dialogue.already_completed": {
+      "lines": [
+        "从此一无所获。我们已经解决了面包送货的问题。",
+        "从此一无所获。食品储藏室里有你带来的面包。",
+        "你早期的作品仍然有效。我数了数你有16个面包。我们是方的。",
+        "我记得你第一次回来。厨师们已经开始送货了。",
+        "我问的你都说完了。你解决了晚餐架子太轻的问题。",
+        "这里没有第二次付款。没有理由再收集一车面包。",
+        "没有人需要这样做两次。面包送货已从面包工作清单中划掉。",
+        "该章已关闭。你帮助我们解决一夜难吃的饭菜的工作已经结束了。",
+        "我不会重新打开已完成的帐户。最后一批面包仍在为村庄服务。",
+        "这件事我们已经解决了。我记得谁填写了面包订单，是你。",
+        "从此一无所获。当面包送来时，奖励就支付了。",
+        "事情结束得还算顺利。第一次你就做得够多了。我将保留在“面包递送”下归档的旧条目。",
+        "从此一无所获。我们可以让大家保持稳定，因为您回答了“面包送货”。",
+        "我记得你第一次回来。全部的面包都到达食品储藏室了。什么都没有丢失。",
+        "你早期的作品仍然有效。如果我问你两次，厨师们就会反对。",
+        "所欠的已经还清了。您的运送面包已通过检验并投入使用。",
+        "这件事我们已经解决了。食品储藏室里的那个空位属于昨天。",
+        "该章已关闭。记录显示您收到了 16 个面包。",
+        "事情结束得还算顺利。你默默地做着面包工作，让每个人都继续前进。",
+        "保留旧的计数。第一个结局对于《面包外卖》来说已经足够好了。"
+      ]
+    },
+    "quest.village_supply.bread_delivery.dialogue.inactive": {
+      "lines": [
+        "还没有开始的理由。食品储藏室请求目前尚未开放。",
+        "现在，就让这件事平息吧。今天没有面包开放订单。",
+        "还没有开始的理由。在我要求更多之前，食品储藏室正在清点。",
+        "今天没有什么需要做这项工作。厨师们还没有提出新的要求。",
+        "当重要的时候我会发布它。按住面包。我们没有地方可以放置它。",
+        "等店铺换了再问我。熬夜吃饭的需求将会再次出现，但不是今天。",
+        "还没有开始的理由。我正在等待下一次清点，然后再打开“面包送货”。",
+        "不是今天。现在带 16 个面包就会挤满仓储。",
+        "董事会可以等待。最后一批面包还没有用完。",
+        "等店铺换了再问我。厨师检查完剩下的东西后再询问。",
+        "董事会可以等待。我不会发明对面包的迫切需要。",
+        "还没有开始的理由。食品储藏室很安静，所以这可以等。",
+        "还没有开始的理由。我们正在处理面包订单。",
+        "村里可以等这一件事。食品储藏室里没有任何问题。时机根本不对。",
+        "不是今天。省点力气，直到我们真正需要面包为止。",
+        "时间不对。除了运送面包之外，板上没有当前标记。",
+        "我们还不需要它。今天不是再次抢面包的日子。",
+        "我不会把这个问题列入考虑范围。一旦架子太轻，不适合晚餐，我就会重新打开它。",
+        "我不会把这个问题列入考虑范围。我宁愿拖延也不愿浪费好面包。",
+        "不是今天。等仓储换了再问我关于面包送货的事。"
+      ]
+    },
+    "quest.village_supply.bread_delivery.dialogue.locate_failed": {
+      "lines": [
+        "我无法确认当前的面包订单。检查完村里的储藏室后再询问。",
+        "村里的食品储藏室计数不见了，所以我不会要求你去收集面包。",
+        "没有人确定村里的食品储藏室今天需要多少面包。",
+        "工作笔记不完整。我先算算面包数吧。",
+        "在村里确认订单之前我不会给你送面包。",
+        "村里的食品储藏室没有公布可靠的面包数量。",
+        "我检查了工作清单两次；请求的面包尚未准备好。",
+        "这个订单可以等到我有最新的面包计数后。",
+        "在我把这份订单交给你之前，需要有人检查一下村里的食品储藏室。",
+        "村里还没有就面包数量达成一致。",
+        "我有一份旧的面包理货单，但没有当前的。",
+        "村里的食品储藏室可能需要面包，但我不会把猜测变成工作。",
+        "村里的食品储藏室清点完毕后再回来。",
+        "该订单缺少详细信息。我需要确认金额和收货地点。",
+        "在工作说明完成之前，我无法将此请求提交给董事会。",
+        "请求尚未准备好。我还在等待村里的食品储藏室统计。",
+        "在你们开始集合之前，让我确认一下谁需要面包。",
+        "还没有工作。村里还没有批准这个面包请求。",
+        "在我提供这项工作之前，仓储需要再次清点。",
+        "当面包订单有明确的所有者和计数时再次询问。"
+      ]
+    },
+    "quest.village_supply.bread_delivery.dialogue.missing_proof": {
+      "lines": [
+        "我需要一些我能握住的东西。在我们关门之前把面包拿过来。",
+        "让我看看你带回来了什么。在我签字之前我需要这里的面包。",
+        "最后一个要求仍然缺失。承诺并不能填满食品储藏室。送面包来。",
+        "最后一个要求仍然缺失。你可能已经收集到了，但厨师们还没有收到。",
+        "最后一个要求仍然缺失。把 16 个面包放在这里，我就可以关闭面包订单了。",
+        "故事无法关闭账本。上交面包就是这次供应工作的证明。",
+        "你带回家的东西决定了这一点。当你的双手空着的时候，我无法检查外皮完好的新鲜面包。",
+        "我相信你去了，但这还不够。你的报告听起来不错。我仍然需要真正的面包。",
+        "我相信你去了，但这还不够。食品储藏室还没有收到任何东西。",
+        "证据仍然很重要。在我们讨论面包送货奖励之前，请带上您收集的东西。",
+        "证据必须到达我的手中。食品储藏室需要的是可用的面包，而不是关于它的故事。",
+        "故事无法关闭账本。你一把面包放在这里我就数数。",
+        "证据仍然很重要。请勿将面包留在另一个箱子中。",
+        "故事无法关闭账本。厨师们正在等待面包包本身。",
+        "你回来时却没有带我要的一件东西。最后一步很简单。把面包递过来。",
+        "证据仍然很重要。我无法用一个空柜台来支付一整晚的饭菜。",
+        "我需要一些我能握住的东西。带着面包订单回来，我们就完成了。",
+        "你的话并不是缺失的部分。食品储藏室收到面包后，面包工作才算数。",
+        "证据仍然很重要。您只需一交手即可完成面包交付。",
+        "你带回家的东西决定了这一点。在我说这一切完成之前，让我看看面包。"
+      ]
+    },
+    "quest.village_supply.bread_delivery.dialogue.missing_target": {
+      "lines": [
+        "交货时间仍然很短。把剩下的面包拿过来。",
+        "我数了两遍； 16 条面包的全部订单还没有到。",
+        "这有帮助，但村里的食品储藏室仍然需要剩余的面包。",
+        "上交不完整。我还无法关闭工作笔记。",
+        "我们商定了 16 条面包；堆还是很短。",
+        "把缺的面包拿来，我就可以结单了。",
+        "村里的食品储藏室有空间等待剩下的货物。",
+        "部分交付无法满足该村的需求。",
+        "你带来了正确的货物，但不是全额。",
+        "再算一下。村里的食品储藏室仍然短缺。",
+        "工作开始后我无法降低约定的数量。",
+        "继续收集，直到收集完全部 16 条面包。",
+        "村子可以用这么多，但还需要剩下的。",
+        "工作即将完成；剩下的就是缺少的金额。",
+        "理货和交货尚未匹配。",
+        "带来一份完整的货物，而不是让村里的食品储藏室短缺。",
+        "订单将一直开放，直到所有 16 条面包都到齐为止。",
+        "除了金额之外，你带来的东西没有任何问题。",
+        "村里的食品储藏室指的是全部订单，而不是部分订单。",
+        "带着剩下的回来，我会关闭笔记。"
+      ]
+    },
+    "quest.village_supply.bread_delivery.dialogue.reminder": {
+      "lines": [
+        "继续你接受的工作。十六个面包，如果你有空的话。今天没有英雄事迹，只是货架上的重量。",
+        "记住村庄在等待什么。我还在等待食品储藏室的 16 个面包。",
+        "离开之前，请再听一遍。寻找外皮良好的新鲜面包。 原料不好只有移动的问题。",
+        "记住村庄在等待什么。厨师们需要这些面包来支付一夜的辛苦饭菜。",
+        "离开之前，请再听一遍。数量是 16 个面包。回来之前检查一下。",
+        "牢记整个任务。这次面包递送意味着我们可以让每个人保持稳定。",
+        "你还没有完成。如果您要选择装载量，请先带面包。",
+        "记住村庄在等待什么。将面包订单放在一起，以便轻松清点面包。",
+        "遵守我给你的指示。食品储藏室有空间等待整捆货物。",
+        "这项工作仍有未完成的任务。不要让一个简单的请求变成一个太轻的架子，无法容纳晚餐。",
+        "现在不要丢失线。面包递送没有隐藏的部分。带上约定的面包数量。",
+        "下一步仍然很重要。小心处理。我想要新鲜的面包，外皮很好。",
+        "你还没有完成。如果你能做到的话，一次性把所有的面包都带来。",
+        "将回程行程保留在您的计划中。厨师们正在计划围绕您回来的下一步工作。",
+        "你还没有完成。我在面包石板上写下了 16 个面包，这样我们就不用猜了。",
+        "牢记整个任务。越早到达，我们就能越早解决一晚的难吃的饭菜。",
+        "使这一切得到适当的完成。面包订单中没有遗漏任何其他内容。",
+        "离开之前，请再听一遍。当面包准备好交出时返回。",
+        "将回程行程保留在您的计划中。你知道食品储藏室需要多少面包。其余的正在聚集。",
+        "记住村庄在等待什么。完整的面包包可以节省每个人的第二次旅行。"
+      ]
+    },
+    "quest.village_supply.bread_delivery.dialogue.start": {
+      "lines": [
+        "认真对待这件事。给我带来16个面包。工作虽然简单，但却能让人保持稳定。",
+        "认真对待这件事。面包订单需要16个面包。你能处理吗？",
+        "仅当您准备好时才接受任务。厨师们正在努力支付一夜的辛苦饭菜，而 原料 很薄。",
+        "让我们清楚地了解这项工作。给我带来16个面包。我想要新鲜的面包，外皮很好。",
+        "认真对待这件事。我有一份平淡的工作，却有一份有用的成果。找到 16 个面包。",
+        "让我们清楚地了解这项工作。如果您满足面包订单，我们可以让每个人保持稳定。",
+        "认真对待这件事。一个架子对于晚餐来说太轻是一个小问题，直到每个人都需要同样的东西。",
+        "我选择你是有原因的。面包板上的计数是 16 个面包。",
+        "让我们清楚地了解这项工作。收集面包并将整批货送到这里。",
+        "认真对待这件事。储藏室里的食物并不光彩，但很重要。",
+        "我把一些重要的事情托付给你。厨师们让我为这次跑步找一个可靠的人。",
+        "我有一个困难的请求。我需要为食品储藏室提供干净的送货服务。",
+        "仅当您准备好时才接受任务。如果你有时间的话，16个面包就可以解决面包短缺的问题了。",
+        "在你同意之前，先听听所有的内容。需求是真实的，这使得运送面包的说明变得简单。",
+        "在你同意之前，先听听所有的内容。当你清点完毕后，把面包带来。",
+        "这是工作。好的面包可以让我们度过一夜的辛苦。",
+        "仅当您准备好时才接受任务。在我们行动之前，村子里的人不应该吃晚饭。",
+        "在你同意之前，先听听所有的内容。小心面包束。我们需要外皮好的新鲜面包。",
+        "仔细听。当食品储藏室收到全部订单时我会付款。",
+        "仔细听。找到 16 个面包，我们就可以暂时不再担心这个问题了。"
+      ]
+    },
+    "quest.village_supply.bread_delivery.dialogue.turn_in": {
+      "lines": [
+        "您准确地交付了所需的内容。好的。完整的架子让勇敢的谈话听起来不那么空洞。带着我的感谢。",
+        "村里可以用这个。计数是对的。我会把这个拿到食品储藏室去。",
+        "村里可以用这个。厨师们现在可以承担一整晚的饭菜了。",
+        "这就是我需要的结果。这是新鲜的面包，外皮很好。你选得不错。",
+        "您准确地交付了所需的内容。这次送货让我们避免了晚餐的架子太轻。",
+        "这将会带来真正的改变。干得好。所有的面包都一起到达。",
+        "这将会带来真正的改变。我有你的面包，你也获得了面包送货奖励。",
+        "这次回归值得等待。食品储藏室看起来已经不那么空旷了。",
+        "这就是我需要的结果。这将帮助我们保持每个人的稳定。",
+        "这就是我需要的结果。你让厨师们免于用残羹剩饭凑合。",
+        "这就是我需要的结果。面包板上的所有东西都在这里。",
+        "我很高兴见到你回家。一份有用的面包工作，毫不费力地完成。谢谢。",
+        "这次回归值得等待。在有人借之前我会把面包收起来。",
+        "这次回归值得等待。因为您完成了面包运送，所以村庄里的库存更加充足。",
+        "这将会带来真正的改变。你带来的正是我要的面包。",
+        "你已经看透了。面包的送餐从上到下都很顺利。",
+        "你已经看透了。食品储藏室少了一件令我们惊讶的短缺。",
+        "你已经看透了。村庄可能不会为面包欢呼，但会注意到面包的缺席。",
+        "这次回归值得等待。接受你的付款。面包的数量让我没有任何抱怨。",
+        "村里可以用这个。我可以放心地将面包订单交给厨师。"
+      ]
+    },
+    "quest.village_supply.bread_delivery.dialogue.unavailable": {
+      "lines": [
+        "我不会把这个负担加在你身上。面包架暂时不接受新的帮助。",
+        "赢得更多信任后再回来。我还不能把面包交付项下提交的工作交给你。",
+        "在再次询问之前先赢得我们的信任。面包订单是给食品储藏室已经认识的人的。",
+        "您还没有准备好接受此请求。厨师们需要值得信赖的送货服务。",
+        "今天这项工作不是你的。在接受面包递送之前，向村庄展示更稳定的工作。",
+        "我现在还不能相信你。面包太重要了，不能把赌注押在陌生人身上。",
+        "这需要我们更了解的人。我今天不会向你打开面包板。",
+        "今天这项工作不是你的。建立一些信任，然后再次询问面包送货的问题。",
+        "您还没有准备好接受此请求。我需要一个能带着全部 16 个面包回来的人。",
+        "您还没有准备好接受此请求。收集面包很简单，但可靠性是不可忽视的。",
+        "我首先需要证明你的判断力。目前，面包订单仍由普通人负责。",
+        "赢得更多信任后再回来。我还不能向食品储藏室保证你会送货。",
+        "今天这项工作不是你的。在我们把食品储藏室托付给你之前，还有其他工作要做。",
+        "我首先需要证明你的判断力。村里还没有批准你参加这次面包跑活动。",
+        "不，风险太高了。我宁愿等待，也不愿冒险用太轻的架子来吃晚饭。",
+        "这需要我们更了解的人。这不是惩罚。在我打开“面包外卖”之前表现出更好的判断力。",
+        "我现在还不能相信你。这次厨师们要了一个熟悉的跑步者。",
+        "这个村庄需要更稳定的手。当你的名字更有分量后，再回来订购面包。",
+        "这个村庄需要更稳定的手。我不会为面包递送提供新的帮助。",
+        "您还没有准备好接受此请求。在这里赢得一些信心，我们可以重新审视运送面包。"
+      ]
+    },
+    "quest.village_supply.bread_delivery.objective.bring_bread.complete_text": {
+      "lines": [
+        "面包已包装好并准备就绪。"
+      ]
+    },
+    "quest.village_supply.bread_delivery.objective.bring_bread.text": {
+      "lines": [
+        "为村庄仓储收集 16 个面包。"
+      ]
+    },
+    "quest.village_supply.bread_delivery.stage.return.dialogue.turn_in.label": "关于运送面包",
+    "quest.village_supply.bread_delivery.stage.return.dialogue.turn_in.lines": [
+      "满满的面包架让整个村子都站直了一些。",
+      "计数是对的，没有一个会闲置太久。",
+      "在我关闭笔记之前让我看看完整的作品。"
+    ],
+    "quest.village_supply.bread_delivery.stage.return.dialogue.turn_in.response.complete.label": "交出工作。",
+    "quest.village_supply.bread_delivery.stage.return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.village_supply.bread_delivery.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "满满的面包架让整个村子都站直了一些。",
+      "计数是对的，没有一个会闲置太久。",
+      "这样就解决了。村里一定会好好利用这一点。"
+    ],
+    "quest.village_supply.bread_delivery.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "仍然缺少一些东西。在我关闭笔记之前检查日记。",
+      "完整的工作尚未准备好进行计算。"
+    ],
+    "quest.village_supply.bread_delivery.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "在我们解决这个问题之前，请带上证据。",
+      "我需要在这里提交完整的内容，而不仅仅是故事。"
+    ],
+    "quest.village_supply.bread_delivery.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "原料 背后需要一个真正的目的地。",
+      "在我们称之为完成之前到达标记的地方。"
+    ],
+    "quest.village_supply.bread_delivery.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "面包外送服务目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_supply.bread_delivery.stage.return.scene.turn_in_wait.lines": [
+      "为村里的食品储藏室带来 16 个面包",
+      "当工作准备好时再回来。"
+    ],
+    "quest.village_supply.bread_delivery.stage.return.ui.tracker_text": "返回任务给予者。",
+    "quest.village_supply.bread_delivery.stage.work.dialogue.offer.label": "运送面包",
+    "quest.village_supply.bread_delivery.stage.work.dialogue.offer.lines": [
+      "食品储藏室的架子上显示的木材比食物还多。",
+      "为村里的食品储藏室带 16 个面包，货架上的忧虑就会减少。",
+      "为村里的食品储藏室带来 16 个面包。我会让回报值得付出的努力。"
+    ],
+    "quest.village_supply.bread_delivery.stage.work.dialogue.offer.response.accept.label": "我能做到。",
+    "quest.village_supply.bread_delivery.stage.work.dialogue.offer.response.decline.label": "现在不行。",
+    "quest.village_supply.bread_delivery.stage.work.dialogue.reminder.label": "关于运送面包",
+    "quest.village_supply.bread_delivery.stage.work.dialogue.reminder.lines": [
+      "为村里的食品储藏室带来 16 个面包",
+      "为村里的食品储藏室带来 16 个面包。",
+      "为村里的食品储藏室带 16 个面包，货架上的忧虑就会减少。"
+    ],
+    "quest.village_supply.bread_delivery.stage.work.dialogue.reminder.response.abandon.label": "把这个放在一边。",
+    "quest.village_supply.bread_delivery.stage.work.dialogue.reminder.response.details.label": "重复该工作。",
+    "quest.village_supply.bread_delivery.stage.work.dialogue.reminder.response.leave.label": "我有。",
+    "quest.village_supply.bread_delivery.stage.work.scene.abandon_confirm.lines": [
+      "把面包外卖放在一边？",
+      "如果你确定的话我可以把你的名字从工作中删除。"
+    ],
+    "quest.village_supply.bread_delivery.stage.work.scene.abandon_confirm.response.cancel.label": "保持打开状态。",
+    "quest.village_supply.bread_delivery.stage.work.scene.abandon_confirm.response.confirm.label": "把它放在一边。",
+    "quest.village_supply.bread_delivery.stage.work.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "好的。我会从工作中清除你的名字。",
+      "便条收起来了。你可以稍后再问。"
+    ],
+    "quest.village_supply.bread_delivery.stage.work.scene.abandon_quest.action.abandon.lines.abandoned_cooldown": [
+      "我会把这张纸条先搁置一段时间，然后再重新发布。",
+      "在你再次提出要求之前，先让工作休息一下。"
+    ],
+    "quest.village_supply.bread_delivery.stage.work.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "面包外送服务目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_supply.bread_delivery.stage.work.scene.decline.lines": [
+      "好的。空架子会以自己的方式不断询问。",
+      "另一双手可能会接住它，或者您可以稍后再问。"
+    ],
+    "quest.village_supply.bread_delivery.stage.work.scene.leave.lines": [
+      "为村里的食品储藏室带来 16 个面包",
+      "当工作准备好时再回来。"
+    ],
+    "quest.village_supply.bread_delivery.stage.work.scene.reminder_details.action.remind.lines.reminder": [
+      "为村里的食品储藏室带来 16 个面包",
+      "为村里的食品储藏室带来 16 个面包。",
+      "为村里的食品储藏室带 16 个面包，货架上的忧虑就会减少。"
+    ],
+    "quest.village_supply.bread_delivery.stage.work.scene.reminder_details.action.remind.lines.unavailable": [
+      "面包外送服务目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_supply.bread_delivery.stage.work.scene.start_quest.action.start.lines.already_completed": [
+      "面包外送目前已经解决。",
+      "这项工作已经被计算在内。"
+    ],
+    "quest.village_supply.bread_delivery.stage.work.scene.start_quest.action.start.lines.locate_failed": [
+      "我在这里找不到值得信赖的标记。等道路畅通后再询问。",
+      "今天地图不会确定安全目的地。"
+    ],
+    "quest.village_supply.bread_delivery.stage.work.scene.start_quest.action.start.lines.started": [
+      "为村里的食品储藏室带来 16 个面包。在返回的路上将完整的计数放在一起。",
+      "为村里的食品储藏室带来 16 个面包。",
+      "好的。我会为你带回来的东西保留一个地方。"
+    ],
+    "quest.village_supply.bread_delivery.stage.work.scene.start_quest.action.start.lines.unavailable": [
+      "面包外送服务目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_supply.bread_delivery.stage.work.ui.tracker_text": "为村里的食品储藏室带来 16 个面包。",
+    "quest.village_supply.bread_delivery.title": {
+      "lines": [
+        "运送面包"
+      ]
+    },
+    "quest.village_supply.bread_delivery.tracker.proof.text": {
+      "lines": [
+        "将 16 个面包带回给 任务 给予者。"
+      ]
+    },
+    "quest.village_supply.bread_delivery.tracker.return.text": {
+      "lines": [
+        "将面包返回给 任务 给予者。"
+      ]
+    },
+    "quest.village_supply.bread_delivery.tracker.title": {
+      "lines": [
+        "运送面包"
+      ]
+    }
+  }
+}

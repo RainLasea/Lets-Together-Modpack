@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "id": "farmersdelight:rice"
+    },
+    "title": {
+      "translate": "advancements.letstogether.farm.rice.title",
+      "fallback": "Into the Paddy"
+    },
+    "description": {
+      "translate": "advancements.letstogether.farm.rice.description",
+      "fallback": "Plant rice in shallow water."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "plant_rice": {
+      "conditions": {
+        "location": [
+          {
+            "block": "farmersdelight:rice",
+            "condition": "minecraft:block_state_property"
+          }
+        ]
+      },
+      "trigger": "minecraft:placed_block"
+    }
+  },
+  "requirements": [
+    [
+      "plant_rice"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:farm/seeds"
+}

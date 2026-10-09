@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "brush_armadillo": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "brush_armadillo"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

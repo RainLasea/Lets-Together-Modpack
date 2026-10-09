@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "take_selfie": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "take_selfie"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

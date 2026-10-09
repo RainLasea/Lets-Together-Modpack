@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "ride_entity_distance": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "ride_entity_distance"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

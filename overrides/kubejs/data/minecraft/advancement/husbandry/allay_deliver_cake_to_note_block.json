@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "allay_deliver_cake_to_note_block": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "allay_deliver_cake_to_note_block"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,277 @@
+{
+  "mod.spatial-gui.name": "空间 GUI",
+
+  "text.autoconfig.spatial-gui.title": "空间 GUI 配置",
+
+  "text.autoconfig.spatial-gui.category.general": "通用",
+  "text.autoconfig.spatial-gui.category.screens": "界面",
+  "text.autoconfig.spatial-gui.category.rendering": "渲染",
+  "text.autoconfig.spatial-gui.category.thirdPersonScreen": "第三人称界面",
+  "text.autoconfig.spatial-gui.category.firstPersonScreen": "第一人称界面",
+  "text.autoconfig.spatial-gui.category.thirdPersonCamera": "第三人称摄像机",
+  "text.autoconfig.spatial-gui.category.firstPersonCamera": "第一人称摄像机",
+  "text.autoconfig.spatial-gui.category.animations": "动画",
+
+  "text.autoconfig.spatial-gui.option.enabled": "启用",
+  "text.autoconfig.spatial-gui.option.enabled.@Tooltip": "启用或禁用本模组",
+
+  "text.autoconfig.spatial-gui.option.firstPersonModeInventory": "第一人称模式（物品栏）",
+  "text.autoconfig.spatial-gui.option.firstPersonModeInventory.@Tooltip": "物品栏界面使用第一人称摄像机模式",
+
+  "text.autoconfig.spatial-gui.option.firstPersonModeContainers": "第一人称模式（其他界面）",
+  "text.autoconfig.spatial-gui.option.firstPersonModeContainers.@Tooltip": "非物品栏界面使用第一人称摄像机模式",
+
+  "text.autoconfig.spatial-gui.option.autoCalculateGuiScale": "自动计算 GUI 缩放",
+  "text.autoconfig.spatial-gui.option.autoCalculateGuiScale.@Tooltip": "根据窗口高度自动计算 GUI 缩放比例",
+
+  "text.autoconfig.spatial-gui.option.guiScale": "GUI 缩放",
+  "text.autoconfig.spatial-gui.option.guiScale.@Tooltip": "关闭自动计算时手动设置的 GUI 缩放（1-6）",
+
+  "text.autoconfig.spatial-gui.option.pauseScreen": "暂停菜单",
+  "text.autoconfig.spatial-gui.option.pauseScreen.@Tooltip": "为暂停菜单启用空间 GUI",
+
+  "text.autoconfig.spatial-gui.option.allScreens": "所有界面",
+  "text.autoconfig.spatial-gui.option.allScreens.@Tooltip": "为大多数界面启用空间 GUI\n警告：实验性功能",
+
+  "text.autoconfig.spatial-gui.option.mostContainers": "大多数容器",
+  "text.autoconfig.spatial-gui.option.mostContainers.@Tooltip": "为没有单独选项的容器启用",
+
+  "text.autoconfig.spatial-gui.option.books": "书",
+  "text.autoconfig.spatial-gui.option.books.@Tooltip": "为书本界面启用",
+
+  "text.autoconfig.spatial-gui.option.crafting": "合成",
+  "text.autoconfig.spatial-gui.option.crafting.@Tooltip": "为工作台启用",
+
+  "text.autoconfig.spatial-gui.option.furnaces": "熔炉",
+  "text.autoconfig.spatial-gui.option.furnaces.@Tooltip": "为熔炉、烟熏炉和高炉启用",
+
+  "text.autoconfig.spatial-gui.option.anvils": "铁砧",
+  "text.autoconfig.spatial-gui.option.anvils.@Tooltip": "为铁砧启用",
+
+  "text.autoconfig.spatial-gui.option.enchanting": "附魔",
+  "text.autoconfig.spatial-gui.option.enchanting.@Tooltip": "为附魔台启用",
+
+  "text.autoconfig.spatial-gui.option.beacons": "信标",
+  "text.autoconfig.spatial-gui.option.beacons.@Tooltip": "为信标启用",
+
+  "text.autoconfig.spatial-gui.option.brewing": "酿造",
+  "text.autoconfig.spatial-gui.option.brewing.@Tooltip": "为酿造台启用",
+
+  "text.autoconfig.spatial-gui.option.villagerTrading": "村民交易",
+  "text.autoconfig.spatial-gui.option.villagerTrading.@Tooltip": "为村民交易界面启用",
+
+  "text.autoconfig.spatial-gui.option.chests": "箱子",
+  "text.autoconfig.spatial-gui.option.chests.@Tooltip": "为箱子启用",
+
+  "text.autoconfig.spatial-gui.option.shulkerBoxes": "潜影盒",
+  "text.autoconfig.spatial-gui.option.shulkerBoxes.@Tooltip": "为潜影盒启用",
+
+  "text.autoconfig.spatial-gui.option.hoppers": "漏斗",
+  "text.autoconfig.spatial-gui.option.hoppers.@Tooltip": "为漏斗启用",
+
+  "text.autoconfig.spatial-gui.option.dispensers": "发射器",
+  "text.autoconfig.spatial-gui.option.dispensers.@Tooltip": "为发射器和投掷器启用",
+
+  "text.autoconfig.spatial-gui.option.grindstone": "砂轮",
+  "text.autoconfig.spatial-gui.option.grindstone.@Tooltip": "为砂轮启用",
+
+  "text.autoconfig.spatial-gui.option.smithing": "锻造",
+  "text.autoconfig.spatial-gui.option.smithing.@Tooltip": "为锻造台启用",
+
+  "text.autoconfig.spatial-gui.option.cartography": "制图",
+  "text.autoconfig.spatial-gui.option.cartography.@Tooltip": "为制图台启用",
+
+  "text.autoconfig.spatial-gui.option.loom": "织布机",
+  "text.autoconfig.spatial-gui.option.loom.@Tooltip": "为织布机启用",
+
+  "text.autoconfig.spatial-gui.option.stonecutter": "切石机",
+  "text.autoconfig.spatial-gui.option.stonecutter.@Tooltip": "为切石机启用",
+
+  "text.autoconfig.spatial-gui.option.lectern": "讲台",
+  "text.autoconfig.spatial-gui.option.lectern.@Tooltip": "为讲台启用",
+
+  "text.autoconfig.spatial-gui.option.inventory": "物品栏",
+  "text.autoconfig.spatial-gui.option.inventory.@Tooltip": "为生存模式物品栏启用",
+
+  "text.autoconfig.spatial-gui.option.creativeInventory": "创造模式物品栏",
+  "text.autoconfig.spatial-gui.option.creativeInventory.@Tooltip": "为创造模式物品栏启用",
+
+  "text.autoconfig.spatial-gui.option.autoScaleByFov": "按视场角自动缩放",
+  "text.autoconfig.spatial-gui.option.autoScaleByFov.@Tooltip": "根据你的视场角设置自动调整界面缩放、距离和横向偏移",
+
+  "text.autoconfig.spatial-gui.option.mirrorThirdPerson": "镜像第三人称",
+  "text.autoconfig.spatial-gui.option.mirrorThirdPerson.@Tooltip": "在第三人称模式下镜像摄像机与界面的位置和旋转",
+
+  "text.autoconfig.spatial-gui.option.hideHotbar": "隐藏快捷栏",
+  "text.autoconfig.spatial-gui.option.hideHotbar.@Tooltip": "打开界面时隐藏快捷栏",
+
+  "text.autoconfig.spatial-gui.option.autoFovTuning": "视场角自动调节",
+  "text.autoconfig.spatial-gui.option.autoFovTuning.@Tooltip": "视场角自动缩放的调节选项",
+
+  "text.autoconfig.spatial-gui.option.autoFovTuning.autoScaleBaselineFov": "自动缩放基准视场角",
+  "text.autoconfig.spatial-gui.option.autoFovTuning.autoScaleBaselineFov.@Tooltip": "不产生缩放调整的视场角数值",
+
+  "text.autoconfig.spatial-gui.option.autoFovTuning.autoScaleScreenPower": "自动缩放界面指数",
+  "text.autoconfig.spatial-gui.option.autoFovTuning.autoScaleScreenPower.@Tooltip": "界面缩放的指数",
+
+  "text.autoconfig.spatial-gui.option.autoFovTuning.autoScaleSideOffsetMultiplier": "自动缩放横向偏移系数",
+  "text.autoconfig.spatial-gui.option.autoFovTuning.autoScaleSideOffsetMultiplier.@Tooltip": "减弱视场角缩放对横向偏移的影响",
+
+  "text.autoconfig.spatial-gui.option.autoFovTuning.autoScaleDistanceMultiplier": "自动缩放距离系数",
+  "text.autoconfig.spatial-gui.option.autoFovTuning.autoScaleDistanceMultiplier.@Tooltip": "调节视场角缩放对摄像机距离的影响",
+
+  "text.autoconfig.spatial-gui.option.autoFovTuning.autoScaleThirdPersonScreenMultiplier": "自动缩放第三人称界面系数",
+  "text.autoconfig.spatial-gui.option.autoFovTuning.autoScaleThirdPersonScreenMultiplier.@Tooltip": "减弱视场角缩放对第三人称界面大小的影响",
+
+  "text.autoconfig.spatial-gui.option.useLinearFiltering": "使用线性过滤",
+  "text.autoconfig.spatial-gui.option.useLinearFiltering.@Tooltip": "使用线性纹理过滤",
+
+  "text.autoconfig.spatial-gui.option.useAnisotropicFiltering": "使用各向异性过滤",
+  "text.autoconfig.spatial-gui.option.useAnisotropicFiltering.@Tooltip": "启用各向异性过滤，获得更好的纹理质量",
+
+  "text.autoconfig.spatial-gui.option.recipeBookShrinkFactor": "配方书缩小系数",
+  "text.autoconfig.spatial-gui.option.recipeBookShrinkFactor.@Tooltip": "打开配方书时界面缩小的幅度",
+
+  "text.autoconfig.spatial-gui.option.hideHandsInFirstPerson": "第一人称隐藏手部",
+  "text.autoconfig.spatial-gui.option.hideHandsInFirstPerson.@Tooltip": "在第一人称模式下隐藏玩家手部",
+
+  "text.autoconfig.spatial-gui.option.hideShieldInFirstPerson": "第一人称隐藏盾牌",
+  "text.autoconfig.spatial-gui.option.hideShieldInFirstPerson.@Tooltip": "在第一人称模式下隐藏玩家盾牌",
+
+  "text.autoconfig.spatial-gui.option.swingArmOnFirstPersonClick": "点击时挥动手臂",
+  "text.autoconfig.spatial-gui.option.swingArmOnFirstPersonClick.@Tooltip": "在第一人称模式下点击物品时挥动玩家手臂",
+
+  "text.autoconfig.spatial-gui.option.renderScalePercent": "分辨率缩放",
+  "text.autoconfig.spatial-gui.option.renderScalePercent.@Tooltip": "GUI 的分辨率缩放（25-100%）。\n数值越低性能越好，但画面更差。",
+
+  "text.autoconfig.spatial-gui.option.screenAlpha": "界面不透明度",
+  "text.autoconfig.spatial-gui.option.screenAlpha.@Tooltip": "物品栏界面的不透明度",
+
+  "text.autoconfig.spatial-gui.option.screenDistance": "界面距离",
+  "text.autoconfig.spatial-gui.option.screenDistance.@Tooltip": "界面与玩家之间的距离",
+
+  "text.autoconfig.spatial-gui.option.screenSideOffset": "界面横向偏移",
+  "text.autoconfig.spatial-gui.option.screenSideOffset.@Tooltip": "界面的水平偏移",
+
+  "text.autoconfig.spatial-gui.option.screenHeightOffset": "界面高度偏移",
+  "text.autoconfig.spatial-gui.option.screenHeightOffset.@Tooltip": "界面的垂直偏移",
+
+  "text.autoconfig.spatial-gui.option.screenYawOffset": "界面偏航角偏移",
+  "text.autoconfig.spatial-gui.option.screenYawOffset.@Tooltip": "界面的水平旋转角度",
+
+  "text.autoconfig.spatial-gui.option.screenPitchOffset": "界面俯仰角偏移",
+  "text.autoconfig.spatial-gui.option.screenPitchOffset.@Tooltip": "界面的垂直旋转角度",
+
+  "text.autoconfig.spatial-gui.option.screenScale": "界面大小",
+  "text.autoconfig.spatial-gui.option.screenScale.@Tooltip": "界面的缩放倍数\n警告：数值过大会导致鼠标追踪失效",
+
+  "text.autoconfig.spatial-gui.option.cameraDistance": "距离",
+  "text.autoconfig.spatial-gui.option.cameraDistance.@Tooltip": "与玩家之间的距离（-4 到 4）",
+
+  "text.autoconfig.spatial-gui.option.cameraSideOffset": "横向偏移",
+  "text.autoconfig.spatial-gui.option.cameraSideOffset.@Tooltip": "相对玩家的水平偏移（-4 到 4）",
+
+  "text.autoconfig.spatial-gui.option.cameraHeightOffset": "垂直偏移",
+  "text.autoconfig.spatial-gui.option.cameraHeightOffset.@Tooltip": "相对玩家的垂直偏移（-4 到 4）",
+
+  "text.autoconfig.spatial-gui.option.cameraTargetPitch": "目标俯仰角",
+  "text.autoconfig.spatial-gui.option.cameraTargetPitch.@Tooltip": "摄像机的垂直角度",
+
+  "text.autoconfig.spatial-gui.option.transitionDurationMs": "过渡时长（毫秒）",
+  "text.autoconfig.spatial-gui.option.transitionDurationMs.@Tooltip": "摄像机过渡动画的持续时间",
+
+  "text.autoconfig.spatial-gui.option.transitionSkipPercentage": "过渡跳过百分比",
+  "text.autoconfig.spatial-gui.option.transitionSkipPercentage.@Tooltip": "跳过过渡的百分比，以避免穿模",
+
+  "text.autoconfig.spatial-gui.option.avatarBaseYawOffset": "头部基础偏航角偏移",
+  "text.autoconfig.spatial-gui.option.avatarBaseYawOffset.@Tooltip": "玩家角色头部的基础偏航角偏移",
+
+  "text.autoconfig.spatial-gui.option.avatarBodyRotationOffset": "角色身体旋转偏移",
+  "text.autoconfig.spatial-gui.option.avatarBodyRotationOffset.@Tooltip": "玩家角色身体的旋转偏移",
+
+  "text.autoconfig.spatial-gui.option.thirdPersonMouseSensitivityYaw": "鼠标水平灵敏度",
+  "text.autoconfig.spatial-gui.option.thirdPersonMouseSensitivityYaw.@Tooltip": "水平方向的鼠标灵敏度",
+
+  "text.autoconfig.spatial-gui.option.thirdPersonMouseSensitivityPitch": "鼠标垂直灵敏度",
+  "text.autoconfig.spatial-gui.option.thirdPersonMouseSensitivityPitch.@Tooltip": "垂直方向的鼠标灵敏度",
+
+  "text.autoconfig.spatial-gui.option.disableThirdPersonParallax": "禁用视差",
+  "text.autoconfig.spatial-gui.option.disableThirdPersonParallax.@Tooltip": "禁用视差效果",
+
+  "text.autoconfig.spatial-gui.option.lerpXRot": "插值 X 轴旋转",
+  "text.autoconfig.spatial-gui.option.lerpXRot.@Tooltip": "过渡期间平滑插值摄像机俯仰角",
+
+  "text.autoconfig.spatial-gui.option.firstPersonScreenDistance": "界面距离",
+  "text.autoconfig.spatial-gui.option.firstPersonScreenDistance.@Tooltip": "界面与摄像机之间的距离",
+
+  "text.autoconfig.spatial-gui.option.firstPersonScreenSideOffset": "界面横向偏移",
+  "text.autoconfig.spatial-gui.option.firstPersonScreenSideOffset.@Tooltip": "界面相对摄像机的水平偏移",
+
+  "text.autoconfig.spatial-gui.option.firstPersonScreenHeightOffset": "界面高度偏移",
+  "text.autoconfig.spatial-gui.option.firstPersonScreenHeightOffset.@Tooltip": "界面相对摄像机的垂直偏移",
+
+  "text.autoconfig.spatial-gui.option.firstPersonScreenYawOffset": "界面偏航角偏移",
+  "text.autoconfig.spatial-gui.option.firstPersonScreenYawOffset.@Tooltip": "界面的水平旋转角度",
+
+  "text.autoconfig.spatial-gui.option.firstPersonScreenPitchOffset": "界面俯仰角偏移",
+  "text.autoconfig.spatial-gui.option.firstPersonScreenPitchOffset.@Tooltip": "界面的垂直旋转角度",
+
+  "text.autoconfig.spatial-gui.option.firstPersonScreenScale": "界面大小",
+  "text.autoconfig.spatial-gui.option.firstPersonScreenScale.@Tooltip": "界面的缩放倍数\n警告：数值过大会导致鼠标追踪失效",
+
+  "text.autoconfig.spatial-gui.option.curvedScreenEnabled": "曲面屏幕（第一人称）",
+  "text.autoconfig.spatial-gui.option.curvedScreenEnabled.@Tooltip": "将第一人称界面渲染为环绕摄像机的半圆柱面\n实验性功能",
+
+  "text.autoconfig.spatial-gui.option.curvedScreenArcDegrees": "曲面弧度（度）",
+  "text.autoconfig.spatial-gui.option.curvedScreenArcDegrees.@Tooltip": "曲面屏幕的总弧度（5-150）。\n数值越大，界面环绕摄像机的范围越大",
+
+  "text.autoconfig.spatial-gui.option.firstPersonMouseSensitivityYaw": "鼠标水平灵敏度",
+  "text.autoconfig.spatial-gui.option.firstPersonMouseSensitivityYaw.@Tooltip": "水平方向的鼠标灵敏度",
+
+  "text.autoconfig.spatial-gui.option.firstPersonMouseSensitivityPitch": "鼠标垂直灵敏度",
+  "text.autoconfig.spatial-gui.option.firstPersonMouseSensitivityPitch.@Tooltip": "垂直方向的鼠标灵敏度",
+
+  "text.autoconfig.spatial-gui.option.disableFirstPersonParallax": "禁用视差",
+  "text.autoconfig.spatial-gui.option.disableFirstPersonParallax.@Tooltip": "禁用视差效果",
+
+  "text.autoconfig.spatial-gui.option.keepFirstPersonCameraAngle": "保持第一人称摄像机角度",
+  "text.autoconfig.spatial-gui.option.keepFirstPersonCameraAngle.@Tooltip": "关闭 GUI 时保持摄像机角度\n警告：这会影响你在服务端的朝向 \n且可能被服务器禁止",
+
+  "text.autoconfig.spatial-gui.option.inheritScreenOriginOnSwap": "切换界面时继承原点",
+  "text.autoconfig.spatial-gui.option.inheritScreenOriginOnSwap.@Tooltip": "当一个界面打开另一个界面时，新界面沿用上一个界面的位置，而不是跟随你在界面内的视角方向",
+
+  "text.autoconfig.spatial-gui.option.useCrosshairForFirstPerson": "第一人称使用准星",
+  "text.autoconfig.spatial-gui.option.useCrosshairForFirstPerson.@Tooltip": "使用游戏内准星的位置进行鼠标交互，而不是实际鼠标指针",
+
+  "text.autoconfig.spatial-gui.option.firstPersonPitchClamp": "第一人称俯仰角限制",
+  "text.autoconfig.spatial-gui.option.firstPersonPitchClamp.@Tooltip": "第一人称界面生成时的最大俯仰角",
+
+  "text.autoconfig.spatial-gui.option.enableFadeAnimation": "启用淡入动画",
+  "text.autoconfig.spatial-gui.option.enableFadeAnimation.@Tooltip": "打开物品栏界面时启用淡入动画",
+
+  "text.autoconfig.spatial-gui.option.fadeDurationMs": "淡入时长（毫秒）",
+  "text.autoconfig.spatial-gui.option.fadeDurationMs.@Tooltip": "淡入动画的持续时间",
+
+  "text.autoconfig.spatial-gui.option.enableScaleAnimation": "启用缩放动画",
+  "text.autoconfig.spatial-gui.option.enableScaleAnimation.@Tooltip": "打开物品栏界面时启用缩放动画",
+
+  "text.autoconfig.spatial-gui.option.openAnimationDurationMs": "缩放时长（毫秒）",
+  "text.autoconfig.spatial-gui.option.openAnimationDurationMs.@Tooltip": "缩放动画的持续时间",
+
+  "text.autoconfig.spatial-gui.option.animationEasing": "缩放缓动",
+  "text.autoconfig.spatial-gui.option.animationEasing.@Tooltip": "动画的缓动函数",
+
+  "text.autoconfig.spatial-gui.option.animationEasing.Cubic": "三次",
+  "text.autoconfig.spatial-gui.option.animationEasing.Elastic": "弹性",
+  "text.autoconfig.spatial-gui.option.animationEasing.Bounce": "弹跳",
+  "text.autoconfig.spatial-gui.option.animationEasing.Back": "回退",
+  "text.autoconfig.spatial-gui.option.animationEasing.Exponential": "指数",
+  "text.autoconfig.spatial-gui.option.animationEasing.Quadratic": "二次",
+  "text.autoconfig.spatial-gui.option.animationEasing.Quartic": "四次",
+
+  "text.autoconfig.spatial-gui.option.animationStartScalePercent": "起始缩放（%）",
+  "text.autoconfig.spatial-gui.option.animationStartScalePercent.@Tooltip": "起始缩放占最终缩放的百分比",
+
+  "key.spatial-gui.open_config": "打开空间 GUI 配置",
+  "key.category.spatial-gui.main_category": "空间 GUI"
+}

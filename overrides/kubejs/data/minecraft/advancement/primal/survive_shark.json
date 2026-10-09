@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "survive_shark": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "survive_shark"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

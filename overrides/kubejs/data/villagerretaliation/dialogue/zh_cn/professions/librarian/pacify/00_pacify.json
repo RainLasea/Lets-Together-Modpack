@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "tags": [
+      "content.dialogue",
+      "dialogue.ambient",
+      "scope.profession.librarian",
+      "section.pacify"
+    ],
+    "topic": "professions.librarian.pacify"
+  },
+  "pacify": [
+    {
+      "id": "librarian_pacify_success",
+      "lines": [
+        "美好的。我会让这一切结束，但我不会忘记它。",
+        "好的。我们可以在造成更多损害之前停下来。",
+        "我接受付款。现在请保持双手平静。",
+        "这解决了眼前的伤害。信任需要更长的时间。",
+        "我们有一个协议。不要给我后悔的理由。",
+        "我退后一步。你也应该这样做。",
+        "如果你现在不去管它，这一切就会悄然结束。",
+        "足够的。我会接受这个提议并关闭这件事的大门。",
+        "我宁愿有和平，也不愿在损害账簿上再添一笔。",
+        "付款已接受。村里还是对你抱有更好的期望。",
+        "我们今天的战斗结束了。",
+        "我可以接受这个和解，尽管并不快乐。",
+        "好的。把武器收起来，让广场安静下来。",
+        "我就暂时解决这个问题吧。",
+        "这就足够了。不要考验我的耐心有多短暂。",
+        "我选择冷静。在那里见我。",
+        "账户余额足以阻止这种情况发生。",
+        "美好的。走开，不再说一句愚蠢的话。",
+        "我会把这个提议作为你想要结束这件事的证据。",
+        "到这里就结束了，只要你的行为随之改变。"
+      ],
+      "outcomes": [
+        "success"
+      ],
+      "weight": 26
+    },
+    {
+      "id": "librarian_pacify_short",
+      "lines": [
+        "这还不够。全额金额为 {emerald_cost} {emeralds}。",
+        "你还矮。带上 {emerald_cost} {emeralds}。",
+        "和解协议需要 {emerald_cost} {emeralds}，而不是少数。",
+        "再数一下。我要的是 {emerald_cost} {emeralds}。",
+        "和平在这里有一个明确的价格。它是 {emerald_cost} {emeralds}。",
+        "我不会假装这涵盖了它。查找 {emerald_cost} {emeralds}。",
+        "金额仍为 {emerald_cost} {emeralds}。",
+        "带上{emerald_cost} {emeralds}的完整付款，然后我们就可以说话了。",
+        "这并不能解决损害。我需要 {emerald_cost} {emeralds}。",
+        "您的报价未达到 {emerald_cost} {emeralds}。",
+        "我把号码写得很清楚。它是 {emerald_cost} {emeralds}。",
+        "没有讨价还价。成本为{emerald_cost} {emeralds}。",
+        "如果没有 {emerald_cost} {emeralds}，您将无法关闭帐户。",
+        "当你拥有所有 {emerald_cost} {emeralds} 时再回来。",
+        "这只是您欠款的一部分。总计为 {emerald_cost} {emeralds}。",
+        "当我看到{emerald_cost} {emeralds}时我会考虑和平。",
+        "该村同意 {emerald_cost} {emeralds}。带那个数量。",
+        "还没有。您需要 {emerald_cost} {emeralds} 来完成此操作。",
+        "你的道歉并不足以让少于 {emerald_cost} {emeralds} 足够。",
+        "带着 {emerald_cost} {emeralds} 返回，没有任何借口。"
+      ],
+      "outcomes": [
+        "not_enough_emeralds"
+      ],
+      "weight": 26
+    },
+    {
+      "id": "librarian_pacify_blocked",
+      "lines": [
+        "保留 {payment_items}。我还没准备好解决这个问题。",
+        "{payment_items} 无法修复在记忆如此新鲜的情况下发生的事情。",
+        "我不想要 {payment_items}。我想要距离。",
+        "把 {payment_items} 收起来。如今，信任是非卖品。",
+        "再多的 {payment_items} 也无法保证这次对话的安全。",
+        "您可以将 {payment_items} 带回家。我的答案是否定的。",
+        "我看到{payment_items}，对伤害的记忆还比较清楚。",
+        "不要向我挥舞{payment_items}，就好像这个村庄已经忘记了一样。",
+        "{payment_items} 可能会在以后弥补损坏。他们现在无法让我平静下来。",
+        "当我仍然害怕你时，我不会讨价还价{payment_items}。",
+        "该记录对于 {payment_items} 来说太新了，无法改变任何事情。",
+        "请按住 {payment_items}，直到我愿意再次发言。",
+        "你太早带来{payment_items}，了解太晚。",
+        "我不能接受 {payment_items} 而不和平，我不是这个意思。",
+        "{payment_items} 不允许您站得这么近。",
+        "在事情变得更糟之前带上 {payment_items} 离开。",
+        "付款不是问题。保留 {payment_items} 并给我时间。",
+        "我稍后会决定 {payment_items} 是否属于任何和解。",
+        "如今，{payment_items}只是我们之间的另一件事。",
+        "无论有或没有 {payment_items}，答案仍然是否定的。"
+      ],
+      "outcomes": [
+        "blocked_by_reputation"
+      ],
+      "weight": 26
+    }
+  ]
+}

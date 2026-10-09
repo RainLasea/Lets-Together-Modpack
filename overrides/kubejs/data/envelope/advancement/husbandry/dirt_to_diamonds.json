@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "scoop_diamond": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "scoop_diamond"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

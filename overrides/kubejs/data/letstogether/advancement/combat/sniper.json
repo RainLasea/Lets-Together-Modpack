@@ -1,0 +1,43 @@
+{
+  "display": {
+    "icon": {
+      "id": "irons_artifice:scope_attachment_modifier"
+    },
+    "title": {
+      "translate": "advancements.letstogether.combat.sniper.title",
+      "fallback": "Distance Won't Save You"
+    },
+    "description": {
+      "translate": "advancements.letstogether.combat.sniper.description",
+      "fallback": "Deal at least 20 damage with a bullet from at least 100 blocks away."
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "professionals_have_standards": {
+      "conditions": {
+        "damage": {
+          "min": 20.0
+        },
+        "distance": {
+          "min": 100.0
+        },
+        "source": "bullet"
+      },
+      "trigger": "irons_artifice:gun_combat"
+    }
+  },
+  "requirements": [
+    [
+      "professionals_have_standards"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:combat/fully_loaded",
+  "rewards": {
+    "experience": 50
+  }
+}

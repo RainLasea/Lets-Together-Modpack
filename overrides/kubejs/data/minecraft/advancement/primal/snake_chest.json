@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "snake_chest": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "snake_chest"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

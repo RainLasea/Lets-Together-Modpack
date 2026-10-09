@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:stick"
+    },
+    "title": {
+      "translate": "advancements.letstogether.realms.gift.title",
+      "fallback": "Brought You Something"
+    },
+    "description": {
+      "translate": "advancements.letstogether.realms.gift.description",
+      "fallback": "Give an Enadrake an item."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "gift_enadrake": {
+      "trigger": "the_beyond:gift_enadrake"
+    }
+  },
+  "requirements": [
+    [
+      "gift_enadrake"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:realms/end"
+}

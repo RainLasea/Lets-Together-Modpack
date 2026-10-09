@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "repair_with_zirconia": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "repair_with_zirconia"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

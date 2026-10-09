@@ -1,0 +1,44 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:bone_block"
+    },
+    "title": {
+      "translate": "advancements.letstogether.realms.fossil.title",
+      "fallback": "Those Are Some Big Bones"
+    },
+    "description": {
+      "translate": "advancements.letstogether.realms.fossil.description",
+      "fallback": "Find a giant fossil campsite."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "structure": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "netherexp:mega_fossil_campsite"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "structure"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:realms/soul_valley"
+}

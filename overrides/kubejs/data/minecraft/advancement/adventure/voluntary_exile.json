@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "voluntary_exile": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "voluntary_exile"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

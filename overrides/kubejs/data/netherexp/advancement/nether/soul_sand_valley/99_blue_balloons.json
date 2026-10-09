@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "leash_apparition": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "leash_apparition"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

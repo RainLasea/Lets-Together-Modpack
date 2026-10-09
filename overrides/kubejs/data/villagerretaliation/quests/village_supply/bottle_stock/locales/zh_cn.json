@@ -1,0 +1,360 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.village_supply.bottle_stock.description": {
+      "lines": [
+        "带上用于补品、墨水的玻璃瓶，并仔细测量。"
+      ]
+    },
+    "quest.village_supply.bottle_stock.dialogue.already_completed": {
+      "lines": [
+        "这件事我们已经解决了。我们已经结算了补充玻璃瓶。",
+        "事情结束得还算顺利。药店货架上有你带来的玻璃瓶。",
+        "该章已关闭。我数了一下你有12个玻璃瓶。我们是方的。",
+        "保留旧的计数。酿酒商已经开始送货。",
+        "所欠的已经还清了。你解决了医学问题却无处可去。",
+        "我记得你第一次回来。没有理由再收集一车玻璃瓶。",
+        "这里没有第二次付款。玻璃瓶库存已从玻璃瓶工作清单中划掉。",
+        "所欠的已经还清了。你帮助我们保持补品和谨慎措施的工作已经完成。",
+        "所欠的已经还清了。最后一批玻璃瓶仍在为村庄服务。",
+        "没有人需要这样做两次。我记得谁填写了玻璃瓶订单，是你。",
+        "事情结束得还算顺利。奖励是在玻璃瓶送来的时候支付的。",
+        "这里没有第二次付款。第一次你就做得够多了。我将把旧条目保留在 补充玻璃瓶 下。",
+        "这件事我们已经解决了。因为您回答了 补充玻璃瓶，所以我们可以对补救措施进行排序。",
+        "所欠的已经还清了。药店货架上的玻璃瓶数量已满。什么都没有丢失。",
+        "所欠的已经还清了。如果我问你两次，酿酒师就会反对。",
+        "事情结束得还算顺利。您交付的玻璃瓶已通过检验并投入使用。",
+        "这里没有第二次付款。药店货架上的那个空位属于昨天。",
+        "没有人需要这样做两次。记录显示您收到了 12 个玻璃瓶。",
+        "这件事我们已经解决了。你做了安静的玻璃瓶工作，让每个人都继续前进。",
+        "所欠的已经还清了。对于 补充玻璃瓶 来说，第一个结局已经足够好了。"
+      ]
+    },
+    "quest.village_supply.bottle_stock.dialogue.inactive": {
+      "lines": [
+        "暂时先别管那项工作。药店货架现在不接受瓶子。",
+        "今天没有什么需要做这项工作。今天没有玻璃瓶的开放订单。",
+        "我们还不需要它。在我要求更多之前，药剂师的货架已经被清点了。",
+        "不是今天。酿酒商尚未提出新的要求。",
+        "村里可以等这一件事。抓住玻璃瓶。我们没有地方可以放置它们。",
+        "村里可以等这一件事。服用补品和采取谨慎措施的需要将会再次出现，但不是今天。",
+        "不是今天。我正在等待下一次计数，然后再打开补充玻璃瓶。",
+        "今天没有什么需要做这项工作。现在带12个玻璃瓶会使仓储拥挤不堪。",
+        "当重要的时候我会发布它。最后一批玻璃瓶还没有用完。",
+        "董事会可以等待。在酿酒师检查剩余的情况后再次询问。",
+        "还没有开始的理由。我不会发明对玻璃瓶的迫切需要。",
+        "还没有开始的理由。药店货架上很安静，所以这个可以等一下。",
+        "暂时先别管那项工作。我们正在处理玻璃瓶的工单。",
+        "不是今天。药店货架上没有任何问题。时机根本不对。",
+        "当重要的时候我会发布它。省省力，直到我们真正需要玻璃瓶为止。",
+        "现在，就让这件事平息吧。除了 补充玻璃瓶 之外，板上没有当前标记。",
+        "还没有开始的理由。今天不是再次运行玻璃瓶的日子。",
+        "现在，就让这件事平息吧。一旦无处可去的药物成为一个问题，我将重新开放这个。",
+        "今天没有什么需要做这项工作。我宁愿拖延也不愿浪费好的玻璃瓶。",
+        "我们还不需要它。等仓储有变化后再向我询问 补充玻璃瓶 的情况。"
+      ]
+    },
+    "quest.village_supply.bottle_stock.dialogue.locate_failed": {
+      "lines": [
+        "我无法确认当前的瓶子订单。检查酿造架后再次询问。",
+        "酿造架计数丢失，所以我不会要求你收集玻璃瓶。",
+        "没有人确认如今酿造架需要多少玻璃瓶。",
+        "工作笔记不完整。我先算算瓶子数。",
+        "在村里确认订单之前我不会给你寄玻璃瓶。",
+        "酿造架上没有贴出值得信赖的瓶数。",
+        "我检查了工作清单两次；瓶子请求尚未准备好。",
+        "该订单可以等到我有当前的瓶子计数后。",
+        "在我把订单交给你之前，需要有人检查一下酿造架。",
+        "村里还没有就瓶数达成一致。",
+        "我有一份旧的瓶子计数，没有当前的。",
+        "酿造架可能需要玻璃瓶，但我不会把猜测变成工作。",
+        "酿造架计数完成后回来。",
+        "该订单缺少详细信息。我需要确认金额和收货地点。",
+        "在工作说明完成之前，我无法将此请求提交给董事会。",
+        "请求尚未准备好。我还在等待酿造货架上的计数。",
+        "在你们开始集合之前，让我确认一下谁需要玻璃瓶。",
+        "还没有工作。该村尚未批准这一瓶子请求。",
+        "在我提供这项工作之前，仓储需要再次清点。",
+        "当瓶子订单有明确的所有者并计数时再次询问。"
+      ]
+    },
+    "quest.village_supply.bottle_stock.dialogue.missing_proof": {
+      "lines": [
+        "你回来时却没有带我要的一件东西。在我重新上架之前把瓶子拿过来。",
+        "故事无法关闭账本。在我签字之前我需要这里的玻璃瓶。",
+        "带回来一些村里可以核实的东西。承诺并不能填满药剂师的货架。带上玻璃瓶送货。",
+        "你带回家的东西决定了这一点。你可能已经收集了它们，但酿酒师还没有收到它们。",
+        "你回来时却没有带我要的一件东西。把 12 个玻璃瓶放在这里，我就可以关闭玻璃瓶订单了。",
+        "带回来一些村里可以核实的东西。玻璃瓶的上交就是这次供应工作的证明。",
+        "你带回家的东西决定了这一点。当你的双手空着的时候，我无法检查没有裂缝的干净瓶子。",
+        "你回来时却没有带我要的一件东西。你的报告听起来不错。我仍然需要真正的玻璃瓶。",
+        "证据仍然很重要。目前还没有任何东西到达药剂师的货架上。",
+        "你回来时却没有带我要的一件东西。在我们讨论瓶子库存奖励之前，请带上您收集的东西。",
+        "证据必须到达我的手中。药店货架需要的是可用的玻璃瓶，而不是关于它们的故事。",
+        "我相信你去了，但这还不够。你一把玻璃瓶放在这里我就数一下。",
+        "证据必须到达我的手中。请勿将交付的玻璃瓶留在另一个箱子中。",
+        "你回来时却没有带我要的一件东西。酿酒师正在等待玻璃瓶捆本身。",
+        "我需要一些我能握住的东西。最后一步很简单。交出玻璃瓶。",
+        "让我看看你带回来了什么。我无法用空柜台来存放补品和谨慎的措施。",
+        "让我看看你带回来了什么。带着玻璃瓶订单回来，我们就完成了。",
+        "我相信你去了，但这还不够。一旦药房货架收到玻璃瓶，玻璃瓶的工作就开始计算。",
+        "你带回家的东西决定了这一点。您只需一交手即可完成补充玻璃瓶。",
+        "证据必须到达我的手中。在我结束之前让我看看玻璃瓶。"
+      ]
+    },
+    "quest.village_supply.bottle_stock.dialogue.missing_target": {
+      "lines": [
+        "交货时间仍然很短。把剩下的玻璃瓶带来。",
+        "我数了两遍； 12 个玻璃瓶的完整订单尚未到货。",
+        "这有帮助，但酿造架仍然需要剩余的玻璃瓶。",
+        "上交不完整。我还无法关闭工作笔记。",
+        "我们同意使用 12 个玻璃瓶；堆还是很短。",
+        "把丢失的玻璃瓶拿来，我就可以结单了。",
+        "酿造架上有空间等待其余的交货。",
+        "部分交付无法满足该村的需求。",
+        "你带来了正确的货物，但不是全额。",
+        "再算一下。酿造架仍然很短。",
+        "工作开始后我无法降低约定的数量。",
+        "继续收集，直到收集完所有 12 个玻璃瓶。",
+        "村子可以用这么多，但还需要剩下的。",
+        "工作即将完成；剩下的就是缺少的金额。",
+        "理货和交货尚未匹配。",
+        "带来一份完整的交货，而不是让酿造架短缺。",
+        "订单将一直有效，直到所有 12 个玻璃瓶都到齐为止。",
+        "除了金额之外，你带来的东西没有任何问题。",
+        "酿造货架依赖的是完整订单，而不是部分订单。",
+        "带着剩下的回来，我会关闭笔记。"
+      ]
+    },
+    "quest.village_supply.bottle_stock.dialogue.reminder": {
+      "lines": [
+        "现在不要丢失线。十二个玻璃瓶。当药物一直呈液体状时，就很难组织起来。",
+        "下一步仍然很重要。我还在等待药店货架上的 12 个玻璃瓶。",
+        "记住村庄在等待什么。寻找干净、无裂纹的瓶子。 原料不好只有移动的问题。",
+        "你还没有完成。酿酒师需要这些玻璃瓶来盛放补品和小心的措施。",
+        "不要让已完成的一步分散您的注意力。数量为 12 个玻璃瓶。回来之前检查一下。",
+        "这项工作仍有未完成的任务。运送玻璃瓶意味着我们可以整理补救措施。",
+        "牢记整个任务。如果您要选择装载，请先携带玻璃瓶。",
+        "将回程行程保留在您的计划中。将玻璃瓶订单放在一起，以便轻松清点玻璃瓶。",
+        "遵守我给你的指示。药剂师的货架上有足够的空间等待整包药物。",
+        "离开之前，请再听一遍。不要让一个简单的请求变成无处可去的良药。",
+        "使这一切得到适当的完成。 补充玻璃瓶 没有隐藏部分。带上约定的玻璃瓶数量。",
+        "遵守我给你的指示。小心处理它们。我想要干净、没有裂缝的瓶子。",
+        "将回程行程保留在您的计划中。如果可以的话，一次性带上所有玻璃瓶。",
+        "继续你接受的工作。酿酒商正在围绕您的回归计划下一步工作。",
+        "继续你接受的工作。我在玻璃瓶石板上写下了 12 个玻璃瓶，这样我们就不用猜了。",
+        "记住村庄在等待什么。这些越早到达，我们就能越早采取进补和谨慎措施。",
+        "使这一切得到适当的完成。玻璃瓶订单中没有遗漏任何其他内容。",
+        "将回程行程保留在您的计划中。当玻璃瓶准备好移交时返回。",
+        "遵守我给你的指示。你知道药店货架需要多少个玻璃瓶。其余的正在聚集。",
+        "下一步仍然很重要。完整的玻璃瓶套装可以节省每个人的第二次旅行。"
+      ]
+    },
+    "quest.village_supply.bottle_stock.dialogue.start": {
+      "lines": [
+        "我需要你来看看这件事。带12个玻璃瓶。没有戏剧性的事情我也能应付。我不想在没有容器的情况下进行管理。",
+        "我需要你来看看这件事。玻璃瓶订单需要12个玻璃瓶。你能处理吗？",
+        "这需要小心谨慎。酿酒师们努力保持补品和谨慎的措施，原料 很薄。",
+        "仅当您准备好时才接受任务。给我拿12个玻璃瓶来。我想要干净、没有裂缝的瓶子。",
+        "这需要小心谨慎。我有一份平淡的工作，却有一份有用的成果。找到 12 个玻璃瓶。",
+        "在你同意之前，先听听所有的内容。如果您填写玻璃瓶订单，我们可以安排补救措施。",
+        "这是工作。无处可去的药品只是一个小问题，直到每个人都需要同样的东西。",
+        "我选择你是有原因的。玻璃瓶石板上的数量是 12 个玻璃瓶。",
+        "这需要小心谨慎。收集玻璃瓶并将整批货物带到这里。",
+        "认真对待这件事。摆满药剂师的货架并不光彩，但很重要。",
+        "我有一个困难的请求。酿酒商要求我为这次活动寻找可靠的人。",
+        "在你同意之前，先听听所有的内容。我需要为药剂师货架提供干净的送货服务。",
+        "认真对待这件事。如果你有时间的话，12个玻璃瓶就可以解决玻璃瓶短缺的问题。",
+        "仔细听。需求是真实的，这使得 补充玻璃瓶 的说明变得简单。",
+        "我选择你是有原因的。清点完毕后，带上玻璃瓶。",
+        "在你同意之前，先听听所有的内容。好的玻璃瓶可以让我们盛装补品和小心措施。",
+        "我把一些重要的事情托付给你。村里不应该在我们行动之前就无处可去。",
+        "仅当您准备好时才接受任务。小心处理玻璃瓶束。我们需要干净、没有裂纹的瓶子。",
+        "这需要小心谨慎。当药剂师货架收到完整订单时我将付款。",
+        "村里有工作给你。找到12个玻璃瓶，我们就可以暂时不再担心这个问题了。"
+      ]
+    },
+    "quest.village_supply.bottle_stock.dialogue.turn_in": {
+      "lines": [
+        "很好，你回来了。好的。空瓶子只会让人感到无聊，直到村子里的空瓶子用完为止。",
+        "现在我可以关闭账本了。计数是对的。我会把这些拿到药店货架上。",
+        "现在我可以关闭账本了。酿酒师现在可以保持补品和谨慎的措施。",
+        "你使工作得到了圆满的结束。这些是干净的瓶子，没有裂缝。你选得不错。",
+        "我很高兴见到你回家。这种交付使我们远离药物而无处可去。",
+        "我很高兴见到你回家。干得好。所有的玻璃瓶都一起到达。",
+        "困难的部分已经过去了。我有你的玻璃瓶，你也获得了瓶子库存奖励。",
+        "这就是我需要的结果。药店的架子看起来已经不那么光秃秃了。",
+        "这将会带来真正的改变。这将帮助我们整理补救措施。",
+        "很好，你回来了。您使酿酒商免于用废料凑合。",
+        "这次回归值得等待。玻璃瓶石板上的所有东西都在这里。",
+        "您准确地交付了所需的内容。一个有用的玻璃瓶工作，毫不费力地完成。谢谢。",
+        "这就是我需要的结果。在有人借玻璃瓶之前我会把它们收起来。",
+        "村里可以用这个。因为您完成了补充玻璃瓶，所以村庄的库存更加充足。",
+        "困难的部分已经过去了。你带来的正是我要的玻璃瓶。",
+        "困难的部分已经过去了。玻璃瓶的输送从上到下都很顺利。",
+        "很好，你回来了。药剂师的货架上少了一件令我们惊讶的短缺。",
+        "这次回归值得等待。村庄可能不会为玻璃瓶欢呼，但会注意到它们的缺席。",
+        "你使工作得到了圆满的结束。接受你的付款。玻璃瓶的数量让我没有任何抱怨。",
+        "这将会带来真正的改变。我可以放心地将玻璃瓶订单交给酿酒商。"
+      ]
+    },
+    "quest.village_supply.bottle_stock.dialogue.unavailable": {
+      "lines": [
+        "这需要我们更了解的人。瓶子请求暂时关闭。",
+        "这需要我们更了解的人。我还不能把在 补充玻璃瓶 下提交的工作交给你。",
+        "您还没有准备好接受此请求。玻璃瓶订单是给药剂师货架上已经认识的人的。",
+        "目前答案是否定的。酿酒商需要他们可以信赖的交货。",
+        "不，风险太高了。在获取瓶子库存之前，向村庄展示更稳定的工作。",
+        "目前答案是否定的。玻璃瓶太重要了，不能把赌注押在陌生人身上。",
+        "在再次询问之前先赢得我们的信任。我今天不会向你打开玻璃瓶石板。",
+        "赢得更多信任后再回来。建立一些信任，然后再次询问 补充玻璃瓶。",
+        "这个村庄需要更稳定的手。我需要有人能带着全部 12 个玻璃瓶回来。",
+        "我不会把这个负担加在你身上。收集玻璃瓶很简单，但可靠性是不可忽视的。",
+        "今天这项工作不是你的。目前，玻璃瓶订单仍由普通工人负责。",
+        "我首先需要证明你的判断力。我还不能向药剂师保证你会送货。",
+        "我不会把这个负担加在你身上。在我们把药剂架交给你之前，还有其他工作要做。",
+        "赢得更多信任后再回来。村里还没有允许你参加玻璃瓶比赛。",
+        "您还没有准备好接受此请求。我宁愿等待，也不愿冒险接受无处可去的药物。",
+        "目前答案是否定的。这不是惩罚。在我打开瓶子库存之前表现出更好的判断力。",
+        "我现在还不能相信你。这次酿酒师要求使用熟悉的跑步者。",
+        "我首先需要证明你的判断力。当你的名字更有分量后，再来订购玻璃瓶。",
+        "今天这项工作不是你的。我不会为 补充玻璃瓶 寻求新的帮助。",
+        "我首先需要证明你的判断力。在这里赢得一些信心，我们可以重新审视 补充玻璃瓶。"
+      ]
+    },
+    "quest.village_supply.bottle_stock.objective.bring_bottles.complete_text": {
+      "lines": [
+        "瓶架已备好货并准备就绪。"
+      ]
+    },
+    "quest.village_supply.bottle_stock.objective.bring_bottles.text": {
+      "lines": [
+        "拿 12 个玻璃瓶放在架子上。"
+      ]
+    },
+    "quest.village_supply.bottle_stock.stage.return.dialogue.turn_in.label": "关于补充玻璃瓶",
+    "quest.village_supply.bottle_stock.stage.return.dialogue.turn_in.lines": [
+      "玻璃透明，无裂纹。酿造台可以再次工作。",
+      "计数是对的，没有一个会闲置太久。",
+      "在我关闭笔记之前让我看看完整的作品。"
+    ],
+    "quest.village_supply.bottle_stock.stage.return.dialogue.turn_in.response.complete.label": "交出工作。",
+    "quest.village_supply.bottle_stock.stage.return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.village_supply.bottle_stock.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "玻璃透明，无裂纹。酿造台可以再次工作。",
+      "计数是对的，没有一个会闲置太久。",
+      "这样就解决了。村里一定会好好利用这一点。"
+    ],
+    "quest.village_supply.bottle_stock.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "仍然缺少一些东西。在我关闭笔记之前检查日记。",
+      "完整的工作尚未准备好进行计算。"
+    ],
+    "quest.village_supply.bottle_stock.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "在我们解决这个问题之前，请带上证据。",
+      "我需要在这里提交完整的内容，而不仅仅是故事。"
+    ],
+    "quest.village_supply.bottle_stock.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "原料 背后需要一个真正的目的地。",
+      "在我们称之为完成之前到达标记的地方。"
+    ],
+    "quest.village_supply.bottle_stock.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "补充玻璃瓶 目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_supply.bottle_stock.stage.return.scene.turn_in_wait.lines": [
+      "为酿造台准备 12 个玻璃瓶",
+      "当工作准备好时再回来。"
+    ],
+    "quest.village_supply.bottle_stock.stage.return.ui.tracker_text": "返回任务给予者。",
+    "quest.village_supply.bottle_stock.stage.work.dialogue.offer.label": "补充玻璃瓶",
+    "quest.village_supply.bottle_stock.stage.work.dialogue.offer.lines": [
+      "一名拿着空瓶架的牧师只是在酿酒台上挥手。",
+      "给酿造台带12个玻璃瓶，架子上看起来就不那么担心了。",
+      "为酿造台准备 12 个玻璃瓶。我会让回报值得付出的努力。"
+    ],
+    "quest.village_supply.bottle_stock.stage.work.dialogue.offer.response.accept.label": "我能做到。",
+    "quest.village_supply.bottle_stock.stage.work.dialogue.offer.response.decline.label": "现在不行。",
+    "quest.village_supply.bottle_stock.stage.work.dialogue.reminder.label": "关于补充玻璃瓶",
+    "quest.village_supply.bottle_stock.stage.work.dialogue.reminder.lines": [
+      "为酿造台准备 12 个玻璃瓶",
+      "为酿造台准备 12 个玻璃瓶。",
+      "给酿造台带12个玻璃瓶，架子上看起来就不那么担心了。"
+    ],
+    "quest.village_supply.bottle_stock.stage.work.dialogue.reminder.response.abandon.label": "把这个放在一边。",
+    "quest.village_supply.bottle_stock.stage.work.dialogue.reminder.response.details.label": "重复该工作。",
+    "quest.village_supply.bottle_stock.stage.work.dialogue.reminder.response.leave.label": "我有。",
+    "quest.village_supply.bottle_stock.stage.work.scene.abandon_confirm.lines": [
+      "把瓶装酒放在一边？",
+      "如果你确定的话我可以把你的名字从工作中删除。"
+    ],
+    "quest.village_supply.bottle_stock.stage.work.scene.abandon_confirm.response.cancel.label": "保持打开状态。",
+    "quest.village_supply.bottle_stock.stage.work.scene.abandon_confirm.response.confirm.label": "把它放在一边。",
+    "quest.village_supply.bottle_stock.stage.work.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "好的。我会从工作中清除你的名字。",
+      "便条收起来了。你可以稍后再问。"
+    ],
+    "quest.village_supply.bottle_stock.stage.work.scene.abandon_quest.action.abandon.lines.abandoned_cooldown": [
+      "我会把这张纸条先搁置一段时间，然后再重新发布。",
+      "在你再次提出要求之前，先让工作休息一下。"
+    ],
+    "quest.village_supply.bottle_stock.stage.work.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "补充玻璃瓶 目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_supply.bottle_stock.stage.work.scene.decline.lines": [
+      "好的。空架子会以自己的方式不断询问。",
+      "另一双手可能会接住它，或者您可以稍后再问。"
+    ],
+    "quest.village_supply.bottle_stock.stage.work.scene.leave.lines": [
+      "为酿造台准备 12 个玻璃瓶",
+      "当工作准备好时再回来。"
+    ],
+    "quest.village_supply.bottle_stock.stage.work.scene.reminder_details.action.remind.lines.reminder": [
+      "为酿造台准备 12 个玻璃瓶",
+      "为酿造台准备 12 个玻璃瓶。",
+      "给酿造台带12个玻璃瓶，架子上看起来就不那么担心了。"
+    ],
+    "quest.village_supply.bottle_stock.stage.work.scene.reminder_details.action.remind.lines.unavailable": [
+      "补充玻璃瓶 目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_supply.bottle_stock.stage.work.scene.start_quest.action.start.lines.already_completed": [
+      "目前瓶子库存已经结算。",
+      "这项工作已经被计算在内。"
+    ],
+    "quest.village_supply.bottle_stock.stage.work.scene.start_quest.action.start.lines.locate_failed": [
+      "我在这里找不到值得信赖的标记。等道路畅通后再询问。",
+      "今天地图不会确定安全目的地。"
+    ],
+    "quest.village_supply.bottle_stock.stage.work.scene.start_quest.action.start.lines.started": [
+      "为酿造台准备 12 个玻璃瓶。在返回的路上将完整的计数放在一起。",
+      "为酿造台准备 12 个玻璃瓶。",
+      "好的。我会为你带回来的东西保留一个地方。"
+    ],
+    "quest.village_supply.bottle_stock.stage.work.scene.start_quest.action.start.lines.unavailable": [
+      "补充玻璃瓶 目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_supply.bottle_stock.stage.work.ui.tracker_text": "为酿造台准备 12 个玻璃瓶。",
+    "quest.village_supply.bottle_stock.title": {
+      "lines": [
+        "补充玻璃瓶"
+      ]
+    },
+    "quest.village_supply.bottle_stock.tracker.proof.text": {
+      "lines": [
+        "拿 12 个玻璃瓶放在架子上。"
+      ]
+    },
+    "quest.village_supply.bottle_stock.tracker.return.text": {
+      "lines": [
+        "带着玻璃瓶返回 任务 给予者。"
+      ]
+    },
+    "quest.village_supply.bottle_stock.tracker.title": {
+      "lines": [
+        "补充玻璃瓶"
+      ]
+    }
+  }
+}

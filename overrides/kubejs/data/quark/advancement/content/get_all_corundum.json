@@ -1,0 +1,61 @@
+{
+  "criteria": {
+    "red": {
+      "trigger": "minecraft:impossible"
+    },
+    "orange": {
+      "trigger": "minecraft:impossible"
+    },
+    "yellow": {
+      "trigger": "minecraft:impossible"
+    },
+    "green": {
+      "trigger": "minecraft:impossible"
+    },
+    "blue": {
+      "trigger": "minecraft:impossible"
+    },
+    "indigo": {
+      "trigger": "minecraft:impossible"
+    },
+    "violet": {
+      "trigger": "minecraft:impossible"
+    },
+    "white": {
+      "trigger": "minecraft:impossible"
+    },
+    "black": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "red"
+    ],
+    [
+      "orange"
+    ],
+    [
+      "yellow"
+    ],
+    [
+      "green"
+    ],
+    [
+      "blue"
+    ],
+    [
+      "indigo"
+    ],
+    [
+      "violet"
+    ],
+    [
+      "white"
+    ],
+    [
+      "black"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

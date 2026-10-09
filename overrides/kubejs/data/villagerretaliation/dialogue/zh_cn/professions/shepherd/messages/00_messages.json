@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "tags": [
+      "content.dialogue",
+      "dialogue.ambient",
+      "scope.profession.shepherd",
+      "section.messages"
+    ],
+    "topic": "professions.shepherd.messages"
+  },
+  "messages": [
+    {
+      "id": "shepherd_gift_given_variants",
+      "key": "gift_given",
+      "lines": [
+        "以{gift_item}为例。路上的一点安慰总不会有什么坏处。",
+        "在这里，{gift_item}。当夜晚变冷时，请将其关闭。",
+        "以{gift_item}为例。虽然不多，但都是用心给予的。",
+        "我为你保存了 {gift_item}。我想你可能会发现它的用处。",
+        "如果您想要的话，这款 {gift_item} 就是您的。",
+        "你之前帮助过我，所以请收下{gift_item}。",
+        "我看到了 {gift_item}，想起了我们上次的谈话。",
+        "这是{gift_item}。没有讨价还价。",
+        "我宁愿你拥有 {gift_item}，也不愿让它落满灰尘。",
+        "在我改变主意之前将 {gift_item} 放在合适的地方。",
+        "我希望 {gift_item} 让接下来的几英里变得更轻松。",
+        "即使我不擅长演讲，这个 {gift_item} 也算是一次应有的感谢。",
+        "我尽可能地包裹了 {gift_item}。",
+        "你看起来像是需要 {gift_item} 的人。",
+        "保留 {gift_item}。我受够了，你也很友善。",
+        "我在胸口腾出空间，发现 {gift_item} 正在等待新家。",
+        "请接受{gift_item}。拒绝只会让事情变得尴尬。",
+        "今天我不能提供太多，但我可以提供{gift_item}。",
+        "在这里，趁我还记得我把{gift_item}放在哪里的时候，拿走它。",
+        "我对这个 {gift_item} 表示感谢。仅此而已。"
+      ],
+      "weight": 48
+    },
+    {
+      "id": "shepherd_gift_advice_followup_liked_variants",
+      "key": "gift_advice_followup.liked",
+      "lines": [
+        "好的。 {gift_item} 适合 {tested_villager}，就像在干净的羊毛上使用正确的染料一样。",
+        "然后这个模式就成立了。 {tested_villager} 喜欢 {gift_item}。",
+        "好的。 {gift_item} 适合 {tested_villager}。我喜欢有效的建议。",
+        "我以为 {tested_villager} 会喜欢 {gift_item}。",
+        "那笑容已经告诉了你一切。 {gift_item}是一个不错的选择。",
+        "很高兴听到这个消息。我对 {gift_item} 相当确定。",
+        "所以{tested_villager}保留了{gift_item}。这是有希望的。",
+        "一份有用的礼物和一个快乐的村民。干得好。",
+        "你倾听、仔细选择，结果得到了回报。",
+        "我对 {tested_villager} 非常了解，能够时不时地找到合适的礼物。",
+        "当他们看到 {gift_item} 时，{tested_villager} 亮起来了吗？我希望如此。",
+        "下次就可以少担心这个猜测了。",
+        "我很高兴 {gift_item} 能够顺利落地。",
+        "你也在正确的时刻给予了它。这很重要。",
+        "好消息。我不想给你发送错误的信息。",
+        "如果您需要再次为 {tested_villager} 加油，请记住 {gift_item}。",
+        "听起来你的努力和礼物一样重要。",
+        "我承认我很高兴在这一点上是正确的。",
+        "你为 {tested_villager} 带来了美好的一天。坚持下去。",
+        "现在你知道什么有效了，我知道我的建议可以是 信任。"
+      ],
+      "weight": 44
+    },
+    {
+      "id": "shepherd_gift_advice_followup_disliked_variants",
+      "key": "gift_advice_followup.disliked",
+      "lines": [
+        "那块布的颜色不对。对于 {gift_subject}，请尝试 {alternative_gift}。",
+        "{gift_item} 发生冲突？带上{alternative_gift}。眼睛和淬炼都比较柔和。",
+        "{gift_item} 未达到 {gift_subject} 的目标。请尝试使用 {alternative_gift}。",
+        "我读得很糟糕。 {gift_subject} 可能更喜欢 {alternative_gift}。",
+        "对此感到抱歉。我不应该建议 {gift_item}。",
+        "将 {gift_item} 留给其他人并寻找 {alternative_gift}。",
+        "{gift_subject}有没有说{gift_item}出了什么问题？",
+        "我期待更好的反应。下次我们试试{alternative_gift}吧。",
+        "这既是我的错误，也是你的错误。",
+        "至少我们知道不要再带{gift_item}了。",
+        "有些口味会改变。也许{gift_subject}现在会欢迎{alternative_gift}。",
+        "在将 {gift_item} 发送给您之后，我欠您更好的建议。",
+        "不要强迫它。礼物不应该成为争论。",
+        "如果 {gift_subject} 拒绝 {gift_item}，请在重试之前给他们空间。",
+        "在我们选择另一件礼物之前我可以四处询问。",
+        "也许时机不对，但 {alternative_gift} 仍然更安全。",
+        "保留 {gift_item}。别人可能会喜欢它。",
+        "我很惊讶 {gift_item} 的表现如此糟糕。",
+        "下次我们应该多询问，少假设。",
+        "尝试 {alternative_gift}。如果失败了，我将不再假装我知道。"
+      ],
+      "weight": 44
+    },
+    {
+      "key": "gift_advice_followup.disliked",
+      "lines": [
+        "错误的模式。拿起 {alternative_gift}，将 {gift_item} 排除在外。",
+        "将 {gift_item} 放在一边并尝试 {alternative_gift}。这个建议应该会更好。",
+        "然后我们纠正猜测。下次带上{alternative_gift}。",
+        "我看得出来你很沮丧。不要把气撒在别人身上。",
+        "暂时保留 {gift_item}。再次推动只会让事情变得更糟。",
+        "也许我误解了他们想要什么。",
+        "当所有人都平静下来后，尝试 {alternative_gift}。",
+        "一份糟糕的礼物并不是一场灾难，除非你坚持让它成为一场灾难。",
+        "你寻求建议，但我给出了错误的答案。我知道。",
+        "在你花更多绿宝石之前让我四处打听一下。",
+        "今天不要用其他产品将他们逼入绝境。",
+        "如果您觉得随身携带 {gift_item} 很麻烦，请将其留在此处。",
+        "我现在对任何第二次尝试都持谨慎态度。",
+        "这种反应背后可能有比礼物本身更多的原因。",
+        "给他们时间，然后询问 {alternative_gift} 是否受欢迎。",
+        "我不承诺 {alternative_gift} 会改善情绪。",
+        "你看起来准备好争论了。那没有帮助。",
+        "当我们理清了受伤的感情之后，我们就可以理清礼物了。",
+        "在决定如何处理 {gift_item} 之前先深吸一口气。",
+        "我会帮你重新选择，但不是在你大喊大叫的时候。"
+      ],
+      "dispositions": [
+        "cautious",
+        "rude",
+        "hostile",
+        "fearful"
+      ],
+      "weight": 20,
+      "id": "professions.shepherd.messages.00_messages.messages.gift_advice_followup.disliked.003"
+    },
+    {
+      "key": "gift_advice_followup.disliked",
+      "lines": [
+        "你顺着线打成一个结。接下来使用{alternative_gift}。",
+        "我告诉了你我的想法，而不是我保证的。",
+        "别再挥舞 {gift_item} 了，好像这会改善它一样。",
+        "如果他们说不，那就听听。",
+        "试试 {alternative_gift}，让我们少一个场景。",
+        "你的淬炼比坏礼物造成的伤害更大。",
+        "不要责怪我，因为你忽略了我的其余建议。",
+        "你带着 {gift_item} 冲了进来，没有问任何问题。",
+        "把{gift_item}拿走，让他们呼吸。",
+        "如果您能礼貌地提供的话，也许 {alternative_gift} 会起作用。",
+        "我不会为你后来的行为承担责任。",
+        "错误在于礼物。争论是你的。",
+        "在羊群周围保持小声说话。",
+        "你想要一个简单的答案，但没有答案。",
+        "如果 {alternative_gift} 也失败了，请不要生气。",
+        "我可以推荐礼物。我无法教你礼仪。",
+        "你听到了你想要的内容并跳过了其他一切。",
+        "在这一天剩下的时间里，让他们一个人呆着。",
+        "在你停止威胁之前我不会再提供帮助。",
+        "如果您只想责怪某人，请将您的 绿宝石 带到其他地方。"
+      ],
+      "dispositions": [
+        "rude",
+        "hostile"
+      ],
+      "weight": 20,
+      "id": "professions.shepherd.messages.00_messages.messages.gift_advice_followup.disliked.004"
+    }
+  ]
+}

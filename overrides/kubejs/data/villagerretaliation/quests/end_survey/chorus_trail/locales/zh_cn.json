@@ -1,0 +1,113 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.end_survey.chorus_trail.description": "通过收获花朵和煮熟的水果来绘制合唱分支的地图。",
+    "quest.end_survey.chorus_trail.stage.return.dialogue.turn_in.label": "关于紫颂",
+    "quest.end_survey.chorus_trail.stage.return.dialogue.turn_in.lines": [
+      "合唱轨迹从根到花进行映射。生活分支已完成。",
+      "我们可以在外端生长一小块，让档案馆可以观看它。",
+      "在我关闭笔记之前让我看看完整的作品。"
+    ],
+    "quest.end_survey.chorus_trail.stage.return.dialogue.turn_in.response.complete.label": "交出工作。",
+    "quest.end_survey.chorus_trail.stage.return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.end_survey.chorus_trail.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "合唱轨迹从根到花进行映射。生活分支已完成。",
+      "我们可以在外端生长一小块，让档案馆可以观看它。"
+    ],
+    "quest.end_survey.chorus_trail.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "完整的工作尚未准备好进行计算。"
+    ],
+    "quest.end_survey.chorus_trail.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "在我们解决这个问题之前，请带上证据。",
+      "我需要在这里提交完整的内容，而不仅仅是故事。"
+    ],
+    "quest.end_survey.chorus_trail.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "原料 背后需要一个真正的目的地。",
+      "在我们称之为完成之前到达标记的地方。"
+    ],
+    "quest.end_survey.chorus_trail.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "紫颂现在没有开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.end_survey.chorus_trail.stage.return.scene.turn_in_wait.lines": [
+      "收获了八朵花，十六颗爆开的果实，三十二颗末石。",
+      "当工作准备好时再回来。"
+    ],
+    "quest.end_survey.chorus_trail.stage.return.ui.tracker_text": "返回任务给予者。",
+    "quest.end_survey.chorus_trail.stage.work.dialogue.offer.label": "紫颂",
+    "quest.end_survey.chorus_trail.stage.work.dialogue.offer.lines": [
+      "第一个副歌标记是真实的。现在绘制出树林如何从一个岛蔓延到另一个岛的图。",
+      "收获活花，烹饪水果，并把可以种植它们的石头带到档案馆附近。",
+      "收获 8 朵紫颂花并带来 16 个爆裂紫颂果和 32 个末影石。"
+    ],
+    "quest.end_survey.chorus_trail.stage.work.dialogue.offer.response.accept.label": "我能做到。",
+    "quest.end_survey.chorus_trail.stage.work.dialogue.offer.response.decline.label": "现在不行。",
+    "quest.end_survey.chorus_trail.stage.work.dialogue.reminder.label": "关于紫颂",
+    "quest.end_survey.chorus_trail.stage.work.dialogue.reminder.lines": [
+      "收获了八朵花，十六颗爆开的果实，三十二颗末石。",
+      "收获 8 朵紫颂花并带来 16 个爆裂紫颂果和 32 个末影石。",
+      "收获活花，烹饪水果，并把可以种植它们的石头带到档案馆附近。"
+    ],
+    "quest.end_survey.chorus_trail.stage.work.dialogue.reminder.response.abandon.label": "把这个放在一边。",
+    "quest.end_survey.chorus_trail.stage.work.dialogue.reminder.response.details.label": "重复该工作。",
+    "quest.end_survey.chorus_trail.stage.work.dialogue.reminder.response.leave.label": "我有。",
+    "quest.end_survey.chorus_trail.stage.work.objective.bring_end_stone.tracker.complete_text": "末地石已准备就绪。",
+    "quest.end_survey.chorus_trail.stage.work.objective.bring_end_stone.tracker.text": "为生长床带来 32 颗末地石。",
+    "quest.end_survey.chorus_trail.stage.work.objective.bring_popped_fruit.tracker.complete_text": "爆开的紫颂果就准备好了。",
+    "quest.end_survey.chorus_trail.stage.work.objective.bring_popped_fruit.tracker.text": "带 16 个爆开的紫颂果。",
+    "quest.end_survey.chorus_trail.stage.work.objective.harvest_flowers.tracker.complete_text": "紫颂花已收获。",
+    "quest.end_survey.chorus_trail.stage.work.objective.harvest_flowers.tracker.text": "收获 8 朵紫颂花。",
+    "quest.end_survey.chorus_trail.stage.work.scene.abandon_confirm.lines": [
+      "把合唱放在一边？",
+      "如果你确定的话我可以把你的名字从工作中删除。"
+    ],
+    "quest.end_survey.chorus_trail.stage.work.scene.abandon_confirm.response.cancel.label": "保持打开状态。",
+    "quest.end_survey.chorus_trail.stage.work.scene.abandon_confirm.response.confirm.label": "把它放在一边。",
+    "quest.end_survey.chorus_trail.stage.work.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "好的。我会从工作中清除你的名字。",
+      "便条收起来了。你可以稍后再问。"
+    ],
+    "quest.end_survey.chorus_trail.stage.work.scene.abandon_quest.action.abandon.lines.abandoned_cooldown": [
+      "我会把这张纸条先搁置一段时间，然后再重新发布。",
+      "在你再次提出要求之前，先让工作休息一下。"
+    ],
+    "quest.end_survey.chorus_trail.stage.work.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "紫颂现在没有开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.end_survey.chorus_trail.stage.work.scene.decline.lines": [
+      "然后让紫颂同时向各个方向发展。"
+    ],
+    "quest.end_survey.chorus_trail.stage.work.scene.leave.lines": [
+      "收获了八朵花，十六颗爆开的果实，三十二颗末石。",
+      "当工作准备好时再回来。"
+    ],
+    "quest.end_survey.chorus_trail.stage.work.scene.reminder_details.action.remind.lines.reminder": [
+      "收获了八朵花，十六颗爆开的果实，三十二颗末石。",
+      "收获 8 朵紫颂花并带来 16 个爆裂紫颂果和 32 个末影石。",
+      "收获活花，烹饪水果，并把可以种植它们的石头带到档案馆附近。"
+    ],
+    "quest.end_survey.chorus_trail.stage.work.scene.reminder_details.action.remind.lines.unavailable": [
+      "紫颂现在没有开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.end_survey.chorus_trail.stage.work.scene.start_quest.action.start.lines.already_completed": [
+      "紫颂目前已经确定。",
+      "这项工作已经被计算在内。"
+    ],
+    "quest.end_survey.chorus_trail.stage.work.scene.start_quest.action.start.lines.locate_failed": [
+      "我在这里找不到值得信赖的标记。等道路畅通后再询问。",
+      "今天地图不会确定安全目的地。"
+    ],
+    "quest.end_survey.chorus_trail.stage.work.scene.start_quest.action.start.lines.started": [
+      "先剪花。没有树冠的紫颂植物只是一个支离破碎的紫色梯子。",
+      "收获 8 朵紫颂花并带来 16 个爆裂紫颂果和 32 个末影石。"
+    ],
+    "quest.end_survey.chorus_trail.stage.work.scene.start_quest.action.start.lines.unavailable": [
+      "紫颂现在没有开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.end_survey.chorus_trail.stage.work.ui.tracker_text": "收获 8 朵紫颂花并带来 16 个爆裂紫颂果和 32 个末影石。",
+    "quest.end_survey.chorus_trail.title": "紫颂"
+  }
+}

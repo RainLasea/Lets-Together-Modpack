@@ -1,0 +1,42 @@
+{
+  "lines": [
+    {
+      "id": "village_defense_armorer_respect",
+      "request": "village_defense_report",
+      "lines": [
+        "你站在盔甲最重要的地方。我更尊重这一点，而不是干净的谈话。",
+        "当大门需要守住时，你就守住了。看到这一点之后，装甲更容易信任。",
+        "你像一个了解门价值的人一样战斗。",
+        "我看到你站在钢铁和恐慌之间。这一直伴随着我。",
+        "村庄比城墙更需要盾牌。你就是其中之一。",
+        "好的铠甲不仅仅只是穿着。有时它会携带武器到来。",
+        "当喊叫开始时，你没有弃牌。我尊重这一点。",
+        "你给了村庄喘息的时间。每个警卫都知道时间的价值。",
+        "当危险临近时，没有人有时间先表现出勇敢。",
+        "当每个人同时听到钟声时，您就会对一个村庄了解很多。",
+        "你向大门走去。",
+        "你处于危险的差距。",
+        "你的勇气让其他人变得坚定。",
+        "你保护了陌生人。",
+        "你选择了最难的地方。",
+        "你让危险远离了家。",
+        "你覆盖了那些倒退的人。",
+        "村里人都记得。",
+        "你承担了责任。",
+        "你让我们站着。"
+      ],
+      "option": "village_defense_report",
+      "show_for_babies": false,
+      "weight": 250
+    }
+  ],
+  "metadata": {
+    "tags": [
+      "content.dialogue",
+      "dialogue.ambient",
+      "scope.profession.armorer",
+      "section.lines"
+    ],
+    "topic": "professions.armorer.village_defense"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.last_ember.pearl_lessons.description": "从研究末影珍珠开始最后的余烬系列，不要将恐惧视为智慧。",
+    "quest.last_ember.pearl_lessons.stage.return.dialogue.turn_in.label": "关于珍珠",
+    "quest.last_ember.pearl_lessons.stage.return.dialogue.turn_in.lines": [
+      "珍珠和纸。一个小小的开始，但每一条最后的道路都始于第一个音符。"
+    ],
+    "quest.last_ember.pearl_lessons.stage.return.dialogue.turn_in.response.complete.label": "写课文。",
+    "quest.last_ember.pearl_lessons.stage.return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.last_ember.pearl_lessons.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "好的。第一个注释是这样说的：恐惧是信息，而不是大师。"
+    ],
+    "quest.last_ember.pearl_lessons.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "这堂课仍然需要珍珠和书本。"
+    ],
+    "quest.last_ember.pearl_lessons.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "在我们写任何东西之前把材料带到这里。"
+    ],
+    "quest.last_ember.pearl_lessons.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "我现在无法结束珍珠课。"
+    ],
+    "quest.last_ember.pearl_lessons.stage.return.scene.leave.lines": [
+      "页面保持打开状态。不要让它凝视太久。"
+    ],
+    "quest.last_ember.pearl_lessons.stage.return.ui.tracker_text": "带着珍珠学习材料返回。",
+    "quest.last_ember.pearl_lessons.stage.study_pearls.dialogue.offer.label": "珍珠",
+    "quest.last_ember.pearl_lessons.stage.study_pearls.dialogue.offer.lines": [
+      "有些事情让村民们降低了声音，因为过去的恐惧教会了他们礼仪。",
+      "末影珍珠就是这样。带两个，一本书。我们将研究那些令我们恐惧的事物，但不会屈服于它。"
+    ],
+    "quest.last_ember.pearl_lessons.stage.study_pearls.dialogue.offer.response.accept.label": "我会把珍珠带来。",
+    "quest.last_ember.pearl_lessons.stage.study_pearls.dialogue.offer.response.decline.label": "还没有。",
+    "quest.last_ember.pearl_lessons.stage.study_pearls.dialogue.reminder.label": "关于珍珠",
+    "quest.last_ember.pearl_lessons.stage.study_pearls.dialogue.reminder.lines": [
+      "带上 2 颗末影珍珠和一本书。我们正在做笔记，而不是预兆。"
+    ],
+    "quest.last_ember.pearl_lessons.stage.study_pearls.dialogue.reminder.response.details.label": "重复教训。",
+    "quest.last_ember.pearl_lessons.stage.study_pearls.dialogue.reminder.response.leave.label": "我会把它们带来。",
+    "quest.last_ember.pearl_lessons.stage.study_pearls.objective.bring_book.tracker.complete_text": "学习书已经准备好了。",
+    "quest.last_ember.pearl_lessons.stage.study_pearls.objective.bring_book.tracker.text": "带一本书来保存最初的笔记。",
+    "quest.last_ember.pearl_lessons.stage.study_pearls.objective.bring_ender_pearls.tracker.complete_text": "珍珠准备好了。",
+    "quest.last_ember.pearl_lessons.stage.study_pearls.objective.bring_ender_pearls.tracker.text": "带 2 颗末影珍珠来研究。",
+    "quest.last_ember.pearl_lessons.stage.study_pearls.scene.decline.lines": [
+      "好的。关于恐惧的教训不应该从胆怯开始。"
+    ],
+    "quest.last_ember.pearl_lessons.stage.study_pearls.scene.leave.lines": [
+      "除非你准备好解释你的着陆，否则不要扔珍珠。"
+    ],
+    "quest.last_ember.pearl_lessons.stage.study_pearls.scene.reminder_details.action.remind.lines.reminder": [
+      "带上 2 颗末影珍珠和 1 本书来参加第一堂《最后的余烬》课程。"
+    ],
+    "quest.last_ember.pearl_lessons.stage.study_pearls.scene.reminder_details.action.remind.lines.unavailable": [
+      "珍珠教训现在还不算数。"
+    ],
+    "quest.last_ember.pearl_lessons.stage.study_pearls.scene.start_quest.action.start.lines.already_completed": [
+      "第一堂珍珠课已经写下来了。"
+    ],
+    "quest.last_ember.pearl_lessons.stage.study_pearls.scene.start_quest.action.start.lines.started": [
+      "带上 2 颗末影珍珠和 1 本书。如果珍珠让房间感觉受到监视，请保持目光稳定。"
+    ],
+    "quest.last_ember.pearl_lessons.stage.study_pearls.scene.start_quest.action.start.lines.unavailable": [
+      "本课程现在尚未准备好开放。"
+    ],
+    "quest.last_ember.pearl_lessons.stage.study_pearls.ui.tracker_text": "带上 2 颗末影珍珠和 1 本书。",
+    "quest.last_ember.pearl_lessons.title": "珍珠"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "ender_chest_gear": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "ender_chest_gear"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

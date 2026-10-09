@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "pot_crafted_using_only_sherds": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "pot_crafted_using_only_sherds"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

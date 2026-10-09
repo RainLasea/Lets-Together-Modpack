@@ -1,0 +1,43 @@
+{
+  "display": {
+    "icon": {
+      "id": "handcrafted:oak_table"
+    },
+    "title": {
+      "translate": "advancements.letstogether.home.table.title",
+      "fallback": "Table for Two"
+    },
+    "description": {
+      "translate": "advancements.letstogether.home.table.description",
+      "fallback": "Place a Handcrafted oak table."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "place": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "block": {
+                "blocks": "handcrafted:oak_table"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "place"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:home/chair"
+}

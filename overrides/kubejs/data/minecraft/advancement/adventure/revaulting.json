@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "revaulting": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "revaulting"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "travelled": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "travelled"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

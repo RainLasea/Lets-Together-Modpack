@@ -1,0 +1,113 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.deep_delvers.timber_brace.description": "固定木树枝并清除下部支撑上的蜘蛛。",
+    "quest.deep_delvers.timber_brace.stage.return.dialogue.turn_in.label": "关于木制支撑",
+    "quest.deep_delvers.timber_brace.stage.return.dialogue.turn_in.lines": [
+      "屋顶静止了，蜘蛛网消失了，木路可以走得更深。",
+      "坚固的牙套，在黑暗中不会发出咔哒声。那是一个安全竖井。",
+      "在我关闭笔记之前让我看看完整的作品。"
+    ],
+    "quest.deep_delvers.timber_brace.stage.return.dialogue.turn_in.response.complete.label": "交出工作。",
+    "quest.deep_delvers.timber_brace.stage.return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.deep_delvers.timber_brace.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "屋顶静止了，蜘蛛网消失了，木路可以走得更深。",
+      "坚固的牙套，在黑暗中不会发出咔哒声。那是一个安全竖井。"
+    ],
+    "quest.deep_delvers.timber_brace.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "完整的工作尚未准备好进行计算。"
+    ],
+    "quest.deep_delvers.timber_brace.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "在我们解决这个问题之前，请带上证据。",
+      "我需要在这里提交完整的内容，而不仅仅是故事。"
+    ],
+    "quest.deep_delvers.timber_brace.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "原料 背后需要一个真正的目的地。",
+      "在我们称之为完成之前到达标记的地方。"
+    ],
+    "quest.deep_delvers.timber_brace.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "木制支撑目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.deep_delvers.timber_brace.stage.return.scene.turn_in_wait.lines": [
+      "二十四根十字撑，四只洞穴蜘蛛，八根绳子。",
+      "当工作准备好时再回来。"
+    ],
+    "quest.deep_delvers.timber_brace.stage.return.ui.tracker_text": "返回任务给予者。",
+    "quest.deep_delvers.timber_brace.stage.work.dialogue.offer.label": "木制支撑",
+    "quest.deep_delvers.timber_brace.stage.work.dialogue.offer.lines": [
+      "支架固定住，但腹板正在拉动下部支撑，并且有一些小东西在它们后面发出咔哒声。",
+      "交叉支撑轴，清除洞穴蜘蛛，并带上绳子作为巢穴消失的证据。",
+      "放置 24 个栅栏支架，击败 4 个洞穴蜘蛛，并带上 8 根绳子。"
+    ],
+    "quest.deep_delvers.timber_brace.stage.work.dialogue.offer.response.accept.label": "我能做到。",
+    "quest.deep_delvers.timber_brace.stage.work.dialogue.offer.response.decline.label": "现在不行。",
+    "quest.deep_delvers.timber_brace.stage.work.dialogue.reminder.label": "关于木制支撑",
+    "quest.deep_delvers.timber_brace.stage.work.dialogue.reminder.lines": [
+      "二十四根十字撑，四只洞穴蜘蛛，八根绳子。",
+      "放置 24 个栅栏支架，击败 4 个洞穴蜘蛛，并带上 8 根绳子。",
+      "交叉支撑轴，清除洞穴蜘蛛，并带上绳子作为巢穴消失的证据。"
+    ],
+    "quest.deep_delvers.timber_brace.stage.work.dialogue.reminder.response.abandon.label": "把这个放在一边。",
+    "quest.deep_delvers.timber_brace.stage.work.dialogue.reminder.response.details.label": "重复该工作。",
+    "quest.deep_delvers.timber_brace.stage.work.dialogue.reminder.response.leave.label": "我有。",
+    "quest.deep_delvers.timber_brace.stage.work.objective.bring_string.tracker.complete_text": "字符串证明已准备就绪。",
+    "quest.deep_delvers.timber_brace.stage.work.objective.bring_string.tracker.text": "从下轴取出 8 根绳子。",
+    "quest.deep_delvers.timber_brace.stage.work.objective.clear_spiders.tracker.complete_text": "洞穴蜘蛛已被清除。",
+    "quest.deep_delvers.timber_brace.stage.work.objective.clear_spiders.tracker.text": "击败支撑物附近的 4 只洞穴蜘蛛。",
+    "quest.deep_delvers.timber_brace.stage.work.objective.set_cross_braces.tracker.complete_text": "交叉支撑已设置。",
+    "quest.deep_delvers.timber_brace.stage.work.objective.set_cross_braces.tracker.text": "放置 24 个栅栏作为交叉支撑。",
+    "quest.deep_delvers.timber_brace.stage.work.scene.abandon_confirm.lines": [
+      "把木支架放在一边？",
+      "如果你确定的话我可以把你的名字从工作中删除。"
+    ],
+    "quest.deep_delvers.timber_brace.stage.work.scene.abandon_confirm.response.cancel.label": "保持打开状态。",
+    "quest.deep_delvers.timber_brace.stage.work.scene.abandon_confirm.response.confirm.label": "把它放在一边。",
+    "quest.deep_delvers.timber_brace.stage.work.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "好的。我会从工作中清除你的名字。",
+      "便条收起来了。你可以稍后再问。"
+    ],
+    "quest.deep_delvers.timber_brace.stage.work.scene.abandon_quest.action.abandon.lines.abandoned_cooldown": [
+      "我会把这张纸条先搁置一段时间，然后再重新发布。",
+      "在你再次提出要求之前，先让工作休息一下。"
+    ],
+    "quest.deep_delvers.timber_brace.stage.work.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "木制支撑目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.deep_delvers.timber_brace.stage.work.scene.decline.lines": [
+      "然后留在下面的灯笼上方。蜘蛛夺走了过去的一切。"
+    ],
+    "quest.deep_delvers.timber_brace.stage.work.scene.leave.lines": [
+      "二十四根十字撑，四只洞穴蜘蛛，八根绳子。",
+      "当工作准备好时再回来。"
+    ],
+    "quest.deep_delvers.timber_brace.stage.work.scene.reminder_details.action.remind.lines.reminder": [
+      "二十四根十字撑，四只洞穴蜘蛛，八根绳子。",
+      "放置 24 个栅栏支架，击败 4 个洞穴蜘蛛，并带上 8 根绳子。",
+      "交叉支撑轴，清除洞穴蜘蛛，并带上绳子作为巢穴消失的证据。"
+    ],
+    "quest.deep_delvers.timber_brace.stage.work.scene.reminder_details.action.remind.lines.unavailable": [
+      "木制支撑目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.deep_delvers.timber_brace.stage.work.scene.start_quest.action.start.lines.already_completed": [
+      "木制支撑目前已经解决。",
+      "这项工作已经被计算在内。"
+    ],
+    "quest.deep_delvers.timber_brace.stage.work.scene.start_quest.action.start.lines.locate_failed": [
+      "我在这里找不到值得信赖的标记。等道路畅通后再询问。",
+      "今天地图不会确定安全目的地。"
+    ],
+    "quest.deep_delvers.timber_brace.stage.work.scene.start_quest.action.start.lines.started": [
+      "在切割每个支撑旁边的腹板之前先设置好每个支撑。屋顶第一，英雄气概第二。",
+      "放置 24 个栅栏支架，击败 4 个洞穴蜘蛛，并带上 8 根绳子。"
+    ],
+    "quest.deep_delvers.timber_brace.stage.work.scene.start_quest.action.start.lines.unavailable": [
+      "木制支撑目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.deep_delvers.timber_brace.stage.work.ui.tracker_text": "放置 24 个栅栏支架，击败 4 个洞穴蜘蛛，并带上 8 根绳子。",
+    "quest.deep_delvers.timber_brace.title": "木制支撑"
+  }
+}

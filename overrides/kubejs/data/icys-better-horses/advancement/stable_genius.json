@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "horse_count": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "horse_count"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

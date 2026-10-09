@@ -1,0 +1,121 @@
+{
+  "criteria": {
+    "beetroot": {
+      "trigger": "minecraft:impossible"
+    },
+    "brown_mushroom": {
+      "trigger": "minecraft:impossible"
+    },
+    "cabbage": {
+      "trigger": "minecraft:impossible"
+    },
+    "carrot": {
+      "trigger": "minecraft:impossible"
+    },
+    "chorus_flower": {
+      "trigger": "minecraft:impossible"
+    },
+    "cocoa": {
+      "trigger": "minecraft:impossible"
+    },
+    "glow_berries": {
+      "trigger": "minecraft:impossible"
+    },
+    "kelp": {
+      "trigger": "minecraft:impossible"
+    },
+    "melon": {
+      "trigger": "minecraft:impossible"
+    },
+    "nether_wart": {
+      "trigger": "minecraft:impossible"
+    },
+    "onion": {
+      "trigger": "minecraft:impossible"
+    },
+    "potato": {
+      "trigger": "minecraft:impossible"
+    },
+    "pumpkin": {
+      "trigger": "minecraft:impossible"
+    },
+    "red_mushroom": {
+      "trigger": "minecraft:impossible"
+    },
+    "rice": {
+      "trigger": "minecraft:impossible"
+    },
+    "sugar_cane": {
+      "trigger": "minecraft:impossible"
+    },
+    "sweet_berries": {
+      "trigger": "minecraft:impossible"
+    },
+    "tomato": {
+      "trigger": "minecraft:impossible"
+    },
+    "wheat": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "wheat"
+    ],
+    [
+      "beetroot"
+    ],
+    [
+      "carrot"
+    ],
+    [
+      "potato"
+    ],
+    [
+      "cabbage"
+    ],
+    [
+      "tomato"
+    ],
+    [
+      "onion"
+    ],
+    [
+      "rice"
+    ],
+    [
+      "melon"
+    ],
+    [
+      "pumpkin"
+    ],
+    [
+      "sweet_berries"
+    ],
+    [
+      "sugar_cane"
+    ],
+    [
+      "kelp"
+    ],
+    [
+      "cocoa"
+    ],
+    [
+      "nether_wart"
+    ],
+    [
+      "chorus_flower"
+    ],
+    [
+      "brown_mushroom"
+    ],
+    [
+      "red_mushroom"
+    ],
+    [
+      "glow_berries"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

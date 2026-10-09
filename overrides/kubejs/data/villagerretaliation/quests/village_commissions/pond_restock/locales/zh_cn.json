@@ -1,0 +1,115 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.village_commissions.pond_restock.description": "带上活鲑鱼和海草来更新村庄的池塘。",
+    "quest.village_commissions.pond_restock.stage.return.dialogue.turn_in.label": "关于村庄池塘旅馆",
+    "quest.village_commissions.pond_restock.stage.return.dialogue.turn_in.lines": [
+      "就这样。让池塘几天，它可能会再次焕发活力。",
+      "淡水、绿色覆盖物和一条非常困惑的鲑鱼。完美的。",
+      "在我关闭笔记之前让我看看完整的作品。"
+    ],
+    "quest.village_commissions.pond_restock.stage.return.dialogue.turn_in.response.complete.label": "交出工作。",
+    "quest.village_commissions.pond_restock.stage.return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.village_commissions.pond_restock.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "就这样。让池塘几天，它可能会再次焕发活力。",
+      "淡水、绿色覆盖物和一条非常困惑的鲑鱼。完美的。",
+      "这样就解决了。村里一定会好好利用这一点。"
+    ],
+    "quest.village_commissions.pond_restock.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "仍然缺少一些东西。在我关闭笔记之前检查日记。",
+      "完整的工作尚未准备好进行计算。"
+    ],
+    "quest.village_commissions.pond_restock.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "在我们解决这个问题之前，请带上证据。",
+      "我需要在这里提交完整的内容，而不仅仅是故事。"
+    ],
+    "quest.village_commissions.pond_restock.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "原料 背后需要一个真正的目的地。",
+      "在我们称之为完成之前到达标记的地方。"
+    ],
+    "quest.village_commissions.pond_restock.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "村庄池塘目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_commissions.pond_restock.stage.return.scene.turn_in_wait.lines": [
+      "桶里有一条活鲑鱼，加上池塘床的八根海草。",
+      "当工作准备好时再回来。"
+    ],
+    "quest.village_commissions.pond_restock.stage.return.ui.tracker_text": "返回任务给予者。",
+    "quest.village_commissions.pond_restock.stage.work.dialogue.offer.label": "村庄池塘",
+    "quest.village_commissions.pond_restock.stage.work.dialogue.offer.lines": [
+      "村里的池塘里全是涟漪，没有鱼。",
+      "带一条活鲑鱼和足够的海草，给它一个藏身的地方。",
+      "带1个鲑鱼桶和8个海草。我会让回报值得付出的努力。"
+    ],
+    "quest.village_commissions.pond_restock.stage.work.dialogue.offer.response.accept.label": "我能做到。",
+    "quest.village_commissions.pond_restock.stage.work.dialogue.offer.response.decline.label": "现在不行。",
+    "quest.village_commissions.pond_restock.stage.work.dialogue.reminder.label": "关于村庄池塘旅馆",
+    "quest.village_commissions.pond_restock.stage.work.dialogue.reminder.lines": [
+      "桶里有一条活鲑鱼，加上池塘床的八根海草。",
+      "带1个鲑鱼桶和8个海草。",
+      "带一条活鲑鱼和足够的海草，给它一个藏身的地方。"
+    ],
+    "quest.village_commissions.pond_restock.stage.work.dialogue.reminder.response.abandon.label": "把这个放在一边。",
+    "quest.village_commissions.pond_restock.stage.work.dialogue.reminder.response.details.label": "重复该工作。",
+    "quest.village_commissions.pond_restock.stage.work.dialogue.reminder.response.leave.label": "我有。",
+    "quest.village_commissions.pond_restock.stage.work.objective.bring_salmon.tracker.complete_text": "鲑鱼已经准备好放生了。",
+    "quest.village_commissions.pond_restock.stage.work.objective.bring_salmon.tracker.text": "带一桶三文鱼。",
+    "quest.village_commissions.pond_restock.stage.work.objective.bring_seagrass.tracker.complete_text": "海草准备好了。",
+    "quest.village_commissions.pond_restock.stage.work.objective.bring_seagrass.tracker.text": "带 8 个海草来覆盖池塘。",
+    "quest.village_commissions.pond_restock.stage.work.scene.abandon_confirm.lines": [
+      "把村里的池塘放在一边？",
+      "如果你确定的话我可以把你的名字从工作中删除。"
+    ],
+    "quest.village_commissions.pond_restock.stage.work.scene.abandon_confirm.response.cancel.label": "保持打开状态。",
+    "quest.village_commissions.pond_restock.stage.work.scene.abandon_confirm.response.confirm.label": "把它放在一边。",
+    "quest.village_commissions.pond_restock.stage.work.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "好的。我会从工作中清除你的名字。",
+      "便条收起来了。你可以稍后再问。"
+    ],
+    "quest.village_commissions.pond_restock.stage.work.scene.abandon_quest.action.abandon.lines.abandoned_cooldown": [
+      "我会把这张纸条先搁置一段时间，然后再重新发布。",
+      "在你再次提出要求之前，先让工作休息一下。"
+    ],
+    "quest.village_commissions.pond_restock.stage.work.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "村庄池塘目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_commissions.pond_restock.stage.work.scene.decline.lines": [
+      "池塘已经等了这么久了。可以再等一段时间。",
+      "另一双手可能会接住它，或者您可以稍后再问。"
+    ],
+    "quest.village_commissions.pond_restock.stage.work.scene.leave.lines": [
+      "桶里有一条活鲑鱼，加上池塘床的八根海草。",
+      "当工作准备好时再回来。"
+    ],
+    "quest.village_commissions.pond_restock.stage.work.scene.reminder_details.action.remind.lines.reminder": [
+      "桶里有一条活鲑鱼，加上池塘床的八根海草。",
+      "带1个鲑鱼桶和8个海草。",
+      "带一条活鲑鱼和足够的海草，给它一个藏身的地方。"
+    ],
+    "quest.village_commissions.pond_restock.stage.work.scene.reminder_details.action.remind.lines.unavailable": [
+      "村庄池塘目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_commissions.pond_restock.stage.work.scene.start_quest.action.start.lines.already_completed": [
+      "村里的池塘现在已经解决了。",
+      "这项工作已经被计算在内。"
+    ],
+    "quest.village_commissions.pond_restock.stage.work.scene.start_quest.action.start.lines.locate_failed": [
+      "我在这里找不到值得信赖的标记。等道路畅通后再询问。",
+      "今天地图不会确定安全目的地。"
+    ],
+    "quest.village_commissions.pond_restock.stage.work.scene.start_quest.action.start.lines.started": [
+      "保持桶直立。鱼不喜欢冒险的道路。",
+      "带1个鲑鱼桶和8个海草。",
+      "好的。我会为你带回来的东西保留一个地方。"
+    ],
+    "quest.village_commissions.pond_restock.stage.work.scene.start_quest.action.start.lines.unavailable": [
+      "村庄池塘目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_commissions.pond_restock.stage.work.ui.tracker_text": "带1个鲑鱼桶和8个海草。",
+    "quest.village_commissions.pond_restock.title": "村庄池塘"
+  }
+}

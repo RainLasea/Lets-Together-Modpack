@@ -1,0 +1,13 @@
+{
+  "name": "origins.letstogether.class_ranger.name",
+  "description": "origins.letstogether.class_ranger.description",
+  "icon": "minecraft:bow",
+  "impact": "low",
+  "order": 2,
+  "powers": [
+    "letstogether:class_ranger_archery",
+    "letstogether:class_ranger_stride",
+    "letstogether:class_ranger_landing"
+  ],
+  "upgrades": []
+}

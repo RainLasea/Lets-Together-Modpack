@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "id": "nomansland:warding_effigy"
+    },
+    "title": {
+      "translate": "advancements.letstogether.memories.moon_dream.title",
+      "fallback": "A Strange Dream"
+    },
+    "description": {
+      "translate": "advancements.letstogether.memories.moon_dream.description",
+      "fallback": "Dream of the Friend Moon."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "criteria": {
+    "dream_friend_moon_trigger": {
+      "trigger": "nomansland:dream_friend_moon_trigger"
+    }
+  },
+  "requirements": [
+    [
+      "dream_friend_moon_trigger"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:memories/root"
+}

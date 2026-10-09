@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "tags": [
+      "content.dialogue",
+      "dialogue.ambient",
+      "scope.profession.toolsmith",
+      "section.pacify"
+    ],
+    "topic": "professions.toolsmith.pacify"
+  },
+  "pacify": [
+    {
+      "id": "toolsmith_pacify_success",
+      "lines": [
+        "美好的。我暂时把边缘收起来。",
+        "美好的。我会退后一步，让愤怒冷却下来。",
+        "美好的。我接受你的提议。保持双手干净。",
+        "好吧。我可以停下来，而不必假装我忘记了。",
+        "现在我们已经完成了。不要让我后悔。",
+        "美好的。我会接受这个提议并降低警惕。",
+        "这足以结束这一切，但不足以抹去它。",
+        "好吧。我们在这里解决，就放在这里。",
+        "我接受。之后给我喘息的空间。",
+        "美好的。战斗在有人让事情变得更糟之前就结束了。",
+        "我会接受和解。到这里就结束了。",
+        "好吧。把它交给我，给我一些空间。",
+        "我们可以停下来。在我们再次交谈之前我需要时间。",
+        "报价很公平。我正在放下武器。",
+        "美好的。我们俩都不再受到打击。",
+        "我接受。趁我们都站着的时候走开。",
+        "这样就解决了损害。信任需要更长的时间。",
+        "好吧。我们会在其他人受伤之前结束它。",
+        "付款已接受。暂时保持距离。",
+        "我将称之为解决。不要再开始这个。"
+      ],
+      "outcomes": [
+        "success"
+      ],
+      "weight": 26
+    },
+    {
+      "id": "toolsmith_pacify_short",
+      "lines": [
+        "错误的措施。需要 {emerald_cost} {emeralds} 才能正确设置。",
+        "那很短。如果您想解决这个问题，请带上 {emerald_cost} {emeralds}。",
+        "不够。如果您想要和平，请带上 {emerald_cost} {emeralds} 并认真对待。",
+        "我不会拿低于 {emerald_cost} {emeralds} 的。",
+        "该报价需要 {emerald_cost} {emeralds}，这不是一个充满希望的猜测。",
+        "带上{emerald_cost} {emeralds}，我们就可以明说。",
+        "您缺少部分付款。它需要 {emerald_cost} {emeralds}。",
+        "放下 {emerald_cost} {emeralds} 或继续行走。",
+        "我数了两遍。价格为{emerald_cost} {emeralds}。",
+        "这并不涵盖伤害。带上 {emerald_cost} {emeralds}。",
+        "你很矮。金额为 {emerald_cost} {emeralds}。",
+        "那堆没有达到{emerald_cost} {emeralds}。",
+        "添加其余的。我要的是 {emerald_cost} {emeralds}。",
+        "在我看到 {emerald_cost} {emeralds} 之前我们没有达成和解。",
+        "你可以自己数一下。我需要 {emerald_cost} {emeralds}。",
+        "{emerald_cost} {emeralds} 受到损坏。这个就少了。",
+        "带来平衡。总计为 {emerald_cost} {emeralds}。",
+        "我不是在讨价还价。它需要 {emerald_cost} {emeralds}。",
+        "这里没有足够的绿宝石。价格为{emerald_cost} {emeralds}。",
+        "将其设为 {emerald_cost} {emeralds} 然后我们就可以结束这一切。"
+      ],
+      "outcomes": [
+        "not_enough_emeralds"
+      ],
+      "weight": 26
+    },
+    {
+      "id": "toolsmith_pacify_blocked",
+      "lines": [
+        "<shake>不</shake>。 {payment_items} 不会解决这个问题。",
+        "保留 {payment_items}。我还没准备好和解。",
+        "不，在情况变得更糟之前把 {payment_items} 收起来。",
+        "当危险仍然存在时，付款就毫无意义。",
+        "我现在不会讨价还价{payment_items}。",
+        "伤害还没有停止足够长的时间，无法达成和解。",
+        "拿 {payment_items} 并不会让我们变得方正。",
+        "现在不要。在你提供任何东西之前先给村庄留出空间。",
+        "在我们讨论付款之前，我需要知道每个人都安全。",
+        "保留 {payment_items}。我们还没有摆脱危险。",
+        "当人们仍然处于危险之中时，任何报价都不重要。",
+        "在威胁之中你买不到平静。",
+        "退后吧。当这一切真正结束时，我们可以计算成本。",
+        "当我仍然需要解放双手时，我不会伸手去拿 {payment_items}。",
+        "这不是市场摊位。先停止伤害。",
+        "放下它然后离开。等淬炼冷静了我们就可以说话了。",
+        "不，安全第一，然后恢复原状。",
+        "即使全额付款也无法解决这个问题，而我仍然无法信任你。",
+        "结束威胁。之后我们就可以讨论{payment_items}了。",
+        "在村庄安全之前不会达成协议。"
+      ],
+      "outcomes": [
+        "blocked_by_reputation"
+      ],
+      "weight": 26
+    }
+  ]
+}

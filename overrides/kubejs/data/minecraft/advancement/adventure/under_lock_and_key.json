@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "under_lock_and_key": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "under_lock_and_key"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

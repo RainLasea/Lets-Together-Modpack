@@ -1,0 +1,360 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.village_supply.feather_fletching.description": {
+      "lines": [
+        "带上羽毛，以便可以批量完成箭头和消息轴。"
+      ]
+    },
+    "quest.village_supply.feather_fletching.dialogue.already_completed": {
+      "lines": [
+        "该章已关闭。我们已经解决了羽箭。",
+        "我问的你都说完了。制箭凳上有你带来的羽毛。",
+        "我记得你第一次回来。我数了你的16根羽毛。我们是方的。",
+        "从此一无所获。箭匠们已经开始交付了。",
+        "这里没有第二次付款。您解决了光秃秃的箭杆堆积的问题。",
+        "我不会重新打开已完成的帐户。没有理由再收集一堆羽毛。",
+        "该章已关闭。制箭羽毛已从羽毛工作清单中划掉。",
+        "该章已关闭。您帮助我们完成箭头和消息轴的部分已经完成。",
+        "没有人需要这样做两次。最后一批羽毛仍在为村庄服务。",
+        "该章已关闭。我记得谁填写了羽毛订单，是你。",
+        "从此一无所获。奖励是在羽毛送达时支付的。",
+        "该章已关闭。第一次你就做得够多了。我将把旧的条目保留在“羽毛箭”下。",
+        "所欠的已经还清了。我们可以让每一次射击都飞得更直，因为您回答了“羽毛箭”。",
+        "所欠的已经还清了。完整的羽毛数到达了制箭台。什么都没有丢失。",
+        "我问的你都说完了。如果我问你两次，制箭师们就会反对。",
+        "保留旧的计数。您交付的羽毛已通过检验并投入使用。",
+        "事情结束得还算顺利。制箭凳上的那个空位属于昨天。",
+        "事情结束得还算顺利。记录显示您收到了 16 根羽毛。",
+        "你早期的作品仍然有效。你所做的安静的羽毛工作让每个人都继续前进。",
+        "没有人需要这样做两次。第一个结局对于羽箭来说已经足够好了。"
+      ]
+    },
+    "quest.village_supply.feather_fletching.dialogue.inactive": {
+      "lines": [
+        "村里可以等这一件事。打羽毛的长凳现在还没有数羽毛。",
+        "等店铺换了再问我。今天没有羽毛订单。",
+        "现在，就让这件事平息吧。在我要求更多之前，已经清点了制箭凳。",
+        "现在，就让这件事平息吧。箭匠们还没有发布新的请求。",
+        "今天没有什么需要做这项工作。抓住羽毛。我们没有地方可以放置它们。",
+        "不是今天。完成箭头和消息轴的需求将会回归，但不是今天。",
+        "当重要的时候我会发布它。我正在等待下一次统计，然后再打开羽毛箭。",
+        "还没有开始的理由。现在带 16 根羽毛就会挤满仓储。",
+        "村里可以等这一件事。最后一批羽毛还没有用完。",
+        "等店铺换了再问我。制箭师检查剩下的东西后再次询问。",
+        "我不会把这个问题列入考虑范围。我不会发明对羽毛的迫切需要。",
+        "现在，就让这件事平息吧。制箭凳很安静，所以这可以等。",
+        "现在，就让这件事平息吧。我们正在处理羽毛订单。",
+        "暂时先别管那项工作。制箭台上没有任何问题。时机根本不对。",
+        "不是今天。省点力气，直到我们真正需要羽毛为止。",
+        "当重要的时候我会发布它。板上除了羽毛箭之外没有当前标记。",
+        "村里可以等这一件事。今天不是再次羽毛跑步的日子。",
+        "现在，就让这件事平息吧。一旦光秃秃的箭杆堆积成为一个问题，我将重新打开它。",
+        "我们还不需要它。我宁愿拖延，也不愿浪费好羽毛。",
+        "不是今天。等仓储换了再问我关于羽毛箭的事。"
+      ]
+    },
+    "quest.village_supply.feather_fletching.dialogue.locate_failed": {
+      "lines": [
+        "我无法确认当前的羽毛订单。检查完制箭台后再询问。",
+        "制羽毛凳的计数不见了，所以我不会要求你收集羽毛。",
+        "没有人证实今天的制箭台需要多少羽毛。",
+        "工作笔记不完整。我先算一下羽毛数。",
+        "在村里确认订单之前我不会给你送羽毛。",
+        "制箭台尚未公布可靠的羽毛数量。",
+        "我检查了工作清单两次；羽毛请求尚未准备好。",
+        "这个订单可以等到我有当前的羽毛统计后。",
+        "在我把订单交给你之前，需要有人检查一下制箭台。",
+        "村里还没有就羽毛数量达成一致。",
+        "我有一份旧的羽毛统计，没有当前的。",
+        "制箭凳可能需要羽毛，但我不会把猜测变成工作。",
+        "打箭台数完后回来。",
+        "该订单缺少详细信息。我需要确认金额和收货地点。",
+        "在工作说明完成之前，我无法将此请求提交给董事会。",
+        "请求尚未准备好。我还在等待制箭凳的统计。",
+        "在你们开始收集之前，让我确认一下谁需要羽毛。",
+        "还没有工作。村里还没有批准这个羽毛请求。",
+        "在我提供这项工作之前，仓储需要再次清点。",
+        "当羽令有明确的主人并计数时再询问。"
+      ]
+    },
+    "quest.village_supply.feather_fletching.dialogue.missing_proof": {
+      "lines": [
+        "证据必须到达我的手中。在我系羽毛轴之前把羽毛带来。",
+        "证据必须到达我的手中。在我签字之前我需要这里的羽毛。",
+        "带回来一些村里可以核实的东西。承诺并不能填补制箭凳的空缺。带来羽毛交付。",
+        "带回来一些村里可以核实的东西。你可能已经收集到了它们，但箭匠们还没有收到它们。",
+        "我无法在空的退货单上签字。将 16 根羽毛放在这里，我就可以关闭羽毛订单了。",
+        "最后一个要求仍然缺失。交出羽毛就是这次补给工作的证明。",
+        "证据仍然很重要。当你双手空空时，我无法检查干净完整的羽毛。",
+        "我相信你去了，但这还不够。你的报告听起来不错。我仍然需要真正的羽毛。",
+        "你回来时却没有带我要的一件东西。还没有任何东西到达制箭凳。",
+        "最后一个要求仍然缺失。在我们讨论羽毛奖励之前，请带上您收集的物品。",
+        "证据必须到达我的手中。制箭凳需要的是可用的羽毛，而不是关于它们的故事。",
+        "证据仍然很重要。你一把羽毛放在这里我就会数数。",
+        "你带回家的东西决定了这一点。不要将交付的羽毛留在另一个箱子中。",
+        "让我看看你带回来了什么。制箭者正在等待羽毛束本身。",
+        "证据仍然很重要。最后一步很简单。把羽毛交出来。",
+        "最后一个要求仍然缺失。我无法用空计数器完成箭头和消息轴。",
+        "你带回家的东西决定了这一点。带着羽毛订单回来，我们就完成了。",
+        "你的话并不是缺失的部分。一旦制羽台收到羽毛，羽毛工作就开始计算。",
+        "我相信你去了，但这还不够。您只需一交手就能完成制箭羽毛。",
+        "证据必须到达我的手中。在我完成之前让我看看羽毛。"
+      ]
+    },
+    "quest.village_supply.feather_fletching.dialogue.missing_target": {
+      "lines": [
+        "交货时间仍然很短。把剩下的羽毛带来。",
+        "我数了两遍； 16 根羽毛的完整订单尚未完成。",
+        "这很有帮助，但是制箭凳仍然需要剩余的羽毛。",
+        "上交不完整。我还无法关闭工作笔记。",
+        "我们商定了 16 根羽毛；堆还是很短。",
+        "把缺少的羽毛带来，然后我就可以结算订单。",
+        "制箭台有空间等待其余的交付。",
+        "部分交付无法满足该村的需求。",
+        "你带来了正确的货物，但不是全额。",
+        "再算一下。制箭凳仍然很短。",
+        "工作开始后我无法降低约定的数量。",
+        "继续收集，直到集齐所有 16 根羽毛。",
+        "村子可以用这么多，但还需要剩下的。",
+        "工作即将完成；剩下的就是缺少的金额。",
+        "理货和交货尚未匹配。",
+        "带来完整的交付而不是留下短板凳。",
+        "订单将一直开放，直到所有 16 根羽毛都到齐为止。",
+        "除了金额之外，你带来的东西没有任何问题。",
+        "制箭台依赖于完整的订单，而不是其中的一部分。",
+        "带着剩下的回来，我会关闭笔记。"
+      ]
+    },
+    "quest.village_supply.feather_fletching.dialogue.reminder": {
+      "lines": [
+        "离开之前，请再听一遍。十六根羽毛，用于制箭羽。当后半部分与前半部分一致时，直箭头更容易。",
+        "不要让已完成的一步分散您的注意力。我还在等待 16 根羽毛用于制箭凳。",
+        "不要让已完成的一步分散您的注意力。寻找干净、饱满的羽毛。 原料不好只有移动的问题。",
+        "离开之前，请再听一遍。箭匠需要这些羽毛来完成箭和信息轴。",
+        "这项工作仍有未完成的任务。数量为 16 根羽毛。回来之前检查一下。",
+        "遵守我给你的指示。这种羽毛传输意味着我们可以让每一次击球飞得更直。",
+        "不要让已完成的一步分散您的注意力。如果您要在负载之间进行选择，请先携带羽毛。",
+        "遵守我给你的指示。将羽毛保持在一起，这样羽毛计数就很容易。",
+        "离开之前，请再听一遍。装箭台有空间等待整捆。",
+        "不要让已完成的一步分散您的注意力。不要让一个简单的请求变成堆积如山的光秃秃的箭杆。",
+        "继续你接受的工作。羽箭没有隐藏部分。带上约定的羽毛数量。",
+        "遵守我给你的指示。小心处理它们。我想要干净完整的羽毛。",
+        "现在不要丢失线。如果可以的话，一次性带上所有羽毛。",
+        "现在不要丢失线。箭匠们正在围绕你的回归计划他们的下一步工作。",
+        "你还没有完成。我在羽毛石板上写下了 16 根羽毛，这样我们就不用猜了。",
+        "继续你接受的工作。这些越早到达，我们就能越早完成箭头和消息轴。",
+        "离开之前，请再听一遍。羽毛秩序中没有遗漏任何其他东西。",
+        "牢记整个任务。当羽毛准备好交出时返回。",
+        "牢记整个任务。你知道制箭台需要多少羽毛。其余的正在聚集。",
+        "牢记整个任务。完整的羽毛包可以为每个人节省第二次旅行。"
+      ]
+    },
+    "quest.village_supply.feather_fletching.dialogue.start": {
+      "lines": [
+        "我有一个困难的请求。带16根羽毛。有箭的村庄，黄昏时走得不一样。",
+        "这需要小心谨慎。羽毛订单需要16根羽毛。你能处理吗？",
+        "村里有工作给你。箭匠正在努力完成箭头和消息轴，而 原料 很薄。",
+        "我需要你来看看这件事。给我16根羽毛。我想要干净完整的羽毛。",
+        "这是工作。我有一份平淡的工作，却有一份有用的成果。找到 16 根羽毛。",
+        "我需要你来看看这件事。如果您填写羽毛订单，我们可以让每一次射击都飞得更直。",
+        "我选择你是有原因的。光秃秃的箭杆堆积起来是一个小问题，直到每个人都需要同样的东西。",
+        "我有一个困难的请求。羽毛石板上的数量是 16 根羽毛。",
+        "认真对待这件事。收集羽毛并将整个交付物带到这里。",
+        "我选择你是有原因的。装上箭羽凳并不光彩，但很重要。",
+        "这是工作。制箭师们要求我为这次跑步寻找可靠的人。",
+        "村里有工作给你。我需要干净地交付制箭台。",
+        "我需要你来看看这件事。如果你有时间的话，16根羽毛就可以解决羽毛短缺的问题。",
+        "这需要小心谨慎。需求是真实的，这使得制箭羽毛的说明变得简单。",
+        "认真对待这件事。当你有完整的计数后，把羽毛带来。",
+        "仔细听。好的羽毛可以让我们完成箭头和信息轴。",
+        "认真对待这件事。在我们行动之前，村里不应该到达堆积如山的光秃秃的箭杆。",
+        "我有一个困难的请求。小心处理羽毛束。我们需要干净完整的羽毛。",
+        "让我们清楚地了解这项工作。当制箭台收到全部订单时我会付款。",
+        "村里有工作给你。找到 16 根羽毛，我们就可以暂时不再担心这个问题了。"
+      ]
+    },
+    "quest.village_supply.feather_fletching.dialogue.turn_in": {
+      "lines": [
+        "很好，你回来了。好的。羽毛决定了警告射击和昂贵的猜测之间的区别。",
+        "很好，你回来了。计数是对的。我会把这些拿到制箭台上。",
+        "很好，你回来了。制箭师现在可以完成箭和消息轴了。",
+        "您准确地交付了所需的内容。这些是干净完整的羽毛。你选得不错。",
+        "这将会带来真正的改变。这种交付使我们避免了光秃秃的箭杆堆积起来。",
+        "这解决了我对你的要求。干得好。所有的羽毛都聚集在一起。",
+        "这就是我需要的结果。我有你的羽毛，你也获得了羽毛奖励。",
+        "这就是我需要的结果。羽毛长凳看起来已经不那么光秃秃的了。",
+        "现在我可以关闭账本了。这将帮助我们让每一次射击都飞得更直。",
+        "村里可以用这个。你让箭匠们免于用残片凑合。",
+        "这次回归值得等待。羽毛石板上的一切都在这里。",
+        "你使工作得到了圆满的结束。一项有用的羽毛工作，毫不费力地完成。谢谢。",
+        "你已经看透了。在有人借用羽毛之前我会把它们收起来。",
+        "村里可以用这个。由于您完成了制箭羽毛，村庄的储备更加充足。",
+        "你已经看透了。你带来的正是我想要的羽毛。",
+        "这次回归值得等待。羽毛的输送从上到下都很健全。",
+        "您准确地交付了所需的内容。制箭凳少了一个等待我们惊喜的短缺。",
+        "这解决了我对你的要求。村庄可能不会为羽毛欢呼，但会注意到它们的缺席。",
+        "困难的部分已经过去了。接受你的付款。羽毛的数量让我没有任何抱怨。",
+        "您准确地交付了所需的内容。我可以放心地将羽毛订单交给制箭师。"
+      ]
+    },
+    "quest.village_supply.feather_fletching.dialogue.unavailable": {
+      "lines": [
+        "在再次询问之前先赢得我们的信任。羽毛请求暂时关闭。",
+        "目前答案是否定的。我还不能把羽毛羽化项下提交的工作交给你。",
+        "这需要我们更了解的人。羽毛顺序是为制箭台已经认识的人准备的。",
+        "有些工作必须等到信任赶上来才可以。制箭师需要他们可以信赖的交付。",
+        "我首先需要证明你的判断力。在获得羽毛箭之前，向村庄展示更稳定的工作。",
+        "我首先需要证明你的判断力。羽毛太重要了，不能把赌注押在陌生人身上。",
+        "您还没有准备好接受此请求。今天我不会向你打开羽毛石板。",
+        "不，风险太高了。建立一些信任，然后再次询问羽毛箭的问题。",
+        "我现在还不能相信你。我需要一个能带着全部 16 根羽毛回来的人。",
+        "不，风险太高了。收集羽毛很简单，但可靠性不是可有可无的。",
+        "您还没有准备好接受此请求。目前，羽毛订单仍由普通人负责。",
+        "目前答案是否定的。我还不能向你保证箭羽长凳会交付。",
+        "这需要我们更了解的人。在我们把制箭凳托付给你之前，还有其他工作要做。",
+        "我首先需要证明你的判断力。村里还没有允许你参加这次羽毛奔跑。",
+        "这需要我们更了解的人。我宁愿等待，也不愿冒着光秃秃的箭杆堆积起来的风险。",
+        "今天这项工作不是你的。这不是惩罚。在我打开羽箭之前表现出更好的判断力。",
+        "我首先需要证明你的判断力。这次制箭师们要了一个熟悉的跑步者。",
+        "有些工作必须等到信任赶上来才可以。当你的名字更有分量后，再来领取羽毛订单。",
+        "在再次询问之前先赢得我们的信任。我不会接受新的羽羽帮助。",
+        "目前答案是否定的。在这里赢得一些信心，我们就可以重温羽毛箭术。"
+      ]
+    },
+    "quest.village_supply.feather_fletching.objective.bring_feathers.complete_text": {
+      "lines": [
+        "箭羽束已准备就绪。"
+      ]
+    },
+    "quest.village_supply.feather_fletching.objective.bring_feathers.text": {
+      "lines": [
+        "为制箭台带来 16 根羽毛。"
+      ]
+    },
+    "quest.village_supply.feather_fletching.stage.return.dialogue.turn_in.label": "关于制箭羽毛",
+    "quest.village_supply.feather_fletching.stage.return.dialogue.turn_in.lines": [
+      "这些足够直，可以制作好箭头。弯曲的会弄脏架子。",
+      "计数是对的，没有一个会闲置太久。",
+      "在我关闭笔记之前让我看看完整的作品。"
+    ],
+    "quest.village_supply.feather_fletching.stage.return.dialogue.turn_in.response.complete.label": "交出工作。",
+    "quest.village_supply.feather_fletching.stage.return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.village_supply.feather_fletching.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "这些足够直，可以制作好箭头。弯曲的会弄脏架子。",
+      "计数是对的，没有一个会闲置太久。",
+      "这样就解决了。村里一定会好好利用这一点。"
+    ],
+    "quest.village_supply.feather_fletching.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "仍然缺少一些东西。在我关闭笔记之前检查日记。",
+      "完整的工作尚未准备好进行计算。"
+    ],
+    "quest.village_supply.feather_fletching.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "在我们解决这个问题之前，请带上证据。",
+      "我需要在这里提交完整的内容，而不仅仅是故事。"
+    ],
+    "quest.village_supply.feather_fletching.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "原料 背后需要一个真正的目的地。",
+      "在我们称之为完成之前到达标记的地方。"
+    ],
+    "quest.village_supply.feather_fletching.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "羽箭目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_supply.feather_fletching.stage.return.scene.turn_in_wait.lines": [
+      "为制箭台带来 16 根羽毛",
+      "当工作准备好时再回来。"
+    ],
+    "quest.village_supply.feather_fletching.stage.return.ui.tracker_text": "返回任务给予者。",
+    "quest.village_supply.feather_fletching.stage.work.dialogue.offer.label": "制箭羽毛",
+    "quest.village_supply.feather_fletching.stage.work.dialogue.offer.lines": [
+      "箭杆正在等待羽毛，等待并不能让它们飞翔。",
+      "为打羽台带上 16 根羽毛，架子上的烦恼就会减少。",
+      "为制箭台带来 16 根羽毛。我会让回报值得付出的努力。"
+    ],
+    "quest.village_supply.feather_fletching.stage.work.dialogue.offer.response.accept.label": "我能做到。",
+    "quest.village_supply.feather_fletching.stage.work.dialogue.offer.response.decline.label": "现在不行。",
+    "quest.village_supply.feather_fletching.stage.work.dialogue.reminder.label": "关于制箭羽毛",
+    "quest.village_supply.feather_fletching.stage.work.dialogue.reminder.lines": [
+      "为制箭台带来 16 根羽毛",
+      "为制箭台带来 16 根羽毛。",
+      "为打羽台带上 16 根羽毛，架子上的烦恼就会减少。"
+    ],
+    "quest.village_supply.feather_fletching.stage.work.dialogue.reminder.response.abandon.label": "把这个放在一边。",
+    "quest.village_supply.feather_fletching.stage.work.dialogue.reminder.response.details.label": "重复该工作。",
+    "quest.village_supply.feather_fletching.stage.work.dialogue.reminder.response.leave.label": "我有。",
+    "quest.village_supply.feather_fletching.stage.work.scene.abandon_confirm.lines": [
+      "把羽羽放在一边？",
+      "如果你确定的话我可以把你的名字从工作中删除。"
+    ],
+    "quest.village_supply.feather_fletching.stage.work.scene.abandon_confirm.response.cancel.label": "保持打开状态。",
+    "quest.village_supply.feather_fletching.stage.work.scene.abandon_confirm.response.confirm.label": "把它放在一边。",
+    "quest.village_supply.feather_fletching.stage.work.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "好的。我会从工作中清除你的名字。",
+      "便条收起来了。你可以稍后再问。"
+    ],
+    "quest.village_supply.feather_fletching.stage.work.scene.abandon_quest.action.abandon.lines.abandoned_cooldown": [
+      "我会把这张纸条先搁置一段时间，然后再重新发布。",
+      "在你再次提出要求之前，先让工作休息一下。"
+    ],
+    "quest.village_supply.feather_fletching.stage.work.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "羽箭目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_supply.feather_fletching.stage.work.scene.decline.lines": [
+      "好的。空架子会以自己的方式不断询问。",
+      "另一双手可能会接住它，或者您可以稍后再问。"
+    ],
+    "quest.village_supply.feather_fletching.stage.work.scene.leave.lines": [
+      "为制箭台带来 16 根羽毛",
+      "当工作准备好时再回来。"
+    ],
+    "quest.village_supply.feather_fletching.stage.work.scene.reminder_details.action.remind.lines.reminder": [
+      "为制箭台带来 16 根羽毛",
+      "为制箭台带来 16 根羽毛。",
+      "为打羽台带上 16 根羽毛，架子上的烦恼就会减少。"
+    ],
+    "quest.village_supply.feather_fletching.stage.work.scene.reminder_details.action.remind.lines.unavailable": [
+      "羽箭目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_supply.feather_fletching.stage.work.scene.start_quest.action.start.lines.already_completed": [
+      "羽箭现在已经解决了。",
+      "这项工作已经被计算在内。"
+    ],
+    "quest.village_supply.feather_fletching.stage.work.scene.start_quest.action.start.lines.locate_failed": [
+      "我在这里找不到值得信赖的标记。等道路畅通后再询问。",
+      "今天地图不会确定安全目的地。"
+    ],
+    "quest.village_supply.feather_fletching.stage.work.scene.start_quest.action.start.lines.started": [
+      "为制箭台带来 16 根羽毛。在返回的路上将完整的计数放在一起。",
+      "为制箭台带来 16 根羽毛。",
+      "好的。我会为你带回来的东西保留一个地方。"
+    ],
+    "quest.village_supply.feather_fletching.stage.work.scene.start_quest.action.start.lines.unavailable": [
+      "羽箭目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_supply.feather_fletching.stage.work.ui.tracker_text": "为制箭台带来 16 根羽毛。",
+    "quest.village_supply.feather_fletching.title": {
+      "lines": [
+        "制箭羽毛"
+      ]
+    },
+    "quest.village_supply.feather_fletching.tracker.proof.text": {
+      "lines": [
+        "为制箭台带来 16 根羽毛。"
+      ]
+    },
+    "quest.village_supply.feather_fletching.tracker.return.text": {
+      "lines": [
+        "返回带着羽毛的 任务 给予者。"
+      ]
+    },
+    "quest.village_supply.feather_fletching.tracker.title": {
+      "lines": [
+        "制箭羽毛"
+      ]
+    }
+  }
+}

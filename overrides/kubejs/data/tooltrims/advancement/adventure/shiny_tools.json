@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "has_trimmed_tool": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "has_trimmed_tool"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

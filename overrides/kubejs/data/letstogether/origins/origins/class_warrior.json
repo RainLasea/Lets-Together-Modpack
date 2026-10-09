@@ -1,0 +1,14 @@
+{
+  "name": "origins.letstogether.class_warrior.name",
+  "description": "origins.letstogether.class_warrior.description",
+  "icon": "minecraft:iron_sword",
+  "impact": "low",
+  "order": 1,
+  "powers": [
+    "letstogether:class_warrior_blade",
+    "letstogether:class_warrior_armor",
+    "letstogether:class_warrior_steadfast",
+    "letstogether:class_warrior_parry"
+  ],
+  "upgrades": []
+}

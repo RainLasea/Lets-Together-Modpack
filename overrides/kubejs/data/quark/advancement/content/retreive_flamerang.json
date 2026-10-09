@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "retreive_flamerang": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "retreive_flamerang"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

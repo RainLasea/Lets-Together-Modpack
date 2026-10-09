@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "tags": [
+      "content.dialogue",
+      "dialogue.ambient",
+      "scope.profession.cleric",
+      "section.pacify"
+    ],
+    "topic": "professions.cleric.pacify"
+  },
+  "pacify": [
+    {
+      "id": "cleric_pacify_success",
+      "lines": [
+        "好的。我愿意让这件事冷静下来。",
+        "美好的。我会退后一步。",
+        "我已经听够了，我已经把手放下了。",
+        "我们可以在有人受伤之前停下来。",
+        "我接受这个努力。不要浪费它。",
+        "吸一口气。我也会这样做。",
+        "这并不能消除所发生的事情，但它结束了战斗。",
+        "我仍然很生气，尽管我不再想要血。",
+        "保持距离，我们就可以平静地离开。",
+        "好的。让我们解决这个问题，不要再造成任何伤害。",
+        "如果你不再威胁我，我就不会罢工。",
+        "你还有一次机会平静地走开。",
+        "今天这个村子已经发生了足够多的暴力事件。",
+        "我宁愿明天再谈，也不愿今晚打架。",
+        "美好的。把它放下，我也会做同样的事。",
+        "我们现在可以结束这一切了。",
+        "我相信你想要和平。让我静静地离开。",
+        "我的愤怒抵不上另一个受伤的邻居。",
+        "我会接受休战。",
+        "小心点。信任并没有随着沉默而回归。"
+      ],
+      "outcomes": [
+        "success"
+      ],
+      "weight": 26
+    },
+    {
+      "id": "cleric_pacify_short",
+      "lines": [
+        "你很矮。带上 {emerald_cost} {emeralds}。",
+        "这不是约定的金额。我需要 {emerald_cost} {emeralds}。",
+        "再数一下。成本为{emerald_cost} {emeralds}。",
+        "我不能接受低于 {emerald_cost} {emeralds} 的。",
+        "全额付款为 {emerald_cost} {emeralds}。",
+        "您总共还欠足够赚 {emerald_cost} {emeralds} 的钱。",
+        "此优惠不涵盖伤害。带上 {emerald_cost} {emeralds}。",
+        "我说的是 {emerald_cost} {emeralds}，我是认真的。",
+        "当你拥有所有 {emerald_cost} {emeralds} 时再回来。",
+        "直到付款达到 {emerald_cost} {emeralds} 后我们才会结算。",
+        "这只是你所欠的一部分。",
+        "金额没有变化。它仍然是 {emerald_cost} {emeralds}。",
+        "别让我数第三次。",
+        "损坏发生后，您无法讨价还价。",
+        "该村期待完整的 {emerald_cost} {emeralds}。",
+        "这还不足以解决任何问题。",
+        "带上丢失的绿宝石，我们就能完成这件事。",
+        "我会等待完全付款。",
+        "在提出此报价之前您就知道成本。",
+        "返回 {emerald_cost} {emeralds}，而不是另一个借口。"
+      ],
+      "outcomes": [
+        "not_enough_emeralds"
+      ],
+      "weight": 26
+    },
+    {
+      "id": "cleric_pacify_blocked",
+      "lines": [
+        "不，这个伤口还没有准备好闭合。",
+        "付款还无法解决这个问题。",
+        "我对你不够信任，无法达成协议。",
+        "保留 {payment_items}。我需要距离。",
+        "再多的 {payment_items} 也无法解决今天发生的事情。",
+        "{payment_items} 买不到我的宽恕。",
+        "损坏太新，无法讨价还价。",
+        "我不愿意与你讨论和平。",
+        "在事情变得更糟之前离开。",
+        "在达成协议之前必须存在信任。",
+        "我不会假装付款可以让我安全。",
+        "{payment_items} 中我现在不需要你提供任何东西。",
+        "不是今天。也许不会很长一段时间。",
+        "这不是{payment_items}可以简单偿还的债务。",
+        "我需要改变行为，而不是另一个提议。",
+        "村子里仍然有理由害怕你。",
+        "你已经越过了 绿宝石 无法移动的界限。",
+        "请勿伸手去拿 {payment_items}。走吧。",
+        "我拒绝讨价还价，而不是要求更多。",
+        "只有在你的行为改变之后才回来。"
+      ],
+      "outcomes": [
+        "blocked_by_reputation"
+      ],
+      "weight": 26
+    }
+  ]
+}

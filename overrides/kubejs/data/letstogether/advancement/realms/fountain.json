@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "id": "the_beyond:memory_remembrance"
+    },
+    "title": {
+      "translate": "advancements.letstogether.realms.fountain.title",
+      "fallback": "Five to Remember"
+    },
+    "description": {
+      "translate": "advancements.letstogether.realms.fountain.description",
+      "fallback": "Offer 5 remembrances to a fountain."
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "fountain_offering": {
+      "trigger": "the_beyond:fountain_offering"
+    }
+  },
+  "requirements": [
+    [
+      "fountain_offering"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:realms/remembrance"
+}

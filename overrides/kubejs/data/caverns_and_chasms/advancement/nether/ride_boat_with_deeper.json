@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "ride_boat_with_deeper": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "ride_boat_with_deeper"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

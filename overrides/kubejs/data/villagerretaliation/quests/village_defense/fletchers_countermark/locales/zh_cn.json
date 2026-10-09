@@ -1,0 +1,372 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.village_defense.fletchers_countermark.description": {
+      "lines": [
+        "侦察掠夺者前哨站并带着十字弓回来作为威胁的证据。"
+      ]
+    },
+    "quest.village_defense.fletchers_countermark.dialogue.already_completed": {
+      "lines": [
+        "该章已关闭。我们已经解决了制箭师的对标问题。",
+        "事情结束得还算顺利。你已经从掠夺者前哨站带着我们需要的东西回来了。",
+        "这里没有第二次付款。制箭师的对标已关闭。我不会让你穿过那些在路上观察两次的掠夺者。",
+        "我记得你第一次回来。您前往掠夺者前哨站的 路线 已在防御计划中。",
+        "所欠的已经还清了。我记得你带着十字弓回来的那天。",
+        "我问的你都说完了。您获得了制箭师对标的奖励，并且已支付。",
+        "我记得你第一次回来。我们有重量证明，因为你已经完成了前往掠夺者前哨站的旅程。",
+        "我不会重新打开已完成的帐户。前哨站里没有任何东西有待收回。",
+        "这件事我们已经解决了。你从掠夺者前哨站带来的东西仍在帮助村庄。",
+        "保留旧的计数。你曾经证明过前哨站 路线。这就够了。",
+        "你早期的作品仍然有效。防御计划在已完成的标记旁边标有您的名字。",
+        "该章已关闭。将制箭师的对标留在过去它所属的地方。",
+        "我问的你都说完了。你在第一次回归时就解决了制箭师对标的所有部分。",
+        "你早期的作品仍然有效。掠夺者哨站已抵达，十字弓证据已交付。",
+        "我问的你都说完了。在把你送回掠夺者前哨站之前，我会为你找到一条路。",
+        "我记得你第一次回来。没有人忘记前往掠夺者前哨站的旅程花费了多少钱。",
+        "这里没有第二次付款。掠夺者前哨站的制箭师对标不需要您第二次访问。",
+        "我问的你都说完了。你给了我们十字弓，而不是另一个谣言。",
+        "我记得你第一次回来。制箭师的反击正确地结束了，并且仍然结束了。",
+        "你早期的作品仍然有效。我们现在可以展望未来。制箭师的对标完成了。"
+      ]
+    },
+    "quest.village_defense.fletchers_countermark.dialogue.inactive": {
+      "lines": [
+        "我不会把这个问题列入考虑范围。目前制箭师对标的条件并不合适。",
+        "时间不对。掠夺者前哨站的标记今天未开放。",
+        "董事会可以等待。我没有理由让你去冒险，去对抗刚才正在路上监视的掠夺者。",
+        "董事会可以等待。村里没有准备好使用弩和24支箭。",
+        "董事会可以等待。等到防御计划要求前往掠夺者前哨站。",
+        "我不会把这个问题列入考虑范围。毫无必要地前往掠夺者前哨站只会带来危险。",
+        "我不会把这个问题列入考虑范围。前哨站 路线 可以保持折叠状态，直到时机改善。",
+        "我们还不需要它。我暂时不考虑制箭师的对标。",
+        "董事会可以等待。今天掠夺者前哨站里没有什么需要我们回答的。",
+        "村里可以等这一件事。准备好前往掠夺者前哨站的装备，但先不要离开。",
+        "今天没有什么需要做这项工作。制箭师的对标是真实的。现在还不是。",
+        "时间不对。我不会为了满足旧的笔记而派你去监视道路的掠夺者。",
+        "我们还不需要它。掠夺者前哨站可以等到我们有需要时再返回。",
+        "村里可以等这一件事。等村里审查了防御计划后再询问。",
+        "当重要的时候我会发布它。今天没有人主动声称对弩有所有权。",
+        "不是今天。通往掠夺者前哨站的路很安静，我打算就这样走下去。",
+        "暂时先别管那项工作。现在开始制箭师的反标记会花费勇气，但不会产生任何有用的结果。",
+        "我不会把这个问题列入考虑范围。制箭师的对标尚未发布给任何旅行者。",
+        "当重要的时候我会发布它。给制箭师的对标时间，让它变得必要。",
+        "还没有开始的理由。目前，请留在前往掠夺者前哨站的旅程的这一侧。"
+      ]
+    },
+    "quest.village_defense.fletchers_countermark.dialogue.locate_failed": {
+      "lines": [
+        "我们首先需要一个值得信赖的路线。我无法从这里锁定前哨站。该标记可能是旧的，或者更糟糕的是，移动的。",
+        "图表有问题。我无法在掠夺者前哨站上留下值得信赖的标记。",
+        "在我认路之前，你就待在这里。我检查过的每台 路线 在前哨站前都发生故障。",
+        "我的地图让我们失望了。掠夺者前哨站的地图不一致，而监视道路的掠夺者没有留下猜测的余地。",
+        "我不会猜测 路线。我发现了关于掠夺者前哨站的传闻，但我不会给你任何道路。",
+        "我们首先需要一个值得信赖的路线。掠夺者前哨站已经超出了我的掠夺者前哨站图表。",
+        "我不会猜测 路线。如果没有坚定的方位，制箭师的对标就会漂移。",
+        "小路已经冷了。我最好的地图在前哨站应该在的地方是空白的。",
+        "没有标记比假标记好。我追踪到了三个 路线 前往掠夺者前哨站，但没有追踪到 信任。",
+        "可疑的地图风险太大。旧的掠夺者前哨站指示在危险开始之前就结束了。",
+        "我们首先需要一个值得信赖的路线。我不会假装猜测可以标记掠夺者前哨站。",
+        "在我认路之前，你就待在这里。没有侦察兵确认掠夺者前哨站的标记。",
+        "我找不到可以给你的安全支撑。在我标记之前，通往掠夺者前哨站的小路就已经冷了。",
+        "在我认路之前，你就待在这里。我需要掠夺者前哨站坐标，而不是篝火故事。",
+        "我不能盲目地送你出去。掠夺者前哨站可能在那里，但我无法证明在哪里。",
+        "旧的指示不再一致。掠夺者前哨站的方位均不通向同一地面。",
+        "可疑的地图风险太大。在你准备离开之前，让我找到一个诚实的前哨站 路线。",
+        "我不会猜测 路线。今天的防御计划提供的是警告，而不是指示。",
+        "小路已经冷了。当我需要确定性时，掠夺者前哨站地图却让我产生怀疑。",
+        "在我认路之前，你就待在这里。到掠夺者前哨站的路回来后会给我们答案。"
+      ]
+    },
+    "quest.village_defense.fletchers_countermark.dialogue.missing_proof": {
+      "lines": [
+        "证据仍然很重要。从威胁中带出十字弓。我想要的是重量，而不是谣言。",
+        "你带回家的东西决定了这一点。你回来时十字弓仍然不见踪影。",
+        "你回来时却没有带我要的一件东西。如果没有商定的弩证据，我无法关闭防御计划。",
+        "故事无法关闭账本。你面对了掠夺者前哨站，但村庄仍然需要十字弓。",
+        "我需要一些我能握住的东西。在我们解决制箭师的对标之前带回一把弩和 24 支箭。",
+        "证据仍然很重要。你的故事可能是真的。我还需要十字弓。",
+        "证据仍然很重要。当弩易手时，前往掠夺者前哨站的旅程就结束了。",
+        "你回来时却没有带我要的一件东西。不要到达掠夺者前哨站而忘记验证它的十字弓。",
+        "我相信你去了，但这还不够。我知道你旅行过。我需要掠夺者前哨站的结果。",
+        "你回来时却没有带我要的一件东西。制箭师的对标奖励取决于十字弓的证据，而不是线索。",
+        "你回来时却没有带我要的一件东西。让我看看十字弓，制箭师的反标记就可以关闭。",
+        "最后一个要求仍然缺失。防御计划中空出的地方等待着你恢复的东西。",
+        "带回来一些村里可以核实的东西。言语不能代替有分量的证据。",
+        "我相信你去了，但这还不够。在前往掠夺者前哨站两次之前检查一下你的背包。",
+        "让我看看你带回来了什么。制箭师的反标记从一开始就命名了它的证明。",
+        "你回来时却没有带我要的一件东西。把弩证据带到这里而不是留在仓储里。",
+        "带回来一些村里可以核实的东西。村子要了一把弩和24支箭，但仍未完成。",
+        "你回来时却没有带我要的一件东西。在看到 路线 前哨站的内容后，我可以记录它。",
+        "让我看看你带回来了什么。一次十字弓交接将制箭师的反标记与完成分开。",
+        "带回来一些村里可以核实的东西。当弩在你手中时返回。"
+      ]
+    },
+    "quest.village_defense.fletchers_countermark.dialogue.missing_target": {
+      "lines": [
+        "这项任务不仅仅与货物有关。一把弩可以出自很多人之手。我需要你去侦察一下前哨基地。",
+        "靠近它不算数。您尚未确认掠夺者前哨站本身。",
+        "地图上仍然显示着未完成的旅程。如果掠夺者前哨站从未到达，那么货物就毫无意义。",
+        "你还没有走得足够远。制箭师的对标包括道路和返回。",
+        "你还没有走得足够远。在你给我带来证据之前先踏入前哨站。",
+        "我需要确认该网站。我向掠夺者前哨站索要证据，而不是其他地方。",
+        "达到目标是承诺的一部分。掠夺者前哨站在防御计划中保持不变。",
+        "这项任务不仅仅与货物有关。在领取制箭师的对标奖励之前完成外出旅程。",
+        "路一定会在我送你去的地方结束。借来的弩不能代替到达掠夺者前哨站。",
+        "我需要确认该网站。掠夺者前哨站地图仍然显示你停了下来。",
+        "先完成外出的旅程。前往标记的地方并通过那里看到制箭师的对标。",
+        "必须到达该地点本身。前哨站 路线 必须结束于掠夺者前哨站，而不是靠近它。",
+        "我需要确认该网站。在我相信这份报告之前，我需要你关注掠夺者前哨站。",
+        "先完成外出的旅程。不要跳过让掠夺者注视着你面前道路的部分。",
+        "必须到达该地点本身。村庄要求你确认前哨站的存在。",
+        "先完成外出的旅程。你回来的还早。掠夺者前哨仍在等待。",
+        "先完成外出的旅程。到达掠夺者前哨站，然后找回一把十字弓和 24 支箭。",
+        "路一定会在我送你去的地方结束。前往掠夺者前哨站的旅程尚未完成，而最终标记尚未到达。",
+        "必须到达该地点本身。防御计划需要一个确定的地方，而不仅仅是一个项目。",
+        "达到目标是承诺的一部分。返回掠夺者前哨站并完成你开始的事情。"
+      ]
+    },
+    "quest.village_defense.fletchers_countermark.dialogue.reminder": {
+      "lines": [
+        "不要让已完成的一步分散您的注意力。 {target_x}、{target_z} 附近的前哨站。十字弓为证，24支箭，所以我们回答正确。",
+        "继续你接受的工作。掠夺者前哨站仍在 {target_x}、{target_z} 附近。",
+        "遵守我给你的指示。该标记仍靠近 {target_x}、{target_z}，因此请保持计划的前哨站 路线。",
+        "你还没有完成。再次查看地图。掠夺者前哨站仍在 {target_x}、{target_z} 附近。",
+        "不要让已完成的一步分散您的注意力。制箭师的对标仍然需要一把十字弓和 24 支箭。",
+        "下一步仍然很重要。留意掠夺者在进来的路上注视着道路。",
+        "使这一切得到适当的完成。不要在没有十字弓的情况下离开掠夺者前哨站。",
+        "离开之前，请再听一遍。您的退货应该给我们提供重量证明。",
+        "牢记整个任务。在地标模糊之前检查 {target_x}、{target_z} 处的掠夺者前哨站方位。",
+        "你还没有完成。收回十字弓后，请妥善保管它。",
+        "记住村庄在等待什么。防御计划将一直有效，直到您回家为止。",
+        "使这一切得到适当的完成。不要盲目冲向掠夺者前哨站。按照标记并完整返回。",
+        "离开之前，请再听一遍。掠夺者前哨站尚未从 {target_x}、{target_z} 移出。",
+        "牢记整个任务。记住你为什么要去。我们需要在威胁到达我们之前对其进行衡量。",
+        "现在不要丢失线。如果前哨 路线 感觉不对，请对照 {target_x}、{target_z} 检查您的位置。",
+        "离开之前，请再听一遍。困难的部分是到达前哨站并带着证据离开。",
+        "使这一切得到适当的完成。掠夺者前哨站仍在 {target_x}、{target_z} 附近等待。",
+        "离开之前，请再听一遍。将十字弓的每个部件和 24 支箭重新组装在一起。",
+        "现在不要丢失线。我宁愿等待，也不愿收到约定的一半弩。",
+        "下一步仍然很重要。找到掠夺者前哨站，在那里做制箭师的对标，然后回到我身边。"
+      ]
+    },
+    "quest.village_defense.fletchers_countermark.dialogue.start": {
+      "lines": [
+        "认真对待这件事。前哨站位于 {direction}，大约 {distance} 区块，靠近 {target_x}、{target_z}。带上一把十字弓和24支箭。",
+        "认真对待这件事。我在 {target_x}、{target_z} 附近标记了掠夺者前哨站。",
+        "这需要小心谨慎。向 {direction} 行驶约 {distance} 方块并寻找前哨站。",
+        "让我们清楚地了解这项工作。我们的工作是在威胁到达我们之前对其进行衡量。",
+        "仔细听。带着一把弩和 24 支箭回家，所以村里的事情不仅仅是谣言。",
+        "我需要你来看看这件事。道路通向看守道路的掠夺者，因此在离开前做好准备。",
+        "认真对待这件事。我需要有人愿意到达掠夺者前哨站并带着证据回来。",
+        "仅当您准备好时才接受任务。根据我的地图，掠夺者前哨站位于 {target_x}、{target_z} 附近。",
+        "仅当您准备好时才接受任务。跟随{direction}轴承并保持防御计划干燥。",
+        "这是工作。制箭师的对标从掠夺者前哨站开始，在十字弓到达我身边时结束。",
+        "在你同意之前，先听听所有的内容。掠夺者前哨站标记距离 {distance} 左右。不要将速度误认为是谨慎。",
+        "认真对待这件事。带上一把弩和24支箭，我就可以把这个风险变成有用的东西。",
+        "我把一些重要的事情托付给你。村庄需要有分量的证据，而不是在火上吹嘘。",
+        "认真对待这件事。我信任你前哨站 路线，因为它并不友善。",
+        "仔细听。前往 {target_x}、{target_z} 并亲自确认掠夺者前哨站。",
+        "这需要小心谨慎。在穿过最后一个安全地带之前，请做好准备，让掠夺者监视道路。",
+        "我需要你来看看这件事。向外的旅程证明了掠夺者前哨站地图。回报证明了你。",
+        "认真对待这件事。不要从前哨站空手回来。",
+        "我需要你来看看这件事。仅当您打算完成旅行和恢复时才选择制箭师的对标。",
+        "我需要你来看看这件事。当你有弩和24支箭之后，直接带到这里来。"
+      ]
+    },
+    "quest.village_defense.fletchers_countermark.dialogue.turn_in": {
+      "lines": [
+        "这就是我需要的结果。这已经足够证明了。村庄将知道将其 <dark_gray><wavy>恐惧</wavy></dark_gray> 及其箭头指向何处。",
+        "你已经看透了。您到达了掠夺者前哨站并将十字弓带回家。",
+        "很好，你回来了。防御计划终于有了真正的结局。",
+        "您准确地交付了所需的内容。这是有重量的证明，足够坚固，可以握住。",
+        "你使工作得到了圆满的结束。村庄可以在威胁到达我们之前就对其进行评估，因为您承担了风险。",
+        "这次回归值得等待。我要了一把弩和24支箭，你却把所有零件都回来了。",
+        "你已经看透了。你穿过掠夺者，看着路并保持头脑清醒。",
+        "我很高兴见到你回家。 路线 前哨站现已确认，而不仅仅是绘制出来的。",
+        "村里用得上这些。我肯定能付清“制箭师的回记”的报酬。",
+        "你使工作得到了圆满的结束。弩比任何吹嘘都更能讲述故事。",
+        "这就是我需要的结果。你让通往掠夺者前哨站的危险道路对这里的每个人都有用。",
+        "村里可以用这个。掠夺者前哨站不再只是地图上的警告。",
+        "村里可以用这个。我会将你的掠夺者前哨站的发现放在村庄可以研究的地方。",
+        "村里可以用这个。制箭师的对标是干净的，即使前往掠夺者前哨站的旅程并不干净。",
+        "你使工作得到了圆满的结束。这就是我希望看到的弩证据。",
+        "现在我可以关闭账本了。你从掠夺者前哨站回来时，不仅仅只是为了生存。你带来了答案。",
+        "我很高兴见到你回家。制箭师的反击结束时，村庄已经做好了更充分的准备。",
+        "村里可以用这个。下一位前往掠夺者前哨站的旅行者将拥有您的 路线。",
+        "村里可以用这个。获得制箭师的对标奖励。你在安全道路之外赢得了它。",
+        "你使工作得到了圆满的结束。我很高兴看到弩和携带它的人。"
+      ]
+    },
+    "quest.village_defense.fletchers_countermark.dialogue.unavailable": {
+      "lines": [
+        "我首先需要证明你的判断力。你还不是我需要的侦察兵。",
+        "在再次询问之前先赢得我们的信任。制箭师的反标记要求我对你还没有信任。",
+        "我首先需要证明你的判断力。今天我不能通过路边的掠夺者给你一台 路线。",
+        "赢得更多信任后再回来。掠夺者前哨站不适合未经考验的盟友。",
+        "有些工作必须等到信任赶上来才可以。在索要掠夺者前哨站地图之前，先在这里进行更稳定的工作。",
+        "这需要我们更了解的人。我需要一个可以信任的人从掠夺者前哨站回来。",
+        "您还没有准备好接受此请求。防御计划暂时对你关闭。",
+        "目前答案是否定的。制箭师的对标所冒的风险不仅仅是旅行者的生命。",
+        "我现在还不能相信你。赢得我们的信任，然后再次询问前哨站的情况。",
+        "目前答案是否定的。经过重量证明后我不会派陌生人去。",
+        "这需要我们更了解的人。毫无疑问，掠夺者前哨站对我们来说已经足够危险了。",
+        "赢得更多信任后再回来。您的名字尚未到达防御计划的 信任 页面。",
+        "有些工作必须等到信任赶上来才可以。有比制箭师的对标更安全的任务可以向我展示你是如何工作的。",
+        "您还没有准备好接受此请求。在提供前往掠夺者前哨站的旅程之前，我需要判断的证据。",
+        "今天这项工作不是你的。目前，掠夺者前哨站地图仍处于折叠状态。",
+        "这个村庄需要更稳定的手。在威胁到达我们手中之前，村庄还没有准备好进行衡量。",
+        "今天这项工作不是你的。当你和我们在一起的时间更长之后，询问一下掠夺者前哨站的情况。",
+        "您还没有准备好接受此请求。勇气可能会到达掠夺者前哨站。可靠性让十字弓回家。",
+        "这需要我们更了解的人。制箭师的反标记保留在经过验证的手上。",
+        "赢得更多信任后再回来。当我们信任你通往掠夺者前哨站的道路时我会告诉你。"
+      ]
+    },
+    "quest.village_defense.fletchers_countermark.objective.bring_arrows.complete_text": {
+      "lines": [
+        "箭头束已准备就绪。"
+      ]
+    },
+    "quest.village_defense.fletchers_countermark.objective.bring_arrows.text": {
+      "lines": [
+        "带上24支箭，在侦察员之后补充手表。"
+      ]
+    },
+    "quest.village_defense.fletchers_countermark.stage.return.dialogue.turn_in.label": "关于制箭师的对标",
+    "quest.village_defense.fletchers_countermark.stage.return.dialogue.turn_in.lines": [
+      "反标记与巡逻队相匹配，手表上已准备好箭头。",
+      "现在我们知道哪个旗帜正在向我们移动以及如何回应它。",
+      "在我关闭笔记之前让我看看完整的作品。"
+    ],
+    "quest.village_defense.fletchers_countermark.stage.return.dialogue.turn_in.response.complete.label": "交出工作。",
+    "quest.village_defense.fletchers_countermark.stage.return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.village_defense.fletchers_countermark.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "反标记与巡逻队相匹配，手表上已准备好箭头。",
+      "现在我们知道哪个旗帜正在向我们移动以及如何回应它。"
+    ],
+    "quest.village_defense.fletchers_countermark.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "完整的工作尚未准备好进行计算。"
+    ],
+    "quest.village_defense.fletchers_countermark.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "在我们解决这个问题之前，请带上证据。",
+      "我需要在这里提交完整的内容，而不仅仅是故事。"
+    ],
+    "quest.village_defense.fletchers_countermark.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "原料 背后需要一个真正的目的地。",
+      "在我们称之为完成之前到达标记的地方。"
+    ],
+    "quest.village_defense.fletchers_countermark.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "制箭师的对标目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_defense.fletchers_countermark.stage.return.scene.turn_in_wait.lines": [
+      "前哨标记，手中有一把掠夺者十字弓，还有二十四支用于值班的箭。",
+      "当工作准备好时再回来。"
+    ],
+    "quest.village_defense.fletchers_countermark.stage.return.ui.tracker_text": "返回任务给予者。",
+    "quest.village_defense.fletchers_countermark.stage.work.dialogue.offer.label": "制箭师的回记",
+    "quest.village_defense.fletchers_countermark.stage.work.dialogue.offer.lines": [
+      "掠夺者的箭在箭杆上有一个切口，可以区分一支巡逻队和另一支巡逻队。",
+      "侦察前哨站，带回一把有标记的十字弓，并在手表主人跟随之前重新装满手表。",
+      "到达标记的掠夺者前哨站并携带十字弓和 24 支箭返回。"
+    ],
+    "quest.village_defense.fletchers_countermark.stage.work.dialogue.offer.response.accept.label": "我能做到。",
+    "quest.village_defense.fletchers_countermark.stage.work.dialogue.offer.response.decline.label": "现在不行。",
+    "quest.village_defense.fletchers_countermark.stage.work.dialogue.reminder.label": "关于制箭师的对标",
+    "quest.village_defense.fletchers_countermark.stage.work.dialogue.reminder.lines": [
+      "前哨标记，手中有一把掠夺者十字弓，还有二十四支用于值班的箭。",
+      "到达标记的掠夺者前哨站并携带十字弓和 24 支箭返回。",
+      "侦察前哨站，带回一把有标记的十字弓，并在手表主人跟随之前重新装满手表。"
+    ],
+    "quest.village_defense.fletchers_countermark.stage.work.dialogue.reminder.response.abandon.label": "把这个放在一边。",
+    "quest.village_defense.fletchers_countermark.stage.work.dialogue.reminder.response.details.label": "重复该工作。",
+    "quest.village_defense.fletchers_countermark.stage.work.dialogue.reminder.response.leave.label": "我有。",
+    "quest.village_defense.fletchers_countermark.stage.work.objective.bring_arrows.tracker.complete_text": "箭头束已准备就绪。",
+    "quest.village_defense.fletchers_countermark.stage.work.objective.bring_arrows.tracker.text": "带上 24 个箭头来补充手表。",
+    "quest.village_defense.fletchers_countermark.stage.work.objective.carry_crossbow.tracker.complete_text": "弩证明已经准备好了。",
+    "quest.village_defense.fletchers_countermark.stage.work.objective.carry_crossbow.tracker.text": "携带 1 个掠夺者十字弓作为证据。",
+    "quest.village_defense.fletchers_countermark.stage.work.objective.visit_outpost.tracker.complete_text": "前哨站已被侦察。",
+    "quest.village_defense.fletchers_countermark.stage.work.objective.visit_outpost.tracker.text": "到达标记的掠夺者前哨站。",
+    "quest.village_defense.fletchers_countermark.stage.work.scene.abandon_confirm.lines": [
+      "把制箭师的反标记放在一边？",
+      "如果你确定的话我可以把你的名字从工作中删除。"
+    ],
+    "quest.village_defense.fletchers_countermark.stage.work.scene.abandon_confirm.response.cancel.label": "保持打开状态。",
+    "quest.village_defense.fletchers_countermark.stage.work.scene.abandon_confirm.response.confirm.label": "把它放在一边。",
+    "quest.village_defense.fletchers_countermark.stage.work.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "好的。我会从工作中清除你的名字。",
+      "便条收起来了。你可以稍后再问。"
+    ],
+    "quest.village_defense.fletchers_countermark.stage.work.scene.abandon_quest.action.abandon.lines.abandoned_cooldown": [
+      "我会把这张纸条先搁置一段时间，然后再重新发布。",
+      "在你再次提出要求之前，先让工作休息一下。"
+    ],
+    "quest.village_defense.fletchers_countermark.stage.work.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "制箭师的对标目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_defense.fletchers_countermark.stage.work.scene.decline.lines": [
+      "然后不要在前哨道路附近佩戴亮盾。"
+    ],
+    "quest.village_defense.fletchers_countermark.stage.work.scene.leave.lines": [
+      "前哨标记，手中有一把掠夺者十字弓，还有二十四支用于值班的箭。",
+      "当工作准备好时再回来。"
+    ],
+    "quest.village_defense.fletchers_countermark.stage.work.scene.reminder_details.action.remind.lines.reminder": [
+      "前哨标记，手中有一把掠夺者十字弓，还有二十四支用于值班的箭。",
+      "到达标记的掠夺者前哨站并携带十字弓和 24 支箭返回。",
+      "侦察前哨站，带回一把有标记的十字弓，并在手表主人跟随之前重新装满手表。"
+    ],
+    "quest.village_defense.fletchers_countermark.stage.work.scene.reminder_details.action.remind.lines.unavailable": [
+      "制箭师的对标目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_defense.fletchers_countermark.stage.work.scene.start_quest.action.start.lines.already_completed": [
+      "制箭师的对标目前已经确定。",
+      "这项工作已经被计算在内。"
+    ],
+    "quest.village_defense.fletchers_countermark.stage.work.scene.start_quest.action.start.lines.locate_failed": [
+      "我在这里找不到值得信赖的标记。等道路畅通后再询问。",
+      "今天地图不会确定安全目的地。"
+    ],
+    "quest.village_defense.fletchers_countermark.stage.work.scene.start_quest.action.start.lines.started": [
+      "拍摄前先看一下。清理塔楼的侦察兵可能仍然会错过塔楼后面的巡逻队。",
+      "到达标记的掠夺者前哨站并携带十字弓和 24 支箭返回。"
+    ],
+    "quest.village_defense.fletchers_countermark.stage.work.scene.start_quest.action.start.lines.unavailable": [
+      "制箭师的对标目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_defense.fletchers_countermark.stage.work.ui.tracker_text": "侦察掠夺者前哨站并带着十字弓和 24 支箭返回。",
+    "quest.village_defense.fletchers_countermark.title": {
+      "lines": [
+        "制箭师的回记"
+      ]
+    },
+    "quest.village_defense.fletchers_countermark.tracker.bring_arrows.text": {
+      "lines": [
+        "为村庄守卫捆绑 24 支箭。"
+      ]
+    },
+    "quest.village_defense.fletchers_countermark.tracker.proof.text": {
+      "lines": [
+        "带回一把弩和24支箭。"
+      ]
+    },
+    "quest.village_defense.fletchers_countermark.tracker.return.text": {
+      "lines": [
+        "带着前哨站证据返回给 任务 给予者。"
+      ]
+    },
+    "quest.village_defense.fletchers_countermark.tracker.title": {
+      "lines": [
+        "制箭师的回记"
+      ]
+    },
+    "quest.village_defense.fletchers_countermark.tracker.travel.text": {
+      "lines": [
+        "侦察 {target_x}、{target_z} 附近的前哨站。"
+      ]
+    }
+  }
+}

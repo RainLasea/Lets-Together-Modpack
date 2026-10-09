@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "netherexp:black_ice_glaciers": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "netherexp:black_ice_glaciers"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "use_totem": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "use_totem"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "ventilated": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "ventilated"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

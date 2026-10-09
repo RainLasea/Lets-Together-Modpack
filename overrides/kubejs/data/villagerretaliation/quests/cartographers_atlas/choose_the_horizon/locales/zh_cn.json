@@ -1,0 +1,139 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.cartographers_atlas.choose_the_horizon.description": {
+      "lines": [
+        "选择并准备地图集第一个伟大的主世界 路线。"
+      ]
+    },
+    "quest.cartographers_atlas.choose_the_horizon.scene.atlas_horizon_choice.metadata.title": "地图册的远方抉择",
+    "quest.cartographers_atlas.choose_the_horizon.scene.atlas_horizon_choice.step.coast_charge.data.text": "淹没的海岸吸收了主世界的墨水。准备调查工具包；接下来是纪念碑本身。",
+    "quest.cartographers_atlas.choose_the_horizon.scene.atlas_horizon_choice.step.dark_roof_charge.data.text": "黑暗的屋顶道路采用了主世界的墨水。准备调查工具包；接下来是豪宅本身。",
+    "quest.cartographers_atlas.choose_the_horizon.scene.atlas_horizon_choice.step.set_the_atlas_down.data.text": "地图集在你们之间敞开。它的主世界利润正在等待您选择的第一个伟大的 路线。",
+    "quest.cartographers_atlas.choose_the_horizon.stage.coast_chosen.dialogue.turn_in.label": "关于地平线",
+    "quest.cartographers_atlas.choose_the_horizon.stage.coast_chosen.dialogue.turn_in.lines": [
+      "淹没海岸套件已准备就绪。该地图集可以指向它的第一个伟大的主世界 路线。"
+    ],
+    "quest.cartographers_atlas.choose_the_horizon.stage.coast_chosen.dialogue.turn_in.response.complete.label": "设置淹没海岸地平线",
+    "quest.cartographers_atlas.choose_the_horizon.stage.coast_chosen.dialogue.turn_in.response.leave.label": "还没有",
+    "quest.cartographers_atlas.choose_the_horizon.stage.coast_chosen.scene.complete_coast.action.turn_in.lines.completed": [
+      "完成。地图集选择了它的第一个主世界地平线。接下来是纪念碑调查。"
+    ],
+    "quest.cartographers_atlas.choose_the_horizon.stage.coast_chosen.scene.complete_coast.action.turn_in.lines.missing_objectives": [
+      "海岸装备仍然需要望远镜、船和补给品。"
+    ],
+    "quest.cartographers_atlas.choose_the_horizon.stage.coast_chosen.scene.complete_coast.action.turn_in.lines.unavailable": [
+      "在 路线 套件到达之前我无法设置海岸地平线。"
+    ],
+    "quest.cartographers_atlas.choose_the_horizon.stage.coast_chosen.scene.leave.lines": [
+      "海岸会继续发出噪音，直到我们结束。"
+    ],
+    "quest.cartographers_atlas.choose_the_horizon.stage.coast_chosen.ui.tracker_text": "返回制图师那里设置淹没海岸的地平线。",
+    "quest.cartographers_atlas.choose_the_horizon.stage.coast_final.dialogue.reminder.label": "关于地平线",
+    "quest.cartographers_atlas.choose_the_horizon.stage.coast_final.dialogue.reminder.lines": [
+      "在淹没海岸页面打开之前，组装一架望远镜、一艘船和足够的物资来进行纪念碑调查。"
+    ],
+    "quest.cartographers_atlas.choose_the_horizon.stage.coast_final.dialogue.reminder.response.details.label": "重复套件",
+    "quest.cartographers_atlas.choose_the_horizon.stage.coast_final.dialogue.reminder.response.leave.label": "算了",
+    "quest.cartographers_atlas.choose_the_horizon.stage.coast_final.objective.bring_provisions.tracker.complete_text": "海岸给养已经装满了。",
+    "quest.cartographers_atlas.choose_the_horizon.stage.coast_final.objective.bring_provisions.tracker.text": "带 16 条煮熟的鳕鱼去海岸探险。",
+    "quest.cartographers_atlas.choose_the_horizon.stage.coast_final.objective.carry_boat.tracker.complete_text": "海岸船已经准备好了。",
+    "quest.cartographers_atlas.choose_the_horizon.stage.coast_final.objective.carry_boat.tracker.text": "携带 1 艘橡木船前往淹没海岸 路线。",
+    "quest.cartographers_atlas.choose_the_horizon.stage.coast_final.objective.carry_spyglass.tracker.complete_text": "调查望远镜已准备就绪。",
+    "quest.cartographers_atlas.choose_the_horizon.stage.coast_final.objective.carry_spyglass.tracker.text": "携带 1 个望远镜以进行淹没海岸调查。",
+    "quest.cartographers_atlas.choose_the_horizon.stage.coast_final.scene.leave.lines": [
+      "潮水可以等待，但不会永远等待。"
+    ],
+    "quest.cartographers_atlas.choose_the_horizon.stage.coast_final.scene.reminder_details.action.remind.lines.reminder": [
+      "携带 1 个望远镜和 1 艘橡木船，然后携带 16 条熟鳕鱼进行淹没海岸探险。"
+    ],
+    "quest.cartographers_atlas.choose_the_horizon.stage.coast_final.scene.reminder_details.action.remind.lines.unavailable": [
+      "我现在没有打开你的地平线页面。"
+    ],
+    "quest.cartographers_atlas.choose_the_horizon.stage.coast_final.ui.tracker_text": "为淹没的海岸准备望远镜、船和补给品。",
+    "quest.cartographers_atlas.choose_the_horizon.stage.dark_roof_chosen.dialogue.turn_in.label": "关于地平线",
+    "quest.cartographers_atlas.choose_the_horizon.stage.dark_roof_chosen.dialogue.turn_in.lines": [
+      "暗屋顶套件已准备就绪。该地图集可以指向它的第一个伟大的主世界 路线。"
+    ],
+    "quest.cartographers_atlas.choose_the_horizon.stage.dark_roof_chosen.dialogue.turn_in.response.complete.label": "设置深色屋顶地平线",
+    "quest.cartographers_atlas.choose_the_horizon.stage.dark_roof_chosen.dialogue.turn_in.response.leave.label": "还没有",
+    "quest.cartographers_atlas.choose_the_horizon.stage.dark_roof_chosen.scene.complete_dark_roof.action.turn_in.lines.completed": [
+      "完成。地图集选择了它的第一个主世界地平线。接下来是豪宅调查。"
+    ],
+    "quest.cartographers_atlas.choose_the_horizon.stage.dark_roof_chosen.scene.complete_dark_roof.action.turn_in.lines.missing_objectives": [
+      "黑暗屋顶套件仍然需要盾牌、十字弓和火把。"
+    ],
+    "quest.cartographers_atlas.choose_the_horizon.stage.dark_roof_chosen.scene.complete_dark_roof.action.turn_in.lines.unavailable": [
+      "在 路线 套件到来之前，我无法设置暗屋顶地平线。"
+    ],
+    "quest.cartographers_atlas.choose_the_horizon.stage.dark_roof_chosen.scene.leave.lines": [
+      "屋顶将保持黑暗直到我们完成。"
+    ],
+    "quest.cartographers_atlas.choose_the_horizon.stage.dark_roof_chosen.ui.tracker_text": "返回制图师处设置黑暗屋顶地平线。",
+    "quest.cartographers_atlas.choose_the_horizon.stage.dark_roof_final.dialogue.reminder.label": "关于地平线",
+    "quest.cartographers_atlas.choose_the_horizon.stage.dark_roof_final.dialogue.reminder.lines": [
+      "在打开黑暗屋顶页面之前，组装一个盾牌、一把十字弓和足够的火把来进行豪宅调查。"
+    ],
+    "quest.cartographers_atlas.choose_the_horizon.stage.dark_roof_final.dialogue.reminder.response.details.label": "重复套件",
+    "quest.cartographers_atlas.choose_the_horizon.stage.dark_roof_final.dialogue.reminder.response.leave.label": "算了",
+    "quest.cartographers_atlas.choose_the_horizon.stage.dark_roof_final.objective.bring_torches.tracker.complete_text": "黑暗屋顶的火把已经装满了。",
+    "quest.cartographers_atlas.choose_the_horizon.stage.dark_roof_final.objective.bring_torches.tracker.text": "带上 32 个火把，进行黑顶探险。",
+    "quest.cartographers_atlas.choose_the_horizon.stage.dark_roof_final.objective.carry_crossbow.tracker.complete_text": "路弩已准备就绪。",
+    "quest.cartographers_atlas.choose_the_horizon.stage.dark_roof_final.objective.carry_crossbow.tracker.text": "携带 1 个十字弓前往宅邸道路。",
+    "quest.cartographers_atlas.choose_the_horizon.stage.dark_roof_final.objective.carry_shield.tracker.complete_text": "调查盾已准备就绪。",
+    "quest.cartographers_atlas.choose_the_horizon.stage.dark_roof_final.objective.carry_shield.tracker.text": "携带 1 个盾牌以进行暗屋顶调查。",
+    "quest.cartographers_atlas.choose_the_horizon.stage.dark_roof_final.scene.leave.lines": [
+      "如果没有我们的帮助，屋顶将保持黑暗。"
+    ],
+    "quest.cartographers_atlas.choose_the_horizon.stage.dark_roof_final.scene.reminder_details.action.remind.lines.reminder": [
+      "携带 1 个盾牌和 1 个十字弓，然后携带 32 个火把进行黑暗屋顶探险。"
+    ],
+    "quest.cartographers_atlas.choose_the_horizon.stage.dark_roof_final.scene.reminder_details.action.remind.lines.unavailable": [
+      "我现在没有打开你的地平线页面。"
+    ],
+    "quest.cartographers_atlas.choose_the_horizon.stage.dark_roof_final.ui.tracker_text": "为黑暗的屋顶准备好盾牌、弩和火把。",
+    "quest.cartographers_atlas.choose_the_horizon.stage.started.dialogue.offer.label": "选择远方",
+    "quest.cartographers_atlas.choose_the_horizon.stage.started.dialogue.offer.lines": [
+      "该地图集有纸张、方向、现场证明、记忆和判断。现在它要求它的第一个伟大的地平线。",
+      "这个永久选择关闭了另一个主世界 路线。海岸套件为纪念碑调查做准备；深色屋顶套件为豪宅调查做准备。"
+    ],
+    "quest.cartographers_atlas.choose_the_horizon.stage.started.dialogue.offer.response.coast.action.notification.text": "你选择了淹没的海岸。在调查纪念碑之前，先组装望远镜、船和补给品。",
+    "quest.cartographers_atlas.choose_the_horizon.stage.started.dialogue.offer.response.coast.label": "选择淹没的海岸",
+    "quest.cartographers_atlas.choose_the_horizon.stage.started.dialogue.offer.response.coast.text": "然后我们选择海岸。眼睛要盯着被淹没的石头，不要相信平静的水。",
+    "quest.cartographers_atlas.choose_the_horizon.stage.started.dialogue.offer.response.dark_roof.action.notification.text": "你选择了黑暗的屋顶路。在调查宅邸之前组装好盾牌、十字弓和火把。",
+    "quest.cartographers_atlas.choose_the_horizon.stage.started.dialogue.offer.response.dark_roof.label": "选择暗屋顶路",
+    "quest.cartographers_atlas.choose_the_horizon.stage.started.dialogue.offer.response.dark_roof.text": "然后我们选择暗屋顶路。如果房子回头看，就更努力地回头看。",
+    "quest.cartographers_atlas.choose_the_horizon.stage.started.dialogue.offer.response.decline.label": "另一次",
+    "quest.cartographers_atlas.choose_the_horizon.stage.started.dialogue.reminder.label": "关于地平线",
+    "quest.cartographers_atlas.choose_the_horizon.stage.started.dialogue.reminder.lines": [
+      "这个永久的主世界分叉关闭了另一个 路线：海岸准备进行纪念碑调查；黑暗的屋顶准备进行豪宅调查。"
+    ],
+    "quest.cartographers_atlas.choose_the_horizon.stage.started.dialogue.reminder.response.details.label": "重复叉子",
+    "quest.cartographers_atlas.choose_the_horizon.stage.started.dialogue.reminder.response.leave.label": "我会选择",
+    "quest.cartographers_atlas.choose_the_horizon.stage.started.objective.choose_route.tracker.complete_text": "您选择了 {objective_choice_value} 地平线。",
+    "quest.cartographers_atlas.choose_the_horizon.stage.started.objective.choose_route.tracker.text": "与制图师一起选择地图集的主世界地平线。",
+    "quest.cartographers_atlas.choose_the_horizon.stage.started.scene.decline.lines": [
+      "然后地平线就保持未选择状态，这是一种答案，但不是一个有用的答案。"
+    ],
+    "quest.cartographers_atlas.choose_the_horizon.stage.started.scene.leave.lines": [
+      "睁大眼睛来选择。"
+    ],
+    "quest.cartographers_atlas.choose_the_horizon.stage.started.scene.reminder_details.action.remind.lines.reminder": [
+      "这一选择关闭了另一个主世界的地平线。海岸需要望远镜、船和给养；黑暗的屋顶需要盾牌、弩和火把。"
+    ],
+    "quest.cartographers_atlas.choose_the_horizon.stage.started.scene.reminder_details.action.remind.lines.unavailable": [
+      "我现在没有打开你的地平线页面。"
+    ],
+    "quest.cartographers_atlas.choose_the_horizon.stage.started.ui.tracker_text": "从制图师的分支选项中选择地图集的主世界地平线。",
+    "quest.cartographers_atlas.choose_the_horizon.title": {
+      "lines": [
+        "选择远方"
+      ]
+    },
+    "quest.cartographers_atlas.choose_the_horizon.tracker.title": {
+      "lines": [
+        "选择远方"
+      ]
+    }
+  }
+}

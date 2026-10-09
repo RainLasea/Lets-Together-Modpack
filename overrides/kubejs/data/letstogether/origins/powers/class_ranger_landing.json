@@ -1,0 +1,6 @@
+{
+  "type": "neoorigins:modify_damage",
+  "direction": "in",
+  "multiplier": 0.9,
+  "damage_type": "fall"
+}

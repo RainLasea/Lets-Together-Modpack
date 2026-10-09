@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "hatch_saddled_grazer": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "hatch_saddled_grazer"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

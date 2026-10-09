@@ -1,0 +1,67 @@
+{
+  "display": {
+    "icon": {
+      "id": "exposure:camera_stand"
+    },
+    "title": {
+      "translate": "advancements.letstogether.memories.family.title",
+      "fallback": "Everybody Look Here"
+    },
+    "description": {
+      "translate": "advancements.letstogether.memories.family.description",
+      "fallback": "Use a camera stand to photograph a player, a tamed cat, and a tamed wolf in one frame."
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "captured_entities": {
+      "conditions": {
+        "frame": {
+          "extra_data": "{on_stand:1b}"
+        },
+        "entities_in_frame": [
+          {
+            "type": "minecraft:player"
+          },
+          [
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "type": "minecraft:cat",
+                "type_specific": {
+                  "type": "exposure:tamed",
+                  "is_tamed": true
+                }
+              }
+            }
+          ],
+          [
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "type": "minecraft:wolf",
+                "type_specific": {
+                  "type": "exposure:tamed",
+                  "is_tamed": true
+                }
+              }
+            }
+          ]
+        ]
+      },
+      "trigger": "exposure:frame_exposed"
+    }
+  },
+  "requirements": [
+    [
+      "captured_entities"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:memories/print"
+}

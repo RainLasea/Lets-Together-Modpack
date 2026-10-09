@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "clock_croc": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "clock_croc"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

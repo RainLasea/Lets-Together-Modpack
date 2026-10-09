@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "copy_music_disc": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "copy_music_disc"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

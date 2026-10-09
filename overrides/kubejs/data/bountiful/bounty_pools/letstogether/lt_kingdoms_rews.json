@@ -1,0 +1,35 @@
+{
+  "content": {
+    "emeralds": {
+      "type": "item",
+      "content": "minecraft:emerald",
+      "amount": {
+        "min": 1,
+        "max": 5
+      },
+      "unitWorth": 1000,
+      "weightMult": 1.4
+    },
+    "bread": {
+      "type": "item",
+      "content": "minecraft:bread",
+      "amount": {
+        "min": 2,
+        "max": 8
+      },
+      "unitWorth": 100,
+      "weightMult": 0.4
+    },
+    "iron": {
+      "type": "item",
+      "content": "minecraft:iron_ingot",
+      "rarity": "UNCOMMON",
+      "amount": {
+        "min": 1,
+        "max": 4
+      },
+      "unitWorth": 750,
+      "weightMult": 0.4
+    }
+  }
+}

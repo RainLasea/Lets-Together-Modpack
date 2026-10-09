@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "instamine_deepslate": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "instamine_deepslate"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "tags": [
+      "content.dialogue",
+      "dialogue.ambient",
+      "scope.profession.fletcher",
+      "section.pacify"
+    ],
+    "topic": "professions.fletcher.pacify"
+  },
+  "pacify": [
+    {
+      "id": "fletcher_pacify_success",
+      "lines": [
+        "美好的。我会发泄愤怒，但仅限这一次。",
+        "我在它变得更重之前把它放下。",
+        "我可以退后一步。不要让我后悔。",
+        "好的。让这件事到此结束吧。",
+        "我看到你正在努力。这很重要。",
+        "这足以让我放松警惕。",
+        "我们不再是朋友了，但我们可以停止争斗了。",
+        "我接受道歉。给我一些空间。",
+        "我们就说这件事已经解决了，别管它了。",
+        "我会相信你的话一次。",
+        "和平比其他争论更好。",
+        "你已经表达了你的观点。我今天已经生气了。",
+        "如果你不重复的话我可以跳过这个。",
+        "这有帮助。其余的需要时间。",
+        "我现在把这个放下了。做同样的事情。",
+        "我们可以结束这一切而不让事情变得更糟。",
+        "我相信你是认真的。",
+        "我会在这里停下来，但我期待更好。",
+        "不再有威胁。我们完成了。",
+        "你回来是为了纠正错误。我尊重这一点。"
+      ],
+      "outcomes": [
+        "success"
+      ],
+      "weight": 26
+    },
+    {
+      "id": "fletcher_pacify_short",
+      "lines": [
+        "那还飞得不够远。带上 {emerald_cost} {emeralds}。",
+        "全部成本为 {emerald_cost} {emeralds}。",
+        "不够。需要 {emerald_cost} {emeralds} 来解决这个问题。",
+        "再算一下。我需要 {emerald_cost} {emeralds}。",
+        "您还缺少 {emerald_cost} {emeralds}。",
+        "带上所有 {emerald_cost} {emeralds} 我们可以谈谈。",
+        "当计数达到 {emerald_cost} {emeralds} 时我会听。",
+        "这不包括损坏。我要的是 {emerald_cost} {emeralds}。",
+        "保留这些并返回 {emerald_cost} {emeralds}。",
+        "道歉是一个开始。该协议为 {emerald_cost} {emeralds}。",
+        "我们还没有解决。您欠 {emerald_cost} {emeralds}。",
+        "我不会更改 {emerald_cost} {emeralds} 的金额。",
+        "该报价低于 {emerald_cost} {emeralds}。",
+        "把剩下的带过来，我会听你说完。",
+        "只付一半的钱并不能解决所有的麻烦。",
+        "我仔细数了一下。应该有 {emerald_cost} {emeralds}。",
+        "这还不足以让我们把问题抛在脑后。",
+        "带着全额付款回来。",
+        "我不会争论计数。 {emerald_cost} {emeralds}。",
+        "部分付款是不行的。"
+      ],
+      "outcomes": [
+        "not_enough_emeralds"
+      ],
+      "weight": 26
+    },
+    {
+      "id": "fletcher_pacify_blocked",
+      "lines": [
+        "不会。有些目标会一直被标记，直到信任恢复为止。",
+        "不，伤害太新鲜了。",
+        "保留 {payment_items}。我还没准备好相信你。",
+        "把 {payment_items} 收起来。",
+        "{payment_items} 无法修复所发生的情况。",
+        "这不再是付款的问题了。",
+        "在考虑 {payment_items} 之前我需要时间。",
+        "当我如此生气时，任何提议都无济于事。",
+        "一次谈话无法买回信任。",
+        "让我一个人待着，直到淬炼冷静下来。",
+        "你没有向村子表明一切都会改变。",
+        "我不想要 {payment_items}。我想要距离。",
+        "这需要诚实的改变，而不是快速的付款。",
+        "我听到了你的提议。我的答案是否定的。",
+        "不是今天。我还无法忽视它。",
+        "村子记得，我也记得。",
+        "为愿意购买的人保存 {payment_items}。",
+        "当我准备好讲话时我会决定。",
+        "付款并不能消除您欠它的原因。",
+        "退后吧。推动会使情况变得更糟。"
+      ],
+      "outcomes": [
+        "blocked_by_reputation"
+      ],
+      "weight": 26
+    }
+  ]
+}

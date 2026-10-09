@@ -1,0 +1,100 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:tadpole_spawn_egg"
+    },
+    "title": {
+      "translate": "advancements.letstogether.memories.all_tool_trims.title",
+      "fallback": "Every Pattern"
+    },
+    "description": {
+      "translate": "advancements.letstogether.memories.all_tool_trims.description",
+      "fallback": "Collect every trim pattern listed in Tool Trims' advancement."
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "has_trimmed_tool_with_linear": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#tooltrims:trimmable_tools",
+            "predicates": {
+              "minecraft:trim": {
+                "pattern": "tooltrims:linear"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "has_trimmed_tool_with_tracks": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#tooltrims:trimmable_tools",
+            "predicates": {
+              "minecraft:trim": {
+                "pattern": "tooltrims:tracks"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "has_trimmed_tool_with_charge": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#tooltrims:trimmable_tools",
+            "predicates": {
+              "minecraft:trim": {
+                "pattern": "tooltrims:charge"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "has_trimmed_tool_with_frost": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#tooltrims:trimmable_tools",
+            "predicates": {
+              "minecraft:trim": {
+                "pattern": "tooltrims:frost"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_trimmed_tool_with_linear"
+    ],
+    [
+      "has_trimmed_tool_with_tracks"
+    ],
+    [
+      "has_trimmed_tool_with_charge"
+    ],
+    [
+      "has_trimmed_tool_with_frost"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:memories/tool_trim",
+  "rewards": {
+    "experience": 50
+  }
+}

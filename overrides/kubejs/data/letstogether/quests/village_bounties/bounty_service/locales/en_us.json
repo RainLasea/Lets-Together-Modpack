@@ -1,0 +1,145 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "letstogether.quest.bounty_service.title": {
+      "lines": [
+        "A Reliable Helper"
+      ]
+    },
+    "letstogether.quest.bounty_service.description": {
+      "lines": [
+        "After accepting, turn in 3 bounties at a Bountiful board, then report to this villager. Repeatable with a 1-day completion cooldown."
+      ]
+    },
+    "letstogether.quest.bounty_service.objective.text": {
+      "lines": [
+        "Turn in 3 bounties at a bounty board."
+      ]
+    },
+    "letstogether.quest.bounty_service.objective.complete": {
+      "lines": [
+        "Bounties settled. Report to the quest giver."
+      ]
+    },
+    "letstogether.quest.bounty_service.dialogue.offer.label": {
+      "lines": [
+        "Village bounty commission"
+      ]
+    },
+    "letstogether.quest.bounty_service.dialogue.offer.lines": {
+      "lines": [
+        "Please turn in 3 bounties at a Bountiful board, then come back to me."
+      ]
+    },
+    "letstogether.quest.bounty_service.dialogue.offer.accept": {
+      "lines": [
+        "I'll help."
+      ]
+    },
+    "letstogether.quest.bounty_service.dialogue.offer.decline": {
+      "lines": [
+        "Maybe later."
+      ]
+    },
+    "letstogether.quest.bounty_service.dialogue.reminder.label": {
+      "lines": [
+        "Village bounty commission"
+      ]
+    },
+    "letstogether.quest.bounty_service.dialogue.reminder.lines": {
+      "lines": [
+        "Remember to cash in the bounty paper at a board. Gathering items alone does not settle it. J opens the journal; K tracks progress."
+      ]
+    },
+    "letstogether.quest.bounty_service.dialogue.reminder.abandon": {
+      "lines": [
+        "I need to abandon this."
+      ]
+    },
+    "letstogether.quest.bounty_service.dialogue.reminder.leave": {
+      "lines": [
+        "I'll keep working."
+      ]
+    },
+    "letstogether.quest.bounty_service.dialogue.turn_in.label": {
+      "lines": [
+        "Village bounty commission"
+      ]
+    },
+    "letstogether.quest.bounty_service.dialogue.turn_in.lines": {
+      "lines": [
+        "The bounty board has recorded your work. You can report in now."
+      ]
+    },
+    "letstogether.quest.bounty_service.dialogue.turn_in.complete": {
+      "lines": [
+        "The commissions are settled."
+      ]
+    },
+    "letstogether.quest.bounty_service.dialogue.turn_in.leave": {
+      "lines": [
+        "I'll report later."
+      ]
+    },
+    "letstogether.quest.bounty_service.scene.start.started": {
+      "lines": [
+        "Thank you. Only bounties settled after accepting count."
+      ]
+    },
+    "letstogether.quest.bounty_service.scene.start.unavailable": {
+      "lines": [
+        "This commission is unavailable. Check prerequisites or cooldown."
+      ]
+    },
+    "letstogether.quest.bounty_service.scene.complete.completed": {
+      "lines": [
+        "Thank you for settling the village's commissions. Here is your reward."
+      ]
+    },
+    "letstogether.quest.bounty_service.scene.complete.missing": {
+      "lines": [
+        "Some settlements are still missing. Check your journal."
+      ]
+    },
+    "letstogether.quest.bounty_service.scene.complete.unavailable": {
+      "lines": [
+        "This commission cannot be settled right now."
+      ]
+    },
+    "letstogether.quest.bounty_service.scene.abandon_confirm": {
+      "lines": [
+        "Abandon this commission? Bountiful rewards remain yours, but the commission counter starts over next time."
+      ]
+    },
+    "letstogether.quest.bounty_service.scene.abandon_confirm.yes": {
+      "lines": [
+        "Yes, abandon it."
+      ]
+    },
+    "letstogether.quest.bounty_service.scene.abandon_confirm.no": {
+      "lines": [
+        "I'll keep trying."
+      ]
+    },
+    "letstogether.quest.bounty_service.scene.abandon.done": {
+      "lines": [
+        "Come back when you are ready."
+      ]
+    },
+    "letstogether.quest.bounty_service.scene.abandon.unavailable": {
+      "lines": [
+        "You do not have this commission."
+      ]
+    },
+    "letstogether.quest.bounty_service.scene.leave": {
+      "lines": [
+        "The board and the villagers both need a helping hand."
+      ]
+    },
+    "letstogether.quest.bounty_service.ui.tracker": {
+      "lines": [
+        "Settle 3 bounties, then report to the quest giver."
+      ]
+    }
+  }
+}

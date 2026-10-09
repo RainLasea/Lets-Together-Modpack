@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "potion": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "potion"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

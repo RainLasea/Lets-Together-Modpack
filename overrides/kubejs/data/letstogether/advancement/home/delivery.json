@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "id": "envelope:letter"
+    },
+    "title": {
+      "translate": "advancements.letstogether.home.delivery.title",
+      "fallback": "Signed, Sealed, Delivered"
+    },
+    "description": {
+      "translate": "advancements.letstogether.home.delivery.description",
+      "fallback": "Successfully deliver a piece of mail with Envelope."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "delivered": {
+      "trigger": "envelope:mail_delivered"
+    }
+  },
+  "requirements": [
+    [
+      "delivered"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:home/mailbox"
+}

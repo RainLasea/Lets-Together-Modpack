@@ -1,0 +1,122 @@
+{
+  "erosion": {
+    "grassEnabled": true,
+    "dirtEnabled": true,
+    "sandEnabled": true,
+    "leavesEnabled": true,
+    "vegetationEnabled": true
+  },
+  "deErosion": {
+    "grassEnabled": true,
+    "dirtEnabled": true,
+    "sandEnabled": true
+  },
+  "erosionMultipliers": {
+    "player": 0.5,
+    "mounted": 2.0,
+    "leash": 1.5
+  },
+  "erosionThresholds": {
+    "grass": {
+      "min": 2.0,
+      "max": 4.0
+    },
+    "dirt": {
+      "min": 8.0,
+      "max": 12.0
+    },
+    "coarseDirt": {
+      "min": 12.0,
+      "max": 20.0
+    },
+    "sand": {
+      "min": 1.5,
+      "max": 3.0
+    },
+    "leaves": {
+      "dropChance": 0.1,
+      "min": 2.0,
+      "max": 3.0
+    },
+    "vegetation": {
+      "dropChance": 0.2,
+      "min": 2.0,
+      "max": 3.0
+    }
+  },
+  "erodableVegetation": [
+    "minecraft:short_grass",
+    "minecraft:tall_grass",
+    "minecraft:dandelion",
+    "minecraft:poppy",
+    "minecraft:blue_orchid",
+    "minecraft:allium",
+    "minecraft:azure_bluet",
+    "minecraft:red_tulip",
+    "minecraft:orange_tulip",
+    "minecraft:white_tulip",
+    "minecraft:pink_tulip",
+    "minecraft:oxeye_daisy",
+    "minecraft:cornflower",
+    "minecraft:lily_of_the_valley",
+    "minecraft:sunflower",
+    "minecraft:lilac",
+    "minecraft:rose_bush",
+    "minecraft:peony",
+    "minecraft:fern",
+    "minecraft:large_fern",
+    "minecraft:dead_bush",
+    "minecraft:pink_petals",
+    "minecraft:brown_mushroom",
+    "minecraft:red_mushroom",
+    "nomansland:dried_grass",
+    "nomansland:fiddlehead",
+    "nomansland:frosted_grass",
+    "nomansland:grass_sprouts",
+    "nomansland:oat_grass",
+    "nomansland:short_beachgrass",
+    "nomansland:tall_beachgrass",
+    "nomansland:aconite",
+    "nomansland:starflower",
+    "nomansland:thistle",
+    "nomansland:blue_lupine",
+    "nomansland:red_lupine",
+    "nomansland:yellow_lupine",
+    "nomansland:pink_lupine",
+    "nomansland:autumn_crocus",
+    "nomansland:wild_mint",
+    "nomansland:pickleweed",
+    "nomansland:rafflesia",
+    "nomansland:clover_patch",
+    "nomansland:ground_ivy",
+    "nomansland:white_flowerbed",
+    "nomansland:yellow_flowerbed",
+    "nomansland:red_flowerbed",
+    "nomansland:blue_flowerbed",
+    "nomansland:violet_flowerbed",
+    "nomansland:lavender_bush",
+    "nomansland:cave_orchid",
+    "nomansland:cave_weeds",
+    "nomansland:field_mushroom"
+  ],
+  "deErosionTimeoutDays": {
+    "grass": {
+      "stage1": 5.0,
+      "stage2": 5.0,
+      "stage3": 5.0,
+      "stage4": 5.0,
+      "stage5": 5.0
+    },
+    "dirt": {
+      "erodedDirt": 8.0,
+      "erodedCoarseDirt": 13.0
+    },
+    "sand": {
+      "stage1": 3.0,
+      "stage2": 5.0,
+      "stage3": 8.0,
+      "stage4": 13.0,
+      "stage5": 13.0
+    }
+  }
+}

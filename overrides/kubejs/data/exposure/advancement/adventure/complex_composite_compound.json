@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "print_chromatic_photograph": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "print_chromatic_photograph"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

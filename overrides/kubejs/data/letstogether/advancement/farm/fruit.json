@@ -1,0 +1,44 @@
+{
+  "display": {
+    "icon": {
+      "id": "primal:weird_apple"
+    },
+    "title": {
+      "translate": "advancements.letstogether.farm.fruit.title",
+      "fallback": "Fruit Basket"
+    },
+    "description": {
+      "translate": "advancements.letstogether.farm.fruit.description",
+      "fallback": "Collect all of Primal's exotic fruits."
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "all_exotic_fruits": {
+      "conditions": {
+        "items": [
+          {
+            "items": "primal:kiwano"
+          },
+          {
+            "items": "primal:litchi"
+          },
+          {
+            "items": "primal:starfruit"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "all_exotic_fruits"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:farm/seeds"
+}

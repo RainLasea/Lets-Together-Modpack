@@ -1,0 +1,137 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.deep_delvers.mark_the_shaft.description": "为新村矿井选择铁轨或木支架。",
+    "quest.deep_delvers.mark_the_shaft.stage.choose.dialogue.offer.label": "标记矿井",
+    "quest.deep_delvers.mark_the_shaft.stage.choose.dialogue.offer.lines": [
+      "竖井可以在铁轨上运送矿石，也可以用重型木材支撑其顶部。我们还买不起两者。",
+      "此选择关闭了其他轴计划。铁路继续成为动力货运和回程运输硬件；木材继续清理蜘蛛并返回紧急 原料。"
+    ],
+    "quest.deep_delvers.mark_the_shaft.stage.choose.dialogue.offer.response.decline.label": "还没有。",
+    "quest.deep_delvers.mark_the_shaft.stage.choose.dialogue.offer.response.rail.action.notification.text": "您为村矿选择了铁轨。",
+    "quest.deep_delvers.mark_the_shaft.stage.choose.dialogue.offer.response.rail.label": "铺设铁轨",
+    "quest.deep_delvers.mark_the_shaft.stage.choose.dialogue.offer.response.rail.text": "那么，铁轨。在对每个斜坡进行熨烫之前，请先考虑一下其水平。",
+    "quest.deep_delvers.mark_the_shaft.stage.choose.dialogue.offer.response.timber.action.notification.text": "您为村庄矿井选择了木支架。",
+    "quest.deep_delvers.mark_the_shaft.stage.choose.dialogue.offer.response.timber.label": "支撑屋顶",
+    "quest.deep_delvers.mark_the_shaft.stage.choose.dialogue.offer.response.timber.text": "那么，木材。速度较慢的地雷仍然比埋在地下的地雷要好。",
+    "quest.deep_delvers.mark_the_shaft.stage.choose.dialogue.reminder.label": "关于标记矿井",
+    "quest.deep_delvers.mark_the_shaft.stage.choose.dialogue.reminder.lines": [
+      "竖井可以在铁轨上运送矿石，也可以用重型木材支撑其顶部。我们还买不起两者。",
+      "此选择关闭了其他轴计划。铁路继续成为动力货运和回程运输硬件；木材继续清理蜘蛛并返回紧急 原料。"
+    ],
+    "quest.deep_delvers.mark_the_shaft.stage.choose.dialogue.reminder.response.decline.label": "还没有。",
+    "quest.deep_delvers.mark_the_shaft.stage.choose.dialogue.reminder.response.details.label": "重复选择。",
+    "quest.deep_delvers.mark_the_shaft.stage.choose.dialogue.reminder.response.rail.action.notification.text": "您为村矿选择了铁轨。",
+    "quest.deep_delvers.mark_the_shaft.stage.choose.dialogue.reminder.response.rail.label": "铺设铁轨",
+    "quest.deep_delvers.mark_the_shaft.stage.choose.dialogue.reminder.response.rail.text": "那么，铁轨。在对每个斜坡进行熨烫之前，请先考虑一下其水平。",
+    "quest.deep_delvers.mark_the_shaft.stage.choose.dialogue.reminder.response.timber.action.notification.text": "您为村庄矿井选择了木支架。",
+    "quest.deep_delvers.mark_the_shaft.stage.choose.dialogue.reminder.response.timber.label": "支撑屋顶",
+    "quest.deep_delvers.mark_the_shaft.stage.choose.dialogue.reminder.response.timber.text": "那么，木材。速度较慢的地雷仍然比埋在地下的地雷要好。",
+    "quest.deep_delvers.mark_the_shaft.stage.choose.objective.choose_route.tracker.complete_text": "路线 选择：{objective_choice_value}。",
+    "quest.deep_delvers.mark_the_shaft.stage.choose.objective.choose_route.tracker.text": "选择带有 任务 给予器的 路线。",
+    "quest.deep_delvers.mark_the_shaft.stage.choose.scene.decline.lines": [
+      "没有标记的竖井只是一个有野心的洞。"
+    ],
+    "quest.deep_delvers.mark_the_shaft.stage.choose.scene.reminder_details.action.remind.lines.reminder": [
+      "竖井可以在铁轨上运送矿石，也可以用重型木材支撑其顶部。我们还买不起两者。",
+      "此选择关闭了其他轴计划。铁路继续成为动力货运和回程运输硬件；木材继续清理蜘蛛并返回紧急 原料。"
+    ],
+    "quest.deep_delvers.mark_the_shaft.stage.choose.scene.reminder_details.action.remind.lines.unavailable": [
+      "该选择目前尚未开放。"
+    ],
+    "quest.deep_delvers.mark_the_shaft.stage.choose.ui.tracker_text": "选择 路线。",
+    "quest.deep_delvers.mark_the_shaft.stage.rail_return.dialogue.turn_in.label": "关于标记矿井",
+    "quest.deep_delvers.mark_the_shaft.stage.rail_return.dialogue.turn_in.lines": [
+      "车子从正面滚到白昼下都很干净。",
+      "第一条矿道已开通。更深入的工作将在铁之后进行。"
+    ],
+    "quest.deep_delvers.mark_the_shaft.stage.rail_return.dialogue.turn_in.response.complete.label": "完成这个路线。",
+    "quest.deep_delvers.mark_the_shaft.stage.rail_return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.deep_delvers.mark_the_shaft.stage.rail_return.scene.complete_route.action.turn_in.lines.completed": [
+      "第一条矿道已开通。更深入的工作将在铁之后进行。",
+      "车子从正面滚到白昼下都很干净。"
+    ],
+    "quest.deep_delvers.mark_the_shaft.stage.rail_return.scene.complete_route.action.turn_in.lines.missing_objectives": [
+      "铺设二十四根铁轨并带上矿车来测试线路。"
+    ],
+    "quest.deep_delvers.mark_the_shaft.stage.rail_return.scene.complete_route.action.turn_in.lines.missing_proof": [
+      "在我们关闭地图之前，将 路线 证据带到这里。"
+    ],
+    "quest.deep_delvers.mark_the_shaft.stage.rail_return.scene.complete_route.action.turn_in.lines.unavailable": [
+      "路线 现在无法关闭。"
+    ],
+    "quest.deep_delvers.mark_the_shaft.stage.rail_return.scene.leave.lines": [
+      "路线 保持打开状态，直到您准备好为止。"
+    ],
+    "quest.deep_delvers.mark_the_shaft.stage.rail_return.ui.tracker_text": "返回任务给予者。",
+    "quest.deep_delvers.mark_the_shaft.stage.rail_work.dialogue.reminder.label": "关于标记矿井",
+    "quest.deep_delvers.mark_the_shaft.stage.rail_work.dialogue.reminder.lines": [
+      "铺设二十四根铁轨并带上矿车来测试线路。",
+      "那么，铁轨。在对每个斜坡进行熨烫之前，请先考虑一下其水平。"
+    ],
+    "quest.deep_delvers.mark_the_shaft.stage.rail_work.dialogue.reminder.response.details.label": "重复 路线。",
+    "quest.deep_delvers.mark_the_shaft.stage.rail_work.dialogue.reminder.response.leave.label": "我有。",
+    "quest.deep_delvers.mark_the_shaft.stage.rail_work.objective.bring_minecart.tracker.complete_text": "矿车已经准备好了。",
+    "quest.deep_delvers.mark_the_shaft.stage.rail_work.objective.bring_minecart.tracker.text": "带 1 辆矿车到线上。",
+    "quest.deep_delvers.mark_the_shaft.stage.rail_work.objective.lay_rails.tracker.complete_text": "第一条铁路线铺设完毕。",
+    "quest.deep_delvers.mark_the_shaft.stage.rail_work.objective.lay_rails.tracker.text": "在矿井中放置 24 根铁轨。",
+    "quest.deep_delvers.mark_the_shaft.stage.rail_work.scene.leave.lines": [
+      "保留您选择的 路线。"
+    ],
+    "quest.deep_delvers.mark_the_shaft.stage.rail_work.scene.reminder_details.action.remind.lines.reminder": [
+      "铺设二十四根铁轨并带上矿车来测试线路。",
+      "那么，铁轨。在对每个斜坡进行熨烫之前，请先考虑一下其水平。"
+    ],
+    "quest.deep_delvers.mark_the_shaft.stage.rail_work.scene.reminder_details.action.remind.lines.unavailable": [
+      "路线 目前未处于活动状态。"
+    ],
+    "quest.deep_delvers.mark_the_shaft.stage.rail_work.ui.tracker_text": "铺设二十四根铁轨并带上矿车来测试线路。",
+    "quest.deep_delvers.mark_the_shaft.stage.timber_return.dialogue.turn_in.label": "关于标记矿井",
+    "quest.deep_delvers.mark_the_shaft.stage.timber_return.dialogue.turn_in.lines": [
+      "屋顶安静，斜撑笔直。这就是我们想要的声音。",
+      "第一矿道是安全的。更深层次的工作将在木材之后进行。"
+    ],
+    "quest.deep_delvers.mark_the_shaft.stage.timber_return.dialogue.turn_in.response.complete.label": "完成这个路线。",
+    "quest.deep_delvers.mark_the_shaft.stage.timber_return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.deep_delvers.mark_the_shaft.stage.timber_return.scene.complete_route.action.turn_in.lines.completed": [
+      "第一矿道是安全的。更深层次的工作将在木材之后进行。",
+      "屋顶安静，斜撑笔直。这就是我们想要的声音。"
+    ],
+    "quest.deep_delvers.mark_the_shaft.stage.timber_return.scene.complete_route.action.turn_in.lines.missing_objectives": [
+      "在第一段设置十六个原木支架并悬挂四个灯笼。"
+    ],
+    "quest.deep_delvers.mark_the_shaft.stage.timber_return.scene.complete_route.action.turn_in.lines.missing_proof": [
+      "在我们关闭地图之前，将 路线 证据带到这里。"
+    ],
+    "quest.deep_delvers.mark_the_shaft.stage.timber_return.scene.complete_route.action.turn_in.lines.unavailable": [
+      "路线 现在无法关闭。"
+    ],
+    "quest.deep_delvers.mark_the_shaft.stage.timber_return.scene.leave.lines": [
+      "路线 保持打开状态，直到您准备好为止。"
+    ],
+    "quest.deep_delvers.mark_the_shaft.stage.timber_return.ui.tracker_text": "返回任务给予者。",
+    "quest.deep_delvers.mark_the_shaft.stage.timber_work.dialogue.reminder.label": "关于标记矿井",
+    "quest.deep_delvers.mark_the_shaft.stage.timber_work.dialogue.reminder.lines": [
+      "在第一段设置十六个原木支架并悬挂四个灯笼。",
+      "那么，木材。速度较慢的地雷仍然比埋在地下的地雷要好。"
+    ],
+    "quest.deep_delvers.mark_the_shaft.stage.timber_work.dialogue.reminder.response.details.label": "重复 路线。",
+    "quest.deep_delvers.mark_the_shaft.stage.timber_work.dialogue.reminder.response.leave.label": "我有。",
+    "quest.deep_delvers.mark_the_shaft.stage.timber_work.objective.bring_lanterns.tracker.complete_text": "灯笼准备好了。",
+    "quest.deep_delvers.mark_the_shaft.stage.timber_work.objective.bring_lanterns.tracker.text": "为支撑轴带来 4 个灯笼。",
+    "quest.deep_delvers.mark_the_shaft.stage.timber_work.objective.place_braces.tracker.complete_text": "第一个大括号已设置。",
+    "quest.deep_delvers.mark_the_shaft.stage.timber_work.objective.place_braces.tracker.text": "放置 16 根原木作为我的支架。",
+    "quest.deep_delvers.mark_the_shaft.stage.timber_work.scene.leave.lines": [
+      "保留您选择的 路线。"
+    ],
+    "quest.deep_delvers.mark_the_shaft.stage.timber_work.scene.reminder_details.action.remind.lines.reminder": [
+      "在第一段设置十六个原木支架并悬挂四个灯笼。",
+      "那么，木材。速度较慢的地雷仍然比埋在地下的地雷要好。"
+    ],
+    "quest.deep_delvers.mark_the_shaft.stage.timber_work.scene.reminder_details.action.remind.lines.unavailable": [
+      "路线 目前未处于活动状态。"
+    ],
+    "quest.deep_delvers.mark_the_shaft.stage.timber_work.ui.tracker_text": "在第一段设置十六个原木支架并悬挂四个灯笼。",
+    "quest.deep_delvers.mark_the_shaft.title": "标记矿井"
+  }
+}

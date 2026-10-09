@@ -1,0 +1,25 @@
+{
+  "criteria": {
+    "cabbage_seeds": {
+      "trigger": "minecraft:impossible"
+    },
+    "onion": {
+      "trigger": "minecraft:impossible"
+    },
+    "rice": {
+      "trigger": "minecraft:impossible"
+    },
+    "tomato_seeds": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "cabbage_seeds",
+      "tomato_seeds",
+      "onion",
+      "rice"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "finish_quick": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "finish_quick"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

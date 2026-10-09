@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "kill_axolotl_target": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "kill_axolotl_target"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

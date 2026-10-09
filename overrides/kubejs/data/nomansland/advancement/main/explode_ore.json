@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "mine_ore_with_explosive": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "mine_ore_with_explosive"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

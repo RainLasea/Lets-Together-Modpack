@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "smoke_pigeonhole": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "smoke_pigeonhole"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

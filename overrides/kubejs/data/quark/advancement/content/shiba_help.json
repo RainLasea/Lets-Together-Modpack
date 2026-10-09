@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "shiba_help": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "shiba_help"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

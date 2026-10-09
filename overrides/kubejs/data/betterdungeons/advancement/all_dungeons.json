@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "in_better_monster_room": {
+      "trigger": "minecraft:impossible"
+    },
+    "in_better_zombie_dungeon": {
+      "trigger": "minecraft:impossible"
+    },
+    "in_better_skeleton_dungeon": {
+      "trigger": "minecraft:impossible"
+    },
+    "in_better_spider_dungeon": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "in_better_monster_room"
+    ],
+    [
+      "in_better_zombie_dungeon"
+    ],
+    [
+      "in_better_skeleton_dungeon"
+    ],
+    [
+      "in_better_spider_dungeon"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

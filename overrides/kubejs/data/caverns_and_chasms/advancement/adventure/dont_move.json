@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "spotted_by_peeper": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "spotted_by_peeper"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

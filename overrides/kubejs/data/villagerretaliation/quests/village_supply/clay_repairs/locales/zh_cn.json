@@ -1,0 +1,360 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.village_supply.clay_repairs.description": {
+      "lines": [
+        "带上粘土来对水井、烤箱和破裂的墙壁周围进行小规模修复。"
+      ]
+    },
+    "quest.village_supply.clay_repairs.dialogue.already_completed": {
+      "lines": [
+        "这件事我们已经解决了。我们已经解决了黏土修补问题。",
+        "我不会重新打开已完成的帐户。修理台上有你带来的粘土。",
+        "我问的你都说完了。我数了数你有 16 个粘土球。我们是方的。",
+        "从此一无所获。石匠们已经开始送货了。",
+        "你早期的作品仍然有效。您解决了未完成的修复干燥的问题。",
+        "这里没有第二次付款。没有理由再收集一车粘土。",
+        "你早期的作品仍然有效。黏土修补已从粘土工作清单中划掉。",
+        "我记得你第一次回来。您帮助我们修补井和烤箱接缝的工作已经完成。",
+        "我记得你第一次回来。最后一批粘土仍在为村庄服务。",
+        "这里没有第二次付款。我记得是谁填写了粘土订单，那就是你。",
+        "所欠的已经还清了。当粘土交付时，奖励已支付。",
+        "该章已关闭。第一次你就做得够多了。我将把旧条目保留在黏土修补下。",
+        "所欠的已经还清了。我们可以阻止小裂缝蔓延，因为您回答了黏土修补。",
+        "从此一无所获。全部粘土计数到达了维修台。什么都没有丢失。",
+        "保留旧的计数。如果我问你两次，石匠们会反对的。",
+        "所欠的已经还清了。您交付的粘土已通过检验并投入使用。",
+        "没有人需要这样做两次。修理台上的那个空位属于昨天。",
+        "保留旧的计数。记录显示您收到了 16 个粘土球。",
+        "我不会重新打开已完成的帐户。你所做的安静的粘土工作让每个人都继续前进。",
+        "这里没有第二次付款。第一个结局对于黏土修补来说已经足够好了。"
+      ]
+    },
+    "quest.village_supply.clay_repairs.dialogue.inactive": {
+      "lines": [
+        "当重要的时候我会发布它。修理台现在不接受粘土。",
+        "今天没有什么需要做这项工作。今天没有粘土订单。",
+        "董事会可以等待。在我要求更多之前，修理工作台正在清点。",
+        "不是今天。石匠们还没有提出新的要求。",
+        "当重要的时候我会发布它。坚持在粘土上。我们没有地方可以放置它。",
+        "当重要的时候我会发布它。修补井和烤箱接缝的需求将会再次出现，但不是今天。",
+        "今天没有什么需要做这项工作。在打开黏土修补之前，我正在等待下一次统计。",
+        "我们还不需要它。现在带 16 个粘土球就会挤满仓储。",
+        "村里可以等这一件事。最后一批粘土还没有用完。",
+        "暂时先别管那项工作。等泥瓦匠检查完剩下的东西后再询问。",
+        "现在，就让这件事平息吧。我不会发明对粘土的迫切需要。",
+        "现在，就让这件事平息吧。修理台很安静，所以这个可以等。",
+        "我们还不需要它。我们正在处理粘土的工作订单。",
+        "董事会可以等待。维修台上没有任何问题。时机根本不对。",
+        "村里可以等这一件事。省省力，直到我们真正需要粘土为止。",
+        "董事会可以等待。除了黏土修补之外，板上没有当前标记。",
+        "等店铺换了再问我。今天不是另一场红土赛跑的日子。",
+        "今天没有什么需要做这项工作。一旦未完成的修复干燥成为一个问题，我将重新打开它。",
+        "等店铺换了再问我。我宁愿拖延也不愿浪费好粘土。",
+        "当重要的时候我会发布它。等仓储换了再问我有关黏土修补的事情。"
+      ]
+    },
+    "quest.village_supply.clay_repairs.dialogue.locate_failed": {
+      "lines": [
+        "我无法确认当前的粘土订单。维修台检查完毕后再询问。",
+        "修理台计数丢失了，所以我不会要求你收集粘土球。",
+        "没有人确认维修台今天需要多少粘土球。",
+        "工作笔记不完整。我先算一下粘土数。",
+        "在村里确认订单之前，我不会给你送粘土球。",
+        "维修台尚未发布可靠的粘土计数。",
+        "我检查了工作清单两次；粘土请求尚未准备好。",
+        "这个订单可以等到我有当前的红土统计后。",
+        "在我把订单交给你之前，需要有人检查修理台。",
+        "村里还没有就粘土数量达成一致。",
+        "我有一份旧的粘土统计表，没有当前的统计表。",
+        "修理台可能需要粘土球，但我不会把猜测变成工作。",
+        "修理台计数完成后回来。",
+        "该订单缺少详细信息。我需要确认金额和收货地点。",
+        "在工作说明完成之前，我无法将此请求提交给董事会。",
+        "请求尚未准备好。我仍在等待修理台计数。",
+        "在你们开始集合之前，让我确认一下谁需要粘土球。",
+        "还没有工作。村里还没有批准这个粘土请求。",
+        "在我提供这项工作之前，仓储需要再次清点。",
+        "再次询问粘土订单何时有明确的所有者并计数。"
+      ]
+    },
+    "quest.village_supply.clay_repairs.dialogue.missing_proof": {
+      "lines": [
+        "我相信你去了，但这还不够。在我混合拼布之前把粘土带来。",
+        "你的话并不是缺失的部分。在我签字之前我需要这里的粘土。",
+        "你的话并不是缺失的部分。承诺并不能填补维修台的空缺。带来粘土交付。",
+        "你的话并不是缺失的部分。你可能已经收集到了，但石匠们还没有收到。",
+        "证据必须到达我的手中。将 16 个粘土球放在这里，我就可以关闭粘土订单了。",
+        "证据仍然很重要。上交粘土就是这次供应工作的证明。",
+        "故事无法关闭账本。当你两手空空时，我无法检查干净的可加工粘土。",
+        "你回来时却没有带我要的一件东西。你的报告听起来不错。我仍然需要真正的粘土。",
+        "最后一个要求仍然缺失。目前还没有任何东西到达维修台。",
+        "证据仍然很重要。在我们讨论黏土修补奖励之前，带上你收集的东西。",
+        "故事无法关闭账本。修理台需要可用的粘土，而不是关于它的故事。",
+        "让我看看你带回来了什么。你一把粘土放在这里，我就数数。",
+        "故事无法关闭账本。不要将粘土留在另一个箱子中。",
+        "你的话并不是缺失的部分。石匠们正在等待粘土捆本身。",
+        "让我看看你带回来了什么。最后一步很简单。交出粘土。",
+        "你带回家的东西决定了这一点。我无法用空柜台修补井和烤箱接缝。",
+        "我无法在空的退货单上签字。带着粘土订单回来，我们就完成了。",
+        "我无法在空的退货单上签字。维修台收到粘土工作后才算数。",
+        "带回来一些村里可以核实的东西。您只差一步就能完成黏土修补工作。",
+        "带回来一些村里可以核实的东西。在我完成之前让我看看粘土。"
+      ]
+    },
+    "quest.village_supply.clay_repairs.dialogue.missing_target": {
+      "lines": [
+        "交货时间仍然很短。把剩下的粘土球带来。",
+        "我数了两遍； 16 个粘土球的完整订单尚未到货。",
+        "这有帮助，但修理台仍然需要剩余的粘土球。",
+        "上交不完整。我还无法关闭工作笔记。",
+        "我们商定了 16 个粘土球；堆还是很短。",
+        "把缺少的粘土球带来，然后我就可以结单了。",
+        "维修台有空间等待其余的交付。",
+        "部分交付无法满足该村的需求。",
+        "你带来了正确的货物，但不是全额。",
+        "再算一下。维修台还很短。",
+        "工作开始后我无法降低约定的数量。",
+        "继续收集，直到收集完全部 16 个粘土球。",
+        "村子可以用这么多，但还需要剩下的。",
+        "工作即将完成；剩下的就是缺少的金额。",
+        "理货和交货尚未匹配。",
+        "带来一份完整的交付，而不是让维修台短缺。",
+        "订单将一直开放，直到所有 16 个粘土球都到达为止。",
+        "除了金额之外，你带来的东西没有任何问题。",
+        "维修工作台依赖的是完整订单，而不是部分订单。",
+        "带着剩下的回来，我会关闭笔记。"
+      ]
+    },
+    "quest.village_supply.clay_repairs.dialogue.reminder": {
+      "lines": [
+        "这项工作仍有未完成的任务。十六个粘土球。湿气就好。有野心的泥巴还是有用的。",
+        "记住村庄在等待什么。我还在等待修理台的 16 个粘土球。",
+        "继续你接受的工作。寻找干净的可加工粘土。 原料不好只有移动的问题。",
+        "不要让已完成的一步分散您的注意力。泥瓦匠需要这些粘土来修补水井和烤箱接缝。",
+        "下一步仍然很重要。计数为 16 个粘土球。回来之前检查一下。",
+        "现在不要丢失线。这种粘土输送意味着我们可以阻止小裂缝蔓延。",
+        "现在不要丢失线。如果您要在负载之间进行选择，请先携带粘土。",
+        "遵守我给你的指示。将粘土顺序放在一起，这样粘土计数就很容易。",
+        "现在不要丢失线。维修台有空间等待完整的捆绑包。",
+        "使这一切得到适当的完成。不要让一个简单的请求变成未完成的维修。",
+        "牢记整个任务。黏土修补没有隐藏部分。带上约定的粘土数量。",
+        "离开之前，请再听一遍。小心处理。我想要干净的可加工粘土。",
+        "继续你接受的工作。如果你能做到的话，一次性带上所有的粘土。",
+        "使这一切得到适当的完成。泥瓦匠们正在围绕你的回归计划他们的下一步工作。",
+        "不要让已完成的一步分散您的注意力。我在粘土石板上写了 16 个粘土球，所以我们都不必猜测。",
+        "不要让已完成的一步分散您的注意力。越早到达，我们就能越早修补井和烤箱接缝。",
+        "离开之前，请再听一遍。粘土秩序中没有遗漏任何其他东西。",
+        "不要让已完成的一步分散您的注意力。当粘土准备好交出时返回。",
+        "遵守我给你的指示。你知道修理台需要多少粘土。其余的正在聚集。",
+        "现在不要丢失线。完整的粘土包可以为每个人节省第二次旅行。"
+      ]
+    },
+    "quest.village_supply.clay_repairs.dialogue.start": {
+      "lines": [
+        "让我们清楚地了解这项工作。带 16 个粘土球。我可以在三个问题变成一个昂贵的问题之前解决它们。",
+        "仔细听。粘土订单需要 16 个粘土球。你能处理吗？",
+        "仅当您准备好时才接受任务。泥瓦匠正在尝试修补井和烤箱接缝，而 原料 很薄。",
+        "认真对待这件事。给我 16 个粘土球。我想要干净的可加工粘土。",
+        "仔细听。我有一份平淡的工作，却有一份有用的成果。找到 16 个粘土球。",
+        "这需要小心谨慎。如果您填写粘土订单，我们可以阻止小裂缝蔓延。",
+        "我需要你来看看这件事。未完成的维修干燥是一个小问题，直到每个人都需要同样的东西。",
+        "在你同意之前，先听听所有的内容。粘土石板上的计数是 16 个粘土球。",
+        "村里有工作给你。收集粘土并将整个交付物带到这里。",
+        "这需要小心谨慎。储备维修台并不是荣耀，但很重要。",
+        "村里有工作给你。石匠们让我为这次跑步寻找可靠的人。",
+        "仅当您准备好时才接受任务。我需要干净的维修台交付。",
+        "村里有工作给你。如果你有时间的话，16个粘土球就可以解决粘土短缺的问题。",
+        "这是工作。需求是真实的，这使得黏土修补的说明变得简单。",
+        "我选择你是有原因的。当你完整数完后，带上粘土。",
+        "这需要小心谨慎。好的粘土可以让我们修补井和烤箱接缝。",
+        "我把一些重要的事情托付给你。在我们采取行动之前，村里不应该让未完成的修复工程干涸。",
+        "认真对待这件事。小心处理粘土束。我们需要干净的可加工粘土。",
+        "我把一些重要的事情托付给你。当维修台收到完整订单时我将付款。",
+        "我选择你是有原因的。找到 16 个粘土球，我们就可以暂时不再担心这个问题了。"
+      ]
+    },
+    "quest.village_supply.clay_repairs.dialogue.turn_in": {
+      "lines": [
+        "这解决了我对你的要求。这将在他们学会自信之前修补小裂缝。",
+        "困难的部分已经过去了。计数是对的。我会把这个拿到修理台去。",
+        "很好，你回来了。泥瓦匠现在可以修补水井和烤箱接缝。",
+        "我很高兴见到你回家。这是干净的可加工粘土。你选得不错。",
+        "这次回归值得等待。这种交付使我们避免了未完成的维修工作。",
+        "这就是我需要的结果。干得好。所有的粘土都聚集在一起。",
+        "困难的部分已经过去了。我有你的粘土，你获得了黏土修补奖励。",
+        "村里可以用这个。修理台看起来已经不那么光秃秃了。",
+        "你已经看透了。这将帮助我们阻止小裂缝蔓延。",
+        "你已经看透了。你让泥瓦匠们免于用废品凑合。",
+        "我很高兴见到你回家。粘土板上的一切都在这里。",
+        "您准确地交付了所需的内容。一个有用的粘土工作，毫不费力地完成。谢谢。",
+        "困难的部分已经过去了。在有人借用粘土之前我会把它收起来。",
+        "困难的部分已经过去了。由于您完成了黏土修补，村庄的库存更加丰富。",
+        "您准确地交付了所需的内容。你带来的粘土正是我要的。",
+        "村里可以用这个。粘土输送从上到下都是健全的。",
+        "你已经看透了。维修台少了一件令我们惊讶的短缺。",
+        "这将会带来真正的改变。村庄可能不会为粘土欢呼，但会注意到它们的缺席。",
+        "困难的部分已经过去了。接受你的付款。粘土计数让我没有抱怨。",
+        "您准确地交付了所需的内容。我可以放心地将粘土订单交给石匠。"
+      ]
+    },
+    "quest.village_supply.clay_repairs.dialogue.unavailable": {
+      "lines": [
+        "您还没有准备好接受此请求。黏土修补请求目前已结束。",
+        "赢得更多信任后再回来。我还不能将黏土修补项下提交的工作交给您。",
+        "这需要我们更了解的人。粘土订单是为修理台已经认识的人准备的。",
+        "有些工作必须等到信任赶上来才可以。泥瓦匠需要他们可以信赖的送货服务。",
+        "这个村庄需要更稳定的手。在进行黏土修补之前，向村庄展示更稳定的工作。",
+        "这个村庄需要更稳定的手。粘土太重要了，不能把赌注押在陌生人身上。",
+        "今天这项工作不是你的。我今天不会向你打开粘土石板。",
+        "赢得更多信任后再回来。建立一些信任，然后再次询问有关黏土修补的问题。",
+        "这需要我们更了解的人。我需要一个能带着全部 16 个粘土球回来的人。",
+        "这需要我们更了解的人。收集粘土很简单，但可靠性是不可忽视的。",
+        "今天这项工作不是你的。目前，粘土订单仍由普通人负责。",
+        "我不会把这个负担加在你身上。我还不能保证维修台会从你那里交货。",
+        "今天这项工作不是你的。在我们将维修台交给您之前，还有其他工作要做。",
+        "我现在还不能相信你。村里还没有允许你参加这个粘土跑。",
+        "这个村庄需要更稳定的手。我宁愿等待，也不愿冒险修复未完成的风险。",
+        "今天这项工作不是你的。这不是惩罚。在我打开黏土修补之前表现出更好的判断力。",
+        "我现在还不能相信你。这次石匠们要了一个熟悉的跑步者。",
+        "我现在还不能相信你。当你的名字更有分量后，再来领取粘土订单。",
+        "这需要我们更了解的人。我不会接受新的黏土修补帮助。",
+        "这需要我们更了解的人。在这里赢得一些信心，我们可以重新审视黏土修补。"
+      ]
+    },
+    "quest.village_supply.clay_repairs.objective.bring_clay.complete_text": {
+      "lines": [
+        "粘土已准备好进行修补。"
+      ]
+    },
+    "quest.village_supply.clay_repairs.objective.bring_clay.text": {
+      "lines": [
+        "带 16 个粘土球来修复村庄。"
+      ]
+    },
+    "quest.village_supply.clay_repairs.stage.return.dialogue.turn_in.label": "关于黏土修补",
+    "quest.village_supply.clay_repairs.stage.return.dialogue.turn_in.lines": [
+      "在下一次暴风雨将裂缝扩大之前，粘土会堵住裂缝。",
+      "计数是对的，没有一个会闲置太久。",
+      "在我关闭笔记之前让我看看完整的作品。"
+    ],
+    "quest.village_supply.clay_repairs.stage.return.dialogue.turn_in.response.complete.label": "交出工作。",
+    "quest.village_supply.clay_repairs.stage.return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.village_supply.clay_repairs.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "在下一次暴风雨将裂缝扩大之前，粘土会堵住裂缝。",
+      "计数是对的，没有一个会闲置太久。",
+      "这样就解决了。村里一定会好好利用这一点。"
+    ],
+    "quest.village_supply.clay_repairs.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "仍然缺少一些东西。在我关闭笔记之前检查日记。",
+      "完整的工作尚未准备好进行计算。"
+    ],
+    "quest.village_supply.clay_repairs.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "在我们解决这个问题之前，请带上证据。",
+      "我需要在这里提交完整的内容，而不仅仅是故事。"
+    ],
+    "quest.village_supply.clay_repairs.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "原料 背后需要一个真正的目的地。",
+      "在我们称之为完成之前到达标记的地方。"
+    ],
+    "quest.village_supply.clay_repairs.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "黏土修补目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_supply.clay_repairs.stage.return.scene.turn_in_wait.lines": [
+      "携带 16 个粘土球，用于修复破裂的墙壁和花盆",
+      "当工作准备好时再回来。"
+    ],
+    "quest.village_supply.clay_repairs.stage.return.ui.tracker_text": "返回任务给予者。",
+    "quest.village_supply.clay_repairs.stage.work.dialogue.offer.label": "黏土修补",
+    "quest.village_supply.clay_repairs.stage.work.dialogue.offer.lines": [
+      "雨发现了石匠错过的每一条裂缝。",
+      "带 16 个粘土球来修补破裂的墙壁和花盆，这样架子看起来就不那么担心了。",
+      "带 16 个粘土球来修复破裂的墙壁和花盆。我会让回报值得付出的努力。"
+    ],
+    "quest.village_supply.clay_repairs.stage.work.dialogue.offer.response.accept.label": "我能做到。",
+    "quest.village_supply.clay_repairs.stage.work.dialogue.offer.response.decline.label": "现在不行。",
+    "quest.village_supply.clay_repairs.stage.work.dialogue.reminder.label": "关于黏土修补",
+    "quest.village_supply.clay_repairs.stage.work.dialogue.reminder.lines": [
+      "携带 16 个粘土球，用于修复破裂的墙壁和花盆",
+      "带 16 个粘土球来修复破裂的墙壁和花盆。",
+      "带 16 个粘土球来修补破裂的墙壁和花盆，这样架子看起来就不那么担心了。"
+    ],
+    "quest.village_supply.clay_repairs.stage.work.dialogue.reminder.response.abandon.label": "把这个放在一边。",
+    "quest.village_supply.clay_repairs.stage.work.dialogue.reminder.response.details.label": "重复该工作。",
+    "quest.village_supply.clay_repairs.stage.work.dialogue.reminder.response.leave.label": "我有。",
+    "quest.village_supply.clay_repairs.stage.work.scene.abandon_confirm.lines": [
+      "把黏土修补放在一边？",
+      "如果你确定的话我可以把你的名字从工作中删除。"
+    ],
+    "quest.village_supply.clay_repairs.stage.work.scene.abandon_confirm.response.cancel.label": "保持打开状态。",
+    "quest.village_supply.clay_repairs.stage.work.scene.abandon_confirm.response.confirm.label": "把它放在一边。",
+    "quest.village_supply.clay_repairs.stage.work.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "好的。我会从工作中清除你的名字。",
+      "便条收起来了。你可以稍后再问。"
+    ],
+    "quest.village_supply.clay_repairs.stage.work.scene.abandon_quest.action.abandon.lines.abandoned_cooldown": [
+      "我会把这张纸条先搁置一段时间，然后再重新发布。",
+      "在你再次提出要求之前，先让工作休息一下。"
+    ],
+    "quest.village_supply.clay_repairs.stage.work.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "黏土修补目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_supply.clay_repairs.stage.work.scene.decline.lines": [
+      "好的。空架子会以自己的方式不断询问。",
+      "另一双手可能会接住它，或者您可以稍后再问。"
+    ],
+    "quest.village_supply.clay_repairs.stage.work.scene.leave.lines": [
+      "携带 16 个粘土球，用于修复破裂的墙壁和花盆",
+      "当工作准备好时再回来。"
+    ],
+    "quest.village_supply.clay_repairs.stage.work.scene.reminder_details.action.remind.lines.reminder": [
+      "携带 16 个粘土球，用于修复破裂的墙壁和花盆",
+      "带 16 个粘土球来修复破裂的墙壁和花盆。",
+      "带 16 个粘土球来修补破裂的墙壁和花盆，这样架子看起来就不那么担心了。"
+    ],
+    "quest.village_supply.clay_repairs.stage.work.scene.reminder_details.action.remind.lines.unavailable": [
+      "黏土修补目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_supply.clay_repairs.stage.work.scene.start_quest.action.start.lines.already_completed": [
+      "黏土修补现在已经解决了。",
+      "这项工作已经被计算在内。"
+    ],
+    "quest.village_supply.clay_repairs.stage.work.scene.start_quest.action.start.lines.locate_failed": [
+      "我在这里找不到值得信赖的标记。等道路畅通后再询问。",
+      "今天地图不会确定安全目的地。"
+    ],
+    "quest.village_supply.clay_repairs.stage.work.scene.start_quest.action.start.lines.started": [
+      "带 16 个粘土球来修复破裂的墙壁和花盆。在返回的路上将完整的计数放在一起。",
+      "带 16 个粘土球来修复破裂的墙壁和花盆。",
+      "好的。我会为你带回来的东西保留一个地方。"
+    ],
+    "quest.village_supply.clay_repairs.stage.work.scene.start_quest.action.start.lines.unavailable": [
+      "黏土修补目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_supply.clay_repairs.stage.work.ui.tracker_text": "带 16 个粘土球来修复破裂的墙壁和花盆。",
+    "quest.village_supply.clay_repairs.title": {
+      "lines": [
+        "黏土修补"
+      ]
+    },
+    "quest.village_supply.clay_repairs.tracker.proof.text": {
+      "lines": [
+        "带 16 个粘土球来修复村庄。"
+      ]
+    },
+    "quest.village_supply.clay_repairs.tracker.return.text": {
+      "lines": [
+        "带着粘土球返回 任务 给予者。"
+      ]
+    },
+    "quest.village_supply.clay_repairs.tracker.title": {
+      "lines": [
+        "黏土修补"
+      ]
+    }
+  }
+}

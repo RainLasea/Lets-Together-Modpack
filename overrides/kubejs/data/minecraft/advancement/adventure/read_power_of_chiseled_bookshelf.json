@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "chiseled_bookshelf": {
+      "trigger": "minecraft:impossible"
+    },
+    "comparator": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "chiseled_bookshelf",
+      "comparator"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

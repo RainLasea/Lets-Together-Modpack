@@ -1,0 +1,38 @@
+{
+  "display": {
+    "icon": {
+      "id": "create:andesite_alloy"
+    },
+    "title": {
+      "translate": "advancements.letstogether.workshop.alloy.title",
+      "fallback": "Alloy There"
+    },
+    "description": {
+      "translate": "advancements.letstogether.workshop.alloy.description",
+      "fallback": "Obtain andesite alloy."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "0": {
+      "conditions": {
+        "items": [
+          {
+            "items": "create:andesite_alloy"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:workshop/root"
+}

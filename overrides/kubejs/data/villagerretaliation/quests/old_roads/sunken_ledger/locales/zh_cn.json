@@ -1,0 +1,372 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.old_roads.sunken_ledger.description": {
+      "lines": [
+        "搜索沉船并在 路线 被遗忘之前带上指南针和纸返回。"
+      ]
+    },
+    "quest.old_roads.sunken_ledger.dialogue.already_completed": {
+      "lines": [
+        "我记得你第一次回来。我们已经解决了沉没的账簿。",
+        "从此一无所获。你已经从海难中带着我们需要的东西回来了。",
+        "所欠的已经还清了。沉没账本已关闭。我不会送你穿过深水并淹死两次。",
+        "事情结束得还算顺利。你的沉船路线已经在复制的账本中了。",
+        "保留旧的计数。我记得你带着指南针回来的那天。",
+        "这件事我们已经解决了。您赢得了沉没账本的奖励，并且已支付。",
+        "我不会重新打开已完成的帐户。我们失去了方位，因为你完成了前往沉船的旅程。",
+        "从此一无所获。残骸中已经没有任何东西可以打捞了。",
+        "我问的你都说完了。你从沉船中带回来的东西仍在帮助村庄。",
+        "所欠的已经还清了。你曾经证明过 路线 沉船的存在。这就够了。",
+        "事情结束得还算顺利。复制的账本在已完成的标记旁边有您的名字。",
+        "这件事我们已经解决了。将《沉没的账簿》留在过去，留在它所属的地方。",
+        "该章已关闭。你在第一次回归时就解决了沉没账本的所有部分。",
+        "这件事我们已经解决了。到达了沉船地点并交付了指南针证据。",
+        "保留旧的计数。在把你送回那里之前，我会为你找到一条超越沉船的路。",
+        "没有人需要这样做两次。没有人忘记你在前往沉船的旅程中付出了多少代价。",
+        "该章已关闭。沉船残骸中的沉没账本不需要您第二次来访。",
+        "这里没有第二次付款。你给了我们指南针，而不是另一个谣言。",
+        "没有人需要这样做两次。 《沉没的账簿》完美地结束了，并且一直保持结束状态。",
+        "所欠的已经还清了。我们现在可以展望未来。沉没的账簿已经完成。"
+      ]
+    },
+    "quest.old_roads.sunken_ledger.dialogue.inactive": {
+      "lines": [
+        "村里可以等这一件事。目前《沉没账本》的条件并不合适。",
+        "现在，就让这件事平息吧。沉船的标志今天没有开放。",
+        "今天没有什么需要做这项工作。我没有理由让你冒着水深而淹死的危险。",
+        "今天没有什么需要做这项工作。村里没有准备好使用指南针和8张纸。",
+        "今天没有什么需要做这项工作。等到复制的账本要求前往沉船的旅程。",
+        "现在，就让这件事平息吧。毫无必要地前往沉船只会带来危险。",
+        "今天没有什么需要做这项工作。 路线 残骸可以保持折叠状态，直到时机改善。",
+        "等店铺换了再问我。我暂时将沉没账本排除在董事会之外。",
+        "我们还不需要它。沉船事件中没有什么需要我们今天回答的。",
+        "我不会把这个问题列入考虑范围。为沉船做好准备，但先不要离开。",
+        "村里可以等这一件事。沉没的账簿是真实的。现在还不是。",
+        "现在，就让这件事平息吧。我不会为了满足一张旧纸条而把你送入深水而淹死。",
+        "我们还不需要它。沉船可以等到我们有需要再返回。",
+        "现在，就让这件事平息吧。村里审核复制的账本后再询问。",
+        "当重要的时候我会发布它。今天没有对指南针的主动索赔。",
+        "暂时先别管那项工作。通往沉船的道路很安静，我打算就这样吧。",
+        "村里可以等这一件事。现在开始《沉没账本》需要勇气，却不会得到任何有用的结果。",
+        "董事会可以等待。沉没的分类帐尚未发布给任何旅行者。",
+        "等店铺换了再问我。让沉没的账簿有时间变得必要。",
+        "还没有开始的理由。目前，请留在通往沉船的旅程的这一侧。"
+      ]
+    },
+    "quest.old_roads.sunken_ledger.dialogue.locate_failed": {
+      "lines": [
+        "可疑的地图风险太大。海岸没有回应。我找不到值得送你去的沉船。",
+        "我的地图让我们失望了。我无法在沉船上留下值得信赖的标记。",
+        "可疑的地图风险太大。我检查过的每台 路线 在沉船前都发生故障。",
+        "小路已经冷了。沉船地图不一致，深水和溺水没有留下猜测的余地。",
+        "可疑的地图风险太大。我发现了有关海难的谣言，但我不会给你任何道路。",
+        "小路已经冷了。沉船事故已经超出了我的沉船图表。",
+        "我的地图让我们失望了。如果没有坚定的方向，沉没的账簿就会徘徊。",
+        "我不会猜测 路线。我最好的地图在沉船应该在的地方是空白的。",
+        "在我认路之前，你就待在这里。我追踪到了三艘 路线 前往沉船地点，但没有追踪到 信任。",
+        "我找不到可以给你的安全支撑。旧的沉船指示在危险开始之前就结束了。",
+        "搜索没有发现任何可靠的结果。我不会假装猜测可以标记沉船事件。",
+        "搜索没有发现任何可靠的结果。没有侦察员确认沉船的标记。",
+        "图表有问题。我还没来得及标记，通向沉船的踪迹就变冷了。",
+        "我们首先需要一个值得信赖的路线。我需要沉船坐标，而不是篝火故事。",
+        "可疑的地图风险太大。沉船可能在那里，但我无法证明在哪里。",
+        "可疑的地图风险太大。沉船轴承中没有一个通向同一地面。",
+        "没有标记比假标记好。在你准备离开之前，让我找到一艘诚实的沉船路线。",
+        "我不会猜测 路线。今天复制的账本提供的是警告，而不是方向。",
+        "我的地图让我们失望了。当我需要确定性时，沉船地图却让我产生怀疑。",
+        "没有标记比假标记好。沉船之路回来后给了我们答案。"
+      ]
+    },
+    "quest.old_roads.sunken_ledger.dialogue.missing_proof": {
+      "lines": [
+        "最后一个要求仍然缺失。从沉船中给我带来一个指南针。方向是这次差事的重点。",
+        "我相信你去了，但这还不够。你回来时指南针仍然不见踪影。",
+        "我无法在空的退货单上签字。如果没有商定的指南针证据，我无法关闭复制的账本。",
+        "证据仍然很重要。你遭遇了海难，但村庄仍然需要指南针。",
+        "我需要一些我能握住的东西。在我们解决沉没账本之前，带回指南针和 8 张纸。",
+        "带回来一些村里可以核实的东西。你的故事可能是真的。我还需要指南针。",
+        "我相信你去了，但这还不够。当指南针易手时，沉船之旅就结束了。",
+        "带回来一些村里可以核实的东西。不要到达沉船地点并忘记验证它的指南针。",
+        "你回来时却没有带我要的一件东西。我知道你旅行过。我需要海难的结果。",
+        "证据必须到达我的手中。沉没账本的奖励等待的是罗盘证据，而不是线索。",
+        "我无法在空的退货单上签字。给我看指南针，沉没的账簿就可以关闭。",
+        "我相信你去了，但这还不够。复制的账本中的空位置等待您恢复的内容。",
+        "你回来时却没有带我要的一件东西。言语无法代替失去的方向。",
+        "我相信你去了，但这还不够。在两次前往沉船地点之前检查您的行李。",
+        "证据仍然很重要。 《沉没的账簿》从一开始就命名了它的证明。",
+        "你带回家的东西决定了这一点。将指南针证据带到这里，而不是将其留在 仓储 中。",
+        "证据必须到达我的手中。村里要了一个指南针和八张纸，但仍未完成。",
+        "证据仍然很重要。在看到残骸 路线 的情况后，我可以记录它。",
+        "你的话并不是缺失的部分。一次指南针交接就将《沉没的账簿》与完成分开。",
+        "最后一个要求仍然缺失。当指南针在你手中时返回。"
+      ]
+    },
+    "quest.old_roads.sunken_ledger.dialogue.missing_target": {
+      "lines": [
+        "旅程结束得太早了。当你到达沉船本身时，指南针就很重要了。",
+        "地图上仍然显示着未完成的旅程。你还没有确认沉船本身。",
+        "先完成外出的旅程。如果从未到达沉船现场，那么货物就毫无意义。",
+        "路一定会在我送你去的地方结束。沉没的账簿包括道路和返回。",
+        "旅程结束得太早了。在你给我带来证据之前先踏入沉船。",
+        "你还欠道路最后一英里。我要求从沉船中获取证据，而不是其他地方。",
+        "旅程结束得太早了。复制的账本中的沉船仍然没有受到影响。",
+        "必须到达该地点本身。在领取沉没账本奖励之前完成外出旅程。",
+        "你还欠道路最后一英里。借来的指南针不能代替到达沉船地点。",
+        "达到目标是承诺的一部分。沉船地图仍然显示你停了下来。",
+        "你还欠道路最后一英里。前往标记的地方并通过那里看到沉没的账簿。",
+        "你还欠道路最后一英里。沉船 路线 必须在沉船处结束，而不是靠近它。",
+        "达到目标是承诺的一部分。在我相信这份报告之前，我需要你亲眼目睹沉船事件。",
+        "先完成外出的旅程。不要跳过将深水淹没在你面前的部分。",
+        "我需要确认该网站。村里要求你确认残骸的存在。",
+        "达到目标是承诺的一部分。你回来的还早。沉船仍在等待。",
+        "先完成外出的旅程。到达沉船地点，然后找回指南针和 8 张纸。",
+        "地图上仍然显示着未完成的旅程。当最后的标记尚未到达时，通往沉船的旅程尚未完成。",
+        "你还没有走得足够远。复制的账本需要一个确认的地方，而不仅仅是一个项目。",
+        "达到目标是承诺的一部分。返回沉船并完成你开始的事情。"
+      ]
+    },
+    "quest.old_roads.sunken_ledger.dialogue.reminder": {
+      "lines": [
+        "继续你接受的工作。 {target_x}、{target_z} 附近的沉船。指南针为证，纸张为账本。",
+        "牢记整个任务。沉船仍在{target_x}、{target_z}附近。",
+        "离开之前，请再听一遍。该标记仍位于 {target_x}、{target_z} 附近，因此请保留计划中的残骸 路线。",
+        "牢记整个任务。再次查看地图。沉船仍在{target_x}、{target_z}附近。",
+        "你还没有完成。 《沉没的账簿》仍然需要指南针和 8 张纸。",
+        "记住村庄在等待什么。进去的时候要注意水深和被淹死的情况。",
+        "不要让已完成的一步分散您的注意力。不要在没有指南针的情况下离开沉船。",
+        "将回程行程保留在您的计划中。你的归来应该会给我们带来失去的方位。",
+        "离开之前，请再听一遍。在地标模糊之前检查 {target_x}、{target_z} 处的沉船方位。",
+        "遵守我给你的指示。找回指南针后，请妥善保管它。",
+        "下一步仍然很重要。复制的账本将一直保持打开状态，直到您回家为止。",
+        "继续你接受的工作。不要盲目冲向沉船。按照标记并完整返回。",
+        "使这一切得到适当的完成。沉船尚未从 {target_x}、{target_z} 移出。",
+        "继续你接受的工作。记住你为什么要去。我们需要拯救溺水的 路线，以免被遗忘。",
+        "这项工作仍有未完成的任务。如果沉船 路线 感觉不对，请对照 {target_x}、{target_z} 检查您的位置。",
+        "使这一切得到适当的完成。困难的部分是到达沉船并带着证据离开。",
+        "继续你接受的工作。沉船仍在 {target_x}、{target_z} 附近等待。",
+        "继续你接受的工作。将指南针的每个部分和 8 张纸重新组合在一起。",
+        "你还没有完成。我宁愿等待，也不愿收到约定的指南针的一半。",
+        "牢记整个任务。找到沉船，在那里做沉没账本，然后回到我身边。"
+      ]
+    },
+    "quest.old_roads.sunken_ledger.dialogue.start": {
+      "lines": [
+        "这需要小心谨慎。沉船应该是{direction}，距离{distance}大约几个街区，靠近{target_x}、{target_z}。带一个指南针和8张复印纸。",
+        "这是工作。我标记了 {target_x}、{target_z} 附近的沉船。",
+        "在你同意之前，先听听所有的内容。向 {direction} 行驶约 {distance} 区块并寻找残骸。",
+        "仅当您准备好时才接受任务。任务是拯救溺水的 路线，以免被遗忘。",
+        "仅当您准备好时才接受任务。带上指南针和 8 张纸回家，这样村里的谣言就不再是谣言了。",
+        "让我们清楚地了解这项工作。路通深水，会被淹死，所以出发前要做好准备。",
+        "这是工作。我需要有人愿意到达沉船地点并带着证据回来。",
+        "我选择你是有原因的。根据我的地图，沉船位于 {target_x}、{target_z} 附近。",
+        "仔细听。跟随{direction}轴承并保持复制的账本干燥。",
+        "村里有工作给你。 《沉没的账簿》从沉船开始，到指南针到达我身边时结束。",
+        "我有一个困难的请求。沉船标记距离{distance} 左右。不要将速度误认为是谨慎。",
+        "认真对待这件事。带上指南针和8张纸，我就能把这个风险变成有用的东西。",
+        "认真对待这件事。村庄需要失落的风度，而不是在大火中吹嘘。",
+        "这是工作。我把 路线 残骸交给你，因为它并不友善。",
+        "我需要你来看看这件事。前往 {target_x}、{target_z} 并亲自确认沉船情况。",
+        "仔细听。在穿过最后一个安全地带之前，做好深水和溺水的准备。",
+        "这是工作。向外的旅程证明了沉船地图。回报证明了你。",
+        "仅当您准备好时才接受任务。不要从沉船中空手而归。",
+        "我有一个困难的请求。仅当您打算完成旅行和恢复时才选择沉没账本。",
+        "我需要你来看看这件事。当你有指南针和8张纸时，直接带到这里。"
+      ]
+    },
+    "quest.old_roads.sunken_ledger.dialogue.turn_in": {
+      "lines": [
+        "现在我可以关闭账本了。沉船中的指南针和拯救 路线 的页面。好的。水可以保留其余部分。",
+        "很好，你回来了。你到达沉船地点并把指南针带回家。",
+        "困难的部分已经过去了。复制的账本终于有了真正的结局。",
+        "您准确地交付了所需的内容。这是丢失的轴承，足够坚固，可以固定。",
+        "现在我可以关闭账本了。村庄可以拯救溺水的 路线，使其免于被遗忘，因为你承担了风险。",
+        "困难的部分已经过去了。我要了一个指南针和八张纸，你却把所有零件都带回来了。",
+        "很好，你回来了。你穿过深水，被淹死，但保住了你的头。",
+        "村里可以用这个。 路线 沉船残骸现在已得到确认，而不仅仅是绘制出来的。",
+        "困难的部分已经过去了。我毫无疑问可以支付沉没账本的费用。",
+        "这解决了我对你的要求。指南针比任何吹嘘都更能讲述故事。",
+        "困难的部分已经过去了。你让通往沉船的危险道路对这里的每个人都有用。",
+        "我很高兴见到你回家。沉船事故不再只是地图上的警告。",
+        "这就是我需要的结果。我会把你的沉船发现放在村里可以研究的地方。",
+        "很好，你回来了。沉没的账簿是干净的，即使通往沉船的旅程并不干净。",
+        "这次回归值得等待。这就是我希望看到的罗盘证据。",
+        "你使工作得到了圆满的结束。你从海难中归来，不仅仅获得了生存。你带来了答案。",
+        "这就是我需要的结果。 《沉没的账簿》结束时，村庄已经做好了更充分的准备。",
+        "这就是我需要的结果。下一位前往沉船的旅行者将拥有您的 路线。",
+        "很好，你回来了。领取沉没账本奖励。你在安全道路之外赢得了它。",
+        "你已经看透了。我很高兴看到指南针和携带它的人。"
+      ]
+    },
+    "quest.old_roads.sunken_ledger.dialogue.unavailable": {
+      "lines": [
+        "不，风险太高了。并非每个村民都应该信任您的 <aqua><wavy>溺尸</wavy></aqua> 记录。",
+        "不，风险太高了。沉没的账簿要求我对你还没有信任。",
+        "我现在还不能相信你。我今天不能给你一个路线穿过深水并被淹死。",
+        "我首先需要证明你的判断力。沉船事件不能成为未经考验的盟友的理由。",
+        "在再次询问之前先赢得我们的信任。在索取沉船地图之前，请先在这里进行更稳定的工作。",
+        "赢得更多信任后再回来。我需要一个可以信任的人从海难中回来。",
+        "这需要我们更了解的人。复制的账本目前对您保持关闭状态。",
+        "有些工作必须等到信任赶上来才可以。沉没的账簿所面临的风险不仅仅是旅行者的生命。",
+        "有些工作必须等到信任赶上来才可以。赢得我们的信任，然后再次询问沉船的情况。",
+        "这个村庄需要更稳定的手。失去方位后我不会派陌生人来。",
+        "今天这项工作不是你的。毫无疑问，这次海难对我们来说已经足够危险了。",
+        "有些工作必须等到信任赶上来才可以。您的姓名尚未到达复制账本的 信任 页面。",
+        "您还没有准备好接受此请求。有比沉没账本更安全的任务可以向我展示您的工作方式。",
+        "有些工作必须等到信任赶上来才可以。在提供前往沉船地点的旅程之前，我需要判断证据。",
+        "我不会把这个负担加在你身上。目前，沉船地图仍处于折叠状态。",
+        "赢得更多信任后再回来。村庄还没有准备好赌注，以防止溺水的 路线 被遗忘。",
+        "不，风险太高了。等你和我们待得更久之后再询问有关沉船的事情。",
+        "这个村庄需要更稳定的手。勇气可能到达沉船。可靠性将指南针带回家。",
+        "我现在还不能相信你。 《沉没的账簿》由经过验证的老手来维护。",
+        "目前答案是否定的。当我们信任你通往沉船的道路时我会告诉你。"
+      ]
+    },
+    "quest.old_roads.sunken_ledger.objective.bring_paper.complete_text": {
+      "lines": [
+        "空白页已干燥并准备就绪。"
+      ]
+    },
+    "quest.old_roads.sunken_ledger.objective.bring_paper.text": {
+      "lines": [
+        "带8张纸来复印损坏的账本。"
+      ]
+    },
+    "quest.old_roads.sunken_ledger.stage.return.dialogue.turn_in.label": "关于沉没账本",
+    "quest.old_roads.sunken_ledger.stage.return.dialogue.turn_in.lines": [
+      "墨水漂移了，但 路线 却没有。这个账本可以再次为船只导航。",
+      "水下的路一旦有人记得它就仍然是路。",
+      "在我关闭笔记之前让我看看完整的作品。"
+    ],
+    "quest.old_roads.sunken_ledger.stage.return.dialogue.turn_in.response.complete.label": "交出工作。",
+    "quest.old_roads.sunken_ledger.stage.return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.old_roads.sunken_ledger.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "墨水漂移了，但 路线 却没有。这个账本可以再次为船只导航。",
+      "水下的路一旦有人记得它就仍然是路。"
+    ],
+    "quest.old_roads.sunken_ledger.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "完整的工作尚未准备好进行计算。"
+    ],
+    "quest.old_roads.sunken_ledger.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "在我们解决这个问题之前，请带上证据。",
+      "我需要在这里提交完整的内容，而不仅仅是故事。"
+    ],
+    "quest.old_roads.sunken_ledger.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "原料 背后需要一个真正的目的地。",
+      "在我们称之为完成之前到达标记的地方。"
+    ],
+    "quest.old_roads.sunken_ledger.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "沉没的账簿目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.old_roads.sunken_ledger.stage.return.scene.turn_in_wait.lines": [
+      "沉船方位、一个指南针和八张干燥的副本。",
+      "当工作准备好时再回来。"
+    ],
+    "quest.old_roads.sunken_ledger.stage.return.ui.tracker_text": "返回任务给予者。",
+    "quest.old_roads.sunken_ledger.stage.work.dialogue.offer.label": "沉没的账簿",
+    "quest.old_roads.sunken_ledger.stage.work.dialogue.offer.lines": [
+      "一名渔民从沉船中拉出了一本浸满水的账本，但 路线 的一半已被冲走。",
+      "找到沉船的真实方位并带上干纸，以便复制幸存的痕迹。",
+      "到达标记的沉船处并带上指南针和 8 张纸返回。"
+    ],
+    "quest.old_roads.sunken_ledger.stage.work.dialogue.offer.response.accept.label": "我能做到。",
+    "quest.old_roads.sunken_ledger.stage.work.dialogue.offer.response.decline.label": "现在不行。",
+    "quest.old_roads.sunken_ledger.stage.work.dialogue.reminder.label": "关于沉没账本",
+    "quest.old_roads.sunken_ledger.stage.work.dialogue.reminder.lines": [
+      "沉船方位、一个指南针和八张干燥的副本。",
+      "到达标记的沉船处并带上指南针和 8 张纸返回。",
+      "找到沉船的真实方位并带上干纸，以便复制幸存的痕迹。"
+    ],
+    "quest.old_roads.sunken_ledger.stage.work.dialogue.reminder.response.abandon.label": "把这个放在一边。",
+    "quest.old_roads.sunken_ledger.stage.work.dialogue.reminder.response.details.label": "重复该工作。",
+    "quest.old_roads.sunken_ledger.stage.work.dialogue.reminder.response.leave.label": "我有。",
+    "quest.old_roads.sunken_ledger.stage.work.objective.bring_paper.tracker.complete_text": "干纸就准备好了。",
+    "quest.old_roads.sunken_ledger.stage.work.objective.bring_paper.tracker.text": "带8张纸来复印账本。",
+    "quest.old_roads.sunken_ledger.stage.work.objective.carry_compass.tracker.complete_text": "罗盘方位已准备就绪。",
+    "quest.old_roads.sunken_ledger.stage.work.objective.carry_compass.tracker.text": "携带 1 个指南针来固定沉船的方位。",
+    "quest.old_roads.sunken_ledger.stage.work.objective.visit_wreck.tracker.complete_text": "沉船已被勘察。",
+    "quest.old_roads.sunken_ledger.stage.work.objective.visit_wreck.tracker.text": "到达标记的沉船地点。",
+    "quest.old_roads.sunken_ledger.stage.work.scene.abandon_confirm.lines": [
+      "把沉没的账簿放在一边？",
+      "如果你确定的话我可以把你的名字从工作中删除。"
+    ],
+    "quest.old_roads.sunken_ledger.stage.work.scene.abandon_confirm.response.cancel.label": "保持打开状态。",
+    "quest.old_roads.sunken_ledger.stage.work.scene.abandon_confirm.response.confirm.label": "把它放在一边。",
+    "quest.old_roads.sunken_ledger.stage.work.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "好的。我会从工作中清除你的名字。",
+      "便条收起来了。你可以稍后再问。"
+    ],
+    "quest.old_roads.sunken_ledger.stage.work.scene.abandon_quest.action.abandon.lines.abandoned_cooldown": [
+      "我会把这张纸条先搁置一段时间，然后再重新发布。",
+      "在你再次提出要求之前，先让工作休息一下。"
+    ],
+    "quest.old_roads.sunken_ledger.stage.work.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "沉没的账簿目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.old_roads.sunken_ledger.stage.work.scene.decline.lines": [
+      "然后潮汐保留了账本缺失的一半。"
+    ],
+    "quest.old_roads.sunken_ledger.stage.work.scene.leave.lines": [
+      "沉船方位、一个指南针和八张干燥的副本。",
+      "当工作准备好时再回来。"
+    ],
+    "quest.old_roads.sunken_ledger.stage.work.scene.reminder_details.action.remind.lines.reminder": [
+      "沉船方位、一个指南针和八张干燥的副本。",
+      "到达标记的沉船处并带上指南针和 8 张纸返回。",
+      "找到沉船的真实方位并带上干纸，以便复制幸存的痕迹。"
+    ],
+    "quest.old_roads.sunken_ledger.stage.work.scene.reminder_details.action.remind.lines.unavailable": [
+      "沉没的账簿目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.old_roads.sunken_ledger.stage.work.scene.start_quest.action.start.lines.already_completed": [
+      "《沉没的账簿》目前已经尘埃落定。",
+      "这项工作已经被计算在内。"
+    ],
+    "quest.old_roads.sunken_ledger.stage.work.scene.start_quest.action.start.lines.locate_failed": [
+      "我在这里找不到值得信赖的标记。等道路畅通后再询问。",
+      "今天地图不会确定安全目的地。"
+    ],
+    "quest.old_roads.sunken_ledger.stage.work.scene.start_quest.action.start.lines.started": [
+      "将纸张保持在水线上方。我们已经有一本被淹没的账本了。",
+      "到达标记的沉船处并带上指南针和 8 张纸返回。"
+    ],
+    "quest.old_roads.sunken_ledger.stage.work.scene.start_quest.action.start.lines.unavailable": [
+      "沉没的账簿目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.old_roads.sunken_ledger.stage.work.ui.tracker_text": "勘察沉船并用指南针和 8 张纸返回。",
+    "quest.old_roads.sunken_ledger.title": {
+      "lines": [
+        "沉没的账簿"
+      ]
+    },
+    "quest.old_roads.sunken_ledger.tracker.bring_paper.text": {
+      "lines": [
+        "收集 8 张纸作为干净的副本。"
+      ]
+    },
+    "quest.old_roads.sunken_ledger.tracker.proof.text": {
+      "lines": [
+        "带一个指南针和8张纸。"
+      ]
+    },
+    "quest.old_roads.sunken_ledger.tracker.return.text": {
+      "lines": [
+        "带着指南针和纸返回 任务 给予者。"
+      ]
+    },
+    "quest.old_roads.sunken_ledger.tracker.title": {
+      "lines": [
+        "沉没的账簿"
+      ]
+    },
+    "quest.old_roads.sunken_ledger.tracker.travel.text": {
+      "lines": [
+        "到达 {target_x}、{target_z} 附近的沉船。"
+      ]
+    }
+  }
+}

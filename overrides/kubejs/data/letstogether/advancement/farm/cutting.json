@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "id": "farmersdelight:cutting_board"
+    },
+    "title": {
+      "translate": "advancements.letstogether.farm.cutting.title",
+      "fallback": "Chop Chop"
+    },
+    "description": {
+      "translate": "advancements.letstogether.farm.cutting.description",
+      "fallback": "Process an ingredient on a cutting board with a tool."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "cutting_board": {
+      "trigger": "farmersdelight:use_cutting_board"
+    }
+  },
+  "requirements": [
+    [
+      "cutting_board"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:farm/knife"
+}

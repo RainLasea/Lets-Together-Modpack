@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:oak_sign"
+    },
+    "title": {
+      "translate": "advancements.letstogether.travel.road.title",
+      "fallback": "Making Connections"
+    },
+    "description": {
+      "translate": "advancements.letstogether.travel.road.description",
+      "fallback": "Chart a road connection with Via Romana."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "a_strand_type_game": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "a_strand_type_game"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:travel/map"
+}

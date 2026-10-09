@@ -1,0 +1,40 @@
+{
+  "display": {
+    "icon": {
+      "id": "strawstatues:straw_statue"
+    },
+    "title": {
+      "translate": "advancements.letstogether.home.statue.title",
+      "fallback": "The Quiet One"
+    },
+    "description": {
+      "translate": "advancements.letstogether.home.statue.description",
+      "fallback": "Obtain a straw statue."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "item_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "strawstatues:straw_statue"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "item_0"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:home/chair"
+}

@@ -1,0 +1,38 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:ancient_debris"
+    },
+    "title": {
+      "translate": "advancements.letstogether.realms.netherite.title",
+      "fallback": "Worth the Dig"
+    },
+    "description": {
+      "translate": "advancements.letstogether.realms.netherite.description",
+      "fallback": "Obtain ancient debris."
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "ancient_debris": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:ancient_debris"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "ancient_debris"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:realms/nether"
+}

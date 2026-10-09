@@ -1,0 +1,104 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:diamond_sword"
+    },
+    "title": {
+      "translate": "advancements.letstogether.travel.all_dungeons.title",
+      "fallback": "Dungeon Regular"
+    },
+    "description": {
+      "translate": "advancements.letstogether.travel.all_dungeons.description",
+      "fallback": "Explore every dungeon type in YUNG's dungeon advancement, including the Nether dungeon."
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "in_better_monster_room": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "betterdungeons:small_dungeon"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "in_better_zombie_dungeon": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "betterdungeons:zombie_dungeon"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "in_better_skeleton_dungeon": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "betterdungeons:skeleton_dungeon"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "in_better_spider_dungeon": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "betterdungeons:spider_dungeon"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "in_better_monster_room"
+    ],
+    [
+      "in_better_zombie_dungeon"
+    ],
+    [
+      "in_better_skeleton_dungeon"
+    ],
+    [
+      "in_better_spider_dungeon"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "letstogether:travel/skeleton_dungeon",
+  "rewards": {
+    "experience": 50
+  }
+}

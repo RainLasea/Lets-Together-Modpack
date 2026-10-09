@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "brown_mushroom_colony": {
+      "trigger": "minecraft:impossible"
+    },
+    "red_mushroom_colony": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "brown_mushroom_colony",
+      "red_mushroom_colony"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "befriend_lantern": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "befriend_lantern"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

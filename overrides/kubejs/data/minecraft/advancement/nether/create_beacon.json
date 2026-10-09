@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "beacon": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "beacon"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

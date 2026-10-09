@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "ride_nomad": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "ride_nomad"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

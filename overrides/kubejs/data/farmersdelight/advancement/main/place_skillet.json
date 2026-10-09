@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "skillet": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "skillet"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

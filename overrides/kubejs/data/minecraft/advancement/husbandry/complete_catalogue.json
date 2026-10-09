@@ -1,0 +1,73 @@
+{
+  "criteria": {
+    "minecraft:all_black": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:black": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:british_shorthair": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:calico": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:jellie": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:persian": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:ragdoll": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:red": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:siamese": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:tabby": {
+      "trigger": "minecraft:impossible"
+    },
+    "minecraft:white": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "minecraft:all_black"
+    ],
+    [
+      "minecraft:black"
+    ],
+    [
+      "minecraft:british_shorthair"
+    ],
+    [
+      "minecraft:calico"
+    ],
+    [
+      "minecraft:jellie"
+    ],
+    [
+      "minecraft:persian"
+    ],
+    [
+      "minecraft:ragdoll"
+    ],
+    [
+      "minecraft:red"
+    ],
+    [
+      "minecraft:siamese"
+    ],
+    [
+      "minecraft:tabby"
+    ],
+    [
+      "minecraft:white"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

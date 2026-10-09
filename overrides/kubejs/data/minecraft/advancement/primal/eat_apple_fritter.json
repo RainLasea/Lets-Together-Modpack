@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "eat_apple_fritter": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "eat_apple_fritter"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

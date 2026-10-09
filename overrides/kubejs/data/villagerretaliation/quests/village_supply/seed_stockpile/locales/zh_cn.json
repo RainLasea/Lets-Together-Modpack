@@ -1,0 +1,360 @@
+{
+  "schema": "villagerretaliation:quest_locale/v1",
+  "messages": {
+    "quest.village_supply.seed_stockpile.description": {
+      "lines": [
+        "带上种子，这样村庄就可以在不接触冬季储存的情况下重新种植。"
+      ]
+    },
+    "quest.village_supply.seed_stockpile.dialogue.already_completed": {
+      "lines": [
+        "所欠的已经还清了。我们已经解决了储备种子问题。",
+        "这里没有第二次付款。种子储备里有你带来的小麦种子。",
+        "该章已关闭。我数了一下你的32粒小麦种子。我们是方的。",
+        "我记得你第一次回来。农民们已经开始送货了。",
+        "该章已关闭。您解决了弹簧到达空垃圾箱的问题。",
+        "该章已关闭。没有理由再收集一车小麦种子。",
+        "没有人需要这样做两次。储备种子已从小麦种子工作清单中划掉。",
+        "事情结束得还算顺利。您帮助我们重新种植下一块田地的工作已经完成。",
+        "我不会重新打开已完成的帐户。最后一批小麦种子仍在为村里服务。",
+        "这件事我们已经解决了。我记得是谁填写了小麦种子的订单，是你。",
+        "这里没有第二次付款。奖励是在小麦种子到达时支付的。",
+        "所欠的已经还清了。第一次你就做得够多了。我将把旧条目保留在储备种子下。",
+        "你早期的作品仍然有效。我们可以保护冬季谷物免于播种，因为您回答了储备种子。",
+        "我问的你都说完了。小麦种子总数达到种子储备。什么都没有丢失。",
+        "你早期的作品仍然有效。如果我问你两次，农民就会反对。",
+        "该章已关闭。您交付的小麦种子已通过检验并投入使用。",
+        "我问的你都说完了。种子储备中的空位属于昨天。",
+        "没有人需要这样做两次。记录显示您收到了 32 粒小麦种子。",
+        "事情结束得还算顺利。你默默地做着小麦种子的工作，让每个人都继续前进。",
+        "我问的你都说完了。第一个结局对于种子储备来说已经足够好了。"
+      ]
+    },
+    "quest.village_supply.seed_stockpile.dialogue.inactive": {
+      "lines": [
+        "当重要的时候我会发布它。种子储备目前尚未开放清点。",
+        "当重要的时候我会发布它。今天没有小麦种子的开放订单。",
+        "董事会可以等待。在我要求更多之前，正在清点种子储备。",
+        "等店铺换了再问我。农民们还没有提出新的要求。",
+        "时间不对。保留小麦种子。我们没有地方可以放置它们。",
+        "等店铺换了再问我。重新种植下一块田地的需要将会再次出现，但不是今天。",
+        "我不会把这个问题列入考虑范围。我正在等待下一次统计，然后再打开储备种子。",
+        "还没有开始的理由。现在带 32 粒小麦种子就会挤满仓储。",
+        "今天没有什么需要做这项工作。最后一批小麦种子还没有用完。",
+        "村里可以等这一件事。农民检查完剩下的东西后再询问。",
+        "村里可以等这一件事。我不会发明对小麦种子的迫切需要。",
+        "现在，就让这件事平息吧。种子储备很安静，所以这可以等待。",
+        "时间不对。我们正在处理小麦种子的订单。",
+        "时间不对。种子储备没有任何问题。时机根本不对。",
+        "当重要的时候我会发布它。省省力，直到我们真正需要小麦种子为止。",
+        "当重要的时候我会发布它。板上除了储备种子之外没有当前标记。",
+        "当重要的时候我会发布它。今天不是再次播种小麦种子的日子。",
+        "我不会把这个问题列入考虑范围。一旦春天到达空垃圾箱成为一个问题，我将重新打开它。",
+        "还没有开始的理由。我宁愿拖延，也不愿浪费好麦种。",
+        "现在，就让这件事平息吧。等仓储发生变化后再向我询问储备种子的情况。"
+      ]
+    },
+    "quest.village_supply.seed_stockpile.dialogue.locate_failed": {
+      "lines": [
+        "我无法确认当前的种子订单。检查种子储备后再次询问。",
+        "种子储备计数缺失，所以我不会要求你收集小麦种子。",
+        "没有人证实目前种子储备需要多少小麦种子。",
+        "工作笔记不完整。我先算一下种子数。",
+        "在村里确认订单之前我不会给你寄小麦种子。",
+        "种子储备尚未公布可靠的种子数量。",
+        "我检查了工作清单两次；种子请求尚未准备好。",
+        "这个订单可以等到我有当前的种子统计后。",
+        "在我把订单交给你之前，需要有人检查一下种子储备。",
+        "村里还没有就种子数量达成一致。",
+        "我有一份旧的种子统计，没有当前的种子统计。",
+        "种子储备可能需要小麦种子，但我不会把猜测变成工作。",
+        "种子储备完成计数后回来。",
+        "该订单缺少详细信息。我需要确认金额和收货地点。",
+        "在工作说明完成之前，我无法将此请求提交给董事会。",
+        "请求尚未准备好。我仍在等待种子储备统计。",
+        "在你们开始收集之前，让我确认一下谁需要小麦种子。",
+        "还没有工作。该村尚未批准该种子请求。",
+        "在我提供这项工作之前，仓储需要再次清点。",
+        "当种子订单有明确的所有者和计数时再次询问。"
+      ]
+    },
+    "quest.village_supply.seed_stockpile.dialogue.missing_proof": {
+      "lines": [
+        "带回来一些村里可以核实的东西。在我将储备标记为满之前，给我看看小麦种子。",
+        "你带回家的东西决定了这一点。在我签字之前我需要这里的小麦种子。",
+        "我需要一些我能握住的东西。承诺并不能填补种子储备。带来小麦种子交付。",
+        "你带回家的东西决定了这一点。你可能已经收集到了，但农民还没有收到。",
+        "证据仍然很重要。把 32 颗小麦种子放在这里，我就可以关闭小麦种子订单了。",
+        "你回来时却没有带我要的一件东西。小麦种子的上交就是这次供应工作的证明。",
+        "你回来时却没有带我要的一件东西。当你两手空空时，我无法检查值得种植的干种子。",
+        "带回来一些村里可以核实的东西。你的报告听起来不错。我仍然需要真正的小麦种子。",
+        "你的话并不是缺失的部分。目前还没有达到种子储备。",
+        "故事无法关闭账本。在我们讨论种子储备奖励之前，带上你收集的东西。",
+        "最后一个要求仍然缺失。种子储备需要的是可用的小麦种子，而不是关于它们的故事。",
+        "我需要一些我能握住的东西。你一把小麦种子放在这里，我就数数。",
+        "你回来时却没有带我要的一件东西。不要将小麦种子递送留在另一个箱子中。",
+        "你的话并不是缺失的部分。农民们正在等待小麦种子捆扎。",
+        "让我看看你带回来了什么。最后一步很简单。交出小麦种子。",
+        "让我看看你带回来了什么。我无法用空柜台重新种植下一块田地。",
+        "我需要一些我能握住的东西。带着小麦种子订单回来，我们就完成了。",
+        "最后一个要求仍然缺失。一旦种子储备收到，小麦种子工作就开始计算。",
+        "故事无法关闭账本。您只需一交接就能完成储备种子。",
+        "我需要一些我能握住的东西。在我结束之前让我看看小麦种子。"
+      ]
+    },
+    "quest.village_supply.seed_stockpile.dialogue.missing_target": {
+      "lines": [
+        "交货时间仍然很短。带上剩下的小麦种子。",
+        "我数了两遍； 32 粒小麦种子的完整订单尚未到货。",
+        "这有帮助，但种子储备仍然需要剩余的小麦种子。",
+        "上交不完整。我还无法关闭工作笔记。",
+        "我们商定了 32 颗小麦种子；堆还是很短。",
+        "把缺少的小麦种子带过来，我就可以结单了。",
+        "种子储备有空间等待其余的交付。",
+        "部分交付无法满足该村的需求。",
+        "你带来了正确的货物，但不是全额。",
+        "再算一下。种子储备仍然不足。",
+        "工作开始后我无法降低约定的数量。",
+        "继续收集，直到收集完全部 32 颗小麦种子。",
+        "村子可以用这么多，但还需要剩下的。",
+        "工作即将完成；剩下的就是缺少的金额。",
+        "理货和交货尚未匹配。",
+        "带来一份完整的交付，而不是留下种子储备不足。",
+        "订单将持续开放，直到所有 32 颗小麦种子都到达为止。",
+        "除了金额之外，你带来的东西没有任何问题。",
+        "种子储备是指全部订单，而不是部分订单。",
+        "带着剩下的回来，我会关闭笔记。"
+      ]
+    },
+    "quest.village_supply.seed_stockpile.dialogue.reminder": {
+      "lines": [
+        "记住村庄在等待什么。储备小麦种子三十二粒。如果我们保证小东西的安全，它们就会变成面包。",
+        "继续你接受的工作。我仍在等待 32 粒小麦种子作为种子储备。",
+        "记住村庄在等待什么。寻找值得种植的干种子。 原料不好只有移动的问题。",
+        "现在不要丢失线。农民需要这些小麦种子来重新种植下一块田地。",
+        "使这一切得到适当的完成。计数为 32 粒小麦种子。回来之前检查一下。",
+        "将回程行程保留在您的计划中。这次小麦种子的运送意味着我们可以保护冬季谷物免于播种。",
+        "离开之前，请再听一遍。如果您要选择装载，请先携带小麦种子。",
+        "使这一切得到适当的完成。将小麦种子的顺序保持在一起，以便小麦种子的清点变得容易。",
+        "你还没有完成。种子储备有空间等待完整的捆绑。",
+        "现在不要丢失线。不要让一个简单的请求变成弹簧到达空箱。",
+        "下一步仍然很重要。储备种子没有隐藏部分。带上约定的小麦种子数量。",
+        "你还没有完成。小心处理它们。我想要值得种植的干种子。",
+        "你还没有完成。如果可以的话，一次性带上所有的小麦种子。",
+        "你还没有完成。农民们正在围绕你的回归计划他们的下一步工作。",
+        "不要让已完成的一步分散您的注意力。我在小麦种子石板上写下了 32 颗小麦种子，所以我们都不必猜测。",
+        "现在不要丢失线。这些越早到达，我们就能越早重新种植下一块田地。",
+        "牢记整个任务。小麦种子订单中没有遗漏任何其他内容。",
+        "不要让已完成的一步分散您的注意力。当小麦种子准备好交出时返回。",
+        "将回程行程保留在您的计划中。您知道种子储备需要多少小麦种子。其余的正在聚集。",
+        "牢记整个任务。完整的小麦种子包可以让每个人节省第二次旅行。"
+      ]
+    },
+    "quest.village_supply.seed_stockpile.dialogue.start": {
+      "lines": [
+        "在你同意之前，先听听所有的内容。给我带来 32 粒小麦种子。这是一项不起眼的工作，这就是为什么每个人都会注意到它的缺失。",
+        "仅当您准备好时才接受任务。小麦种子订单需要32颗小麦种子。你能处理吗？",
+        "我选择你是有原因的。农民们正在尝试重新种植下一块田地，原料 很薄。",
+        "我选择你是有原因的。给我带来 32 粒小麦种子。我想要值得种植的干种子。",
+        "这是工作。我有一份平淡的工作，却有一份有用的成果。找到 32 颗小麦种子。",
+        "仅当您准备好时才接受任务。如果您填写小麦种子订单，我们可以保护冬季谷物免于播种。",
+        "仅当您准备好时才接受任务。弹簧到达空箱是一个小问题，直到每个人都需要相同的东西。",
+        "仅当您准备好时才接受任务。小麦种子石板上的计数为 32 粒小麦种子。",
+        "这是工作。收集小麦种子并将整个货物运送到这里。",
+        "我需要你来看看这件事。储存种子储备并不光彩，但很重要。",
+        "我有一个困难的请求。农民们让我为这次跑步找一个可靠的人。",
+        "我选择你是有原因的。我需要干净地交付种子储备。",
+        "认真对待这件事。如果你有时间的话，32粒小麦种子就可以解决小麦种子短缺的问题。",
+        "这是工作。需求是真实的，这使得储备种子的说明变得简单。",
+        "我把一些重要的事情托付给你。当你有完整的计数时，带上小麦种子。",
+        "仅当您准备好时才接受任务。好的小麦种子可以让我们重新种植下一块田地。",
+        "这需要小心谨慎。在我们采取行动之前，村里不应该等到春天到来时才发现一个空垃圾箱。",
+        "我有一个困难的请求。小心处理小麦种子束。我们需要值得种植的干种子。",
+        "在你同意之前，先听听所有的内容。当种子储备收到完整订单时我将付款。",
+        "认真对待这件事。找到 32 颗小麦种子，我们就可以暂时不再担心这个问题了。"
+      ]
+    },
+    "quest.village_supply.seed_stockpile.dialogue.turn_in": {
+      "lines": [
+        "村里可以用这个。好的。那是明天袋子里的田地。拿这个来解决你的麻烦。",
+        "这将会带来真正的改变。计数是对的。我会把这些送到种子储备处。",
+        "村里可以用这个。农民现在可以重新种植下一块田了。",
+        "我很高兴见到你回家。这些是值得种植的干种子。你选得不错。",
+        "困难的部分已经过去了。这种交付使我们免于春天到来时变成一个空垃圾箱。",
+        "这次回归值得等待。干得好。所有的小麦种子都聚集在一起。",
+        "这将会带来真正的改变。我有你的小麦种子，你也获得了种子储备奖励。",
+        "我很高兴见到你回家。种子储备看起来已经不再那么贫瘠了。",
+        "这就是我需要的结果。这将有助于我们保护冬季谷物免于播种。",
+        "村里可以用这个。你让农民们免于用废品勉强度日。",
+        "你使工作得到了圆满的结束。小麦种子板上的所有内容都在这里。",
+        "这解决了我对你的要求。一项有用的小麦种子工作，毫不费力地完成。谢谢。",
+        "困难的部分已经过去了。在有人借之前我会把小麦种子收起来。",
+        "这解决了我对你的要求。由于您完成了储备种子，村庄的储备更加丰富。",
+        "这就是我需要的结果。你带来的正是我要的小麦种子。",
+        "困难的部分已经过去了。小麦种子出货自上而下良好。",
+        "您准确地交付了所需的内容。种子储备又少了一个让我们惊讶的短缺。",
+        "你使工作得到了圆满的结束。村庄可能不会为小麦种子欢呼，但会注意到它们的缺席。",
+        "我很高兴见到你回家。接受你的付款。小麦种子的数量让我没有任何抱怨。",
+        "你使工作得到了圆满的结束。我可以放心地将小麦种子订单交给农民。"
+      ]
+    },
+    "quest.village_supply.seed_stockpile.dialogue.unavailable": {
+      "lines": [
+        "我不会把这个负担加在你身上。种子箱目前不寻求帮助。",
+        "这需要我们更了解的人。我还不能把在储备种子下提交的工作交给你。",
+        "有些工作必须等到信任赶上来才可以。小麦种子订单是为种子储备已经认识的人提供的。",
+        "我首先需要证明你的判断力。农民需要他们可以信赖的送货服务。",
+        "我现在还不能相信你。在取得种子储备之前，让村里的工作更加稳定。",
+        "有些工作必须等到信任赶上来才可以。小麦种子太重要了，不能把赌注押在陌生人身上。",
+        "有些工作必须等到信任赶上来才可以。我今天不会向你们打开小麦种子石板。",
+        "我首先需要证明你的判断力。建立一些信任，然后再次询问储备种子的情况。",
+        "目前答案是否定的。我需要一个能带着全部 32 粒小麦种子回来的人。",
+        "您还没有准备好接受此请求。收集小麦种子很简单，但可靠性是必须的。",
+        "我现在还不能相信你。目前，小麦种子订单仍由普通人负责。",
+        "赢得更多信任后再回来。我还不能保证种子储备会从你那里交付。",
+        "不，风险太高了。在我们将种子储备交给您之前，还有其他工作要做。",
+        "这需要我们更了解的人。村里还没有允许你参加这次小麦种子奔跑。",
+        "我不会把这个负担加在你身上。我宁愿等待，也不愿冒春天到达空箱的风险。",
+        "我现在还不能相信你。这不是惩罚。在打开储备种子之前表现出更好的判断力。",
+        "您还没有准备好接受此请求。这次农民们要了一个熟悉的跑步者。",
+        "我首先需要证明你的判断力。当你的名字更有分量后，再来订购小麦种子。",
+        "今天这项工作不是你的。我不会为储备种子寻求新的帮助。",
+        "目前答案是否定的。在这里赢得一些信心，我们可以重新审视储备种子。"
+      ]
+    },
+    "quest.village_supply.seed_stockpile.objective.bring_seeds.complete_text": {
+      "lines": [
+        "种子袋已系好并准备就绪。"
+      ]
+    },
+    "quest.village_supply.seed_stockpile.objective.bring_seeds.text": {
+      "lines": [
+        "带32粒小麦种子作为储备。"
+      ]
+    },
+    "quest.village_supply.seed_stockpile.stage.return.dialogue.turn_in.label": "关于储备种子",
+    "quest.village_supply.seed_stockpile.stage.return.dialogue.turn_in.lines": [
+      "对于新领域来说已经足够了。下一次收获将从这个袋子开始。",
+      "计数是对的，没有一个会闲置太久。",
+      "在我关闭笔记之前让我看看完整的作品。"
+    ],
+    "quest.village_supply.seed_stockpile.stage.return.dialogue.turn_in.response.complete.label": "交出工作。",
+    "quest.village_supply.seed_stockpile.stage.return.dialogue.turn_in.response.leave.label": "还没有。",
+    "quest.village_supply.seed_stockpile.stage.return.scene.complete_quest.action.turn_in.lines.completed": [
+      "对于新领域来说已经足够了。下一次收获将从这个袋子开始。",
+      "计数是对的，没有一个会闲置太久。",
+      "这样就解决了。村里一定会好好利用这一点。"
+    ],
+    "quest.village_supply.seed_stockpile.stage.return.scene.complete_quest.action.turn_in.lines.missing_objectives": [
+      "仍然缺少一些东西。在我关闭笔记之前检查日记。",
+      "完整的工作尚未准备好进行计算。"
+    ],
+    "quest.village_supply.seed_stockpile.stage.return.scene.complete_quest.action.turn_in.lines.missing_proof": [
+      "在我们解决这个问题之前，请带上证据。",
+      "我需要在这里提交完整的内容，而不仅仅是故事。"
+    ],
+    "quest.village_supply.seed_stockpile.stage.return.scene.complete_quest.action.turn_in.lines.missing_target": [
+      "原料 背后需要一个真正的目的地。",
+      "在我们称之为完成之前到达标记的地方。"
+    ],
+    "quest.village_supply.seed_stockpile.stage.return.scene.complete_quest.action.turn_in.lines.unavailable": [
+      "储备种子目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_supply.seed_stockpile.stage.return.scene.turn_in_wait.lines": [
+      "带32粒小麦种子用于下次播种",
+      "当工作准备好时再回来。"
+    ],
+    "quest.village_supply.seed_stockpile.stage.return.ui.tracker_text": "返回任务给予者。",
+    "quest.village_supply.seed_stockpile.stage.work.dialogue.offer.label": "储备种子",
+    "quest.village_supply.seed_stockpile.stage.work.dialogue.offer.lines": [
+      "一个吃掉所有种子的村庄选择了一个非常短暂的未来。",
+      "带上32颗小麦种子，下次播种，货架上看起来就不会那么担心了。",
+      "带32颗小麦种子，以备下次播种。我会让回报值得付出的努力。"
+    ],
+    "quest.village_supply.seed_stockpile.stage.work.dialogue.offer.response.accept.label": "我能做到。",
+    "quest.village_supply.seed_stockpile.stage.work.dialogue.offer.response.decline.label": "现在不行。",
+    "quest.village_supply.seed_stockpile.stage.work.dialogue.reminder.label": "关于储备种子",
+    "quest.village_supply.seed_stockpile.stage.work.dialogue.reminder.lines": [
+      "带32粒小麦种子用于下次播种",
+      "带32颗小麦种子，以备下次播种。",
+      "带上32颗小麦种子，下次播种，货架上看起来就不会那么担心了。"
+    ],
+    "quest.village_supply.seed_stockpile.stage.work.dialogue.reminder.response.abandon.label": "把这个放在一边。",
+    "quest.village_supply.seed_stockpile.stage.work.dialogue.reminder.response.details.label": "重复该工作。",
+    "quest.village_supply.seed_stockpile.stage.work.dialogue.reminder.response.leave.label": "我有。",
+    "quest.village_supply.seed_stockpile.stage.work.scene.abandon_confirm.lines": [
+      "把储备种子放在一边？",
+      "如果你确定的话我可以把你的名字从工作中删除。"
+    ],
+    "quest.village_supply.seed_stockpile.stage.work.scene.abandon_confirm.response.cancel.label": "保持打开状态。",
+    "quest.village_supply.seed_stockpile.stage.work.scene.abandon_confirm.response.confirm.label": "把它放在一边。",
+    "quest.village_supply.seed_stockpile.stage.work.scene.abandon_quest.action.abandon.lines.abandoned": [
+      "好的。我会从工作中清除你的名字。",
+      "便条收起来了。你可以稍后再问。"
+    ],
+    "quest.village_supply.seed_stockpile.stage.work.scene.abandon_quest.action.abandon.lines.abandoned_cooldown": [
+      "我会把这张纸条先搁置一段时间，然后再重新发布。",
+      "在你再次提出要求之前，先让工作休息一下。"
+    ],
+    "quest.village_supply.seed_stockpile.stage.work.scene.abandon_quest.action.abandon.lines.unavailable": [
+      "储备种子目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_supply.seed_stockpile.stage.work.scene.decline.lines": [
+      "好的。空架子会以自己的方式不断询问。",
+      "另一双手可能会接住它，或者您可以稍后再问。"
+    ],
+    "quest.village_supply.seed_stockpile.stage.work.scene.leave.lines": [
+      "带32粒小麦种子用于下次播种",
+      "当工作准备好时再回来。"
+    ],
+    "quest.village_supply.seed_stockpile.stage.work.scene.reminder_details.action.remind.lines.reminder": [
+      "带32粒小麦种子用于下次播种",
+      "带32颗小麦种子，以备下次播种。",
+      "带上32颗小麦种子，下次播种，货架上看起来就不会那么担心了。"
+    ],
+    "quest.village_supply.seed_stockpile.stage.work.scene.reminder_details.action.remind.lines.unavailable": [
+      "储备种子目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_supply.seed_stockpile.stage.work.scene.start_quest.action.start.lines.already_completed": [
+      "目前储备种子已经结算。",
+      "这项工作已经被计算在内。"
+    ],
+    "quest.village_supply.seed_stockpile.stage.work.scene.start_quest.action.start.lines.locate_failed": [
+      "我在这里找不到值得信赖的标记。等道路畅通后再询问。",
+      "今天地图不会确定安全目的地。"
+    ],
+    "quest.village_supply.seed_stockpile.stage.work.scene.start_quest.action.start.lines.started": [
+      "带32颗小麦种子，以备下次播种。在返回的路上将完整的计数放在一起。",
+      "带32颗小麦种子，以备下次播种。",
+      "好的。我会为你带回来的东西保留一个地方。"
+    ],
+    "quest.village_supply.seed_stockpile.stage.work.scene.start_quest.action.start.lines.unavailable": [
+      "储备种子目前尚未开放。",
+      "村子还没有准备好把这项工作交给你。"
+    ],
+    "quest.village_supply.seed_stockpile.stage.work.ui.tracker_text": "带32颗小麦种子，以备下次播种。",
+    "quest.village_supply.seed_stockpile.title": {
+      "lines": [
+        "储备种子"
+      ]
+    },
+    "quest.village_supply.seed_stockpile.tracker.proof.text": {
+      "lines": [
+        "带32粒小麦种子作为储备。"
+      ]
+    },
+    "quest.village_supply.seed_stockpile.tracker.return.text": {
+      "lines": [
+        "带着小麦种子返回给 任务 给予者。"
+      ]
+    },
+    "quest.village_supply.seed_stockpile.tracker.title": {
+      "lines": [
+        "储备种子"
+      ]
+    }
+  }
+}

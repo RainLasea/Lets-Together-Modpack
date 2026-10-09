@@ -1,0 +1,772 @@
+{
+  "lines": [
+    {
+      "id": "adult_family_parent_warm",
+      "request": "question",
+      "lines": [
+        "<aqua>{parent}</aqua>当村庄到来时仍然会检查我<shake><i>大声</i></shake>。他们有办法让我在任何地方都有宾至如归的感觉。",
+        "<aqua>{parent}</aqua> 知道村庄什么时候对我来说变得太<shake><i>大声</i></shake>。这种关怀会一直伴随着一个人。",
+        "当遇到麻烦时，<aqua>{parent}</aqua>通常是我首先信任的人。",
+        "在我承认它存在之前，<aqua>{parent}</aqua> 可以从我的声音中听到担忧。",
+        "我从 <aqua>{parent}</aqua> 中学到了很多东西，尽管我在其中一半时抱怨过。",
+        "<aqua>{parent}</aqua> 仍然会在我发现我累之前提醒我休息。",
+        "有些人感觉安全就像一个地方。 <aqua>{parent}</aqua> 为我做到了这一点。",
+        "当我想到家时，我通常首先听到<aqua>{parent_possessive}</aqua>的声音。",
+        "<aqua>{parent}</aqua> 有一种方法可以让即使是糟糕的一天也能感觉自己还可以生存。",
+        "我希望我能比我大声说出来更好地表达 <aqua>{parent_possessive}</aqua> 的关怀。",
+        "当我已经知道他们会说什么时，我仍然向 {parent} 寻求建议。",
+        "{parent} 在我找到合适的词语之前就能看出我很担心。",
+        "我们共享的饭菜已经够多了，以至于椅子空着的感觉很明显。",
+        "我对 {parent} 的耐心比我年轻时表现出的要多。",
+        "当我生病时，{parent} 会毫不犹豫地来检查我。",
+        "通过观看《{parent}》，我学会了如何建造一个家。",
+        "{parent} 记得关于我的故事，但我记不起了。",
+        "我们意见不同，但我从不怀疑 {parent} 希望我安全。",
+        "我为 {parent} 保留好消息，因为他们的幸福让一切变得更好。",
+        "如果{parent}从村子的另一边打来电话，我立刻就能听出那个声音。"
+      ],
+      "conditions": [
+        {
+          "relation": "parent",
+          "type": "family"
+        }
+      ],
+      "dispositions": [
+        "respectful",
+        "friendly",
+        "neutral"
+      ],
+      "option": "adult_family",
+      "show_for_babies": false,
+      "weight": 24
+    },
+    {
+      "id": "adult_family_child_warm",
+      "request": "question",
+      "lines": [
+        "我密切关注<aqua>{child}</aqua>。在这里，每个孩子都能很快了解到哪些脚步声意味着帮助。",
+        "<aqua>{child}</aqua> 是我比以前更多地观察路径 <i></i> 的原因之一。",
+        "孩子们通过观察我们来了解这个村庄。我尝试给 <aqua>{child}</aqua> 一些好的东西来复制。",
+        "<aqua>{child}</aqua> 让我在将这一天视为平凡之前三思而后行。",
+        "我希望 <aqua>{child}</aqua> 对这个村庄的了解不仅仅是警告和锁着的门。",
+        "当<aqua>{child}</aqua>笑起来的时候，整个广场都感觉不那么累了。",
+        "即使在我自己不稳定的日子里，我也会努力保持 <aqua>{child}</aqua> 的稳定。",
+        "<aqua>{child}</aqua>提出的问题让简单的事情再次变得重要。",
+        "如果我留下什么，我希望它能让 <aqua>{child}</aqua> 的生活变得更加温和。",
+        "当然，我担心 <aqua>{child}</aqua>。爱情有一种看起来像忧虑的习惯。",
+        "我注意到 {child} 学到的每一个新东西，并尽量不去仪式化。",
+        "{child} 提出的问题我并不总是准备好回答。",
+        "我希望村庄感到足够安全，让 {child} 感到好奇。",
+        "现在，擦伤的膝盖比袭击者的号角更让我害怕。",
+        "我在附近备有零食，因为 {child} 总是在错误的时间感到饥饿。",
+        "{child} 已开始复制我不知道自己使用过的短语。",
+        "当 {child} 讲述一个没有明确结局的故事时，我会尝试倾听。",
+        "一旦你对孩子负责，未来就会变得不同。",
+        "我知道在我准备好之前 {child} 就会超出我的手。",
+        "当铃声响起时，我的第一个想法就是找到{child}。"
+      ],
+      "conditions": [
+        {
+          "relation": "child",
+          "type": "family"
+        }
+      ],
+      "dispositions": [
+        "respectful",
+        "friendly",
+        "neutral"
+      ],
+      "option": "adult_family",
+      "show_for_babies": false,
+      "weight": 24
+    },
+    {
+      "id": "adult_family_sibling_warm",
+      "request": "question",
+      "lines": [
+        "<aqua>{sibling}</aqua>我并不总是同意，但我仍然会站在他们和麻烦之间。",
+        "<aqua>{sibling}</aqua>可以考验我的耐心，但仍然有我的忠诚度。",
+        "我知道 <aqua>{sibling}</aqua> 会惹恼我的每一个方式，也知道我会为他们辩护的每一个理由。",
+        "<aqua>{sibling}</aqua>知道太多关于我的旧故事。这就是兄弟姐妹的危险。",
+        "我们像松散的百叶窗一样争论，但 <aqua>{sibling}</aqua> 仍然是家庭。",
+        "<aqua>{sibling}</aqua> 能让我比大多数人更快地生气，也更快地原谅我。",
+        "我相信 <aqua>{sibling}</aqua> 来处理我假装不需要帮助的事情。",
+        "没有人像<aqua>{sibling}</aqua>那样记得我的愚蠢岁月。",
+        "<aqua>{sibling}</aqua> 和我都有锋利的边缘，但它们足够契合。",
+        "如果麻烦临近 <aqua>{sibling}</aqua>，它也会临近我。",
+        "{sibling} 和我可以无话不谈，五分钟后一起吃饭。",
+        "没有人能像 {sibling} 那样快速地用一个老故事让我难堪。",
+        "我知道 {sibling} 何时撒谎，因为我们一起学会了这个技巧。",
+        "我们分工很差，但互相保护得很好。",
+        "{sibling} 仍然用其他人不准使用的名字来称呼我。",
+        "我比其他人更随意地抱怨 {sibling}。",
+        "我们清楚地知道如何惹恼对方以及何时停止。",
+        "{sibling} 从只有家人才能分享的角度记住家人。",
+        "如果我们中的一个遇到麻烦，另一个很快就会听到。",
+        "如果没有 {sibling}，生活会更安静，但也不会更好。"
+      ],
+      "conditions": [
+        {
+          "relation": "sibling",
+          "type": "family"
+        }
+      ],
+      "dispositions": [
+        "respectful",
+        "friendly",
+        "neutral"
+      ],
+      "option": "adult_family",
+      "show_for_babies": false,
+      "weight": 22
+    },
+    {
+      "id": "adult_family_grandparent",
+      "request": "question",
+      "lines": [
+        "<aqua>{grandparent}</aqua> 教会家人天黑后哪些路径是安全的。有些建议比最先提出的人更持久。",
+        "<aqua>{grandparent}</aqua> 记得我只知道的道路。当他们警告我时我会听。",
+        "<aqua>{grandparent_possessive}</aqua> 老建议仍然让我的脚摆脱麻烦。",
+        "<aqua>{grandparent}</aqua>可以将一小段记忆变成整个晚上。",
+        "我以前觉得<aqua>{grandparent}</aqua>担心太多了。现在我明白了更多。",
+        "<aqua>{grandparent}</aqua> 知道村庄曾经在哪里，而不仅仅是它所在的位置。",
+        "听到 <aqua>{grandparent}</aqua> 说我们经历了更糟糕的情况，我感到很安慰。",
+        "<aqua>{grandparent}</aqua> 保留家族历史，就像其他人保留工具一样，磨损、有用且触手可及。",
+        "当<aqua>{grandparent}</aqua>小心说话时，我尝试以同样的方式倾听。",
+        "当 <aqua>{grandparent}</aqua> 靠近时，村庄会感觉更古老、更稳定。",
+        "{grandparent} 可以通过记住上次的结局来解决争论。",
+        "我带了{grandparent}一些小杂务，这样他们仍然可以感到有用。",
+        "他们的故事略有变化，但重要部分保持不变。",
+        "{grandparent} 知道哪些旧警告值得保留。",
+        "我开始重复 {grandparent} 中我曾经忽略的建议。",
+        "当 {grandparent} 开始讲故事时，孩子们聚集在一起。",
+        "我在{grandparent}旁边走得更慢，也因此注意到更多。",
+        "{grandparent} 可以说出在我出生之前就离开的家庭的名字。",
+        "与 {grandparent} 一起度过一个安静的下午，教会我的不仅仅是一场讲座。",
+        "我希望有人能像我记住他们的声音一样记住我的声音。"
+      ],
+      "conditions": [
+        {
+          "relation": "grandparent",
+          "type": "family"
+        }
+      ],
+      "dispositions": [
+        "respectful",
+        "friendly",
+        "neutral",
+        "cautious"
+      ],
+      "option": "adult_family",
+      "show_for_babies": false,
+      "weight": 18
+    },
+    {
+      "id": "adult_family_descendant",
+      "request": "question",
+      "lines": [
+        "当我想到<aqua>{descendant}</aqua>时，我试着让这个村庄变得比我刚发现的时候更加友善一些。",
+        "<aqua>{descendant}</aqua>让未来感觉像一个真实的地方，而不仅仅是一个词。",
+        "我希望 <aqua>{descendant}</aqua> 继承的不仅仅是锁着的门和紧张的铃声。",
+        "我们今天所做的选择将成为<aqua>{descendant_possessive}</aqua>脚下的土地。",
+        "我希望<aqua>{descendant}</aqua>在成长过程中伴随着更多的歌曲而不是警告。",
+        "想到 <aqua>{descendant}</aqua>，即使是小修理也会变得很重要。",
+        "村庄不是为我们单独建造的。 <aqua>{descendant}</aqua> 让我想起了这一点。",
+        "我想让 <aqua>{descendant}</aqua> 知道勇气，但不必太早学习。",
+        "如果我尽自己的一份力量，<aqua>{descendant}</aqua>可能永远不知道我们避开了哪些麻烦。",
+        "当我想到 <aqua>{descendant}</aqua> 时，未来就有了面貌。",
+        "我会妥善修复这些东西，因为 {descendant} 可能会在我之后使用它们。",
+        "{descendant} 让明天感觉已经足够接近，可以为明天做好准备了。",
+        "我希望他们继承和平与生存的故事。",
+        "我们现在种的树有一天可能会遮蔽{descendant}。",
+        "我尽量少给{descendant}留下太多的宿怨。",
+        "教导{descendant}耐心提醒我要练习。",
+        "他们的问题让我解释了我曾经认为理所当然的传统。",
+        "我想让 {descendant} 知道我们的错误而不是重蹈覆辙。",
+        "我们构建的每一条安全路径都给{descendant}多一点自由。",
+        "{descendant}的思考将​​平凡的工作变成了承诺。"
+      ],
+      "conditions": [
+        {
+          "relation": "descendant",
+          "type": "family"
+        }
+      ],
+      "dispositions": [
+        "respectful",
+        "friendly",
+        "neutral"
+      ],
+      "option": "adult_family",
+      "show_for_babies": false,
+      "weight": 18
+    },
+    {
+      "id": "adult_family_extended",
+      "request": "question",
+      "lines": [
+        "<aqua>{extended_relative}</aqua>不是每晚都在我家，但家族分支仍然共享相同的天气。",
+        "<aqua>{extended_relative}</aqua>可能生活在另一个屋檐下，但当麻烦来临时，亲属关系仍然会敲门。",
+        "家庭延伸得比家门还远。 <aqua>{extended_relative}</aqua> 经常证明这一点。",
+        "我不再每天见到<aqua>{extended_relative}</aqua>，但羁绊依然存在。",
+        "有些亲戚就像房屋之间的小路。你可能不会每天都走它们，但你知道它们通向哪里。",
+        "<aqua>{extended_relative}</aqua> 在家里占有一席之地，即使它并不总是在我的餐桌上。",
+        "亲属关系可以是安静的，但仍然很重要。 <aqua>{extended_relative}</aqua> 就是这样。",
+        "当麻烦蔓延到整个村庄时，它也会达到<aqua>{extended_relative}</aqua>。",
+        "家人不会停在最近的门口。 <aqua>{extended_relative}</aqua> 让我想起了这一点。",
+        "我把 <aqua>{extended_relative}</aqua> 算在我的人民之中，即使距离很远。",
+        "我可能不会每天见到 {extended_relative}，但家庭消息很快就会传到他们那里。",
+        "我们在聚会上见面，每次都会继续同样的谈话。",
+        "{extended_relative}比我更了解这个家族的一个分支。",
+        "距离使得 {extended_relative} 的参观值得计划。",
+        "当路况不好时，我们通过其他亲戚交换帮助。",
+        "{extended_relative}总是带来一个超出我们平常路径的故事。",
+        "当全家人共用一张桌子时，我会为他们保留一个位置。",
+        "几个月过去了，我们说话的轻松程度却没有改变。",
+        "当他们的家庭遇到困难时，我们的家庭也会感受到。",
+        "拥有 {extended_relative} 的家庭比大多数家庭更安静，但同样真实。"
+      ],
+      "conditions": [
+        {
+          "relation": "extended_family",
+          "type": "family"
+        }
+      ],
+      "option": "adult_family",
+      "show_for_babies": false,
+      "weight": 14
+    },
+    {
+      "id": "adult_family_deceased",
+      "request": "question",
+      "lines": [
+        "当村庄聚集时，我们仍然说<aqua>{deceased_family_possessive}</aqua>这个名字。回忆是一种庇护。",
+        "<aqua>{deceased_family_possessive}</aqua>记忆在这个村庄里仍然有一把椅子。",
+        "我们仔细地谈论<aqua>{deceased_family}</aqua>。悲伤仍然是家庭的一部分。",
+        "有时我仍然会转过头来，好像 <aqua>{deceased_family}</aqua> 可能会回答。",
+        "<aqua>{deceased_family}</aqua>消失了，但并没有消失。这些是不同的事情。",
+        "有些习惯之所以保留下来，是因为 <aqua>{deceased_family}</aqua> 教得很好。",
+        "这个村庄的 <aqua>{deceased_family_possessive}</aqua> 名字比以前更柔和，但它仍然保留着它。",
+        "平日里我最怀念<aqua>{deceased_family}</aqua>。",
+        "悲伤不会离开家。它只是学习坐在哪里。",
+        "当我们想起<aqua>{deceased_family}</aqua>时，沉默感觉不那么空虚了。",
+        "我依然漫不经心地把目光投向{deceased_family_possessive}老座。",
+        "他们最喜欢的家务却变成了没有人自愿做的事情。",
+        "有时候，在悲伤到来之前，我会微笑地想起 {deceased_family}。",
+        "我保留了他们修好的一件东西，因为他们的手还在工作。",
+        "这个家庭以不同的方式讲述他们的故事，我需要所有的版本。",
+        "我怀念问 {deceased_family} 那些当时看来不重要的问题。",
+        "某些食物会让他们暂时回到餐桌上。",
+        "我们庆祝他们的生日，尽管现在庆祝活动比较安静。",
+        "我不再期望悲伤会遵循合理的时间表。",
+        "当我重复 {deceased_family_possessive} 的建议时，损失感觉不再是最终的。"
+      ],
+      "conditions": [
+        {
+          "relation": "deceased_family",
+          "type": "family"
+        }
+      ],
+      "option": "adult_family",
+      "show_for_babies": false,
+      "weight": 16
+    },
+    {
+      "id": "adult_family_guarded",
+      "request": "question",
+      "lines": [
+        "<aqua>{relative}</aqua> 是家庭。这足以让我小心谨慎地询问谁。",
+        "尊重地询问<aqua>{relative}</aqua>，也许我会回答。",
+        "姓氏不是零散的硬币。 <aqua>{relative}</aqua> 对我来说很重要。",
+        "我不会因为无聊的好奇心而分发家庭事务。",
+        "如果 <aqua>{relative}</aqua> 是您的问题，那么您的语气很重要。",
+        "家庭不是流言。在你再次询问之前请记住这一点。",
+        "我也以一些小方式保护 <aqua>{relative}</aqua>，包括沉默。",
+        "您可能会问，但我不欠有关 <aqua>{relative}</aqua> 的所有答案。",
+        "仔细说话。家人离我们的心很近，很容易受伤。",
+        "<aqua>{relative}</aqua>不是一个让陌生人拆散的故事。",
+        "我关心 {relative}，但这并不能让我们的历史变得简单。",
+        "我们可以在广场上保持文明，不邀请陌生人提问。",
+        "{relative}知道我为什么保持一定的距离。",
+        "如果确实存在危险，我会提供帮助，并将旧的争论留到以后再说。",
+        "关于我们的流言，家里人已经听够了。",
+        "我不需要在感情和谨慎之间做出选择。",
+        "与 {relative} 的一些对话最好保存在私人房间中。",
+        "我们努力做到公平，但又不假装伤害已经消失。",
+        "如果您想要他们的支持，请直接询问 {relative}。",
+        "作为家人解释了这种纽带。它并不能解决所有分歧。"
+      ],
+      "conditions": [
+        {
+          "relation": "family",
+          "type": "family"
+        }
+      ],
+      "dispositions": [
+        "cautious",
+        "rude",
+        "hostile",
+        "fearful"
+      ],
+      "option": "adult_family",
+      "show_for_babies": false,
+      "weight": 28
+    },
+    {
+      "id": "adult_relationship_current_soft",
+      "request": "question",
+      "lines": [
+        "<aqua>{partner}</aqua>让村庄感觉不像是我生存的地方，而更像是我选择的地方。",
+        "有了 <aqua>{partner}</aqua>，即使辛苦的一天也会有更轻松的结束。",
+        "<aqua>{partner}</aqua>让村庄感觉不再像墙壁，而更像家。",
+        "当我知道 <aqua>{partner}</aqua> 就在附近时，我呼吸更轻松。",
+        "<aqua>{partner}</aqua> 知道如何在一天中的喧嚣中找到我。",
+        "有些人只要一进入房间就会变得温暖。 <aqua>{partner}</aqua> 为我做到了这一点。",
+        "当我走在<aqua>{partner}</aqua>身边时，世界感觉不那么尖锐了。",
+        "<aqua>{partner}</aqua>让平凡的夜晚变得值得记住。",
+        "我相信 <aqua>{partner}</aqua> 与我安静的部分。",
+        "当 <aqua>{partner}</aqua> 成为家的一部分时，更容易相信家。",
+        "当我有无法保密的消息时，我会寻找 {partner}。",
+        "{partner}知道什么时候该提供建议，什么时候该安静地坐着。",
+        "我们已经把小例行公事变成了我一天中期待的部分。",
+        "当 {partner} 在房间里时，我感觉不那么警惕了。",
+        "他们记得我曾经提到过的细节，却忘记了我自己。",
+        "带着 {partner} 散步可以挽救一个悲惨的夜晚。",
+        "我们并不在所有事情上都达成一致，但在重要的时候我们会诚实地说话。",
+        "我相信{partner}，但我宁愿把恐惧当作笑话。",
+        "当我知道他们在哪里时，这个村庄感觉更加安定了。",
+        "我对 {partner} 感到非常高兴，我不知道该如何优雅地表达。"
+      ],
+      "conditions": [
+        {
+          "state": "current_relationship",
+          "type": "relationship"
+        }
+      ],
+      "dispositions": [
+        "respectful",
+        "friendly",
+        "neutral"
+      ],
+      "option": "adult_relationships",
+      "show_for_babies": false,
+      "weight": 18
+    },
+    {
+      "id": "adult_relationship_crush_shy",
+      "request": "question",
+      "lines": [
+        "我一直在寻找理由经过 <aqua>{crush}</aqua> 附近。也许这是愚蠢的。也许愚蠢的事情会让人们变得善良。",
+        "我注意到 <aqua>{crush}</aqua> 穿过广场时。我假装不这样做，很糟糕。",
+        "<aqua>{crush}</aqua> 让普通的差事变得异常重要。",
+        "我对 <aqua>{crush}</aqua> 说过完全正常的事情，然后一整天都在思考它们。",
+        "当<aqua>{crush}</aqua>微笑时，我的思绪被自己的脚绊住了。",
+        "我对 <aqua>{crush}</aqua> 非常平静，除了所有方面我都不太平静。",
+        "有时我会走更长的路，因为它可能会经过 <aqua>{crush}</aqua>。",
+        "<aqua>{crush}</aqua>可能不知道一个简单的打招呼需要多大的勇气。",
+        "我一直想和 <aqua>{crush}</aqua> 坦白地交谈。平淡的话语变得纠缠不清。",
+        "我告诉自己，这只是一种迷恋，然后<aqua>{crush}</aqua>走过。",
+        "我对 {crush} 排练了简单的问候，但仍然说了一些奇怪的话。",
+        "{crush} 会让穿越广场感觉像是一项艰巨的任务。",
+        "即使另外三个人在说话，我也注意到他们的笑声。",
+        "有时我会走更长的路，因为它经过他们的门。",
+        "我曾向朋友征求意见，但立刻就后悔了。",
+        "{crush} 的每一份平常善意都让人感觉比应有的更重要。",
+        "我希望我是微妙的。我知道我可能不是。",
+        "当他们朝我这边看时，我就忘记了原本打算说的任何聪明话。",
+        "我一直想知道 {crush} 是否注意到我注意到他们了。",
+        "现在，靠近他们是一种令人愉快的恐惧。"
+      ],
+      "conditions": [
+        {
+          "state": "crush",
+          "type": "relationship"
+        }
+      ],
+      "dispositions": [
+        "respectful",
+        "friendly",
+        "neutral"
+      ],
+      "option": "adult_relationships",
+      "show_for_babies": false,
+      "weight": 24
+    },
+    {
+      "id": "adult_relationship_dating_warm",
+      "request": "question",
+      "lines": [
+        "<aqua>{dating_partner}</aqua> 和我正在看到路的走向。当道路很重要时，慢慢来就好。",
+        "<aqua>{dating_partner}</aqua>和我正在小心翼翼地对待它。细心的事还是可以勇敢的。",
+        "我喜欢走在<aqua>{dating_partner}</aqua>旁边。这样感觉路上就不那么吵了。",
+        "有了 <aqua>{dating_partner}</aqua>，即使是小计划也值得制定。",
+        "<aqua>{dating_partner}</aqua> 和我仍在了解彼此的天气。",
+        "<aqua>{dating_partner}</aqua> 让我比平时更快地想要说实话。",
+        "我还不知道它会走向何方，但我喜欢 <aqua>{dating_partner}</aqua> 的步骤。",
+        "让某人接近是一种温柔的勇气。 <aqua>{dating_partner}</aqua> 提醒了我。",
+        "<aqua>{dating_partner}</aqua>和我并不着急。美好的事物需要呼吸的空间。",
+        "我发现自己期待与 <aqua>{dating_partner}</aqua> 一起度过平凡的时刻。",
+        "{dating_partner} 和我仍在探索哪些习惯适合。",
+        "我们已经在几周前开始制定计划，但并没有认真对待。",
+        "我喜欢听 {dating_partner} 讲述一个我已经知道的故事。",
+        "当我们都不想结束这个夜晚时，我们就走了很长的路回家。",
+        "我正在学习什么让他们安静以及什么帮助他们说话。",
+        "尚不了解彼此的一切，这让人感到安慰。",
+        "当计划失败时我们可以大笑，这感觉很有希望。",
+        "{dating_partner} 已经见过足够多的家人来理解这些警告。",
+        "我尽量不急于做我喜欢的事情。",
+        "每次与 {dating_partner} 的会面都感觉不那么紧张，更加自然。"
+      ],
+      "conditions": [
+        {
+          "state": "dating_partner",
+          "type": "relationship"
+        }
+      ],
+      "dispositions": [
+        "respectful",
+        "friendly",
+        "neutral"
+      ],
+      "option": "adult_relationships",
+      "show_for_babies": false,
+      "weight": 24
+    },
+    {
+      "id": "adult_relationship_engaged",
+      "request": "question",
+      "lines": [
+        "<aqua>{fiance}</aqua> 和我正在努力规划一个足够坚固的未来，以便在这个地方生存。",
+        "<aqua>{fiance}</aqua> 和我正在策划的不仅仅是一个仪式。我们正在规划一种持续的生活。",
+        "当我说 <aqua>{fiance_possessive}</aqua> 这个名字时，未来感觉不那么理论化。",
+        "<aqua>{fiance}</aqua> 让明天感觉像是我可以为之奋斗的目标。",
+        "有很多事情需要准备，但有了 <aqua>{fiance}</aqua>，就连担心也感觉分担了。",
+        "我以为计划会让我更害怕。 <aqua>{fiance}</aqua> 让人感觉这是可能的。",
+        "我和<aqua>{fiance}</aqua>很快就要在全村人面前互相选择了。",
+        "当承诺成为现实时，会让人感觉更加沉重。我很高兴我的 <aqua>{fiance}</aqua>。",
+        "我们正在一点一点地构建生活，<aqua>{fiance}</aqua> 和我。",
+        "当我想到未来的岁月时，<aqua>{fiance}</aqua> 已经存在了。",
+        "{fiance} 和我不断寻找需要决定的新细节。",
+        "仪式很重要，但仪式后的早晨对我来说更重要。",
+        "我们就计划进行了争论，并学会了如何友善地结束争论。",
+        "我发现自己现在说的是“我们的家”而不是“我的家”。",
+        "{fiance}让未来感觉现实而不是遥远。",
+        "家人提供的建议比我们任何一个人要求的都多。",
+        "我们正在选择保留哪些传统以及创造我们自己的传统。",
+        "我感受到了承诺的分量，而且我仍然想要它。",
+        "有些准备工作是有压力的，但没有让我怀疑{fiance}。",
+        "我准备好停止计划共同的生活并开始生活。"
+      ],
+      "conditions": [
+        {
+          "state": "fiance",
+          "type": "relationship"
+        }
+      ],
+      "option": "adult_relationships",
+      "show_for_babies": false,
+      "weight": 24
+    },
+    {
+      "id": "adult_relationship_married",
+      "request": "question",
+      "lines": [
+        "<aqua>{romantic_spouse}</aqua> 知道哪些沉默意味着我累了，哪些意味着我需要帮助。这是一种难得的安慰。",
+        "<aqua>{romantic_spouse}</aqua> 知道我的风暴，但仍然保持灯亮着。",
+        "当 <aqua>{romantic_spouse}</aqua> 存在时，家的声音会有所不同。",
+        "<aqua>{romantic_spouse}</aqua> 经历过我最糟糕的早晨，但仍然问我睡得怎么样。",
+        "婚姻是一千个小小的承诺。 <aqua>{romantic_spouse}</aqua> 保持安静。",
+        "我不必向 <aqua>{romantic_spouse}</aqua> 解释每一个阴影。他们知道其中一些来自哪里。",
+        "有了 <aqua>{romantic_spouse}</aqua>，即使是家务活也感觉像是更大的事情的一部分。",
+        "我相信 <aqua>{romantic_spouse}</aqua> 与我的版本没有任何性能。",
+        "当我知道 <aqua>{romantic_spouse}</aqua> 正在等待时，这一天就平静下来了。",
+        "爱并不总是大声的。使用<aqua>{romantic_spouse}</aqua>，稳定。",
+        "{romantic_spouse} 知道我会避免哪些家务活，并且无论如何都会留给我一个。",
+        "我们学会了如何表达不同意见而不会让家里感到冷淡。",
+        "我可以从门打开的方式看出他们今天过得怎么样。",
+        "我们的生活大多是为彼此考虑而做出的小选择。",
+        "{romantic_spouse} 见过我最不印象深刻的地方，但一直很接近。",
+        "我们分享不需要修复的沉默。",
+        "我仍然会让他们发笑，尽管并不总是在我想要的时候。",
+        "当麻烦来临时，我们首先要确保对方的安全。",
+        "家部分是一个地方，部分是 {romantic_spouse} 在其中移动的声音。",
+        "多年的相处让这段爱情变得更加稳定，也同样令人惊讶。"
+      ],
+      "conditions": [
+        {
+          "state": "romantic_spouse",
+          "type": "relationship"
+        }
+      ],
+      "option": "adult_relationships",
+      "show_for_babies": false,
+      "weight": 24
+    },
+    {
+      "id": "adult_relationship_separated",
+      "request": "question",
+      "lines": [
+        "<aqua>{ex_partner}</aqua> 和我度过了属于我们的季节。有些道路在变得残酷之前就分开了，这可能是仁慈。",
+        "<aqua>{ex_partner}</aqua> 和我尽我们所能，然后在善意耗尽之前停下来。",
+        "一些带有<aqua>{ex_partner}</aqua>的结局仍然值得温柔。",
+        "我并不后悔这一切。我只知道它不能保持原样。",
+        "<aqua>{ex_partner}</aqua> 和我不再是以前的我们了，但这并不意味着它毫无意义。",
+        "<aqua>{ex_partner}</aqua> 里有一些回忆，我可以保留而不想要它们回来。",
+        "分开很伤人，但继续错误会更伤人。",
+        "我希望 <aqua>{ex_partner}</aqua> 找到平静，即使它离我很远。",
+        "有些人很重要，但并不是永久的。 <aqua>{ex_partner}</aqua> 教会了我这一点。",
+        "我尝试公平地谈论 <aqua>{ex_partner}</aqua>。苦味是沉重的负担。",
+        "我可以祝愿{ex_partner}一切顺利，但又不想回到我们以前的生活。",
+        "我们现在保持足够的距离，让美好的回忆永远美好。",
+        "有些计划随着这段关系而结束，而另一些则只属于我一个人。",
+        "我从 {ex_partner} 中学到的东西仍然对我有帮助。",
+        "在广场上看到他们不再破坏一整天的心情。",
+        "我们对共同的朋友很小心，而且比最后的时候更加友善。",
+        "我更想念一些日常活动，而不是在一起。",
+        "分离很痛苦，但也给了我们喘息的空间。",
+        "我不需要我们中的任何一个人成为故事中的反派。",
+        "我们重要的是，尽管离开是正确的选择。"
+      ],
+      "conditions": [
+        {
+          "state": "separated_partner",
+          "type": "relationship"
+        }
+      ],
+      "dispositions": [
+        "respectful",
+        "friendly",
+        "neutral",
+        "cautious"
+      ],
+      "option": "adult_relationships",
+      "show_for_babies": false,
+      "weight": 18
+    },
+    {
+      "id": "adult_relationship_widowed",
+      "request": "question",
+      "lines": [
+        "<aqua>{late_partner}</aqua> 已经消失了，但有些早晨我仍然在脑海中为它们腾出空间。",
+        "<aqua>{late_partner}</aqua>消失了，但爱留下了习惯。",
+        "我还小心地带着<aqua>{late_partner_possessive}</aqua>这个名字。",
+        "有时我几乎要转身告诉 <aqua>{late_partner}</aqua> 一些小事。",
+        "缺少 <aqua>{late_partner}</aqua> 已经成为我一天生活的一部分。",
+        "爱情不会因为生命结束而结束。",
+        "<aqua>{late_partner}</aqua> 在我的日常生活中留下了安静的地方，我仍然会四处走动。",
+        "我在平常的日子里最记得<aqua>{late_partner}</aqua>。",
+        "悲伤改变了形状，但它仍然知道 <aqua>{late_partner_possessive}</aqua> 的名字。",
+        "有些晚上，我会在心里对 <aqua>{late_partner}</aqua> 说话，这就足够了。",
+        "每天结束时我仍然会想起 {late_partner}。",
+        "他们这一侧的房间花了很长时间才感觉空旷。",
+        "当有重要的事情发生时，我会在脑海中告诉 {late_partner} 新闻。",
+        "朋友邀请我出去，并没有要求我开朗。",
+        "我保留了他们最喜欢的杯子，并在感觉缺失时使用它。",
+        "爱变成了悲伤，但它并没有变得毫无意义。",
+        "现在有些早晨很平常，我不再为此感到内疚。",
+        "我可以再次因为我们的老笑话而开怀大笑，而不会总是在事后哭泣。",
+        "村里还记得{late_partner}和我在一起，这样负担就轻了。",
+        "我正在学习如何继续而不是继续前进。"
+      ],
+      "conditions": [
+        {
+          "state": "widowed_partner",
+          "type": "relationship"
+        }
+      ],
+      "option": "adult_relationships",
+      "show_for_babies": false,
+      "weight": 18
+    },
+    {
+      "id": "adult_relationship_guarded",
+      "request": "question",
+      "lines": [
+        "<aqua>{partner}</aqua>并非市场传闻。轻轻地问，或者不问。",
+        "不要把 <aqua>{partner}</aqua> 变成流言。有些事情值得关起门来。",
+        "如果您询问 <aqua>{partner}</aqua>，请像答案属于一个人一样提问。",
+        "我的关系不值得陌生人挑剔。",
+        "<aqua>{partner}</aqua>对我来说很重要，所以我的回答会很小心。",
+        "我不会为了满足您的好奇心而将 <aqua>{partner}</aqua> 变成乡村谈话。",
+        "有些名字被保留得很近。 <aqua>{partner}</aqua> 就是其中之一。",
+        "请以尊重的方式询问，或者不要说 <aqua>{partner}</aqua>。",
+        "我生命中的某些部分并不欠每个路人。",
+        "如果我说<aqua>{partner}</aqua>，那是因为我选择这样做。",
+        "{partner}和我之间发生的事情不是乡村娱乐。",
+        "信任太重要了，不能仅仅因为涉及感情就给予信任。",
+        "在问题成为公开争论之前我们会讨论它们。",
+        "当感觉不对劲时，{partner} 知道我需要时间。",
+        "感情不会抹去界限，我们的界限是清晰的。",
+        "我会回答诚实的关心，而不是无聊的好奇心。",
+        "我们足够接近，可以诚实地对待困难的部分。",
+        "我关注 {partner} 所做的事情，而不仅仅是他们的承诺。",
+        "如果关系需要修复，我们就可以修复。",
+        "温柔地询问你是否在乎。否则，别管它。"
+      ],
+      "conditions": [
+        {
+          "state": "relationship",
+          "type": "relationship"
+        }
+      ],
+      "dispositions": [
+        "cautious",
+        "rude",
+        "hostile",
+        "fearful"
+      ],
+      "option": "adult_relationships",
+      "show_for_babies": false,
+      "weight": 28
+    },
+    {
+      "id": "baby_family_parent",
+      "request": "question",
+      "lines": [
+        "<aqua>{parent}</aqua> 说我应该呆在铃声能听到我说话的地方。",
+        "<aqua>{parent}</aqua> 说最安全的地方是有人能看到我的地方。",
+        "即使我假装很难隐藏，<aqua>{parent}</aqua>也能找到我。",
+        "<aqua>{parent}</aqua> 总是知道我的鞋子上有泥。",
+        "<aqua>{parent}</aqua> 表示步行与小步跑步不同。",
+        "当 <aqua>{parent}</aqua> 叫我的名字时，我可以听到我是否遇到麻烦。",
+        "<aqua>{parent}</aqua> 在可怕的噪音后给出最好的拥抱。",
+        "<aqua>{parent}</aqua> 说我问了很多问题。我想我问的金额是正确的。",
+        "当感觉村庄太大时，我会靠近<aqua>{parent}</aqua>。",
+        "<aqua>{parent}</aqua> 说我长得很快。我每天都检查。",
+        "{parent}检查我的口袋，因为我收集的东西太多了。",
+        "当广场变得拥挤时，我知道 {parent} 站在哪里。",
+        "{parent} 做的汤比任何人都好，除了我不喜欢的部分。",
+        "当我从噩梦中醒来时，{parent} 在我打电话之前就知道了。",
+        "如果携带一件小东西也算的话，我会帮助 {parent} 做家务。",
+        "{parent} 说我在睡觉时成长，所以我每天早上都会检查。",
+        "即使他们微笑，我也能看出 {parent} 是否担心。",
+        "{parent}知道哪个故事让我最快昏昏欲睡。",
+        "我会保存最重要的问题，直到 {parent} 忙碌为止。",
+        "如果铃声响起，我会直接前往 {parent}。"
+      ],
+      "conditions": [
+        {
+          "relation": "parent",
+          "type": "family"
+        }
+      ],
+      "option": "baby_family",
+      "show_for_adults": false,
+      "weight": 28
+    },
+    {
+      "id": "baby_family_sibling",
+      "request": "question",
+      "lines": [
+        "<aqua>{sibling}</aqua>认为他们比我快。他们并不总是正确的。",
+        "<aqua>{sibling}</aqua>说我很小。我说我很紧凑。",
+        "<aqua>{sibling}</aqua> 运行速度很快，但我知道更好的快捷方式。",
+        "<aqua>{sibling}</aqua>有时会受到指责，而这主要是我们俩的问题。",
+        "我知道<aqua>{sibling}</aqua>把好棍子藏在哪里。",
+        "<aqua>{sibling}</aqua> 说他们在大人不注意的时候负责。",
+        "有时 <aqua>{sibling}</aqua> 共享。有时我必须先凝视。",
+        "<aqua>{sibling}</aqua>可能很烦人，但它们是我的烦人。",
+        "我会和 <aqua>{sibling}</aqua> 比赛到广场，除非他们出发得太早。",
+        "<aqua>{sibling}</aqua>知道我最好的藏身之处，这是不公平的。",
+        "{sibling} 和我赛跑到井边，但他们有时会提前出发。",
+        "当大人在场时，我们公平地分享零食。",
+        "{sibling}知道我的藏身之处，所以现在它就是我们的藏身之处。",
+        "当 {sibling} 试图生气时，我可以让他们发笑。",
+        "我们先互相指责，最后才说出真相。",
+        "{sibling}教我玩规则太多的游戏。",
+        "即使我们吵架后，我也会为他们保留座位。",
+        "当其他人对{sibling}刻薄时，我忘记了我很生气。",
+        "他们借用我的东西并称之为共享。",
+        "当 {sibling} 不在时，房子感觉太安静了。"
+      ],
+      "conditions": [
+        {
+          "relation": "sibling",
+          "type": "family"
+        }
+      ],
+      "option": "baby_family",
+      "show_for_adults": false,
+      "weight": 22
+    },
+    {
+      "id": "baby_family_grandparent",
+      "request": "question",
+      "lines": [
+        "<aqua>{grandparent}</aqua> 知道在我的床铺好之前就开始的故事。",
+        "<aqua>{grandparent}</aqua> 讲述的故事中有额外的角落。",
+        "<aqua>{grandparent}</aqua> 记得一切都在某种程度上上坡的时候。",
+        "<aqua>{grandparent}</aqua> 说我应该多听。我听了那部分。",
+        "<aqua>{grandparent}</aqua> 知道听起来比房子还要古老的歌曲。",
+        "当 <aqua>{grandparent}</aqua> 笑时，其他人也会笑。",
+        "<aqua>{grandparent}</aqua>说我稍后会明白。后来听起来很遥远。",
+        "<aqua>{grandparent}</aqua> 可以让小零食感觉像是一份秘密礼物。",
+        "我喜欢坐在 <aqua>{grandparent}</aqua> 附近，因为他们知道什么时候该安静。",
+        "<aqua>{grandparent}</aqua> 有看起来像小路的皱纹。",
+        "{grandparent} 讲述的故事比就寝时间还要长。",
+        "他们知道我出生之前村子把东西存放在哪里。",
+        "{grandparent} 塞给我一些零食，并说不要大惊小怪。",
+        "我和他们一起慢慢走，这样他们就能完成每个故事。",
+        "他们知道其他成年人都不记得的歌曲。",
+        "{grandparent} 让我可以问同一个问题两次。",
+        "他们的手看起来很老，但仍能解决小事。",
+        "当其他人都很吵闹时，我喜欢坐在 {grandparent} 旁边。",
+        "他们叫我别人的名字然后笑。",
+        "{grandparent}说有一天我会明白的。我希望很快就会到来。"
+      ],
+      "conditions": [
+        {
+          "relation": "grandparent",
+          "type": "family"
+        }
+      ],
+      "option": "baby_family",
+      "show_for_adults": false,
+      "weight": 16
+    },
+    {
+      "id": "baby_family_cousin",
+      "request": "question",
+      "lines": [
+        "<aqua>{cousin}</aqua> 说我们有足够的联系来分担家务。我认为这听起来很可疑。",
+        "<aqua>{cousin}</aqua> 表示两个人一起做家务会更容易。我想他们指的是我。",
+        "<aqua>{cousin}</aqua> 知道那些看起来可疑的游戏。",
+        "<aqua>{cousin}</aqua> 总是说他们知道一条捷径。有时只是更多的泥而已。",
+        "我喜欢玩<aqua>{cousin}</aqua>，因为他们有大胆的想法。",
+        "<aqua>{cousin}</aqua> 可以让成年人相信我们正在帮助他们。那是一种技能。",
+        "当 <aqua>{cousin}</aqua> 访问时，这一天以一种好的方式变得更加喧闹。",
+        "<aqua>{cousin}</aqua> 说家庭意味着分享。我觉得零食应该分开。",
+        "我有时会关注 <aqua>{cousin}</aqua>，但只是因为我想知道会发生什么。",
+        "<aqua>{cousin}</aqua> 和我有计划。好计划。可能是允许的计划。",
+        "{cousin} 带着新游戏来访，并带着我的一些零食离开。",
+        "在大人听到之前，我们会制定听起来更好的计划。",
+        "{cousin}知道一条总是有多余泥浆的捷径。",
+        "我向他们展示我的宝藏，但不是最好的。",
+        "我们可以把一件小事变成一整个下午。",
+        "{cousin} 说有关系意味着我必须提供帮助。",
+        "我喜欢他们留下来过夜，因为就寝时间变得不那么严格。",
+        "当想法出错后，我们会争论是谁的想法。",
+        "{cousin}认识来自村子其他地方的孩子。",
+        "当他们回家后，我开始计划下次访问。"
+      ],
+      "conditions": [
+        {
+          "relation": "cousin",
+          "type": "family"
+        }
+      ],
+      "option": "baby_family",
+      "show_for_adults": false,
+      "weight": 14
+    }
+  ],
+  "metadata": {
+    "tags": [
+      "content.dialogue",
+      "dialogue.ambient",
+      "scope.global",
+      "section.lines"
+    ],
+    "topic": "global.family_and_relationships"
+  }
+}

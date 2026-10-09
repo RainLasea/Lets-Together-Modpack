@@ -1,0 +1,796 @@
+{
+  "notifications": [
+    {
+      "trigger": "gift.liked",
+      "text": "喜欢的礼物：{item}",
+      "kind": "gift_liked",
+      "color": "green"
+    },
+    {
+      "trigger": "gift.neutral",
+      "text": "接受礼物：{item}",
+      "kind": "gift_neutral",
+      "color": "gray"
+    },
+    {
+      "trigger": "gift.disliked",
+      "text": "不喜欢的礼物：{item}",
+      "kind": "gift_disliked",
+      "color": "red"
+    },
+    {
+      "trigger": "gift.received_item",
+      "text": "收到物品：{item}",
+      "kind": "received_item",
+      "color": "aqua"
+    },
+    {
+      "trigger": "dialogue.map.found",
+      "text": "找到地图目的地：{target}",
+      "kind": "map_discovery",
+      "color": "#55AAFF"
+    },
+    {
+      "trigger": "dialogue.rumor.found",
+      "text": "发现传闻地点：{target}",
+      "kind": "map_discovery",
+      "color": "#55AAFF"
+    },
+    {
+      "trigger": "quest.started",
+      "text": "任务开始：{quest}",
+      "kind": "quest",
+      "color": "#FFD166"
+    },
+    {
+      "trigger": "quest.updated",
+      "text": "任务更新：{quest}",
+      "kind": "quest",
+      "color": "#FFD166"
+    },
+    {
+      "trigger": "quest.location_reached",
+      "text": "到达任务地点：{quest}",
+      "kind": "quest",
+      "color": "#FFD166"
+    },
+    {
+      "trigger": "quest.completed",
+      "text": "任务完成：{quest}",
+      "kind": "quest",
+      "color": "#FFD166"
+    },
+    {
+      "trigger": "quest.abandoned",
+      "text": "任务被放弃：{quest}",
+      "kind": "quest",
+      "color": "#FFD166"
+    },
+    {
+      "trigger": "quest.expired",
+      "text": "任务已过期：{quest}",
+      "kind": "quest",
+      "color": "#FFD166"
+    },
+    {
+      "trigger": "recruitment.follow_start",
+      "text": "{villager} 正在关注您。",
+      "kind": "villager_following",
+      "color": "#55FFAA"
+    },
+    {
+      "trigger": "recruitment.follow_stop",
+      "text": "{villager} 不再关注您。",
+      "kind": "villager_dismissed",
+      "color": "#FFD166"
+    },
+    {
+      "trigger": "recruitment.stay_here",
+      "text": "{villager} 将留在这里。",
+      "kind": "villager_following",
+      "color": "#55FFAA"
+    },
+    {
+      "trigger": "recruitment.move_freely",
+      "text": "{villager}又可以自由活动了。",
+      "kind": "villager_dismissed",
+      "color": "#FFD166"
+    },
+    {
+      "trigger": "recruitment.hired",
+      "text": "{villager} 已聘用。",
+      "kind": "villager_hired",
+      "color": "#55AAFF"
+    },
+    {
+      "trigger": "recruitment.fired",
+      "text": "{villager} 已发射。",
+      "kind": "villager_fired",
+      "color": "#FFAA55"
+    },
+    {
+      "trigger": "party.villager_recruited",
+      "text": "{villager} 加入了你的队伍。",
+      "kind": "villager_following",
+      "color": "#55FFAA"
+    },
+    {
+      "trigger": "party.villager_dismissed",
+      "text": "{villager} 离开了你们的队伍。",
+      "kind": "villager_dismissed",
+      "color": "#FFD166"
+    },
+    {
+      "trigger": "recruitment.follower_death",
+      "text": "{villager} 在跟踪你时死亡。",
+      "kind": "villager_death",
+      "color": "red"
+    },
+    {
+      "trigger": "recruitment.hired_death",
+      "text": "{villager} 在被你雇佣期间死亡。",
+      "kind": "villager_death",
+      "color": "red"
+    },
+    {
+      "trigger": "recruitment.betrayed_follower_death",
+      "text": "{villager} 在你破坏了他们的信任后就死了。",
+      "kind": "villager_death",
+      "color": "red"
+    },
+    {
+      "trigger": "reputation.tier.royalty.improved",
+      "text": "{villager} 现在将您视为皇室成员。",
+      "color": "yellow"
+    },
+    {
+      "trigger": "reputation.tier.royalty.worsened",
+      "text": "{villager} 不再将您视为皇室成员。",
+      "color": "gold"
+    },
+    {
+      "trigger": "reputation.tier.revered.improved",
+      "text": "{villager} 现在尊敬你。",
+      "color": "gold"
+    },
+    {
+      "trigger": "reputation.tier.revered.worsened",
+      "text": "{villager_possessive}对你的尊敬已经消失。",
+      "color": "yellow"
+    },
+    {
+      "trigger": "reputation.tier.respected.improved",
+      "text": "您感觉自己赢得了 {villager_possessive} 深深的尊重。",
+      "color": "aqua"
+    },
+    {
+      "trigger": "reputation.tier.respected.worsened",
+      "text": "你感受到{villager_possessive}对你深深的敬意溜走。",
+      "color": "gray"
+    },
+    {
+      "trigger": "reputation.tier.trusted.improved",
+      "text": "您感觉自己获得了 {villager_possessive} 信任。",
+      "color": "green"
+    },
+    {
+      "trigger": "reputation.tier.trusted.worsened",
+      "text": "你感觉{villager_possessive}对你的信任减弱。",
+      "color": "gray"
+    },
+    {
+      "trigger": "reputation.tier.neutral.improved",
+      "text": "{villager}似乎又对你产生了中立的态度。",
+      "color": "gray"
+    },
+    {
+      "trigger": "reputation.tier.neutral.worsened",
+      "text": "{villager}似乎又对你产生了中立的态度。",
+      "color": "gray"
+    },
+    {
+      "trigger": "reputation.tier.suspicious.improved",
+      "text": "{villager} 似乎对你没那么怀疑了。",
+      "color": "gray"
+    },
+    {
+      "trigger": "reputation.tier.suspicious.worsened",
+      "text": "你感觉 {villager} 对你产生了怀疑。",
+      "color": "#FFAA55"
+    },
+    {
+      "trigger": "reputation.tier.hostile.improved",
+      "text": "{villager} 不再认为你是完全不可原谅的。",
+      "color": "gray"
+    },
+    {
+      "trigger": "reputation.tier.hostile.worsened",
+      "text": "你感觉 {villager} 对你怀有敌意。",
+      "color": "red"
+    },
+    {
+      "trigger": "reputation.tier.despised.improved",
+      "text": "{villager_possessive}对你的仇恨已经减弱。",
+      "color": "gray"
+    },
+    {
+      "trigger": "reputation.tier.despised.worsened",
+      "text": "你感觉{villager}开始鄙视你了。",
+      "color": "dark_red"
+    },
+    {
+      "trigger": "reputation.tier.feared.improved",
+      "text": "{villager}不再完全害怕你。",
+      "color": "gray"
+    },
+    {
+      "trigger": "reputation.tier.feared.worsened",
+      "text": "{villager} 现在害怕你了。",
+      "color": "light_purple"
+    },
+    {
+      "trigger": "reputation.tier.royalty.improved.collapsed",
+      "text": "{amount} 村民现在像皇室成员一样对待你。",
+      "color": "yellow"
+    },
+    {
+      "trigger": "reputation.tier.royalty.worsened.collapsed",
+      "text": "{amount}村民不再将你视为皇室成员。",
+      "color": "gold"
+    },
+    {
+      "trigger": "reputation.tier.revered.improved.collapsed",
+      "text": "{amount}村民现在尊敬你。",
+      "color": "gold"
+    },
+    {
+      "trigger": "reputation.tier.revered.worsened.collapsed",
+      "text": "{amount}村民对你的尊敬已经消失。",
+      "color": "yellow"
+    },
+    {
+      "trigger": "reputation.tier.respected.improved.collapsed",
+      "text": "{amount}村民现在深深尊敬你。",
+      "color": "aqua"
+    },
+    {
+      "trigger": "reputation.tier.respected.worsened.collapsed",
+      "text": "{amount}村民对你深深的敬意已经褪去。",
+      "color": "gray"
+    },
+    {
+      "trigger": "reputation.tier.trusted.improved.collapsed",
+      "text": "{amount}村民现在信任你。",
+      "color": "green"
+    },
+    {
+      "trigger": "reputation.tier.trusted.worsened.collapsed",
+      "text": "{amount}村民对你的信任减弱了。",
+      "color": "gray"
+    },
+    {
+      "trigger": "reputation.tier.neutral.improved.collapsed",
+      "text": "{amount}村民现在再次对你感到中立。",
+      "color": "gray"
+    },
+    {
+      "trigger": "reputation.tier.neutral.worsened.collapsed",
+      "text": "{amount}村民现在再次对你感到中立。",
+      "color": "gray"
+    },
+    {
+      "trigger": "reputation.tier.suspicious.improved.collapsed",
+      "text": "{amount} 村民现在不再是你的 怀疑。",
+      "color": "gray"
+    },
+    {
+      "trigger": "reputation.tier.suspicious.worsened.collapsed",
+      "text": "{amount}村民已经成为你的怀疑。",
+      "color": "#FFAA55"
+    },
+    {
+      "trigger": "reputation.tier.hostile.improved.collapsed",
+      "text": "{amount}村民不再认为你是完全不可原谅的。",
+      "color": "gray"
+    },
+    {
+      "trigger": "reputation.tier.hostile.worsened.collapsed",
+      "text": "{amount}村民已经变成敌对对你。",
+      "color": "red"
+    },
+    {
+      "trigger": "reputation.tier.despised.improved.collapsed",
+      "text": "{amount}村民对你的仇恨已经减弱。",
+      "color": "gray"
+    },
+    {
+      "trigger": "reputation.tier.despised.worsened.collapsed",
+      "text": "{amount}村民现在鄙视你。",
+      "color": "dark_red"
+    },
+    {
+      "trigger": "reputation.tier.feared.improved.collapsed",
+      "text": "{amount}村民不再完全害怕你。",
+      "color": "gray"
+    },
+    {
+      "trigger": "reputation.tier.feared.worsened.collapsed",
+      "text": "{amount}村民现在害怕你。",
+      "color": "light_purple"
+    },
+    {
+      "trigger": "ambient.murmur",
+      "world_text_kind": "murmur",
+      "color": "#E9EEF5",
+      "reputation_levels": [
+        "royalty"
+      ],
+      "lines": [
+        "我们的英雄",
+        "他们在那里",
+        "好兆头"
+      ],
+      "weight": 30
+    },
+    {
+      "trigger": "ambient.murmur",
+      "world_text_kind": "murmur",
+      "reputation_levels": [
+        "revered"
+      ],
+      "lines": [
+        "好人",
+        "信任人脸",
+        "欢迎回来"
+      ],
+      "weight": 30
+    },
+    {
+      "trigger": "ambient.murmur",
+      "world_text_kind": "murmur",
+      "reputation_levels": [
+        "respected"
+      ],
+      "lines": [
+        "友好的一",
+        "美好的一天",
+        "双手稳住"
+      ],
+      "weight": 30
+    },
+    {
+      "trigger": "ambient.murmur",
+      "text": "我认识他们",
+      "world_text_kind": "murmur",
+      "reputation_levels": [
+        "trusted"
+      ]
+    },
+    {
+      "trigger": "ambient.murmur",
+      "text": "看起来还不错",
+      "world_text_kind": "murmur",
+      "reputation_levels": [
+        "trusted",
+        "neutral"
+      ]
+    },
+    {
+      "trigger": "ambient.murmur",
+      "world_text_kind": "murmur",
+      "reputation_levels": [
+        "suspicious"
+      ],
+      "lines": [
+        "小心",
+        "观察他们"
+      ],
+      "weight": 20
+    },
+    {
+      "trigger": "ambient.murmur",
+      "world_text_kind": "murmur",
+      "reputation_levels": [
+        "hostile"
+      ],
+      "lines": [
+        "不欢迎",
+        "做好准备"
+      ],
+      "weight": 20
+    },
+    {
+      "trigger": "ambient.murmur",
+      "text": "敲响警钟",
+      "world_text_kind": "murmur",
+      "reputation_levels": [
+        "despised"
+      ]
+    },
+    {
+      "trigger": "ambient.murmur",
+      "text": "退后一步",
+      "world_text_kind": "murmur",
+      "reputation_levels": [
+        "feared"
+      ]
+    },
+    {
+      "trigger": "ambient.sleep_breathing",
+      "world_text_kind": "sleep",
+      "color": "#A9E8FF",
+      "lines": [
+        "ZZZ",
+        "*打鼾*"
+      ],
+      "weight": 20
+    },
+    {
+      "trigger": "ambient.sleep_murmur",
+      "world_text_kind": "sleep",
+      "color": "#A9E8FF",
+      "lines": [
+        "温暖的床",
+        "安静的夜晚"
+      ],
+      "weight": 20
+    },
+    {
+      "trigger": "ambient.sleep_murmur",
+      "text": "成熟的小麦",
+      "world_text_kind": "sleep",
+      "color": "#A9E8FF",
+      "professions": [
+        "farmer"
+      ]
+    },
+    {
+      "trigger": "ambient.sleep_murmur",
+      "text": "新鲜的墨水",
+      "world_text_kind": "sleep",
+      "color": "#A9E8FF",
+      "professions": [
+        "librarian"
+      ]
+    },
+    {
+      "trigger": "trade.completed",
+      "text": "一种乐趣",
+      "world_text_kind": "trade",
+      "color": "#6BFFB4",
+      "reputation_levels": [
+        "royalty",
+        "revered"
+      ]
+    },
+    {
+      "trigger": "trade.completed",
+      "text": "良好的贸易",
+      "world_text_kind": "trade",
+      "color": "#6BFFB4",
+      "reputation_levels": [
+        "respected",
+        "trusted",
+        "neutral"
+      ]
+    },
+    {
+      "trigger": "trade.completed",
+      "text": "快点",
+      "world_text_kind": "trade",
+      "reputation_levels": [
+        "suspicious",
+        "hostile",
+        "despised"
+      ]
+    },
+    {
+      "trigger": "trade.completed",
+      "text": "请走",
+      "world_text_kind": "trade",
+      "reputation_levels": [
+        "feared"
+      ]
+    },
+    {
+      "trigger": "trade.refused",
+      "text": "没有交易",
+      "world_text_kind": "negative",
+      "color": "red"
+    },
+    {
+      "trigger": "dialogue.cooldown",
+      "text": "又来了？",
+      "world_text_kind": "negative",
+      "color": "red"
+    },
+    {
+      "trigger": "dialogue.greeting",
+      "text": "你好",
+      "world_text_kind": "dialogue",
+      "color": "#D7C7FF"
+    },
+    {
+      "trigger": "dialogue.question",
+      "text": "关于那个",
+      "world_text_kind": "dialogue",
+      "color": "#D7C7FF"
+    },
+    {
+      "trigger": "dialogue.joke.positive",
+      "text": "呵呵",
+      "world_text_kind": "positive",
+      "color": "green"
+    },
+    {
+      "trigger": "dialogue.insult.negative",
+      "text": "真的吗？",
+      "world_text_kind": "negative",
+      "color": "red"
+    },
+    {
+      "trigger": "gift.high_reputation",
+      "text": "为你",
+      "world_text_kind": "positive",
+      "color": "green"
+    },
+    {
+      "trigger": "gift.world.liked",
+      "text": "谢谢你",
+      "world_text_kind": "positive",
+      "color": "green"
+    },
+    {
+      "trigger": "gift.world.neutral",
+      "text": "谢谢",
+      "world_text_kind": "dialogue",
+      "color": "#D7C7FF"
+    },
+    {
+      "trigger": "gift.world.disliked",
+      "text": "不，谢谢",
+      "world_text_kind": "negative",
+      "color": "red"
+    },
+    {
+      "trigger": "combat.retaliation_started",
+      "world_text_kind": "alert",
+      "color": "#FFD166",
+      "requires_villager_armed": true,
+      "chance": 0.725375,
+      "lines": [
+        "退后！",
+        "抓住他们！",
+        "去死吧，{target}！"
+      ],
+      "weight": 42
+    },
+    {
+      "trigger": "combat.retaliation_started",
+      "text": "又是你，{player}？",
+      "world_text_kind": "alert",
+      "color": "#FFD166",
+      "requires_villager_armed": true,
+      "target_entity_types": [
+        "minecraft:player"
+      ],
+      "chance": 0.35,
+      "weight": 8
+    },
+    {
+      "trigger": "combat.retaliation_started",
+      "world_text_kind": "alert",
+      "color": "#FFD166",
+      "requires_villager_unarmed": true,
+      "target_entity_types": [
+        "minecraft:pillager",
+        "minecraft:vindicator",
+        "minecraft:evoker",
+        "minecraft:ravager",
+        "minecraft:witch",
+        "minecraft:zombie",
+        "minecraft:zombie_villager",
+        "minecraft:husk",
+        "minecraft:drowned",
+        "minecraft:skeleton",
+        "minecraft:stray",
+        "minecraft:wither_skeleton",
+        "minecraft:bogged",
+        "minecraft:phantom",
+        "minecraft:creeper",
+        "minecraft:spider",
+        "minecraft:cave_spider",
+        "minecraft:slime",
+        "minecraft:magma_cube",
+        "minecraft:enderman"
+      ],
+      "chance": 0.725375,
+      "lines": [
+        "帮助！ {target_article}来了！",
+        "我需要帮助！",
+        "钟！敲响警钟！"
+      ],
+      "weight": 48
+    },
+    {
+      "trigger": "combat.retaliation_started",
+      "world_text_kind": "alert",
+      "color": "#FFD166",
+      "requires_villager_unarmed": true,
+      "target_entity_types": [
+        "minecraft:player"
+      ],
+      "chance": 0.5775,
+      "lines": [
+        "徒手。还在这里。",
+        "我会记住的。"
+      ],
+      "weight": 24
+    },
+    {
+      "trigger": "combat.flee_started",
+      "world_text_kind": "alert",
+      "color": "#FFD166",
+      "requires_villager_unarmed": true,
+      "target_entity_types": [
+        "minecraft:pillager",
+        "minecraft:vindicator",
+        "minecraft:evoker",
+        "minecraft:ravager",
+        "minecraft:witch",
+        "minecraft:zombie",
+        "minecraft:zombie_villager",
+        "minecraft:husk",
+        "minecraft:drowned",
+        "minecraft:skeleton",
+        "minecraft:stray",
+        "minecraft:wither_skeleton",
+        "minecraft:bogged",
+        "minecraft:phantom",
+        "minecraft:creeper",
+        "minecraft:spider",
+        "minecraft:cave_spider",
+        "minecraft:slime",
+        "minecraft:magma_cube",
+        "minecraft:enderman"
+      ],
+      "chance": 0.725375,
+      "lines": [
+        "帮助！ {target_article}来了！",
+        "我需要帮助！",
+        "钟！敲响警钟！"
+      ],
+      "weight": 48
+    },
+    {
+      "trigger": "combat.attack_landed",
+      "world_text_kind": "alert",
+      "color": "#FFD166",
+      "lines": [
+        "拿那个！",
+        "明白了！",
+        "那是为了村子！"
+      ],
+      "weight": 46
+    },
+    {
+      "trigger": "combat.attack_landed",
+      "text": "退后一步，{player}！",
+      "world_text_kind": "alert",
+      "color": "#FFD166",
+      "target_entity_types": [
+        "minecraft:player"
+      ],
+      "weight": 8
+    },
+    {
+      "trigger": "combat.player_killed",
+      "world_text_kind": "alert",
+      "color": "#FFD166",
+      "lines": [
+        "你被警告过",
+        "趴下，{player}",
+        "够了"
+      ],
+      "weight": 42
+    },
+    {
+      "trigger": "alert.player_attacked_villager",
+      "text": "！",
+      "world_text_kind": "alert",
+      "color": "#FFD166",
+      "show_for_babies": false
+    },
+    {
+      "trigger": "alert.villager_damaged",
+      "text": "！",
+      "world_text_kind": "alert",
+      "color": "#FFD166",
+      "show_for_babies": false
+    },
+    {
+      "id": "baby_attacked_player_ow",
+      "lines": [
+        "噢！",
+        "停止！",
+        "帮助！"
+      ],
+      "trigger": "alert.player_attacked_villager",
+      "world_text_kind": "alert",
+      "color": "#FFD166",
+      "show_for_adults": false,
+      "show_for_babies": true,
+      "weight": 38
+    },
+    {
+      "id": "baby_damaged_ow",
+      "lines": [
+        "噢！",
+        "帮助！",
+        "我要回家！"
+      ],
+      "trigger": "alert.villager_damaged",
+      "world_text_kind": "alert",
+      "color": "#FFD166",
+      "show_for_adults": false,
+      "show_for_babies": true,
+      "weight": 34
+    },
+    {
+      "trigger": "alert.witness_attack.player",
+      "text": "停止！",
+      "world_text_kind": "alert",
+      "color": "#FFD166"
+    },
+    {
+      "trigger": "alert.witness_attack",
+      "text": "危险！",
+      "world_text_kind": "alert",
+      "color": "#FFD166"
+    },
+    {
+      "trigger": "alert.witness_death.player",
+      "text": "谋杀！",
+      "world_text_kind": "alert",
+      "color": "#FFD166",
+      "show_for_babies": false
+    },
+    {
+      "trigger": "alert.witness_death",
+      "text": "钟！",
+      "world_text_kind": "alert",
+      "color": "#FFD166",
+      "show_for_babies": false
+    },
+    {
+      "id": "baby_witness_death_player_no_no",
+      "lines": [
+        "不不不！",
+        "我看见了！",
+        "帮助！",
+        "跑步！"
+      ],
+      "trigger": "alert.witness_death.player",
+      "world_text_kind": "alert",
+      "color": "#FFD166",
+      "show_for_adults": false,
+      "show_for_babies": true,
+      "weight": 48
+    },
+    {
+      "id": "baby_witness_death_no_no",
+      "lines": [
+        "不不不！",
+        "大人们在哪里？",
+        "隐藏！",
+        "帮助！"
+      ],
+      "trigger": "alert.witness_death",
+      "world_text_kind": "alert",
+      "color": "#FFD166",
+      "show_for_adults": false,
+      "show_for_babies": true,
+      "weight": 46
+    }
+  ]
+}

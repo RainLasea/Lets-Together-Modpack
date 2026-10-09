@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "dismantled_item": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "dismantled_item"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

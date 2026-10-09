@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "huge_brown_mushroom": {
+      "trigger": "minecraft:impossible"
+    },
+    "huge_red_mushroom": {
+      "trigger": "minecraft:impossible"
+    },
+    "huge_crimson_fungus": {
+      "trigger": "minecraft:impossible"
+    },
+    "huge_warped_fungus": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "huge_brown_mushroom"
+    ],
+    [
+      "huge_red_mushroom"
+    ],
+    [
+      "huge_crimson_fungus"
+    ],
+    [
+      "huge_warped_fungus"
+    ]
+  ],
+  "sends_telemetry_event": false
+}
